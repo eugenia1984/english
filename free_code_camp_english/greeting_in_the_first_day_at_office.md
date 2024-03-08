@@ -9,11 +9,16 @@ What you will find?
 -Questions tags
 -Roles
 -Agreeing or saying yes to what is said
-- Verb to Be: I'm
+-Verb to Be: I'm
 -Ask opinion
 -Highlight difference
 -Express feelings or opinions
 -I like it here 
+-Desk, drawing tablet and workspace
+-Everything looks great
+-Articles: a, an, the
+-Where are you from?
+-Demonstrative pronoun: this, those
 ```
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Example:
@@ -144,6 +149,128 @@ The phrase `I like it here` is commonly used to express positive feelings about 
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+When someone wants to guide or direct another person somewhere, they can use `let me show you to your [place]`, place being the destination.  It expresses the speaker's intention to demonstrate or direct something to the listener.
+
+
+Example: Great! Let me show you to your desk
+
+The phrase **let me show you** can be used **to direct attention and introduce something**. For example: ``This is the main office area. Let me show you to the conference room.``
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Desk, drawing tablet and workspace
+
+A `desk` is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
+
+A `drawing tablet` is a tool that people use with computers to draw or design things.
+
+The term `workspace` is often used to describe the area where someone works, especially in an office environment.
+
+-> Describing objects or places with their characteristics or things related to them helps the listener to identify them easily. Example: `The desk with a drawing tablet and a computer`
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Everything looks great
+
+Expressing satisfaction or contentment in English can be done using various expressions. `Everything looks great` is one way to show that you are pleased or satisfied with something.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+When expressing gratitude, we sometimes mention the action for which we are thankful. Here, Tom is specifically thanking Maria for something she did. example: `Thanks for show me around the place. Maria.`
+
+---
+---
+
+## Example 2
+
+```
+Tom: Hi, there. I'm Tom. I'm the new graphic designer.
+
+Sophie: Oh! Hi Tom, Im Sophie I'm a developer.
+Where are you from, Tom?
+
+Tom: I'm from Texas? How about you?
+
+Sophie: I'm from here, in California.
+Welcome aboard.
+
+Tom: Thanks, everyone it's so nice around here.
+Hey, this is one of this standing desk? These are great!
+It's good to be standing up a little, instead of being sitting all day.
+
+Sophie: That's so true. I'm a bit inactive, sitting all the time.
+But hey, now your desk is just like my desk. You're in luck.
+
+Tom: Oh, awesome. My computer and drawing tablet are great, too.
+
+Sophie: Yeah. At this company, they're very attentive to this details.
+You're going t to like it here if you are into cutting-edge gadgets.
+
+Tom: This is so cool, a standing desk, an ergonomic chair and an ergonomic mouse.
+
+Sophie: So nice to have someone so energetic like you int eh team.
+Are you ready to begin?
+
+Tom:  Yes, I sure am!
+```
+
+-> When greeting someone casually or for the first time, `Hi, there` is a friendly way to say hello. It's often used in informal situations or to greet someone you might not know very well.
+
+
+-> Using the correct articles (**a**, **an**, **the**) is crucial in English. Here, Tom is introducing himself and specifying his role at the new place. `I'm the new graphic designer` or `I'm a Developer`. Using **a** or **an** before a title indicates that the role isn't unique and there might be others with the same title.
+
+
+### Articles : a, an the
+
+Identify how articles change the context of a sentence. Articles, like **the** and **a**, can change the meaning of a sentence. 
+
+- **The** talks about something specific. 
+
+- **A** talks about something in general.
+
+For Example: `Tom is a graphic designer in our company` means there are many graphic designers and Tom is one of them. `Tom is the graphic designer of our company` means there is only one person in the company matching this description (that's Tom).
+
+Notice that, after `graphic designer`, there are details that made the situation more specific. In this company, there's only one person that could fit the profile - Tom.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Where are you from?
+
+When you want to know about someone's origin or the place they grew up, you can ask `Where are you from?`. This question is a common way to know more about a person's background.
+
+
+When you want to share where you were born or where you grew up, you can state your origin using `I'm from [place of origin]`. `place of origin` is where you are from. After sharing your own origin, you can ask someone else about theirs with `How about you?`
+
+
+`I'm from...` is a standard way to indicate where someone is originally from, be it a city, country, or any other place of origin.
+
+When someone asks you about your origin or where you are from, you can mention a specific place. If you are currently in the same location or state you're from, you can use `here` to indicate your current location or place.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Everybody
+
+When you want to talk about all the people in a particular group without exceptions, you use the word `everybody`. When combined with `is`, it means all the people in the group possess a particular characteristic. Here, Tom is saying all the people he met at the office are nice.
+
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Demonstrative pronoun: this, those
+
+In conversations, people often refer to objects around them using demonstrative pronouns like `this` and `those`. Example: `Hey, is this one of those standing desks?`
+
+The demonstrative pronoun **this** is used to refer to a singular noun that is close to the speaker, both in terms of distance and in terms of the topic of conversation. It can refer to both tangible objects and intangible ideas or situations.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
 
