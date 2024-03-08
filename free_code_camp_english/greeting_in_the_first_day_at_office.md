@@ -18,10 +18,12 @@ What you will find?
 -Everything looks great
 -Articles: a, an, the
 -Where are you from?
--Demonstrative pronoun: this, those
+-Demonstrative pronoun: this, those, that
+-Agreement
+-Possession(your, my)
 ```
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Example:
+#  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> DIALOG 1:
 
 ```
 Mary: Hello! You're the new graphic designer, right? 
@@ -47,9 +49,7 @@ Tom: Thanks for showing me around the place, Maria.
 -> The expression `Welcome aboard` is used to greet someone who has just joined a group, team, or organization. It's a warm way of saying `"We're glad you're here with us now"`.
 
 
--> When talking about preferences or feelings towards something, the phrase `I like it` is often used. Tom uses this phrase to express his positive feelings towards California.
-
--> When expressing a positive feeling about a place, one might use the phrase `I like it here`.
+-> When talking about preferences or feelings towards something, the phrase `I like it` is often used. Tom uses this phrase to express his positive feelings towards California. When expressing a positive feeling about a place, one might use the phrase `I like it here`.
 
 ---
 
@@ -184,7 +184,7 @@ When expressing gratitude, we sometimes mention the action for which we are than
 ---
 ---
 
-## Example 2
+# DIALOG 2
 
 ```
 Tom: Hi, there. I'm Tom. I'm the new graphic designer.
@@ -222,6 +222,16 @@ Tom:  Yes, I sure am!
 
 -> Using the correct articles (**a**, **an**, **the**) is crucial in English. Here, Tom is introducing himself and specifying his role at the new place. `I'm the new graphic designer` or `I'm a Developer`. Using **a** or **an** before a title indicates that the role isn't unique and there might be others with the same title.
 
+-> **Stand up** refers to the action of rising from a sitting position, while **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
+
+-> The word **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
+
+-> **You're in luck** it expresses that someone is fortunate or has good luck in a situation
+
+-> **Awesome** is a word people use when they really like something. It's like saying very good! 
+
+-> When someone says **too** at the end of a sentence, they mean also or as well
+
 
 ### Articles : a, an the
 
@@ -258,15 +268,41 @@ When you want to talk about all the people in a particular group without excepti
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Demonstrative pronoun: this, those
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Demonstrative pronoun: this, those, that
 
 In conversations, people often refer to objects around them using demonstrative pronouns like `this` and `those`. Example: `Hey, is this one of those standing desks?`
 
 The demonstrative pronoun **this** is used to refer to a singular noun that is close to the speaker, both in terms of distance and in terms of the topic of conversation. It can refer to both tangible objects and intangible ideas or situations.
 
+The demonstrative pronoun **those** refers to plural nouns that are further away from the speaker in terms of distance or not currently being handled or discussed.
+
+-> **this** is for singular items close to you, and **those** is for plural items further away or not the main topic of discussion.
+
+The word `that` points to something a bit far from you. Imagine you're in a shop looking at gadgets.
+
+-> Use **this** for something close and **that** for something a bit far.
+
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Agreement
+
+When you want to express agreement or affirmation to what someone has just said, you can use phrases like `That's so true` or `That is true`. It's a way to show you are in alignment with the previous statement.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Possession: your and my
+
+Words like `your` and` my` are used to show possession. Your refers to something belonging to the person you are speaking to, while my refers to something that belongs to you.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> They
+
+The pronoun `they` is often used to refer to a group of people or entities. In this context, `they` refers to the people responsible within the company. 
+
+`Are` is the verb to be conjugated to agree with the plural pronoun they.
+
+In English, the pronoun they is used for multiple people or things. When talking about the present, they is often paired with ar
 
 ---
 
