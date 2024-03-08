@@ -2,9 +2,9 @@
 
 Here you will find some English Grammar, practices and tips, very useful if you are a developer
 
-## What you will find?
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will find?
 
-- FreeCodeCamp: English for Developers
+- [FreeCodeCamp: English for Developers](https://github.com/eugenia1984/english/tree/main/free_code_camp_english)
 
 ---
 

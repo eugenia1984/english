@@ -1,4 +1,4 @@
-# 1 - Greeting in the First Day at Office
+#  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 1 - Greeting in the First Day at Office
 
 What you will find?
 
@@ -10,7 +10,7 @@ What you will find?
 -Roles
 ```
 
-## Example:
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Example:
 
 ```
 Mary: Hello! You're the new graphic designer, right? 
@@ -32,7 +32,7 @@ Tom: Thanks for showing me around the place, Maria.
 
 ---
 
-## Contractions
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Contractions
 
 In English, **contractions** are commonly used to make speech sound more natural and fluent. 
 
@@ -44,7 +44,7 @@ Are is used here in the present affirmative to make a statement or ask a questio
 
 ---
 
-## Questions tags
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Questions tags
 
 In English, to check or confirm something people sometimes use **questions tag**. 
 
@@ -52,7 +52,7 @@ For example, `You're a programmer, right?` Here, **right?** is used as a tag to 
 
 ---
 
-## Roles
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Roles
 
 In English, we often mention our job or role in a company by saying:
 
