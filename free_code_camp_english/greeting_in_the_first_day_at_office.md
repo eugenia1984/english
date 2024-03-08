@@ -8,6 +8,8 @@ What you will find?
 -Contractions
 -Questions tags
 -Roles
+-Agreeing or saying yes to what is said
+- Verb to Be: I'm
 ```
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Example:
@@ -29,6 +31,10 @@ That's your workspace.
 
 Tom: Thanks for showing me around the place, Maria.
 ```
+
+-> Expressions like `It's a pleasure to meet you` are commonly used when meeting someone for the first time as a polite way to greet someone.
+
+-> The expression `Welcome aboard` is used to greet someone who has just joined a group, team, or organization. It's a warm way of saying `"We're glad you're here with us now"`.
 
 ---
 
@@ -75,3 +81,48 @@ This lets others know our position or role.
 ... tester
 
 ---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> agreeing or saying yes to what is said
+
+When someone makes a correct assumption or guess about you, you can confirm it using phrases like: `that's right`.
+
+It's a way of agreeing or saying yes to what is said.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Verb to be: I'm 
+
+In English, the verb to be is used to talk about identities, characteristics, and more.
+
+The contraction `I'm` is a combination of **I** and **am**. 
+
+Contractions are a way to shorten common combinations of words, especially with verbs.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
