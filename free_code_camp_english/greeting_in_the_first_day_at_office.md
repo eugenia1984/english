@@ -10,6 +10,10 @@ What you will find?
 -Roles
 -Agreeing or saying yes to what is said
 - Verb to Be: I'm
+-Ask opinion
+-Highlight difference
+-Express feelings or opinions
+-I like it here 
 ```
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Example:
@@ -21,7 +25,8 @@ I'm Maria, the team lead.
 Tom: Hi, that's right! I'm Tom McKenzie. 
 It's a pleasure to meet you.
 
-Mary: I like it. It's different from T
+Mary: Welcome aboard Tom.
+How do you like California so far?
 
 Tom: I like it. It's different from Texas.
 
@@ -35,6 +40,11 @@ Tom: Thanks for showing me around the place, Maria.
 -> Expressions like `It's a pleasure to meet you` are commonly used when meeting someone for the first time as a polite way to greet someone.
 
 -> The expression `Welcome aboard` is used to greet someone who has just joined a group, team, or organization. It's a warm way of saying `"We're glad you're here with us now"`.
+
+
+-> When talking about preferences or feelings towards something, the phrase `I like it` is often used. Tom uses this phrase to express his positive feelings towards California.
+
+-> When expressing a positive feeling about a place, one might use the phrase `I like it here`.
 
 ---
 
@@ -90,10 +100,6 @@ It's a way of agreeing or saying yes to what is said.
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
-
----
-
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Verb to be: I'm 
 
 In English, the verb to be is used to talk about identities, characteristics, and more.
@@ -104,7 +110,36 @@ Contractions are a way to shorten common combinations of words, especially with 
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Ask opinion
+
+
+`Welcome aboard Tom. How do you like California so far?`
+
+When you want to ask someone for their opinion or feelings about something, especially a place or an experience, you can use the phrase How do you like.
+
+-> The phrase so far is used in English to indicate the time up to the present moment or up to a certain point. Maria is asking Tom about his feelings or impressions of California from the time he arrived up until now.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Highlight difference
+
+Tom is comparing his experience in California to his previous experience in Texas. When you want to highlight differences between two things, you can use the phrase `different from`. It helps to describe how one thing is not the same as another.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Express feelings or opinions
+
+In the dialogue, Tom uses `It's` as a contraction of **It** and **is**. This contraction is often used in spoken English to express feelings or opinions about something. You'll learn more about it in the next challenge.
+
+Instead of saying California is different from Texas, Tom says: `It's different from Texas`. Tom uses It's as a contraction of It and is. In this context, It refers to California.
+
+When talking about places or things, especially when comparing or describing them, `it's`  serves as a subject and verb starter for the sentence.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I like it here 
+
+The phrase `I like it here` is commonly used to express positive feelings about a current location or environment. When someone says this, they are often commenting on their general comfort, happiness, or satisfaction with the place they are in. In this dialogue, Tom is emphasizing his contentment in California, despite it being different from Texas.
 
 ---
 
@@ -114,6 +149,9 @@ Contractions are a way to shorten common combinations of words, especially with 
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
 
@@ -121,8 +159,6 @@ Contractions are a way to shorten common combinations of words, especially with 
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
-
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
