@@ -6,6 +6,8 @@ Here you will find some English Grammar, practices and tips, very useful if you 
 
 - [FreeCodeCamp: English for Developers](https://github.com/eugenia1984/english/tree/main/free_code_camp_english)
 
+- [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
+
 ---
 
 ## Please: 🎁

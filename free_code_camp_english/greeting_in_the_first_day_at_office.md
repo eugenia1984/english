@@ -222,7 +222,6 @@ Tom:  Yes, I sure am!
 
 -> Using the correct articles (**a**, **an**, **the**) is crucial in English. Here, Tom is introducing himself and specifying his role at the new place. `I'm the new graphic designer` or `I'm a Developer`. Using **a** or **an** before a title indicates that the role isn't unique and there might be others with the same title.
 
--> **Stand up** refers to the action of rising from a sitting position, while **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
 -> The word **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
@@ -314,7 +313,7 @@ It can be used to direct attention and introduce something. For example: ``This 
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
 
