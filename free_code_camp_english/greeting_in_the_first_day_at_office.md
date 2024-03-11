@@ -306,7 +306,11 @@ In English, the pronoun they is used for multiple people or things. When talking
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> let me show you to your [place]
+
+When someone wants to guide or direct another person somewhere, they can use `let me show you to your [place]`, `place` being the destination. It is an offer of assistance or guidance. It expresses the speaker's intention to demonstrate or direct something to the listener.
+
+It can be used to direct attention and introduce something. For example: ``This is the main office area. Let me show you to the conference room.``
 
 ---
 
