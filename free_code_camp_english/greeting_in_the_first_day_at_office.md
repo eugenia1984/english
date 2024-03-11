@@ -222,12 +222,7 @@ Tom:  Yes, I sure am!
 
 -> Using the correct articles (**a**, **an**, **the**) is crucial in English. Here, Tom is introducing himself and specifying his role at the new place. `I'm the new graphic designer` or `I'm a Developer`. Using **a** or **an** before a title indicates that the role isn't unique and there might be others with the same title.
 
-
--> The word **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
-
 -> **You're in luck** it expresses that someone is fortunate or has good luck in a situation
-
--> **Awesome** is a word people use when they really like something. It's like saying very good! 
 
 -> When someone says **too** at the end of a sentence, they mean also or as well
 
