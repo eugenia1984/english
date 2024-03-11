@@ -192,6 +192,8 @@ Identify how articles change the context of a sentence. Articles, like **the** a
 
 - **A** talks about something in general.
 
+The articles **a** and **an** are both used to indicate a singular, non-specific noun. The choice between them depends on the sound that follows. If the next word begins with a consonant sound, we use **a**. If it starts with a vowel sound, we use **an**. -> n English, a and an are indefinite articles. A is used before words that begin with a consonant sound, and an is used before words that begin with a vowel sound.
+
 For Example: `Tom is a graphic designer in our company` means there are many graphic designers and Tom is one of them. `Tom is the graphic designer of our company` means there is only one person in the company matching this description (that's Tom).
 
 Notice that, after `graphic designer`, there are details that made the situation more specific. In this company, there's only one person that could fit the profile - Tom.

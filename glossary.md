@@ -27,7 +27,9 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> E
 
-- **Ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
+- **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
+
+- **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
 
 ---
 
@@ -46,6 +48,9 @@
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  S
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
+
+- **someone**: is used to refer to an unspecified individual or person without specifying exactly who.
+
 
 - **stand up** refers to the action of rising from a sitting position
 
