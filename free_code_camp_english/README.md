@@ -57,5 +57,32 @@ Are you ready to begin?
 
 Tom:  Yes, I sure am!
 ```
+
+- Dialog 3:
+
+```
+Tom: Wow, I'm so hungry. Is it lunch time?
+
+Sophie: Yes, it' s.
+
+Tom: Are you eating here or are you going out?
+
+Sophie: Today, I'm going out.
+I can show you some places around here. Are you interested?
+
+Tom: Of course. Any favorite lunch spot around here, Sophie?
+
+Sophie: I know a nice one. It's a café, right down the street.
+Is that OK for you?
+
+Tom: Sounds great!
+
+Sophie: Yes, it's nice to have a break from the office.
+
+Tom: It is. Is the café within walking distance?
+
+Sophie: Well, is not so far.Come on, we can go together.
+```
+
 ---
 
