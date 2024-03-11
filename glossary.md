@@ -2,7 +2,17 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
+- **attentive**: means paying careful attention or listening carefully.
+
 -  **awesome** is a word people use when they really like something. It's like saying very good!
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> C
+
+- **cutting-edge**: refers to the most advanced stage of development of something.
+
+- **cutting-edge gadgets**: are the latest and most advanced tools or devices.
 
 ---
 
@@ -11,6 +21,19 @@
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
 
 - **drawing tablet**: is a tool that people use with computers to draw or design things.
+
+---
+
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> E
+
+- **Ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  G
+
+- **gadgets**: are small tools or devices with a particular function.
 
 ---
 

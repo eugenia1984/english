@@ -21,28 +21,15 @@ What you will find?
 -Demonstrative pronoun: this, those, that
 -Agreement
 -Possession(your, my)
+-They're, their, and there
+-You are into...
 ```
+
+---
+---
 
 #  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> DIALOG 1:
 
-```
-Mary: Hello! You're the new graphic designer, right? 
-I'm Maria, the team lead.
-
-Tom: Hi, that's right! I'm Tom McKenzie. 
-It's a pleasure to meet you.
-
-Mary: Welcome aboard Tom.
-How do you like California so far?
-
-Tom: I like it. It's different from Texas.
-
-Mary: Great! Let me show you to your desk. 
-Do you see the desk with a drawing tablet and a computer? 
-That's your workspace.
-
-Tom: Thanks for showing me around the place, Maria.
-```
 
 -> Expressions like `It's a pleasure to meet you` are commonly used when meeting someone for the first time as a polite way to greet someone.
 
@@ -186,36 +173,6 @@ When expressing gratitude, we sometimes mention the action for which we are than
 
 # DIALOG 2
 
-```
-Tom: Hi, there. I'm Tom. I'm the new graphic designer.
-
-Sophie: Oh! Hi Tom, Im Sophie I'm a developer.
-Where are you from, Tom?
-
-Tom: I'm from Texas? How about you?
-
-Sophie: I'm from here, in California.
-Welcome aboard.
-
-Tom: Thanks, everyone it's so nice around here.
-Hey, this is one of this standing desk? These are great!
-It's good to be standing up a little, instead of being sitting all day.
-
-Sophie: That's so true. I'm a bit inactive, sitting all the time.
-But hey, now your desk is just like my desk. You're in luck.
-
-Tom: Oh, awesome. My computer and drawing tablet are great, too.
-
-Sophie: Yeah. At this company, they're very attentive to this details.
-You're going t to like it here if you are into cutting-edge gadgets.
-
-Tom: This is so cool, a standing desk, an ergonomic chair and an ergonomic mouse.
-
-Sophie: So nice to have someone so energetic like you int eh team.
-Are you ready to begin?
-
-Tom:  Yes, I sure am!
-```
 
 -> When greeting someone casually or for the first time, `Hi, there` is a friendly way to say hello. It's often used in informal situations or to greet someone you might not know very well.
 
@@ -308,11 +265,18 @@ It can be used to direct attention and introduce something. For example: ``This 
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> They're, their, and there
+
+They're, their, and there sound similar but have different meanings. **They're** is a contraction of they are, **their** is a possessive pronoun of they, and **there** refers to a place or introduces a sentence or clause.
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> you are into ...
+
+The phrase `you are into` is an informal way to say that someone really likes something or is interested in a particular activity or topic.
+
+
+When you want to say that you have a strong interest in something, you can use the phrase `I am into it`. This phrase shows what someone likes or enjoys.
 
 ---
 
