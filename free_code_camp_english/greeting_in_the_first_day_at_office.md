@@ -23,6 +23,7 @@ What you will find?
 -Possession(your, my)
 -They're, their, and there
 -You are into...
+-Meals
 ```
 
 ---
@@ -281,8 +282,19 @@ The phrase `you are into` is an informal way to say that someone really likes so
 When you want to say that you have a strong interest in something, you can use the phrase `I am into it`. This phrase shows what someone likes or enjoys.
 
 ---
+---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## DIALOG 3
+
+-> When you're **very hungry**, you can emphasize this feeling by using the word **so** before **hungry**. This way, you're expressing a stronger emotion or feeling about how hungry you are. Ex.: ``Wow, I'm so hungry.``
+
+
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Meals
+
+In English, the three main meals of the day are breakfast, lunch, and dinner. **Breakfast** is typically eaten in the morning, **lunch** is around midday, and **dinner** is in the evening.
+
+
 
 ---
 
