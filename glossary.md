@@ -27,6 +27,8 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> E
 
+- **eating here**: means stay and eat at the office.
+
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
@@ -36,6 +38,8 @@
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  G
 
 - **gadgets**: are small tools or devices with a particular function.
+
+- **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating. 
 
 ---
 
