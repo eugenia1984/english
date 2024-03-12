@@ -58,14 +58,21 @@
 
 ---
 
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
+
+- **places around here** refers to locations in the nearby vicinity or area.
+
+---
+
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  S
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
+- **stand up** refers to the action of rising from a sitting position.
+
+- **some** is often used to indicate an unspecified amount or number. In this context, there isn't a specific number of places 
+
 - **someone**: is used to refer to an unspecified individual or person without specifying exactly who.
-
-
-- **stand up** refers to the action of rising from a sitting position
 
 ---
 
