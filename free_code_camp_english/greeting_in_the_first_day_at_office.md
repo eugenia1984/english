@@ -23,6 +23,7 @@ What you will find?
 -They're, their, and there
 -You are into...
 -Meals
+-Actions or plans
 ```
 
 ---
@@ -272,14 +273,13 @@ The phrase `you are into` is an informal way to say that someone really likes so
 When you want to say that you have a strong interest in something, you can use the phrase `I am into it`. This phrase shows what someone likes or enjoys.
 
 ---
-
 ---
 
 ## DIALOG 3
 
 -> When you're **very hungry**, you can emphasize this feeling by using the word **so** before **hungry**. This way, you're expressing a stronger emotion or feeling about how hungry you are. Ex.: `Wow, I'm so hungry.`
 
--> The pronoun **it** is often used in English to talk about the weather, the time, dates, and distances. In this context, it refers to a specific time of the day, lunch time. To ask a question using **it is**, you change the order. Instead of it is, you say **is it**. This is how you turn a statement into a question in English.
+-> The pronoun **it** is often used in English to talk about the weather, the time, dates, and distances. In this context, it refers to a specific time of the day, lunch time. To ask a question using **it is**, you change the order. Instead of it is, you say **is it**. This is how you turn a statement into a question in English. If a person asks you a direct question using is it. For example: `Is it true?` You can reply to this question with these short answers: `Yes, it is`. For affirmative. `No, it is not` or `No, it isn't`. For negative.
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Meals
 
@@ -287,7 +287,9 @@ In English, the three main meals of the day are breakfast, lunch, and dinner. **
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Actions or plans
+
+To ask about someone's actions or plans in the present with the verb to be, you can use the structure are you at the beginning of the question. This combination of verb (**are**) and subject (**you**) helps form questions in the present simple tense.
 
 ---
 
