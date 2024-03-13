@@ -84,5 +84,25 @@ Tom: It is. Is the café within walking distance?
 Sophie: Well, is not so far.Come on, we can go together.
 ```
 
+- Dialog 4:
+
+```
+Sophie: Oh, look who's here! Hey, Brian! How is everything?
+
+Brian: Sophie! Great to see you here.
+
+Sophie: You, too. Brian, let me introduce you to Tom.
+
+Brian, this is Tom. He's our new graphic designer and he is from Texas.
+Tom, this is Brian. He's a web developer.
+
+Brian: It's a pleasure to meet you Tom.
+Sophie is a great workmate. She's very kind and helpful.
+
+Sophie: Oh, c' mon on Brain.
+
+Brian: But it's true, she is the person to go to if you need help.
+```
+
 ---
 
