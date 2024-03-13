@@ -12,8 +12,9 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> C
 
-- **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
+- **café** is a place where you can buy and drink coffee, often with light meals and snacks.
 
+- **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
 
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
