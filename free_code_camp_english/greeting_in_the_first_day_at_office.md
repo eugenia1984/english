@@ -285,6 +285,10 @@ When you want to say that you have a strong interest in something, you can use t
 
 -> Is that ok for you? is used to ask if someone agrees with or accepts a suggestion or situation.
 
+-> When someone says `Sounds great!`, they are expressing agreement or enthusiasm about what has been said.
+
+-> If a place is ``within walking distance``, it means it's close enough to reach by walking and you don't need to use a vehicle.
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Meals
 
 In English, the three main meals of the day are breakfast, lunch, and dinner. **Breakfast** is typically eaten in the morning, **lunch** is around midday, and **dinner** is in the evening.
@@ -297,7 +301,9 @@ To ask about someone's actions or plans in the present with the verb to be, you 
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> It's not
+
+You can use **it is not** to make negative statements in the present simple. It negates or says something isn't a certain way. It's is a contraction of it and is.
 
 ---
 
