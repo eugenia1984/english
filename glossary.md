@@ -26,6 +26,8 @@
 
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
 
+- **down the street**: means further along the street or a short distance away on the same street.
+
 - **drawing tablet**: is a tool that people use with computers to draw or design things.
 
 ---

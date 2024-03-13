@@ -283,6 +283,7 @@ When you want to say that you have a strong interest in something, you can use t
 
 -> In questions, any is often used to inquire if there is at least one of something.
 
+-> Is that ok for you? is used to ask if someone agrees with or accepts a suggestion or situation.
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Meals
 
