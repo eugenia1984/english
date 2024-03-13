@@ -273,6 +273,7 @@ The phrase `you are into` is an informal way to say that someone really likes so
 When you want to say that you have a strong interest in something, you can use the phrase `I am into it`. This phrase shows what someone likes or enjoys.
 
 ---
+
 ---
 
 ## DIALOG 3
@@ -287,7 +288,7 @@ When you want to say that you have a strong interest in something, you can use t
 
 -> When someone says `Sounds great!`, they are expressing agreement or enthusiasm about what has been said.
 
--> If a place is ``within walking distance``, it means it's close enough to reach by walking and you don't need to use a vehicle.
+-> If a place is `within walking distance`, it means it's close enough to reach by walking and you don't need to use a vehicle.
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Meals
 
@@ -306,6 +307,15 @@ To ask about someone's actions or plans in the present with the verb to be, you 
 You can use **it is not** to make negative statements in the present simple. It negates or says something isn't a certain way. It's is a contraction of it and is.
 
 ---
+
+---
+
+## DIALOG 4
+
+-> `How is everything?` is a way to ask someone how they are and how things are going in their life.
+
+-> When you want to present one person to another, you can use the phrase: `let me introduce you to [name]` (name being the person's name). For example: Let me introduce you to Daniel.
+
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 

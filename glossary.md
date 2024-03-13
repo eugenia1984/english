@@ -73,6 +73,12 @@
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
+
+- **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
+
+---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> O
 
 - **of course** is a phrase used to express strong agreement or to indicate that something is obvious.
