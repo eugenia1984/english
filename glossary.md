@@ -40,6 +40,12 @@
 
 ---
 
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
+
+- **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
+
+---
+
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  G
 
 - **gadgets**: are small tools or devices with a particular function.

@@ -281,6 +281,9 @@ When you want to say that you have a strong interest in something, you can use t
 
 -> The pronoun **it** is often used in English to talk about the weather, the time, dates, and distances. In this context, it refers to a specific time of the day, lunch time. To ask a question using **it is**, you change the order. Instead of it is, you say **is it**. This is how you turn a statement into a question in English. If a person asks you a direct question using is it. For example: `Is it true?` You can reply to this question with these short answers: `Yes, it is`. For affirmative. `No, it is not` or `No, it isn't`. For negative.
 
+-> In questions, any is often used to inquire if there is at least one of something.
+
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Meals
 
 In English, the three main meals of the day are breakfast, lunch, and dinner. **Breakfast** is typically eaten in the morning, **lunch** is around midday, and **dinner** is in the evening.
