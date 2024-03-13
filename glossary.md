@@ -2,6 +2,8 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
+- **are you interested?** is a way of asking someone if they want to know more or participate in something.
+
 - **attentive**: means paying careful attention or listening carefully.
 
 -  **awesome** is a word people use when they really like something. It's like saying very good!
@@ -55,6 +57,12 @@
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> O
+
+- **of course** is a phrase used to express strong agreement or to indicate that something is obvious.
 
 ---
 
