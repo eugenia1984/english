@@ -23,7 +23,7 @@
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
 - **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. 
-We contribute our technical skills to develop the app.
+We contribute our technical skills to develop the app. **contributing** involves adding something to a project, 
 
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
@@ -162,6 +162,8 @@ We contribute our technical skills to develop the app.
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  T
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
+
+- **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
 
 ---
 
