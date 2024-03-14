@@ -22,6 +22,9 @@
 
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
+- **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. 
+We contribute our technical skills to develop the app.
+
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.
@@ -107,6 +110,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
 
+- **large**: means big, usually with many employees or a lot of money. For instance, He got a job at a large corporation.
+
 - **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
 
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
@@ -139,6 +144,8 @@
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
+
+- **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
 
 - **stand up** refers to the action of rising from a sitting position.
 
