@@ -59,6 +59,8 @@
 
 - **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating. 
 
+- **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
+
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
 ---
