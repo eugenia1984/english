@@ -25,6 +25,7 @@ What you will find?
 -Meals
 -Actions or plans
 -Introduce someone
+-Pronoun HE
 ```
 
 ---
@@ -315,14 +316,22 @@ You can use **it is not** to make negative statements in the present simple. It 
 
 -> `How is everything?` is a way to ask someone how they are and how things are going in their life.
 
--> When you want to present one person to another, you can use the phrase: `let me introduce you to [name]` (name being the person's name). For example: Let me introduce you to Daniel.
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Introduce someone
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+When you want to present one person to another, you can use the phrase: `let me introduce you to [name]` (name being the person's name). For example: Let me introduce you to Daniel.
+
+The phrase `this is [name]` is used to present someone in a conversation. name refers to a person's name. It's a simple and direct way to make introductions. For example: Daniel, this is Carol.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Pronoun HE
+
+In English, `he` is a pronoun used to refer to a male person. Pronouns are useful to avoid repetition and make sentences clearer.
+
+Notice this part of the dialogue: `Tom, this is Brian. He's a web developer. Brian, this is Tom. He's our new graphic designer and he is from Texas.`
+
+In the dialogue, after introducing Brian, Sophie uses `he` to talk about Brian's job. Later, she uses `he` again to talk about Tom and his job. By using `he`, Sophie doesn't have to repeat the names Brian and Tom. This is the power of the pronouns.
 
 ---
 
