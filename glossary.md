@@ -18,6 +18,8 @@
 
 - **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
 
+- **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
+
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.

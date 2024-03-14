@@ -109,7 +109,7 @@ Brian: But it's true, she is the person to go to if you need help.
 ```
 Jake: Hey, you're Sarah, right?
 I'm Jake, from Security.
-I'm here to give you your access code.
+I'm here to give you your access card.
 
 Sarah: Thanks Jake, it is contactless?
 
