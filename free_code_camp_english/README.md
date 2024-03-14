@@ -104,5 +104,28 @@ Sophie: Oh, c' mon on Brain.
 Brian: But it's true, she is the person to go to if you need help.
 ```
 
+- Dialog 5:
+
+```
+Jake: Hey, you're Sarah, right?
+I'm Jake, from Security.
+I'm here to give you your access code.
+
+Sarah: Thanks Jake, it is contactless?
+
+Jake: No, it isn't, it's the good-old swipe at the door.
+When you hear the click, it's unlocked, and you can get in or out.
+
+Sarah: Good to know. Thank you!
+
+Jake: Well, it's five o'clock, I guess this is it for your first day.
+How was it?
+
+Sarah: Good, really good. See you tomorrow, then.
+
+Jake: Sure, have a great. See you.
+```
+
+
 ---
 
