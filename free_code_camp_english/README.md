@@ -104,4 +104,19 @@ Dialog 2:
   I'm sure that your experiencie will be a really help to us.
 ```
 
+- Dialogue 2: Introducing the New Junior Developer
+
+```
+- Bob: All right team.
+  This is Alice's first day with us, so please let me introduce you all to her.
+  Well, I'm Bob, your project manager.
+  I'm really happy to see new faces joining the team.
+  This is Sarah, the senior software developer. She's been with the company for five years now, working on several projects.
+  This is John, the database administrator.He's been here for three years. He makes sure that our data is secure and efficient.
+  Finally, this is Linda, our UX/UI Designer. She joined the team last year. She loves creating user-friendly interfaces.
+  Everybody, let's welcome Alice to the team.
+- Alice: Great! Thanks everybody. Well I'm Alice. I'm starting as a junior developer today.
+  I really like learning new things and can't wait contributing to our projects.
+```
+
 ---
