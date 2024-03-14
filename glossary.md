@@ -101,6 +101,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
 
 - **It’s nice to**: is used to express a positive sentiment or feeling about something or someone.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
@@ -165,6 +166,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
+
+- **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 ---
 
