@@ -26,6 +26,7 @@ What you will find?
 -Actions or plans
 -Introduce someone
 -Pronoun HE
+-Verb to be: IS
 ```
 
 ---
@@ -332,6 +333,24 @@ In English, `he` is a pronoun used to refer to a male person. Pronouns are usefu
 Notice this part of the dialogue: `Tom, this is Brian. He's a web developer. Brian, this is Tom. He's our new graphic designer and he is from Texas.`
 
 In the dialogue, after introducing Brian, Sophie uses `he` to talk about Brian's job. Later, she uses `he` again to talk about Tom and his job. By using `he`, Sophie doesn't have to repeat the names Brian and Tom. This is the power of the pronouns.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Verb to be: IS
+
+The verb be has different forms based on the subject. For **third person singular (he, she, it)**, the correct form is **is**.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
 
