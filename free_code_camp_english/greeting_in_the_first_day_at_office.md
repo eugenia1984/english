@@ -28,6 +28,7 @@ What you will find?
 -Pronoun HE
 -Verb to be: IS
 -Something possessive
+-Pronoun SHE
 ```
 
 ---
@@ -354,6 +355,22 @@ The verb be in its different forms (**am, are, is**) is used to describe or iden
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> SOMETHING POSSESSIVE
 
 The general rule for making something possessive in English is to add an apostrophe and the letter **s** (**'s**) to the end. For example, if a desk belongs to Sophie, you say `Sophie's desk`.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> PRONOUN SHE
+
+Just like when you learned about the pronoun `he`, pronouns like **she** are used **to refer to female individuals**. They help avoid repetition in conversation. Look at this part of the dialogue:
+```
+Sophie: Oh, come on, Brian!
+Brian: But it is true. She's the person to go to if you need help!
+```
+
+Here, **She** is used by Brian to refer to Sophie. Instead of repeating Sophie's name, Brian uses the pronoun she to make the conversation smoother and avoid redundancy.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
 

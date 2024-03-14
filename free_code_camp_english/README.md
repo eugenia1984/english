@@ -2,7 +2,7 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will find?
 
-1. [Greeting in the First Day at Office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/greeting_in_the_first_day_at_office.md): contractions, questions tags, roles, agreeing or saying yes to what is said, verb to be: I'm, ask opinion, highlight difference, express feelings or opinions, I like it here, desk, drawing tablet and workspace, everything looks great, articles (a, an, the), where are you from?, demonstrative pronoun (this, those, that), agreement, possession (your, my), they're, their, and there, you are into..., Meals, actions or plans, Introduce someone, pronoun he, verb to be: IS, something possessive
+1. [Greeting in the First Day at Office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/greeting_in_the_first_day_at_office.md): contractions, questions tags, roles, agreeing or saying yes to what is said, verb to be: I'm, ask opinion, highlight difference, express feelings or opinions, I like it here, desk, drawing tablet and workspace, everything looks great, articles (a, an, the), where are you from?, demonstrative pronoun (this, those, that), agreement, possession (your, my), they're, their, and there, you are into..., Meals, actions or plans, Introduce someone, pronoun he, verb to be: IS, something possessive, pronoun SHE
 
 Dialog 1:
 
