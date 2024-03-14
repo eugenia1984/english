@@ -63,6 +63,8 @@
 
 - **have a break**: means to take a short rest or pause from what you are doing.
 
+- **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
+
 - **here** is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
 
 ---
