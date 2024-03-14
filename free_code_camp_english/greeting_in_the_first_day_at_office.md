@@ -386,13 +386,15 @@ In the dialogue, Jake mentions the department he belongs to. People often use te
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> GIVE
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Give something to someone
 
 In the dialogue, Jake says, `I'm here to give you your access card`. **The verb give means to present or hand over something to someone**. It's a crucial action in this context because Jake's main purpose is to hand over the access card to Sarah.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Isn't
+
+Jake provides an answer using it `isn't`, which is a contraction of `it is not`. It's a way to negate or say no to a statement or question. Contractions are a way to combine words for more fluid speech. For example: ``Is the software updated? No, it isn't (it is not) updated.`
 
 ---
 
