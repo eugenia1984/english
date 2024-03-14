@@ -4,6 +4,8 @@
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
+- **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
+
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
 
 - **attentive**: means paying careful attention or listening carefully.
@@ -28,7 +30,11 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> D
 
+- **daily**: means something that happens every day. For example: I read the news daily means I read the news every day. **daily activities**: refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
+
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
+
+- **develop**: means to make or create something, especially something new. For example, someone might develop a new game or a website.
 
 - **down the street**: means further along the street or a short distance away on the same street.
 
@@ -106,6 +112,11 @@
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
 ---
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
+
+- **mobile** means something that can be moved or used on the go, like mobile phones or tablets.
+
+---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> O
 
@@ -118,6 +129,8 @@
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
 
 - **places around here** refers to locations in the nearby vicinity or area.
+
+- **previous job**: is the work you did before your current or most recent position.
 
 ---
 

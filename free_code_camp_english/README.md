@@ -90,7 +90,7 @@ Dialog 2:
 - Jake: Sure, have a great. See you.
 ```
 
-2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md)
+2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER
 
 - Dialogue 1: A Mobile Developer Joins the Team
 
