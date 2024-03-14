@@ -57,6 +57,10 @@
 
 - **gadgets**: are small tools or devices with a particular function.
 
+- **get in**: means to enter a place.
+
+- **get out**: means to leave a place.
+
 - **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating. 
 
 - **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
@@ -91,6 +95,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
 
+- **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
+
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
 ---
@@ -119,6 +125,10 @@
 
 - **someone**: is used to refer to an unspecified individual or person without specifying exactly who.
 
+- **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
+
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  T
@@ -126,6 +136,10 @@
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
+
+- **unlock** means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
