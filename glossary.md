@@ -83,6 +83,8 @@
 
 - **of course** is a phrase used to express strong agreement or to indicate that something is obvious.
 
+- **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P

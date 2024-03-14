@@ -27,6 +27,7 @@ What you will find?
 -Introduce someone
 -Pronoun HE
 -Verb to be: IS
+-Something possessive
 ```
 
 ---
@@ -340,13 +341,19 @@ In the dialogue, after introducing Brian, Sophie uses `he` to talk about Brian's
 
 The verb be has different forms based on the subject. For **third person singular (he, she, it)**, the correct form is **is**.
 
----
-
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+The contraction `he's` is a combination of the pronoun he and the verb is. It is used to refer to a male person and describe something about him.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Verb to be: AM, ARE, IS
+
+The verb be in its different forms (**am, are, is**) is used to describe or identify. It's essential to pick the right form based on the subject.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> SOMETHING POSSESSIVE
+
+The general rule for making something possessive in English is to add an apostrophe and the letter **s** (**'s**) to the end. For example, if a desk belongs to Sophie, you say `Sophie's desk`.
 
 ---
 
