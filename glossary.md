@@ -2,6 +2,8 @@
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
+- **access card**: refers to a card that gives the holder permission to enter or access a specific place.
+
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
 
 - **attentive**: means paying careful attention or listening carefully.

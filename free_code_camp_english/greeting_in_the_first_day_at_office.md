@@ -29,6 +29,7 @@ What you will find?
 -Verb to be: IS
 -Something possessive
 -Pronoun SHE
+-Greeting with FROM
 ```
 
 ---
@@ -371,12 +372,23 @@ Here, **She** is used by Brian to refer to Sophie. Instead of repeating Sophie's
 In the dialogue, Brian uses the contraction `She's` instead of She is. It gives the sentence a better flow and sounds more natural in conversation.
 
 ---
+---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+# DIALOG 6
+
+-> The phrase `I'm here to` normally talks about purpose or intention. Jake uses this structure to explain why he's talking to Sarah.
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Greeting with FROM
+
+In the dialogue, Jake introduces himself to Sarah by saying `I'm Jake, from Security`. The word **from is a preposition that shows the origin or source**. In this context, *from Security tells which department Jake works*.
+
+In the dialogue, Jake mentions the department he belongs to. People often use terms related to their work to introduce themselves, and it helps others understand their role or purpose better.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> GIVE
+
+In the dialogue, Jake says, `I'm here to give you your access card`. **The verb give means to present or hand over something to someone**. It's a crucial action in this context because Jake's main purpose is to hand over the access card to Sarah.
 
 ---
 
