@@ -368,6 +368,8 @@ Brian: But it is true. She's the person to go to if you need help!
 
 Here, **She** is used by Brian to refer to Sophie. Instead of repeating Sophie's name, Brian uses the pronoun she to make the conversation smoother and avoid redundancy.
 
+In the dialogue, Brian uses the contraction `She's` instead of She is. It gives the sentence a better flow and sounds more natural in conversation.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
