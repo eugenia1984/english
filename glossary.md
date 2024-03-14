@@ -73,6 +73,12 @@
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
+
+- **kind**: means being friendly, generous, and considerate. It's a positive adjective you use to describe someone who shows goodness or compassion to others.
+
+---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
 
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
