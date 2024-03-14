@@ -98,8 +98,9 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
-- **it is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
+- **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
 
+- **It’s nice to**: is used to express a positive sentiment or feeling about something or someone.
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
