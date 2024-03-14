@@ -115,4 +115,6 @@
 
 - **workspace** is often used to describe the area where someone works, especially in an office environment.
 
+- **workmate** refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
+
 ---
