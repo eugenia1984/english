@@ -73,6 +73,8 @@
 
 - **have a break**: means to take a short rest or pause from what you are doing.
 
+- **Have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
+
 - **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
 
 - **here** is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
@@ -120,6 +122,8 @@
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  S
+
+- **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
