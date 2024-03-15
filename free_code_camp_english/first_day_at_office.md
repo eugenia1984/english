@@ -47,16 +47,27 @@ The phrase `has been` is used in English to talk about something that started in
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Data base
+
+`secure` means keeping data safe from unauthorized access or cyber threats.
+
+`efficient` refers to how well the data is managed and used, ensuring it is easily accessible and performs well.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> He's as short of: He is or He has
+
+**He's** can be a short form for **he ha**s or **he is**. You can understand which one it is by looking at the context. When he's is followed by a verb in the past participle (like been, done, seen), it means he has. For example: `He's been working means he has been working.`
+
+If he's is followed by an adjective or a present participle (like tired, going, sleeping), it means he is. For example: `He's tired means he is tired.` Understanding this helps you know exactly what someone means when they say he's.
+
+
+---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
----
-
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
-
----
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
