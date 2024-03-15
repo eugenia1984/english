@@ -145,6 +145,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
+- **several** is a word used to indicate an unspecified quantity that is more than two but not many.
+
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
 - **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
