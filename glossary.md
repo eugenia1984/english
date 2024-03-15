@@ -35,6 +35,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **daily**: means something that happens every day. For example: I read the news daily means I read the news every day. **daily activities**: refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
 
+- **database administrator** is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
+
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
 
 - **develop**: means to make or create something, especially something new. For example, someone might develop a new game or a website.
