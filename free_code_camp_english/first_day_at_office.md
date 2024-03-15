@@ -34,7 +34,16 @@ For example, a `programmer` is someone who *programs*, a` developer` is someone 
 
 # DIALOG 2
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+**Junior**: An entry-level position in accounting.
+
+**Lead**: A top-level role with leadership responsibilities.
+
+**Senior**: A managerial role with significant experience.
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> HAS BEEN
+
+The phrase `has been` is used in English to talk about something that started in the past and is still happening now. It is often used with expressions of time. For example: `She has been with the company for ten years` means that this person started working at the company ten years ago and is still working there.
 
 ---
 
