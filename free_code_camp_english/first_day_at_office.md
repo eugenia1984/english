@@ -71,6 +71,28 @@ The `UX` part focuses on the overall feel of the experience, while `UI` focuses 
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Join and Joined
+
+**Join** and **joined** are different forms of the same verb. 
+
+**Join** is the base form, used for the present tense or imperative. 
+
+**Joined** is the past tense, used for actions completed in the past.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
