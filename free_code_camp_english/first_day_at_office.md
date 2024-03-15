@@ -61,10 +61,13 @@ The phrase `has been` is used in English to talk about something that started in
 
 If he's is followed by an adjective or a present participle (like tired, going, sleeping), it means he is. For example: `He's tired means he is tired.` Understanding this helps you know exactly what someone means when they say he's.
 
-
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> UX / UI
+
+`UX` stands for User Experience, and `UI` stands for User Interface. A `UX/UI designer` works on designing websites or applications to make them easy and pleasant to use.
+
+The `UX` part focuses on the overall feel of the experience, while `UI` focuses on the specific layout and design of the interface.
 
 ---
 
