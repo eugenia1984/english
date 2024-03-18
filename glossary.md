@@ -92,6 +92,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **How was it?**: is a general way to ask about something that just happened.
 
+- **hope** is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I
@@ -183,10 +185,16 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **user-friendly** refers to something that is easy and pleasant to use, especially digital products like websites or apps.
 
+---
+
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
+
+- **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
 - **workspace** is often used to describe the area where someone works, especially in an office environment.
 
 - **workmate** refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
+
+- **Would like** is used to express a desire or wish in a polite way. For example, `I would like to show you something` indicates a polite intention. In spoken English, it's often abbreviated to `I'd`. For example, `I'd like to show you something`. This abbreviation is very common in everyday conversation.
 
 ---
