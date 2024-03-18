@@ -4,6 +4,8 @@
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
+- **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
+
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
 
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
@@ -210,3 +212,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **Would like** is used to express a desire or wish in a polite way. For example, `I would like to show you something` indicates a polite intention. In spoken English, it's often abbreviated to `I'd`. For example, `I'd like to show you something`. This abbreviation is very common in everyday conversation.
 
 ---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Y
+
+- **your** can refer to something that belongs to either an individual or a group, depending on the context. When talking to one person, **your** refers to something belonging to that individual. For example, `Your book is on the table` means the book belongs to the individual you're speaking to. In contrast, when speaking to a group, **your** can refer to something that belongs to all of them. For example, `Your project is impressive` means the project belonging to the entire group is impressive. Understanding the context helps to determine if your is singular or plural.
