@@ -90,7 +90,7 @@ Dialog 2:
 - Jake: Sure, have a great. See you.
 ```
 
-2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team
+2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well
 
 - Dialogue 1: A Mobile Developer Joins the Team
 
@@ -132,7 +132,7 @@ Bob: Good morning, everyone! I hope you're well.
 
 Lisa:  Hi Sarah, thank you!
        I'm excited to work with all of you and learn from your expertise.
-       
+
 Bob: This is Tom, our new graphic designer.
      Is there any specific area of design or development you're interested in?
 
