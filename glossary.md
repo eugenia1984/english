@@ -197,6 +197,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
 
+- **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
+
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.

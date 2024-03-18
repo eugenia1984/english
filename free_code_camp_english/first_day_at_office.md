@@ -108,13 +108,24 @@ The word even highlights something extra or beyond what is usual.
 ---
 ---
 
-# DIALOG 4
+# DIALOG 3
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Is there? Are there?
 
+**Is there** and **Are there** are used at the beginning of questions to ask about the existence or presence of something. Is there is used for singular nouns, like in Is there a solution? Are there is used for plural nouns, such as in Are there any questions?
+
+---
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+# DIALOG 5
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Manage, Management, Project management
+
+- **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
+
+- **Management** refers to the act or skill of managing. Like, Good time management is important for success.
+
+- **Project management** combines these skills specifically for projects. It means planning, organizing, and running projects to reach goals. An example is She is learning project management to lead her team better.
 
 ---
 
