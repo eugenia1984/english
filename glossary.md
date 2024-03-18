@@ -199,6 +199,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
+- **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
