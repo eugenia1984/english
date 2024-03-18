@@ -171,6 +171,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  S
 
+- **schedule**: refers to a planned timeline for tasks or events. Understanding a project's schedule is key to managing time effectively. For example: This is the schedule of the day refers to all activities and actions planned for that day.
+
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
