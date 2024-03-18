@@ -66,6 +66,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages.  **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
 
+- **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
