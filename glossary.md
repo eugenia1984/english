@@ -92,6 +92,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
+- **Go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
