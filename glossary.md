@@ -165,6 +165,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **previous job**: is the work you did before your current or most recent position.
 
+- **project manager** is a key role in many companies. This person is responsible for planning, organizing, and directing the completion of specific projects while ensuring these projects are on time, on budget, and within scope.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  S
@@ -184,8 +186,6 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **someone**: is used to refer to an unspecified individual or person without specifying exactly who.
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
-
-
 
 ---
 
