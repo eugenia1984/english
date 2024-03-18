@@ -116,6 +116,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
+- **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
+
 - **interface** is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
 
 - **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
