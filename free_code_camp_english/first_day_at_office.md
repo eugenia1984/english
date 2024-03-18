@@ -26,7 +26,7 @@ Sentences with the **verb to be are** often used to describe feelings and emotio
 
 In English, many professions are named by adding **er** to the end of a word that describes what the person does.
 
-For example, a `programmer` is someone who *programs*, a` developer` is someone who *develops* software or systems. Another example is a `designer`, who is a person that *designs* websites, graphics, or products.
+For example, a `programmer` is someone who _programs_, a` developer` is someone who _develops_ software or systems. Another example is a `designer`, who is a person that _designs_ websites, graphics, or products.
 
 **By adding er to a verb, you create a noun that describes a person's job**. It doesn't apply to all professions but you'll see this pattern in many.
 
@@ -39,7 +39,6 @@ For example, a `programmer` is someone who *programs*, a` developer` is someone 
 **Lead**: A top-level role with leadership responsibilities.
 
 **Senior**: A managerial role with significant experience.
-
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> HAS BEEN
 
@@ -73,15 +72,19 @@ The `UX` part focuses on the overall feel of the experience, while `UI` focuses 
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Join and Joined
 
-**Join** and **joined** are different forms of the same verb. 
+**Join** and **joined** are different forms of the same verb.
 
-**Join** is the base form, used for the present tense or imperative. 
+**Join** is the base form, used for the present tense or imperative.
 
 **Joined** is the past tense, used for actions completed in the past.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Introduce yourself to the team
+
+In a professional self-introduction, it's common to state your name and your role. This structure Alice uses is simple but very effective.
+
+`Great! Thanks, everybody! Well, I'm Alice. I'm starting as a junior developer today.`
 
 ---
 

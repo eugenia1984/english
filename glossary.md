@@ -100,6 +100,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
+- **interface** is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
+
 - **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
 
 - **It’s nice to**: is used to express a positive sentiment or feeling about something or someone.
@@ -178,6 +180,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
 
 - **unlock** means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
+
+- **user-friendly** refers to something that is easy and pleasant to use, especially digital products like websites or apps.
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
