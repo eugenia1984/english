@@ -142,4 +142,19 @@ Dialog 2:
      Now here are the topics on today's agenda…
 ```
 
+- Dialogue 4: A Training Session
+
+```
+-James: Good morning. I'm James. 
+        I'm here to help you with your training.
+        Can you briefly introduce yourself?
+-Sophie: Hi, I'm Sophie, and I'm here to improve my project management skills.
+        I want to learn more about project management.
+        Nice to meet you James.
+-James: Thank you Sophie.
+        We have a lot to talk about today,
+        and I'm sure we'll have great insights to share during our training session.
+        Let's get started.
+```
+
 ---
