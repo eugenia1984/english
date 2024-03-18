@@ -129,6 +129,10 @@ The word even highlights something extra or beyond what is usual.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> We have a lot to talk about today
+
+**We have a lot to talk about today** are often used. We have means something belongs or is related to the group. A lot means many or much, and to talk about means there are things to discuss.
+
+Understanding these phrases helps you follow what is planned for a meeting or a discussion.
 
 ---

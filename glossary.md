@@ -122,6 +122,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
 
+- **Insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
+
 - **interface** is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
 
 - **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
@@ -202,6 +204,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
+
+- **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
 ---
 
