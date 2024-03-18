@@ -119,4 +119,33 @@ Dialog 2:
   I really like learning new things and can't wait contributing to our projects.
 ```
 
+- Dialogue 3: Team Meeting Introduction
+
+```
+Bob: Good morning, everyone! I hope you're well.
+    Today, we have a new member joining our team.
+    I'd like to introduce you to Lisa.
+    She's our new front-end developer.
+    Let me introduce you all briefly.
+    This is Sarah, the senior developer.
+    You can talk to her any time, even in this virtual setting, if you have questions, Lisa.
+
+Lisa:  Hi Sarah, thank you!
+       I'm excited to work with all of you and learn from your expertise.
+       
+Bob: This is Tom, our new graphic designer.
+     Is there any specific area of design or development you're interested in?
+
+Lisa: Hi, Tom. I'm interested in UI/UX design and front-end development, but I'm open to exploring more.
+
+Bob: And I'm Bob, the team's project manager.
+     I'm the person you always need to talk to if you have any questions about the team's goals and schedule.
+
+Lisa: Hi, Bob. It's great to meet you too.
+
+Bob: Excellent! Lisa, it's great to have you join our team, even if just online.
+     OK, team. Let's help Lisa with the support she needs to start.
+     Now here are the topics on today's agenda…
+```
+
 ---

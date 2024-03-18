@@ -4,7 +4,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Introduction
 
-Hi, everyone! My name is Alice, and I'm happy to be part of the team.
+``Hi, everyone! My name is Alice, and I'm happy to be part of the team.``
 
 ---
 
@@ -33,6 +33,9 @@ For example, a `programmer` is someone who _programs_, a` developer` is someone 
 ---
 
 # DIALOG 2
+
+Phrases like `I really like [subject]`, with subject being a subject you like, or `I can't wait to do [activity]`, with activity being an activity you want to do, are sentences that show your excitement and interest about something.
+
 
 **Junior**: An entry-level position in accounting.
 
@@ -87,6 +90,8 @@ In a professional self-introduction, it's common to state your name and your rol
 `Great! Thanks, everybody! Well, I'm Alice. I'm starting as a junior developer today.`
 
 ---
+
+# DIALOGUE 3
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
