@@ -116,6 +116,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **I guess**: is a phrase used when someone is not completely sure but wants to make an assumption or express an opinion.
 
+- **I'm open to**, it means they are willing to consider new ideas or experiences. It shows that they are flexible and interested in trying different things. For instance, saying `I'm open to learning more` means the person is ready to learn new things. It's a useful phrase to express a positive attitude towards new opportunities or changes.
+
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
