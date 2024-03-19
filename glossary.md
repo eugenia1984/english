@@ -35,6 +35,8 @@
 - **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. 
 We contribute our technical skills to develop the app. **contributing** involves adding something to a project, 
 
+- **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts.
+
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.
@@ -170,6 +172,12 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **previous job**: is the work you did before your current or most recent position.
 
 - **project manager** is a key role in many companies. This person is responsible for planning, organizing, and directing the completion of specific projects while ensuring these projects are on time, on budget, and within scope.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  R
+
+- **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
 
 ---
 
