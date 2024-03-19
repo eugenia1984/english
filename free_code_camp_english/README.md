@@ -172,7 +172,7 @@ Dialog 2:
 -David: Great to meet you, Sarah.
 -Maria: And this is Linda, our UX/UI designer.
   She works in user experience and she create our interface design.
--David: Wonderful to meet you all. I`m David, from FCC Corp.
+-David: Wonderful to meet you all. I'm David, the project manager from FCC Corp.
   I'll be your point of contact and make sure our collaboration it's great.
   We're exited about this project.
   I'm confident that we can achieve good results.
