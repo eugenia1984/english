@@ -1,6 +1,6 @@
 # Glossary
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
@@ -12,7 +12,7 @@
 
 - **attentive**: means paying careful attention or listening carefully.
 
--  **awesome** is a word people use when they really like something. It's like saying very good!
+- **awesome** is a word people use when they really like something. It's like saying very good!
 
 - **any** is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
 
@@ -24,16 +24,18 @@
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> C
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> C
 
 - **café** is a place where you can buy and drink coffee, often with light meals and snacks.
 
 - **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
 
+- **Collaboration** refers to working together with others to achieve a common goal.
+
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
-- **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. 
-We contribute our technical skills to develop the app. **contributing** involves adding something to a project, 
+- **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week.
+  We contribute our technical skills to develop the app. **contributing** involves adding something to a project,
 
 - **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts. **Corp.** is an abbreviation for corporation, which is a large company or group of companies.
 
@@ -43,7 +45,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> D
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> D
 
 - **daily**: means something that happens every day. For example: I read the news daily means I read the news every day. **daily activities**: refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
 
@@ -59,8 +61,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> E
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> E
 
 - **eating here**: means stay and eat at the office.
 
@@ -70,19 +71,19 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
 
-- **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages.  **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
+- **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
 
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
 
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  G
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> G
 
 - **gadgets**: are small tools or devices with a particular function.
 
@@ -90,7 +91,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **get out**: means to leave a place.
 
-- **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating. 
+- **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating.
 
 - **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
 
@@ -100,7 +101,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
 
 - **have a break**: means to take a short rest or pause from what you are doing.
 
@@ -116,7 +117,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I
 
 - **I guess**: is a phrase used when someone is not completely sure but wants to make an assumption or express an opinion.
 
@@ -153,6 +154,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
 ---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
 - **mobile** means something that can be moved or used on the go, like mobile phones or tablets.
@@ -167,7 +169,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
 
 - **places around here** refers to locations in the nearby vicinity or area.
 
@@ -179,13 +181,15 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  R
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
 
 - **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
 
+- **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
+
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  S
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> S
 
 - **schedule**: refers to a planned timeline for tasks or events. Understanding a project's schedule is key to managing time effectively. For example: This is the schedule of the day refers to all activities and actions planned for that day.
 
@@ -199,15 +203,17 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **stand up** refers to the action of rising from a sitting position.
 
-- **some** is often used to indicate an unspecified amount or number. In this context, there isn't a specific number of places 
+- **some** is often used to indicate an unspecified amount or number. In this context, there isn't a specific number of places
 
 - **someone**: is used to refer to an unspecified individual or person without specifying exactly who.
+
+- **specific** means something very clear and exact. For example, `The client has specific goals for the project` means the client's goals are clear. **Specific requirements** means very clear and exact things you need to do. Like a list that tells you exactly what to do for a project. It combines the clarity of specific with the needs of requirements. Like saying, ` We need to meet the specific requirements of the client` which means meeting the precise needs or conditions the client has set.
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  T
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> T
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
@@ -237,7 +243,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
 - **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
@@ -251,6 +257,6 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Y
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Y
 
 - **your** can refer to something that belongs to either an individual or a group, depending on the context. When talking to one person, **your** refers to something belonging to that individual. For example, `Your book is on the table` means the book belongs to the individual you're speaking to. In contrast, when speaking to a group, **your** can refer to something that belongs to all of them. For example, `Your project is impressive` means the project belonging to the entire group is impressive. Understanding the context helps to determine if your is singular or plural.

@@ -174,8 +174,8 @@ Dialog 2:
   She works in user experience and she create our interface design.
 -David: Wonderful to meet you all. I'm David, the project manager from FCC Corp.
   I'll be your point of contact and make sure our collaboration it's great.
-  We're exited about this project.
-  I'm confident that we can achieve good results.
+  We're excited about this project.
+  I'm confident that we can achieve great results.
 -Maria: Thanks, now let's get started with the project details and your specific requirements David.
 ```
 
