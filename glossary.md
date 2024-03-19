@@ -35,7 +35,7 @@
 - **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. 
 We contribute our technical skills to develop the app. **contributing** involves adding something to a project, 
 
-- **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts.
+- **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts. **Corp.** is an abbreviation for corporation, which is a large company or group of companies.
 
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
@@ -213,6 +213,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
+- **To ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
+
 - **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
 
 - **To meet someone's needs** means to fulfill or satisfy what someone requires or wants. In a project, this could mean making sure that the work done fits the client's requirements. For example, `Our team works hard to meet the client's needs` means the team aims to do what the client wants. This phrase is often used in customer service and project management.
@@ -236,6 +238,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
 - **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
+
+- **Wonderful** is an adjective used to express that something is very good or pleasant.
 
 - **workspace** is often used to describe the area where someone works, especially in an office environment.
 

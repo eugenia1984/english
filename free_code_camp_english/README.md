@@ -166,9 +166,9 @@ Dialog 2:
   I'm responsible for the technical aspects of the projects.
   This is Bob, the project manager. 
   He's responsible for coordinate our efforts
--David: Hi, Bob, how is going?
+-David: Hey, Bob. How's it going?
 -Maria: This is Sarah, the senior developer.
-  She and I work together to ensure the project success.
+  She and I work together to ensure the project's success.
 -David: Great to meet you, Sarah.
 -Maria: And this is Linda, our UX/UI designer.
   She works in user experience and she create our interface design.
