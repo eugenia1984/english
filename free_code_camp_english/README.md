@@ -4,6 +4,16 @@
 
 1. [Greeting in the First Day at Office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/greeting_in_the_first_day_at_office.md): contractions, questions tags, roles, agreeing or saying yes to what is said, verb to be: I'm, ask opinion, highlight difference, express feelings or opinions, I like it here, desk, drawing tablet and workspace, everything looks great, articles (a, an, the), where are you from?, demonstrative pronoun (this, those, that), agreement, possession (your, my), they're, their, and there, you are into..., Meals, actions or plans, Introduce someone, pronoun he, verb to be: IS, something possessive, pronoun SHE, Greeting with FROM
 
+2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today
+
+3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md)
+
+---
+
+## Dialogs:
+
+1. **Greeting in the First Day at Office:**
+
 Dialog 1:
 
 ```
@@ -90,7 +100,7 @@ Dialog 2:
 - Jake: Sure, have a great. See you.
 ```
 
-2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today
+2. **Introductions in your first day at the office:**
 
 - Dialogue 1: A Mobile Developer Joins the Team
 
@@ -178,5 +188,7 @@ Dialog 2:
   I'm confident that we can achieve great results.
 -Maria: Thanks, now let's get started with the project details and your specific requirements David.
 ```
+
+3. **Conversation starters in the break room:**
 
 ---
