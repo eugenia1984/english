@@ -157,4 +157,26 @@ Dialog 2:
         Let's get started.
 ```
 
+- Dialogue 5: Meeting a Client
+
+```
+-Maria: Welcome everyone. Today we have with us our client from FCC Corporation.
+  David let me introduce the team and briefly introduce what we do.
+  I'm Maria the lead developer.
+  I'm responsible for the technical aspects of the projects.
+  This is Bob, the project manager. 
+  He's responsible for coordinate our efforts
+-David: Hi, Bob, how is going?
+-Maria: This is Sarah, the senior developer.
+  She and I work together to ensure the project success.
+-David: Great to meet you, Sarah.
+-Maria: And this is Linda, our UX/UI designer.
+  She works in user experience and she create our interface design.
+-David: Wonderful to meet you all. I`m David, from FCC Corp.
+  I'll be your point of contact and make sure our collaboration it's great.
+  We're exited about this project.
+  I'm confident that we can achieve good results.
+-Maria: Thanks, now let's get started with the project details and your specific requirements David.
+```
+
 ---

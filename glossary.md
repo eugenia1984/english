@@ -122,7 +122,7 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
 
-- **Insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
+- **insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
 
 - **interface** is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
 
@@ -141,6 +141,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
 
 - **large**: means big, usually with many employees or a lot of money. For instance, He got a job at a large corporation.
+
+- **Let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
 
 - **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
 

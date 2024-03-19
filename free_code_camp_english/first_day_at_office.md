@@ -136,3 +136,12 @@ The word even highlights something extra or beyond what is usual.
 Understanding these phrases helps you follow what is planned for a meeting or a discussion.
 
 ---
+---
+
+# DIALOGUE 5
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
