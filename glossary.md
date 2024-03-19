@@ -64,6 +64,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **eating here**: means stay and eat at the office.
 
+- **efforts** are the attempts or hard work put into doing something. Like, `His efforts in the project were noticeable`. `Coordinating efforts` in a project means organizing everyone's work so the project is successful. It's like making sure all parts of a puzzle fit together.
+
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
@@ -208,6 +210,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
+
+- **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
 - **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
 
