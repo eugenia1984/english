@@ -215,6 +215,8 @@ We contribute our technical skills to develop the app. **contributing** involves
 
 - **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
 
+- **To meet someone's needs** means to fulfill or satisfy what someone requires or wants. In a project, this could mean making sure that the work done fits the client's requirements. For example, `Our team works hard to meet the client's needs` means the team aims to do what the client wants. This phrase is often used in customer service and project management.
+
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
