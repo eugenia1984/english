@@ -10,7 +10,7 @@
 
 ---
 
-## Dialogs:
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogs:
 
 1. **Greeting in the First Day at Office:**
 
@@ -190,5 +190,28 @@ Dialog 2:
 ```
 
 3. **Conversation starters in the break room:**
+
+- Dialogue 1: Small Talk
+
+```
+-Sarah: Hi, Tom! Are you happy with the workplace so far?
+-Tom:   Yes, it's great! Everyone it's so friendly.
+        Listen, how about the team-building activities here? Are they cool?
+-Sarah: Yes, we go out with the team sometimes.
+        Are you into this activities?
+-Tom:   Absolutely! They're really fun.
+        What's the team favourite?
+-Sarah: Many of us enjoy the monthly game night.
+
+-Tom:
+-Sarah: 'Monopoly' and 'Ticket To Ride' are popular choices.
+
+-Tom:
+
+-Sarah: Oh, yeah! 'Gartic' is another favorite.
+        Maybe we can play Gartic in the next game night.
+-Tom: That's sounds like a plan, Sarah. 
+      Thanks for the suggestions!
+```
 
 ---
