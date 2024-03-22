@@ -111,6 +111,8 @@
 
 - **here** is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
 
+- **How about** is used to make a suggestion or ask someone's opinion about a suggestion. It's a friendly way to bring up a new topic or idea. For example, How about we meet later? means What do you think if we meet later?
+
 - **How was it?**: is a general way to ask about something that just happened.
 
 - **hope** is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
