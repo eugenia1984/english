@@ -9,3 +9,17 @@ In English, you can use the **verb to be** to ask questions about feelings, stat
 Here are some more examples of turning statements into questions using to be: `He is here.` -> `Is he here?` | `They are ready`. -> `Are they ready?`
 
 ---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  SUFFIX -LY
+
+The suffix **-ly** can be added to words to indicate the frequency of an event. Here's how it applies to different time periods:
+
+`Daily` -> means it occurs once every day.
+
+`Weekly` -> indicates something that happens once every week.
+
+`Monthly` -> describes something that happens once every month.
+
+`Yearly (or annually)` ->  describes something that happens once every year.
+
+---
