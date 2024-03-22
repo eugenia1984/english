@@ -226,6 +226,8 @@
 
 - **To be into** something means to be interested in it or to enjoy it.
 
+- **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
+
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
