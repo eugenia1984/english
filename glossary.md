@@ -34,8 +34,9 @@
 
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
-- **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week.
-  We contribute our technical skills to develop the app. **contributing** involves adding something to a project,
+- **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. We contribute our technical skills to develop the app. **contributing** involves adding something to a project,
+
+- **cool** is an informal term that Tom uses to ask if the team-building activities are good, interesting, or enjoyable.
 
 - **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts. **Corp.** is an abbreviation for corporation, which is a large company or group of companies.
 
