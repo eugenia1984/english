@@ -98,7 +98,6 @@
 
 - **Go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
 
-
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
 - **Go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
@@ -225,6 +224,7 @@
 
 - **Team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
+- **To be into** something means to be interested in it or to enjoy it.
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
