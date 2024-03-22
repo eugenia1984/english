@@ -219,6 +219,9 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> T
 
+- **Team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
+
+
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
