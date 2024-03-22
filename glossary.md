@@ -96,6 +96,9 @@
 
 - **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
 
+- **Go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
+
+
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
 - **Go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
