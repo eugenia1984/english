@@ -202,12 +202,12 @@ Dialog 2:
 -Tom:   Absolutely! They're really fun.
         What's the team's favorite?
 -Sarah: Many of us enjoy the monthly game night.
-        Are you intoboard games?
--Tom:   Yes, I love board games.
+        Are you into board games?
+-Tom:   Yes, I love board games!
 -Sarah: 'Monopoly' and 'Ticket To Ride' are popular choices.
         Are you familiar with that?
 -Tom:   Yes, I've played both before. Great choices.
-        Is the team into playing computer games, too? Like, 'Gartic'?
+        Is the team into playing games on computers, as well? Like, 'Gartic'?
 -Sarah: Oh, yeah! 'Gartic' is another favorite.
         Maybe we can play Gartic in the next game night.
 -Tom: That's sounds like a plan, Sarah. 

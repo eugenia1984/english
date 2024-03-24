@@ -162,6 +162,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
+- **maybe** is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
+
 - **mobile** means something that can be moved or used on the go, like mobile phones or tablets.
 
 ---
