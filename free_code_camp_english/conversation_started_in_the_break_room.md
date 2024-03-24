@@ -33,3 +33,31 @@ The present perfect is **a tense used to indicate a link between the present and
 `I have played this game before.` - This is in the present perfect tense. It states that the action of playing the game happened at an unspecified time in the past.
 
 `I’ve played this game before.` - This sentence is also in the present perfect tense, using the contraction I've for I have. Like the previous example, it states that the action of playing the game happened at an unspecified time in the past.
+
+---
+
+# DIALOGUE 2
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
