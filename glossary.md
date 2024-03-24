@@ -226,6 +226,8 @@
 
 - **Team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
+- **That sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
+
 - **To be into** something means to be interested in it or to enjoy it.
 
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
