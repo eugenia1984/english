@@ -214,4 +214,29 @@ Dialog 2:
       Thanks for the suggestions!
 ```
 
+- Dialogue 2: New Hobbies
+
+```
+-Sophie: Hey, Tom! I saw you taking lots of pics with your cell phone outside the building.
+         Are you into photography?
+-Tom: Yes, I love it. Buy I'm only practicing.
+      How about you, Do you have any hobbies?
+-Sophie: That's cool! I like photography, but I don't think it as a hobby.
+          I like to play the guitar in my free time.
+-Tom: Wow! Electric or acustic?
+
+-Sophie: Electric, for sure.! 
+          Do you have any photographies.
+
+-Tom:
+
+-Sophie:
+
+-Tom: Cool! I want to hearing you play someday.
+
+-Sophie: Only if you show me
+
+-Tom: It's a deal!
+```
+
 ---
