@@ -222,15 +222,16 @@ Dialog 2:
 -Tom: Yes, I love it. Buy I'm only practicing.
       How about you, Do you have any hobbies?
 -Sophie: That's cool! I like photography, but I don't think it as a hobby.
-          I like to play the guitar in my free time.
+         I like to play the guitar in my free time.
 -Tom: Wow! Electric or acustic?
 
--Sophie: Electric, for sure.! 
+-Sophie: Electric, for sure.!  Back to your hobbies
           Do you have any photographies.
 
--Tom:
+-Tom: I like
+     What kind of music do you like playing in your guitar?
 
--Sophie:
+-Sophie: I like
 
 -Tom: Cool! I want to hearing you play someday.
 
