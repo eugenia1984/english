@@ -178,6 +178,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
 
+- **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
+
 - **places around here** refers to locations in the nearby vicinity or area.
 
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
