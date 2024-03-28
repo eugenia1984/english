@@ -38,7 +38,9 @@ The present perfect is **a tense used to indicate a link between the present and
 
 # DIALOGUE 2
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Yes... but
+
+- In a conversation, when you agree with someone but want to add more information, you can use `Yes... but` to continue your point.
 
 ---
 
