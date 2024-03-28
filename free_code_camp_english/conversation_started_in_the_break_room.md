@@ -45,7 +45,13 @@ The present perfect is **a tense used to indicate a link between the present and
 ---
 
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Questions with Do / Does
+
+So far you have learned how to create questions with the `verb to be`. In sentences with the verb to be (**am**, **is**, **are**) you just have to change the order of the noun and the verb to create a question. Like this: `You are a developer` -> `Are you a developer?`
+
+Changing the order of the noun and the verb doesn’t work in every situation. Most sentences need you to add an auxiliary verb to create questions. One of the most common auxiliary verbs is **Do**.
+
+You can use the verb do as an auxiliary to most verbs. In the present tense it assumes the form of **do (I, you, we, they)** and **does(he, she, it)**. It is like a marker you will add to the beginning of your sentence and lets everyone know that sentence is a question. For example: `Statement: You debug on Fridays. Question: Do you debug on Fridays?`
 
 ---
 
