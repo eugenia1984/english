@@ -186,6 +186,8 @@
 
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
 
+- **practicing** you are doing an activity regularly to improve your skills at it.
+
 - **previous job**: is the work you did before your current or most recent position.
 
 - **project manager** is a key role in many companies. This person is responsible for planning, organizing, and directing the completion of specific projects while ensuring these projects are on time, on budget, and within scope.
