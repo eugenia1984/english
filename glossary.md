@@ -174,6 +174,8 @@
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
 
+- **outside** refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
