@@ -71,12 +71,25 @@ You can also use the auxiliary verb to in negative sentences. In negative senten
 
 `It does not function` - (Subject + does + not + main verb)
 
+```
+- Affirmative: I do work on weekends. (means the person works on weekends) 
+- Negative: I don't work on weekends. (means the person does not work on weekends)
+```
+
 Often, to be more practical it is common to abbreviate do not and does not to don’t and doesn’t.
 
 ---
 
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Verbs with -S or -ES for he, she and it
+
+In English, some verbs are conjugated. This means they change the form according to the person you are talking about. For most verbs, when we talk about another person like he, she, or it, we add an -s or -es to the verb.
+
+For example: If you talk about Tom and photography you can say: `Tom takes photographs`, not Tom take photographs. This is how you show in your sentence that the action is done by Tom in the present tense.
+
+For negative sentences, you can use doesn't followed by the base form of the verb.You do not add ``-s`` or ``-es``. because does is already conjugated (do+es).
+
+For example, if `Tom doesn't do video recording as a hobby`, you can say, `He doesn't record videos..`
 
 ---
 
