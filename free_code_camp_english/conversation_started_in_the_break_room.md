@@ -53,10 +53,25 @@ Changing the order of the noun and the verb doesn’t work in every situation. M
 
 You can use the verb do as an auxiliary to most verbs. In the present tense it assumes the form of **do (I, you, we, they)** and **does(he, she, it)**. It is like a marker you will add to the beginning of your sentence and lets everyone know that sentence is a question. For example: `Statement: You debug on Fridays. Question: Do you debug on Fridays?`
 
+```
+- Statement: She works as a Full Stack dev.
+- Question: Does she work as a Full Stack dev?
+```
+
+-> `work` stays as `work` and does not change to `works`, even when asking about a third person singular subject like he, she, or it.
+
 ---
 
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Negative with don't or doesn't
+
+You can also use the auxiliary verb to in negative sentences. In negative sentences you combine the **auxiliary verb do (I, you, we, they)** or **does (he, she it)** with the word not and place it right before the main verb:
+
+`I do not work everyday` - (Subject + do + not + main verb)
+
+`It does not function` - (Subject + does + not + main verb)
+
+Often, to be more practical it is common to abbreviate do not and does not to don’t and doesn’t.
 
 ---
 
