@@ -226,12 +226,12 @@ Dialog 2:
 -Tom: Wow! Electric or acustic?
 
 -Sophie: Electric, for sure.!  Back to your hobbies
-          Do you have any photographies.
+          Do you have any photographies?
 
--Tom: I like
+-Tom: I like landscapes and street photographies, mostly.
      What kind of music do you like playing in your guitar?
 
--Sophie: I like
+-Sophie: I like classic rock, but any tunes makes my day.
 
 -Tom: Cool! I want to hearing you play someday.
 
