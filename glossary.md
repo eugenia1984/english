@@ -240,6 +240,14 @@
 
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
+- **To look like**: is used to describe someone's or something's appearance, often implying a comparison.
+
+When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like:
+
+`What does (he/she) look like?` or `What do they look like?`
+
+The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
+
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team

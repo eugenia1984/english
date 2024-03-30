@@ -241,11 +241,13 @@ Dialog 2:
 
 - Dialogue 3: Tom Asks About the Team Lead
 
+
 ```
 -Tom:  Hey, Sophie! Tell me about our team lead, Maria.
         What is she like?
-Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.
-       I think she has a passion for technology, and she enjoys leading our team.    
+-Sophie: I think she has a passion for technology, and she enjoys leading our team. 
+-Tom:
+-Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.   
 -Tom:
         What does she do as the team lead?
 -Sophie: Maria coordinates our projects.
@@ -260,7 +262,7 @@ Sophie: Maria thinks challenges are positive. She encourages us to find solution
 -Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.
 -Tom:    Great. And do you enjoy working with her?
 -Sophie: I do. She's supportive and she helps us a lot.
--Tom: Nice! Thanks for the information, Sophie.
+-Tom:    Nice! Thanks for the information, Sophie.
 -Sophie: You're welcome. Maria is a fantastic leader to have. I think you're in good hands.
 ```
 
