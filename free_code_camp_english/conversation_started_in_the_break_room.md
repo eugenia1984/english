@@ -1,5 +1,11 @@
 # Conversation started in the break room
 
+## What you will find?
+
+- DIALOGUE 1: Verb to be, Suffix "-ly", Present perfect
+
+- DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he, she, it, Want to
+
 ## DIALOGUE 1
 
 ###  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> VERB TO BE
@@ -93,6 +99,19 @@ For example, if `Tom doesn't do video recording as a hobby`, you can say, `He do
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Questions with Does for: he, she, it
+
+When elaborating questions about a **third person singular (he, she or it)** you might need to use the auxiliary verb **does**.
+
+For example: If Alice is curious about Sophie's hobbies and wants to ask Tom, she can say, `Does Sophie like hiking?` The word **does** is used here because the subject is Sophie, a third person singular. **Does** is used to form questions in the present simple tense for he, she, or it.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Want to 
+
+When you want to talk about what someone hopes to do in the future, you can use `want to` to express desire or intention. Remember that `want to` doesn't change even when talking about others.
+
+---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 

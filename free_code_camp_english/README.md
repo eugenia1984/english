@@ -6,7 +6,7 @@
 
 2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today
 
-3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it
+3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to
 
 ---
 
@@ -221,17 +221,16 @@ Dialog 2:
          Are you into photography?
 -Tom: Yes, I love it. Buy I'm only practicing.
       How about you, Do you have any hobbies?
--Sophie: That's cool! I like photography, but I don't think it as a hobby.
-         I like to play the guitar in my free time.
+-Sophie: That's cool! I like photography, but I don't think it as a hobby. I play the guitar in my free time.
 -Tom: Wow! Electric or acustic?
 
--Sophie: Electric, for sure.!  Back to your hobbies
-          Do you have any photographies?
+-Sophie: Electric, for sure.!  Back to your hobbies, do.
+          Do you have any favorites photography themes?
 
 -Tom: I like landscapes and street photographies, mostly.
      What kind of music do you like playing in your guitar?
 
--Sophie: I like classic rock, but any tunes makes my day.
+-Sophie: I like classic rock, but any nice tunes makes my day.
 
 -Tom: Cool! I want to hearing you play someday.
 
