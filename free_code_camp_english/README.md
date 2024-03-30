@@ -155,7 +155,7 @@ Dialog 2:
 - Dialogue 4: A Training Session
 
 ```
--James: Good morning. I'm James. 
+-James: Good morning. I'm James.
         I'm here to help you with your training.
         Can you briefly introduce yourself?
 -Sophie: Hi, I'm Sophie, and I'm here to improve my project management skills.
@@ -174,7 +174,7 @@ Dialog 2:
   David let me introduce the team and briefly introduce what we do.
   I'm Maria the lead developer.
   I'm responsible for the technical aspects of the projects.
-  This is Bob, the project manager. 
+  This is Bob, the project manager.
   He's responsible for coordinate our efforts
 -David: Hey, Bob. How's it going?
 -Maria: This is Sarah, the senior developer.
@@ -210,7 +210,7 @@ Dialog 2:
         Is the team into playing games on computers, as well? Like, 'Gartic'?
 -Sarah: Oh, yeah! 'Gartic' is another favorite.
         Maybe we can play Gartic in the next game night.
--Tom: That's sounds like a plan, Sarah. 
+-Tom: That's sounds like a plan, Sarah.
       Thanks for the suggestions!
 ```
 
@@ -237,6 +237,29 @@ Dialog 2:
 -Sophie: Only if you show me your favorites pics.
 
 -Tom: It's a deal!
+```
+
+- Dialogue 3: Tom Asks About the Team Lead
+
+```
+-Tom:  Hey, Sophie! Tell me about our team lead, Maria.
+        What is she like?
+Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.
+      
+-Tom:
+        What does she do as the team lead?
+-Sophie: Maria coordinates our projects.
+         
+-Tom: That sounds important. Where does she usually work from?
+-Sophie:
+-Tom: That sounds important. Where does she usually work from?
+-Sophie: She schedules team meetings every Monday morning to plan the week ahead.
+-Tom:
+-Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.
+-Tom:Great. And do you enjoy working with her?
+-Sophie: I do. She's supportive and she helps us a lot.
+-Tom: Nice! Thanks for the information, Sophie.
+-Sophie: You're welcome. Maria is a fantastic leader to have. I think you're in good hands.
 ```
 
 ---
