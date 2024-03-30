@@ -138,6 +138,8 @@
 
 - **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
 
+- **It makes my day**: When someone says this, it means that a particular thing or event has made them feel really good.
+
 - **It’s nice to**: is used to express a positive sentiment or feeling about something or someone.
 
 ---
