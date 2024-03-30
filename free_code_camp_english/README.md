@@ -234,7 +234,7 @@ Dialog 2:
 
 -Tom: Cool! I want to hearing you play someday.
 
--Sophie: Only if you show me
+-Sophie: Only if you show me your favorites pics.
 
 -Tom: It's a deal!
 ```
