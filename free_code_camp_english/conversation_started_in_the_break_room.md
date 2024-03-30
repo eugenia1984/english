@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: Verb to be, Suffix "-ly", Present perfect
 
-- DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he, she, it, Want to
+- DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, Condition: only if
 
 ## DIALOGUE 1
 
@@ -103,7 +103,7 @@ For example, if `Tom doesn't do video recording as a hobby`, you can say, `He do
 
 When elaborating questions about a **third person singular (he, she or it)** you might need to use the auxiliary verb **does**.
 
-For example: If Alice is curious about Sophie's hobbies and wants to ask Tom, she can say, `Does Sophie like hiking?` The word **does** is used here because the subject is Sophie, a third person singular. **Does** is used to form questions in the present simple tense for he, she, or it.
+For example: If Alice is curious about Sophie's hobbies and wants to ask Tom, she can say, `Does Sophie like hiking?` The word **does** is used here because the subject is Sophie, a third person singular. **Does** is used to form questions in the present simple tense for he, she, or it, 
 
 ---
 
@@ -113,6 +113,19 @@ When you want to talk about what someone hopes to do in the future, you can use 
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Condition: only if
+
+The expression **only if** is used to set a condition for something to happen. It’s like saying this will happen if that happens. It's a way of making an agreement where one action depends on another.
+
+For example: if your friend says, `I'll go out only if it doesn't rain`, it means they will go out but the weather must be good - no rain.
+
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
