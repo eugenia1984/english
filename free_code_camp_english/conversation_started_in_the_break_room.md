@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: Verb to be, Suffix "-ly", Present perfect
 
-- DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, Condition: only if
+- DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, Condition: only if, Simple Present - verbs with -s or -es
 
 ## DIALOGUE 1
 
@@ -122,7 +122,15 @@ For example: if your friend says, `I'll go out only if it doesn't rain`, it mean
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Simple Present - verbs with -s or -es
+
+When you speak about what another person does every day, like your friend or a teacher, and you use he, she, or it you will often need to conjugate the verb of your sentence.
+
+As you already studied, For most verbs conjugation can be simple. You just add s or es to the end of the verb.
+
+For example: ``You talk`` -> ``He talks`` /  ``They do`` -> ``It does``
+
+
 
 ---
 
