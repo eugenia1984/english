@@ -70,6 +70,8 @@
 
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
+- **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
+
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
 
 - **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
@@ -153,6 +155,8 @@
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
 
 - **large**: means big, usually with many employees or a lot of money. For instance, He got a job at a large corporation.
+
+- **leading a team**: means being in charge of a group of people and guiding them to achieve their goals. It's like being the captain of a ship.
 
 - **Let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
 
