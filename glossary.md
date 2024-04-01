@@ -182,6 +182,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
 
+- **passion** is a big feeling of love for something. When you have a passion for something, you really enjoy it and think it's very important. If someone has a passion for music, it means they love music a lot. In the conversation
+
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
 
 - **places around here** refers to locations in the nearby vicinity or area.
