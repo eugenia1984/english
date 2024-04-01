@@ -243,15 +243,12 @@ Dialog 2:
 
 
 ```
--Tom:  Hey, Sophie! Tell me about our team lead, Maria.
-        What is she like?
+-Tom:  Hey, Sophie! Tell me about our team lead, Maria. What is she like?
 -Sophie: I think she has a passion for technology, and she enjoys leading our team. 
--Tom:
+-Tom: Those are great traits for someone in her position, I think. What is she like as team lead?
 -Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.   
--Tom:
-        What does she do as the team lead?
--Sophie: Maria coordinates our projects.
-        She assigns tasks and makes sure everything runs well. 
+-Tom: What does she do as the team lead?
+-Sophie: Maria coordinates our projects. She assigns tasks and makes sure everything runs well. 
 -Tom: That sounds important. Where does she usually work from?
 -Sophie: She works from her office most of the time, but she's also in meetings a lot.
 -Tom:

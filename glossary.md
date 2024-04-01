@@ -98,11 +98,13 @@
 
 - **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
 
-- **Go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
+- **go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
 
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
-- **Go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
+- **go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
+
+- **great traits**: means very good qualities or characteristics.
 
 ---
 
@@ -131,6 +133,10 @@
 - **I'm open to**, it means they are willing to consider new ideas or experiences. It shows that they are flexible and interested in trying different things. For instance, saying `I'm open to learning more` means the person is ready to learn new things. It's a useful phrase to express a positive attitude towards new opportunities or changes.
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
+
+- **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
+
+
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
 
