@@ -10,6 +10,8 @@
 
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
 
+- **assign** means to give tasks to other people.
+
 - **attentive**: means paying careful attention or listening carefully.
 
 - **awesome** is a word people use when they really like something. It's like saying very good!
@@ -174,9 +176,11 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
-- **maybe** is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
+- **make sure**: is a phrase used to express that you want to confirm something is done the right way.
 
-- **mobile** means something that can be moved or used on the go, like mobile phones or tablets.
+- **maybe**: is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
+
+- **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
 ---
 
@@ -215,6 +219,8 @@
 - **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
 
 - **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
+
+- **run well** is used when something is functioning well or is successful.
 
 ---
 
