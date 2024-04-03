@@ -198,7 +198,6 @@
 
 - **on** in this context links the updates to the specific subject they are about - the project progress. In English, you use on when you're talking about the topic of communication, like a presentation on science or an update on work. It shows a direct relationship between the communication and the topic.
 
-
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
@@ -230,6 +229,8 @@
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
 
 - **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
+
+- **reasonable** means something is fair, makes sense, or is acceptable in a certain situation. For example, The price of the ticket is reasonable means the price is not too high and feels fair.
 
 - **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
 
@@ -278,6 +279,8 @@
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
 
 - **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
+
+- **too long** is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
