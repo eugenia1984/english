@@ -82,6 +82,8 @@
 
 - **Every**: When you want to talk about something that happens regularly on a specific day of the week, you use the expression every followed by the day. For example, `I go to the gym every Tuesday`.
 
+- ** everyone** is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
+
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
 
 ---
