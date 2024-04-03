@@ -158,6 +158,8 @@
 
 - **interface** is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
 
+- **It depends** on is used to say that the answer to a question can change based on different things. For example: ``How long it takes to make a website depends on how big or small the job is.`` or ``Choosing the coding language depends on the computer or system we use.`` Notice that after depends there’s always the preposition **on**.
+
 - **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
 
 - **It makes my day**: When someone says this, it means that a particular thing or event has made them feel really good.

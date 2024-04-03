@@ -172,16 +172,18 @@ In English, words like **sometimes**, **always**, and **never** are used to desc
 
 Take a look at these adverbs, and the frequency they usually represent.
 
-| Adverb |	Frequency	|
-| ------ | ---------- |
-| Never |	0% |	
-| Rarely	| 5% |	
-| Seldom	| 15% |	
-| Occasionally	| 30% |	
-| Sometimes	| 50% |
-| Often	| 70% |
-| Generally	| 80% |
-| Usually	| 90% |
-| Always	| 100% |
+| Adverb       | Frequency |
+| ------------ | --------- |
+| Never        | 0%        |
+| Rarely       | 5%        |
+| Seldom       | 15%       |
+| Occasionally | 30%       |
+| Sometimes    | 50%       |
+| Often        | 70%       |
+| Generally    | 80%       |
+| Usually      | 90%       |
+| Always       | 100%      |
+
+Remember, **occasionally** means something happens sometimes, but not regularly or often. It's less frequent than **sometimes** and more frequent than rarely.
 
 ---
