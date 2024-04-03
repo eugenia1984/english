@@ -196,24 +196,19 @@ Dialog 2:
 
 
 ```
--Tom: Hey, Sophie! Tell me about our team lead, Maria. What is she like?
+-Tom: Hey, Sophie! Tell me about our team lead, Maria. 
+What is she like?
 -Sophie: Well, she is very proactive and she likes everything in order.
 I think she has a passion for technology, and she enjoys leading our team. 
 -Tom: Those are great traits for someone in her position, I think. 
-What is she like as team lead?
--Sophie: 
+What does she do as the team lead?
+-Sophie: Maria coordinates our projects.
 She assigns tasks and makes sure everything runs well.
-
-Maria thinks challenges are positive. She encourages us to find solutions together.   
--Tom: What does she do as the team lead?
--Sophie: She schedules team meetings every Monday morning to plan the week ahead. Maria coordinates our projects. She assigns tasks and makes sure everything runs well. 
 -Tom: That sounds important. Where does she usually work from?
 -Sophie: She works from her office most of the time, but she's also in meetings a lot.
--Tom: I see, when
--Sophie:
--Tom: Got it. That sounds important. Where does she usually work from?
--Sophie: She schedules team meetings every Monday morning to plan the week ahead.
--Tom:
+-Tom: I see. When does she usually hold team meetings?
+-Sophie: She schedules team meetings every Monday morning to plan the week ahead. 
+-Tom: Got it! How does she handle challenges in our projects? 
 -Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.
 -Tom:    Great. And do you enjoy working with her?
 -Sophie: I do. She's supportive and she helps us a lot.
