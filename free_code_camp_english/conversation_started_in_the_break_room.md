@@ -8,7 +8,9 @@
 
 - DIALOGUE 3: Adverbs of frequency, Do you...? Yes, I do / I do  or No, I don't / I don't
 
-## DIALOGUE 1
+- DIALOGUE 4: Frequency: every
+
+# DIALOGUE 1
 
 ###  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> VERB TO BE
 
@@ -154,4 +156,11 @@ Tom asks: `Do you enjoy working with her?`. To say yes to a question that starts
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+# DIALOGUE 4
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Frequency: every
+
+When you want to know how often something happens, you can use **every** followed by a time period like ``day``, ``week``, or ``year``. 
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 

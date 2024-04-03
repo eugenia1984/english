@@ -192,6 +192,8 @@
 
 - **of course** is a phrase used to express strong agreement or to indicate that something is obvious.
 
+- **ongoing** describes something that is currently in progress, continuing, or not yet finished.
+
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
 
 - **outside** refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
