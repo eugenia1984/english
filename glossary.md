@@ -4,6 +4,9 @@
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
+- **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
+
+
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
@@ -279,6 +282,8 @@
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
 
 - **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
+
+- **To prepare in advance** means to get something ready before the time it is needed. This helps meetings to go smoothly because everyone knows what will be discussed.
 
 - **too long** is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
 
