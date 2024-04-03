@@ -248,4 +248,25 @@ It depends on the project's needs.
 - Sophie: Probably next Monday.
 ```
 
+- Dialogue 5: Knowing the Area Around the Company
+
+```
+- Tom: Hi Maria! I'm still getting to know the area.
+Is there an ATM nearby?
+- Maria:
+- Tom: That's good to know
+Are there any parks around here?
+- Maria:
+- Tom:
+- Maria:
+- Tom:
+- Maria:
+- Tom:
+- Maria:
+- Tom:
+- Maria: 
+- Tom:
+- Maria:
+```
+
 ---

@@ -186,4 +186,12 @@ Take a look at these adverbs, and the frequency they usually represent.
 
 Remember, **occasionally** means something happens sometimes, but not regularly or often. It's less frequent than **sometimes** and more frequent than rarely.
 
+- **Probably** is used when you think something is likely to happen, but you're not 100% sure. For example, you could say:`` The code will probably run without errors after the update``, because you believe that, but there's still a small chance of an issue.
+
+---
+
+# DIALOGUE 5
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
 ---
