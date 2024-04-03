@@ -6,7 +6,7 @@
 
 2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today
 
-3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es
+3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es, Adverbs of frequency
 
 ---
 

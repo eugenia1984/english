@@ -6,6 +6,8 @@
 
 - DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, Condition: only if, Simple Present - verbs with -s or -es
 
+- DIALOGUE 3: Adverbs of frequency
+
 ## DIALOGUE 1
 
 ###  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> VERB TO BE
@@ -133,7 +135,20 @@ For example: ``You talk`` -> ``He talks`` /  ``They do`` -> ``It does``
 
 
 ---
+# DIALOGUE 3
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Adverbs of frequency
+
+There are some words you can use in your sentence to express how often something happens. They are called **adverbs of frequency**.
+
+**Usually** is a word that suggests that something happens more often than not but is not constant. When usually is used with the verb to be, it is placed after the verb. Ex: `She is usually on time for meetings.`
+
+With other verbs, usually comes before the main verb, for example: `He usually works late.`
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
