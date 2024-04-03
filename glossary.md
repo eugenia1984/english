@@ -282,6 +282,8 @@
 
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
+- **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
+
 - **To plan ahead**: When you have meetings to plan ahead, it means you discuss and decide on things that will happen in the future. It helps everyone know what to do before things happen. Like saying, We have a family meeting to plan our vacation.
 
 - **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
