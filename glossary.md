@@ -228,7 +228,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> S
 
-- **schedule**: refers to a planned timeline for tasks or events. Understanding a project's schedule is key to managing time effectively. For example: This is the schedule of the day refers to all activities and actions planned for that day.
+- **schedule**: refers to a planned timeline for tasks or events. Understanding a project's schedule is key to managing time effectively. For example: This is the schedule of the day refers to all activities and actions planned for that day. **To schedule** means to arrange for an event or activity to take place at a specific time. It's like making an appointment or setting up a time for something. For example: `I schedule my doctor's appointments for the first thing in the morning.`
 
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
