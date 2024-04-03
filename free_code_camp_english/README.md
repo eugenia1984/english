@@ -6,7 +6,7 @@
 
 2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today
 
-3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es, Adverbs of frequency, Do you...? Yes, I do / I do  or No, I don't / I don't, Frequency: every, Frequency of actions
+3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es, Adverbs of frequency, Do you...? Yes, I do / I do or No, I don't / I don't, Frequency: every, Frequency of actions
 
 ---
 
@@ -194,21 +194,20 @@ Dialog 2:
 
 - Dialogue 3: Tom Asks About the Team Lead
 
-
 ```
--Tom: Hey, Sophie! Tell me about our team lead, Maria. 
+-Tom: Hey, Sophie! Tell me about our team lead, Maria.
 What is she like?
 -Sophie: Well, she is very proactive and she likes everything in order.
-I think she has a passion for technology, and she enjoys leading our team. 
--Tom: Those are great traits for someone in her position, I think. 
+I think she has a passion for technology, and she enjoys leading our team.
+-Tom: Those are great traits for someone in her position, I think.
 What does she do as the team lead?
 -Sophie: Maria coordinates our projects.
 She assigns tasks and makes sure everything runs well.
 -Tom: That sounds important. Where does she usually work from?
 -Sophie: She works from her office most of the time, but she's also in meetings a lot.
 -Tom: I see. When does she usually hold team meetings?
--Sophie: She schedules team meetings every Monday morning to plan the week ahead. 
--Tom: Got it! How does she handle challenges in our projects? 
+-Sophie: She schedules team meetings every Monday morning to plan the week ahead.
+-Tom: Got it! How does she handle challenges in our projects?
 -Sophie: Maria thinks challenges are positive. She encourages us to find solutions together.
 -Tom:    Great. And do you enjoy working with her?
 -Sophie: I do. She's supportive and she helps us a lot.
@@ -219,30 +218,30 @@ She assigns tasks and makes sure everything runs well.
 - Dialogue 4: Talking About the Monday Meetings
 
 ```
-- Tom: Tell me about our team meetings, Sophie. 
+- Tom: Tell me about our team meetings, Sophie.
 Do they happen every week?
-- Sophie: Yes, they do. 
+- Sophie: Yes, they do.
 We have meetings on Monday mornings.
 - Tom: Hmm… Do we discuss all our ongoing projects in these meetings?
 - Sophie: We do.
  It's a chance to update everyone on project progress.
 - Tom: Awesome! Do they usually last long?
-- Sophie: Not too long. 
+- Sophie: Not too long.
 They usually take about 30 to 45 minutes.
 - Tom: That's reasonable.
 Do we have an agenda for each meeting?
 - Sophie: Yes, we do.
 Maria prepares the agenda in advance.
-- Tom: Good to know! 
+- Tom: Good to know!
 Do the meetings involve everyone on the team?
-- Sophie: Absolutely! 
+- Sophie: Absolutely!
 All the team members have a chance to speak,
 so everyone know what the others are doing.
-- Tom: That's important. 
+- Tom: That's important.
 Does Maria assign tasks during these meetings?
 - Sophie: Sometimes, but we normally discuss tasks we plan on tackling for the week.
 - Tom: Does this include brainstorming sessions?
-- Sophie: Occasionally, yeah. 
+- Sophie: Occasionally, yeah.
 It depends on the project's needs.
 - Tom: I can't wait for the first meeting I'll attend.
 - Sophie: Probably next Monday.
@@ -253,20 +252,27 @@ It depends on the project's needs.
 ```
 - Tom: Hi Maria! I'm still getting to know the area.
 Is there an ATM nearby?
-- Maria:
-- Tom: That's good to know
+- Maria: Yes, there is a bank just a few blocks away.
+- Tom: That's good to know.
 Are there any parks around here?
-- Maria:
+- Maria: Yes, there are a couple of parks near here.
+They're great for a break.
+- Tom: How about restaurants?
+Are there any good restaurant
+- Maria: Yes, there are many restaurants within walking distance.
+- Tom: Fantastic! Is there anything else interesting to check out?
+- Maria: Absolutely! There's a gym.
+There are also great coffee shops not too far away.
 - Tom:
+- Tom: How about bookstores or theaters?
 - Maria:
-- Tom:
-- Maria:
-- Tom:
-- Maria:
-- Tom:
-- Maria: 
-- Tom:
-- Maria:
+The bookstores I remember are all downtown.
+But there is a bus stop.
+- Tom: Oh, how about a shopping mall?
+- Maria: Malls are everywhere.
+I'm sure you can find them just by walking around a bit.
+- Tom: Thanks for your help Maria.
+- Maria: You're welcome Tom!
 ```
 
 ---
