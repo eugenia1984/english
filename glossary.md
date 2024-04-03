@@ -124,6 +124,8 @@
 
 - **How was it?**: is a general way to ask about something that just happened.
 
+- **hold**: When you use the verb hold in the context of meetings, it means to have or conduct a meeting. Like saying, Our school holds an assembly every Friday. It means this school has assemblies every Friday.
+
 - **hope** is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
 
 ---
@@ -137,8 +139,6 @@
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
-
-
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
 
