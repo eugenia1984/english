@@ -218,4 +218,34 @@ She assigns tasks and makes sure everything runs well.
 
 - Dialogue 4: Talking About the Monday Meetings
 
+```
+- Tom: Tell me about our team meetings, Sophie. 
+Do they happen every week?
+- Sophie: Yes, they do. 
+We have meetings on Monday mornings.
+- Tom: Hmm… Do we discuss all our ongoing projects in these meetings?
+- Sophie: We do.
+ It's a chance to update everyone on project progress.
+- Tom: Awesome! Do they usually last long?
+- Sophie: Not too long. 
+They usually take about 30 to 45 minutes.
+- Tom: That's reasonable.
+Do we have an agenda for each meeting?
+- Sophie: Yes, we do.
+Maria prepares the agenda in advance.
+- Tom: Good to know! 
+Do the meetings involve everyone on the team?
+- Sophie: Absolutely! 
+All the team members have a chance to speak,
+so everyone know what the others are doing.
+- Tom: That's important. 
+Does Maria assign tasks during these meetings?
+- Sophie: Sometimes, but we normally discuss tasks we plan on tackling for the week.
+- Tom: Does this include brainstorming sessions?
+- Sophie: Occasionally, yeah. 
+It depends on the project's needs.
+- Tom: I can't wait for the first meeting I'll attend.
+- Sophie: Probably next Monday.
+```
+
 ---
