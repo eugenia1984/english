@@ -272,6 +272,8 @@
 
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
+- **To encourage**: means to give support, confidence, or hope to someone. It's what a good coach does to motivate their team to do their best.
+
 - **To ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
 
 - **To handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
