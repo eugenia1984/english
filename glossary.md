@@ -266,6 +266,8 @@
 
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
+- **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
+
 - **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
