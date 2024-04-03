@@ -284,6 +284,9 @@
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
+- **To attend** means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
+
+
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
