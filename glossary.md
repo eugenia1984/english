@@ -182,6 +182,8 @@
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
+- **most of the time**: means usually or very often.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> O
