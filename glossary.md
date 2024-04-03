@@ -196,6 +196,9 @@
 
 - **of course** is a phrase used to express strong agreement or to indicate that something is obvious.
 
+- **on** in this context links the updates to the specific subject they are about - the project progress. In English, you use on when you're talking about the topic of communication, like a presentation on science or an update on work. It shows a direct relationship between the communication and the topic.
+
+
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
@@ -307,6 +310,8 @@
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
 
 - **unlock** means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
+
+- **update** is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase`` updates on project progress`` means giving new information about the present projects.
 
 - **user-friendly** refers to something that is easy and pleasant to use, especially digital products like websites or apps.
 
