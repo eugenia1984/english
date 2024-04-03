@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, Condition: only if, Simple Present - verbs with -s or -es
 
-- DIALOGUE 3: Adverbs of frequency
+- DIALOGUE 3: Adverbs of frequency, Do you...? Yes, I do / I do  or No, I don't / I don't
 
 ## DIALOGUE 1
 
@@ -132,9 +132,8 @@ As you already studied, For most verbs conjugation can be simple. You just add s
 
 For example: ``You talk`` -> ``He talks`` /  ``They do`` -> ``It does``
 
-
-
 ---
+
 # DIALOGUE 3
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Adverbs of frequency
@@ -147,7 +146,11 @@ With other verbs, usually comes before the main verb, for example: `He usually w
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Do you...? Yes, I do / I do or No, I don't / I don't
+
+In this dialogue, Sophie says she likes working with Maria, their team lead.
+
+Tom asks: `Do you enjoy working with her?`. To say yes to a question that starts with do, you can say` Yes, I do` or simply `I do`. To say no, you can say `No, I don't` or `I don't`.
 
 ---
 
