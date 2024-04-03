@@ -6,7 +6,6 @@
 
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
-
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
@@ -122,6 +121,8 @@
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
 
 - **have a break**: means to take a short rest or pause from what you are doing.
+
+- **have a chance to speak** implies that everyone is given the opportunity to contribute to the conversation.
 
 - **Have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
 
@@ -275,6 +276,8 @@
 
 - **That sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
 
+- **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
+
 - **To be into** something means to be interested in it or to enjoy it.
 
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
@@ -319,7 +322,7 @@
 
 - **unlock** means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
-- **update** is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase`` updates on project progress`` means giving new information about the present projects.
+- **update** is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
 
 - **user-friendly** refers to something that is easy and pleasant to use, especially digital products like websites or apps.
 

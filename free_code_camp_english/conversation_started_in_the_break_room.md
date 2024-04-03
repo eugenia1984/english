@@ -8,7 +8,7 @@
 
 - DIALOGUE 3: Adverbs of frequency, Do you...? Yes, I do / I do  or No, I don't / I don't
 
-- DIALOGUE 4: Frequency: every
+- DIALOGUE 4: Frequency: every, Frequency of actions
 
 # DIALOGUE 1
 
@@ -163,4 +163,14 @@ Tom asks: `Do you enjoy working with her?`. To say yes to a question that starts
 When you want to know how often something happens, you can use **every** followed by a time period like ``day``, ``week``, or ``year``. 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Frequency of actions
+
+In English, words like **sometimes**, **always**, and **never** are used to describe the frequency of an action.
+
+- **Sometimes** is used when an action happens on certain occasions but not every time. For example, I sometimes have coffee for breakfast. It indicates possibility but not certainty.
+
+- **Always** is used when an action happens every single time without fail. For instance, The sun always rises in the east. It shows a consistent or habitual action.
+
+- **Never** means an action does not happen at any time. For example, She never eats meat, indicating a complete absence of the action.
+
+---
