@@ -278,21 +278,13 @@
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
-- **To be into** something means to be interested in it or to enjoy it.
-
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
 
-- **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
+- **To be into** something means to be interested in it or to enjoy it.
 
-- **To prepare in advance** means to get something ready before the time it is needed. This helps meetings to go smoothly because everyone knows what will be discussed.
-
-- **too long** is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
-
-- **today**: is a word used to refer to the current day, the day that is happening now.
-
-- **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team
+- **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team.
 
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
@@ -302,17 +294,27 @@
 
 - **To handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
 
+- **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
+
 - **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
 
 - **To meet someone's needs** means to fulfill or satisfy what someone requires or wants. In a project, this could mean making sure that the work done fits the client's requirements. For example, `Our team works hard to meet the client's needs` means the team aims to do what the client wants. This phrase is often used in customer service and project management.
+
+- **To plan ahead**: When you have meetings to plan ahead, it means you discuss and decide on things that will happen in the future. It helps everyone know what to do before things happen. Like saying, We have a family meeting to plan our vacation.
+
+- **To prepare in advance** means to get something ready before the time it is needed. This helps meetings to go smoothly because everyone knows what will be discussed.
 
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
-- **To plan ahead**: When you have meetings to plan ahead, it means you discuss and decide on things that will happen in the future. It helps everyone know what to do before things happen. Like saying, We have a family meeting to plan our vacation.
+- **too long** is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
+
+- **today**: is a word used to refer to the current day, the day that is happening now.
 
 - **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
+
+- **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
 - **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
