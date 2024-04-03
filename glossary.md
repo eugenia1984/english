@@ -58,6 +58,8 @@
 
 - **develop**: means to make or create something, especially something new. For example, someone might develop a new game or a website.
 
+- **discuss**: It means to talk about something with someone.
+
 - **down the street**: means further along the street or a short distance away on the same street.
 
 - **drawing tablet**: is a tool that people use with computers to draw or design things.
