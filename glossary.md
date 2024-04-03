@@ -24,6 +24,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
 
+- **brainstorming session** is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
+
 - **brief** means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
 
 ---
