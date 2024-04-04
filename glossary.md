@@ -38,6 +38,8 @@
 
 - **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
 
+- **Coffee shops** are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
+
 - **Collaboration** refers to working together with others to achieve a common goal.
 
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
@@ -201,6 +203,13 @@
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
 - **most of the time**: means usually or very often.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> N
+
+- **not too far away**, it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
+
 
 ---
 
