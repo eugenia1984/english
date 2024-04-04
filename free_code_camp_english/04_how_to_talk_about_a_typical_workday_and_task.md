@@ -3,7 +3,7 @@
 
 ## What you will find?
 
-- DIALOGUE 1: prepositions of time: in/on/at, AM /PM.
+- DIALOGUE 1: prepositions of time: in/on/at, AM /PM, Most
 
 ---
 
@@ -35,6 +35,21 @@ In English, the day is divided into two periods using AM and PM.
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Most
+
+The word **most** is used to describe the highest degree or largest part of something. It's often used when comparing three or more things or situations. For example, if you have three tasks - Task A, Task B, and Task C, and Task A takes more time than the others, you can say, ``Task A takes the most time``.
+
+Or in the sentence ``I spend most of my time coding``, **most** indicates that coding takes up the largest part of the time compared to other activities.
+
+In the context of Sophie's dialogue, when she says she likes to work on the ``most important`` tasks first, she means she chooses to do the tasks that are the highest in importance compared to the others.
+
+Examples:
+
+- ``The most challenging part of my job is solving complex problems.```
+
+- ``I like to drink coffee the most in the morning.``
+
+---
+
 
 ---
