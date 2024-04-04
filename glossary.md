@@ -6,6 +6,8 @@
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
+- **after that** is used to indicate the next action following a previous one. It helps in understanding the order in which things are done.
+
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
@@ -304,6 +306,10 @@
 - **That sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
 
 - **theaters** are places where you can watch live performances or movies.
+
+- **Then**: is often used to indicate the next step or action after something else has been done.
+
+For example, First, I check my emails, then I start coding.
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
