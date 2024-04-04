@@ -261,6 +261,8 @@
 
 - **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
 
+- **Routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
+
 - **run well** is used when something is functioning well or is successful.
 
 ---
@@ -307,7 +309,6 @@
 
 - **To attend** means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
 
-
 - **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
@@ -348,7 +349,9 @@
 
 - **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
--- **Two blocks away** means that you need to walk past two street corners to get to a place. It's a short walk in a city.
+- **Two blocks away** means that you need to walk past two street corners to get to a place. It's a short walk in a city.
+
+- **Typical** means what is normal or usual. For example, ``A typical day at work involves meetings and writing reports``.
 
 ---
 
@@ -371,6 +374,8 @@
 - **Wonderful** is an adjective used to express that something is very good or pleasant.
 
 - **workspace** is often used to describe the area where someone works, especially in an office environment.
+
+- **Workday** refers to the day or hours during which you work. For example, ``My workday starts at 9 AM and ends at 5 PM``.
 
 - **workmate** refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
 
