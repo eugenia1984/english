@@ -323,6 +323,8 @@ For example, First, I check my emails, then I start coding.
 
 - **To be into** something means to be interested in it or to enjoy it.
 
+- **To break down** means dividing something into smaller, more manageable parts. For example: ``When I work on a large project, I often break down the work into smaller sections``.
+
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team.
 
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
@@ -348,6 +350,8 @@ For example, First, I check my emails, then I start coding.
 - **To review**: means to look over something, like a list or a plan.
 
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
+
+- **To set deadlines** means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
