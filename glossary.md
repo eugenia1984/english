@@ -2,6 +2,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
+- **A couple of** is a casual way of saying two or a small number of. It's often used in conversation to indicate a small quantity of something.
+
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.

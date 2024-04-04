@@ -10,7 +10,7 @@
 
 - DIALOGUE 4: Frequency: every, Frequency of actions.
 
-- DIALOGUE 5: Is there...?, There are...
+- DIALOGUE 5: Is there...?, There are..., Any
 
 # DIALOGUE 1
 
@@ -202,11 +202,29 @@ This form is useful when you're not sure if the place or item exists in that are
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> There are...
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> There are... / Are there...?
 
 **There are** is used when talking about the existence of multiple things or places in a particular location.
 
 For example: ``There are many programming languages in the market.``
+
+When you want to ask about the existence of specific places or things in your current location, you can use the question structure ``Are there any... around here?``. The phrase around here refers to the immediate vicinity or nearby area.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Any
+
+The word **any** is often used in questions to ask if something exists or is available, without specifying a quantity. It's useful when you don't know if there is something or how much there is and you want to find out.
+
+For example: ``Are there any updates?`` The word any is used to ask if there are updates without specifying a number.
+
+**Any** is often used in questions and negative statements to mean some or even a little. Here's how you might use it in different contexts:
+
+- In questions: ``Do you have any questions?`` (It doesn't matter if there are many questions or just one; you're asking if there are questions at all.)
+
+- In negative sentences: ``I don't have any money.`` (I have zero money.)
+
+- With offers and requests: ``Could I have any of these cookies?`` (It doesn't matter which cookie; any cookie will do.)
 
 ---
 
