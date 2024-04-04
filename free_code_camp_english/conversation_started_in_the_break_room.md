@@ -8,7 +8,9 @@
 
 - DIALOGUE 3: Adverbs of frequency, Do you...? Yes, I do / I do or No, I don't / I don't
 
-- DIALOGUE 4: Frequency: every, Frequency of actions
+- DIALOGUE 4: Frequency: every, Frequency of actions.
+
+- DIALOGUE 5: Is there...?, There are...
 
 # DIALOGUE 1
 
@@ -192,6 +194,20 @@ Remember, **occasionally** means something happens sometimes, but not regularly 
 
 # DIALOGUE 5
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Is there...?
+
+To elaborate a question using **there** is you just need to change the order of the verb to be, like so: ``There is an ATM nearby`` -> ``Is there an ATM nearby?``
+
+This form is useful when you're not sure if the place or item exists in that area and you want to ask about it.
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> There are...
+
+**There are** is used when talking about the existence of multiple things or places in a particular location.
+
+For example: ``There are many programming languages in the market.``
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>

@@ -106,6 +106,8 @@
 
 - **get out**: means to leave a place.
 
+- **getting to know the area**: It's a way to become more familiar with the nearby places and how to find them.
+
 - **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating.
 
 - **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
