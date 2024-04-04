@@ -134,6 +134,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
 
+- **handle**: means to manage or deal with something, especially effectively and competently. In a work context, it often refers to how someone manages tasks or projects. For example, ``She handles client requests very efficiently``.
+
 - **have a break**: means to take a short rest or pause from what you are doing.
 
 - **have a chance to speak** implies that everyone is given the opportunity to contribute to the conversation.
