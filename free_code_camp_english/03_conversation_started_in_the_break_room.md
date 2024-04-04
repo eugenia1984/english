@@ -12,6 +12,8 @@
 
 - DIALOGUE 5: Is there...?, There are..., Any, There isn't / There aren't
 
+---
+
 # DIALOGUE 1
 
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> VERB TO BE
@@ -238,4 +240,3 @@ You use **there isn't** for singular nouns or **there aren't** for plural nouns.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>

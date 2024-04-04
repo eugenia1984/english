@@ -2,35 +2,12 @@
 
 What you will find?
 
-```
--Example
--Contractions
--Questions tags
--Roles
--Agreeing or saying yes to what is said
--Verb to Be: I'm
--Ask opinion
--Highlight difference
--Express feelings or opinions
--I like it here
--Desk, drawing tablet and workspace
--Everything looks great
--Articles: a, an, the
--Where are you from?
--Demonstrative pronoun: this, those, that
--Agreement
--Possession(your, my)
--They're, their, and there
--You are into...
--Meals
--Actions or plans
--Introduce someone
--Pronoun HE
--Verb to be: IS
--Something possessive
--Pronoun SHE
--Greeting with FROM
-```
+- DIALOGUE 1: Example / Contractions / Questions tags / Roles / Agreeing or saying yes to what is said / Verb to Be: I'm / Ask opinion / Highlight difference / Express feelings or opinions / I like it here / Desk, drawing tablet and workspace / Everything looks great
+
+- DIALOGUE 2: Articles: a, an, the / Where are you from? / Demonstrative pronoun: this, those, that / Agreement / Possession(your, my) / They're, their, and there / You are into...
+
+- DIALOGUE 3: Meals / Actions or plans / Introduce someone / Pronoun HE / Verb to be: IS / Something possessive / Pronoun SHE / Greeting with FROM
+
 
 ---
 
@@ -140,7 +117,7 @@ The phrase `I like it here` is commonly used to express positive feelings about 
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> let me show you to your [place]
 
 When someone wants to guide or direct another person somewhere, they can use `let me show you to your [place]`, place being the destination. It expresses the speaker's intention to demonstrate or direct something to the listener.
 
@@ -168,7 +145,7 @@ Expressing satisfaction or contentment in English can be done using various expr
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Thanks for show me around the place. Maria
 
 When expressing gratitude, we sometimes mention the action for which we are thankful. Here, Tom is specifically thanking Maria for something she did. example: `Thanks for show me around the place. Maria.`
 
@@ -186,7 +163,7 @@ When expressing gratitude, we sometimes mention the action for which we are than
 
 -> When someone says **too** at the end of a sentence, they mean also or as well
 
-### Articles : a, an the
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Articles : a, an the
 
 Identify how articles change the context of a sentence. Articles, like **the** and **a**, can change the meaning of a sentence.
 
@@ -398,6 +375,3 @@ Jake provides an answer using it `isn't`, which is a contraction of `it is not`.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
-
----

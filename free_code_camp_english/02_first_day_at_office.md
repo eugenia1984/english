@@ -1,5 +1,20 @@
 # <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> First day at office
 
+
+## What you will find?
+
+- DIALOGUE 1: Introduction,  Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER
+
+- DIALOGUE 2: Has been, Data base, He's as short of: He is or He has, UX/UI, Join and Joined, Introduce yourself to the team
+
+- DIALOGUE 3: Any and Even
+
+- DIALOGUE 4: Is there? Are there? 
+
+- DIALOGUE 5: Manage, Management, Project management / We have a lot to talk about today
+
+---
+
 # DIALOG 1
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Introduction
@@ -43,7 +58,7 @@ Phrases like `I really like [subject]`, with subject being a subject you like, o
 
 **Senior**: A managerial role with significant experience.
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> HAS BEEN
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Has been
 
 The phrase `has been` is used in English to talk about something that started in the past and is still happening now. It is often used with expressions of time. For example: `She has been with the company for ten years` means that this person started working at the company ten years ago and is still working there.
 
@@ -108,7 +123,7 @@ The word even highlights something extra or beyond what is usual.
 ---
 ---
 
-# DIALOG 3
+# DIALOG 4
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Is there? Are there?
 
@@ -136,12 +151,4 @@ The word even highlights something extra or beyond what is usual.
 Understanding these phrases helps you follow what is planned for a meeting or a discussion.
 
 ---
----
 
-# DIALOGUE 5
-
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
-
----
-
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
