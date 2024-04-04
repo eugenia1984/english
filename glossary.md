@@ -341,6 +341,10 @@ For example, First, I check my emails, then I start coding.
 
 - **To prepare in advance** means to get something ready before the time it is needed. This helps meetings to go smoothly because everyone knows what will be discussed.
 
+- **To prioritize** means to decide which tasks are most important to do first.
+
+- **To review**: means to look over something, like a list or a plan.
+
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
