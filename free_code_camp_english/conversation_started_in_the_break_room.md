@@ -10,7 +10,7 @@
 
 - DIALOGUE 4: Frequency: every, Frequency of actions.
 
-- DIALOGUE 5: Is there...?, There are..., Any
+- DIALOGUE 5: Is there...?, There are..., Any, There isn't / There aren't
 
 # DIALOGUE 1
 
@@ -225,6 +225,16 @@ For example: ``Are there any updates?`` The word any is used to ask if there are
 - In negative sentences: ``I don't have any money.`` (I have zero money.)
 
 - With offers and requests: ``Could I have any of these cookies?`` (It doesn't matter which cookie; any cookie will do.)
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> There isn't / There aren't
+
+You use **there isn't** for singular nouns or **there aren't** for plural nouns.
+
+``There isn’t`` is an abbreviation of ``there is not``.
+
+``There aren’t`` is an abbreviation of ``there are not``.
 
 ---
 

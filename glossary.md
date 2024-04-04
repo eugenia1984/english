@@ -26,6 +26,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
 
+- **Bookstores** are shops that sell book
+
 - **brainstorming session** is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
 
 - **brief** means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
@@ -69,6 +71,8 @@
 - **discuss**: It means to talk about something with someone.
 
 - **down the street**: means further along the street or a short distance away on the same street.
+
+- **downtown** is the heart of a city where there are many shops, restaurants, and usually tall buildings.
 
 - **drawing tablet**: is a tool that people use with computers to draw or design things.
 
@@ -269,6 +273,8 @@
 
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
+- **shopping malls** are large buildings with lots of different stores, and they're common in cities.
+
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
 - **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
@@ -294,6 +300,8 @@
 - **Team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
 - **That sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
+
+- **theaters** are places where you can watch live performances or movies.
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
@@ -339,6 +347,8 @@
 - **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
 - **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
+
+-- **Two blocks away** means that you need to walk past two street corners to get to a place. It's a short walk in a city.
 
 ---
 

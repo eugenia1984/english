@@ -4,9 +4,9 @@
 
 1. [Greeting in the First Day at Office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/greeting_in_the_first_day_at_office.md): contractions, questions tags, roles, agreeing or saying yes to what is said, verb to be: I'm, ask opinion, highlight difference, express feelings or opinions, I like it here, desk, drawing tablet and workspace, everything looks great, articles (a, an, the), where are you from?, demonstrative pronoun (this, those, that), agreement, possession (your, my), they're, their, and there, you are into..., Meals, actions or plans, Introduce someone, pronoun he, verb to be: IS, something possessive, pronoun SHE, Greeting with FROM
 
-2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today, Is there...?, There are..., Any
+2. [Introductions in your first day at the office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/first_day_at_office.md): Introduction, Pronouns are used for personal reference, Sentences with verb to be, Professions with +ER, He's as short of: He is or He has, UX / UI, join and joined, Introduce yourself to the team, I hope you're all well, Any and Even, Is there? Are there?, Manage, Management, Project management, We have a lot to talk about today.
 
-3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es, Adverbs of frequency, Do you...? Yes, I do / I do or No, I don't / I don't, Frequency: every, Frequency of actions
+3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es, Adverbs of frequency, Do you...? Yes, I do / I do or No, I don't / I don't, Frequency: every, Frequency of actions , Is there...?, There are..., Any, There isn't / There aren't
 
 ---
 
@@ -264,9 +264,9 @@ Are there any good restaurants in this neighborhood?
 - Maria: Absolutely! There's a gym.
 There are also great coffee shops not too far away.
 - Tom: How about bookstores or theaters?
-- Maria: There isn't any theater that I know.
+- Maria: Hmmm... there isn't any theater around here that I know of.
 The bookstores I remember are all downtown.
-But there is a bus stop.
+But there is a bus stop two blocks away.
 - Tom: Oh, how about a shopping mall?
 - Maria: Malls are everywhere.
 I'm sure you can find them just by walking around a bit.
