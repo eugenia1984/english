@@ -258,14 +258,13 @@ Are there any parks around here?
 - Maria: Yes, there are a couple of parks near here.
 They're great for a break.
 - Tom: How about restaurants?
-Are there any good restaurant
+Are there any good restaurants in this neighbourhood?
 - Maria: Yes, there are many restaurants within walking distance.
 - Tom: Fantastic! Is there anything else interesting to check out?
 - Maria: Absolutely! There's a gym.
 There are also great coffee shops not too far away.
-- Tom:
 - Tom: How about bookstores or theaters?
-- Maria:
+- Maria: There isn't any theater that I know.
 The bookstores I remember are all downtown.
 But there is a bus stop.
 - Tom: Oh, how about a shopping mall?
