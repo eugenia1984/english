@@ -347,6 +347,8 @@
 
 - **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
+- **within walking distance** means that the place is close enough to walk to comfortably.
+
 - **Wonderful** is an adjective used to express that something is very good or pleasant.
 
 - **workspace** is often used to describe the area where someone works, especially in an office environment.
