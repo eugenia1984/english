@@ -14,7 +14,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogues:
 
-1. **Greeting in the First Day at Office:**
+1. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  **Greeting in the First Day at Office:**
 
 Dialog 1:
 
@@ -102,7 +102,7 @@ Dialog 2:
 - Jake: Sure, have a great. See you.
 ```
 
-2. **Introductions in your first day at the office:**
+2. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  **Introductions in your first day at the office:**
 
 - Dialogue 1: A Mobile Developer Joins the Team
 
@@ -162,7 +162,7 @@ Dialog 2:
 -Maria: Thanks, now let's get started with the project details and your specific requirements David.
 ```
 
-3. **Conversation starters in the break room:**
+3. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  **Conversation starters in the break room:**
 
 - Dialogue 1: Small Talk
 
@@ -277,3 +277,34 @@ I'm sure you can find them just by walking around a bit.
 ```
 
 ---
+
+4. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  **How to talk about a typical workday and task**
+
+- Dialogue 1: Tom Asks Sophie About Her Routine
+
+```
+- Tom: Hey Sophie, let me ask you about your daily routine as a web developer.
+What's your typical workday like?
+- Sophie: Hi Tom! 
+Well, my day usually starts at 8:30.
+I check my emails and reply to any urgent messages.
+- Tom: That's a good start.
+What do you do after that?
+- Sophie: Then, I review my to-do list for the day and prioritize my tasks.
+I like to work on the most important ones first.
+- Tom: That makes sense.
+How do you handle your projects?
+- Sophie: I break down my projects into small tasks and set deadlines for them.
+It helps me to stay on track.
+During the day, I work on coding, test the websites, and debug issues.
+- Tom: Do you take breaks? 
+- Sophie: I take short breaks to stretch, have some coffee, or chat with colleagues.
+It helps me relax and focus.
+- Tom: And what about lunch?
+-Sophie: when I don't go to a coffee around here
+I usually bring my lunch and eat at my desk while I check my progress
+- Tom: Your routine it's well organized, how do you manage your time?
+- Sophie: I use this time managing app to track how I manage my time.
+- Tom: Thanks for sharing Sophie. 
+I want to get more organized and your tips are a great help to me.
+```
