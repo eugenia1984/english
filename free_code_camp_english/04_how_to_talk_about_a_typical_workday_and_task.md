@@ -3,7 +3,7 @@
 
 ## What you will find?
 
-- DIALOGUE 1: prepositions of time: in/on/at ,
+- DIALOGUE 1: prepositions of time: in/on/at, AM /PM.
 
 ---
 
@@ -19,7 +19,19 @@
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> AM / PM
+
+**AM** and **PM** are used to tell time during the day. 
+
+- **AM** means **the time from midnight to noon** (for example, 8:00 AM is in the morning). 
+
+- **PM** means **the time from noon to midnight** (for example, 6:00 PM is in the evening).
+
+In English, the day is divided into two periods using AM and PM. 
+
+- **AM stands for Ante Meridiem**, which is Latin for **before midday**. It refers to the time **from midnight (12:00 AM) to noon (12:00 PM)**. So, when you say 9:00 AM, it means 9 in the morning.
+
+- **PM stands for Post Meridiem**, which is Latin for **after midday**. It refers to the time **from noon (12:00 PM) to just before midnight (11:59 PM)**. So, when we say 3:00 PM, it means 3 in the afternoon.
 
 ---
 
