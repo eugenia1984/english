@@ -42,6 +42,10 @@
 
 - **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
 
+- **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
+
+- **Coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
+
 - **Coffee shops** are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
 
 - **Collaboration** refers to working together with others to achieve a common goal.
@@ -297,6 +301,8 @@
 
 - **stay on track**: is often used to talk about continuing to do the right thing in order to achieve a goal. It's a motivational phrase used in both personal and professional contexts. For example: ``I make a list every morning to stay on track with my work.``
 
+- **Stretch**: To move your arms and legs to relax them. Example: ``I stretch during my break``.
+
 - **supportive** is used to describe someone who provides encouragement or assistance to others. Think of it like a strong pillar that holds up a building - a supportive person helps to hold you up when you need it.
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
@@ -311,9 +317,9 @@
 
 - **theaters** are places where you can watch live performances or movies.
 
-- **Then**: is often used to indicate the next step or action after something else has been done.
+- **Then**: is often used to indicate the next step or action after something else has been done. For example, ``First, I check my emails, then I start coding``.
 
-For example, First, I check my emails, then I start coding.
+- **Tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
@@ -326,6 +332,8 @@ For example, First, I check my emails, then I start coding.
 - **To be into** something means to be interested in it or to enjoy it.
 
 - **To break down** means dividing something into smaller, more manageable parts. For example: ``When I work on a large project, I often break down the work into smaller sections``.
+
+- **to bring**: means to take something or someone with you to the place where you are going. For example, ``I bring my phone to work every day``. It's often used when talking about taking items from one place to another.
 
 - **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team.
 

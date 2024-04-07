@@ -308,3 +308,27 @@ I usually bring my lunch and eat at my desk while I check my progress
 - Tom: Thanks for sharing Sophie. 
 I want to get more organized and your tips are a great help to me.
 ```
+
+- Dialogue 2: Anna from HR Tells Tom About the Company Routine
+
+```
+- Anna: Hi Tom, let me tell you what a regular day at our company normally looks like.
+We start at 9.00.
+The first thing to do is log in to your computer and check your emails.
+- Tom: Sounds good. What do I do after checking emails?
+- Anna: After that, you'll probably attend the daily team meeting at 9:30.
+During the meeting, the team discusses project updates.
+- Tom: I see. What about the rest of the day?
+- Anna: During the rest of the day, you usually work on your design projects,
+collaborate with the team,
+After that, you'll probably attend the daily team meeting at 9:30.
+- Tom: What time do we have our lunch break?
+- Anna: You have one-hour lunch break about noon every day.
+Bring your lunch or go to one of the cafes nearby.
+The people from the team often do this.
+- Tom: How long are our work days?
+- Anna: We typically finish about 5, but that depends on the project deadlines.
+- Tom: Thanks for explaining Anna.
+It's help me to know what to expects.
+- Anna: You're welcome Tom.
+```
