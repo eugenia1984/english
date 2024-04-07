@@ -3,7 +3,7 @@
 
 ## What you will find?
 
-- DIALOGUE 1: prepositions of time: in/on/at, AM /PM, Most
+- DIALOGUE 1: prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development
 
 ---
 
@@ -51,5 +51,14 @@ Examples:
 
 ---
 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Specific vocabulary related to a profession, like web development
+
+Terms like **coding**, **test the websites**, and **debug** issues are common in this field.
+
+**Coding** refers to writing computer code, **testing websites** means checking if a website works correctly, and **debugging** is about finding and fixing errors in the code.
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
