@@ -295,6 +295,8 @@
 
 - **specific** means something very clear and exact. For example, `The client has specific goals for the project` means the client's goals are clear. **Specific requirements** means very clear and exact things you need to do. Like a list that tells you exactly what to do for a project. It combines the clarity of specific with the needs of requirements. Like saying, ` We need to meet the specific requirements of the client` which means meeting the precise needs or conditions the client has set.
 
+- **stay on track**: is often used to talk about continuing to do the right thing in order to achieve a goal. It's a motivational phrase used in both personal and professional contexts. For example: ``I make a list every morning to stay on track with my work.``
+
 - **supportive** is used to describe someone who provides encouragement or assistance to others. Think of it like a strong pillar that holds up a building - a supportive person helps to hold you up when you need it.
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
