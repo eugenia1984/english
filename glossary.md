@@ -44,6 +44,8 @@
 
 - **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
 
+- **Checking emails**: To look at and read new messages in your email account. Example: ``After logging in, I check my emails to see if I have any new messages``.
+
 - **Coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
 
 - **Coffee shops** are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
@@ -344,6 +346,8 @@
 - **To ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
 
 - **To handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
+
+- **To Log In**: To enter your username and password to access a computer or website. Example: ``Every morning, I log in to my computer to start work``.
 
 - **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
 
