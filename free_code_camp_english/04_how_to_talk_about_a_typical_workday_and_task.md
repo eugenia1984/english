@@ -127,6 +127,12 @@ For example: ``I must finish this report because it's important to me`` vs. ``I 
 
 # DIALOGUE 4
 
+Asking for the meaning of a word you don't know is a common and important part of learning and communication. 
+
+You can ask this in different ways, like ``What does [word] mean?``, ``What is the meaning of [word]?`` or ``Can you tell me the meaning of [word]?``, where word is the word you are asking about.
+
+---
+
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
