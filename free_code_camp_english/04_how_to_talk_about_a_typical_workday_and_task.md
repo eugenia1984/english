@@ -7,7 +7,7 @@
 
 - DIALOGUE 2: adverbs of frequency: usually, collaborate /attend meetings / client, before / after / around
 
-- DIALOGUE 3: Entrances / Exits, Have to / Must
+- DIALOGUE 3: Entrances / Exits, Have to / Must, Essential / Optional
   
 ---
 
@@ -112,6 +112,14 @@ For instance, ``The security guard monitors the main entrance to the office``.
 -> **Have to is more for external requirements or rules**
 
 For example: ``I must finish this report because it's important to me`` vs. ``I have to finish this report by 5 PM because my boss said so``.
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Essential / optional
+
+**Essential** means something that is absolutely necessary or extremely important. Example: ``Regular training is essential for team``. development.
+
+**Optiona**l refers to something you can choose. For example, ``attending the social event is optional`` implies it's a choice, not a requirement.
 
 ---
 
