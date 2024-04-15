@@ -102,7 +102,7 @@
 
 - **Every**: When you want to talk about something that happens regularly on a specific day of the week, you use the expression every followed by the day. For example, `I go to the gym every Tuesday`.
 
-- ** everyone** is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
+- **everyone** is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
 
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
 
@@ -206,6 +206,8 @@
 
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
+- **Lunch Break**: A period during the workday set aside for eating lunch. Example: ``I usually take my lunch break at 1:00 PM``.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
@@ -224,6 +226,7 @@
 
 - **not too far away**, it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
 
+- **noon**: 12:00 PM, in the middle of the day. Example: We have our team meeting at noon.
 
 ---
 
