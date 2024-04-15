@@ -100,8 +100,10 @@
 
 - **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
 
-- **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
+- **Emergencies** are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
 
+- **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
+  
 - **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
 
 - **Every**: When you want to talk about something that happens regularly on a specific day of the week, you use the expression every followed by the day. For example, `I go to the gym every Tuesday`.
