@@ -325,7 +325,7 @@ collaborate with the team,
 After that, you'll probably attend the daily team meeting at 9:30.
 - Tom: What time do we have our lunch break?
 - Anna: You have one-hour lunch break about noon every day.
-Bring your lunch or go to one of the cafes nearby.
+Bring your lunch or go to one of the cafés nearby.
 The people from the team often do this.
 - Tom: How long are our work days?
 - Anna: We typically finish about 5, but that depends on the project deadlines.
