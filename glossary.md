@@ -82,6 +82,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **daily**: means something that happens every day. For example: I read the news daily means I read the news every day. **daily activities**: refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
 
 - **Danger**: refers to the possibility of harm or risk. An example sentence could be, ``Firefighters often face danger in their work``.
+
+- **Data** refers to information or facts collected for reference or analysis. In a workplace, data can include numbers, words, or observations used to make decisions. For example: ``The company collects customer data to understand buying habits``.
   
 - **database administrator** is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
 
