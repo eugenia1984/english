@@ -340,15 +340,18 @@ It's help me to know what to expects.
 - Sophie: So Jake! How's working in security?
 Do you deal with any danger?
 - Jake: No, not that so much.
-In the morning, I have to check the security cameras to work it propertly.
+In the morning, I have to check the security cameras to work make it sure they are working propertly.
 I have to monitor the entrances and exits at all times.
 - Sophie: What a responsibility. What else do you do?
 - Jake: I can't forget to inspect the alarm systems.
 They have to be in top condition in case of emergencies.
 - Sophie: I see. Anything else on your checklist?
-- Jake:
+- Jake: Yes, I conduct regular security sweeps.
+It's essential to ensure everything is secure.
 - Sophie: And what about the security badgets?
-- Jake:
+- Jake: Oh, I have to issue security badges to new employees
+and I can't forget to revoke access for the people that leave the company.
+Access control, it's crutial.
 - Sophie: This are a lot of responsabilities, Jake.
 - Jake: Well, yeah. Security is a top priority,
 and I have to spects that everything works as it's expectected
