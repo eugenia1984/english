@@ -8,6 +8,8 @@
 - DIALOGUE 2: adverbs of frequency: usually, collaborate /attend meetings / client, before / after / around
 
 - DIALOGUE 3: Entrances / Exits, Have to / Must, Essential / Optional
+
+- DIALOGUE 4:
   
 ---
 
@@ -122,6 +124,8 @@ For example: ``I must finish this report because it's important to me`` vs. ``I 
 **Optiona**l refers to something you can choose. For example, ``attending the social event is optional`` implies it's a choice, not a requirement.
 
 ---
+
+# DIALOGUE 4
 
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
