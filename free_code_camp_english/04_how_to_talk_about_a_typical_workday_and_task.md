@@ -7,8 +7,8 @@
 
 - DIALOGUE 2: adverbs of frequency: usually, collaborate /attend meetings / client, before / after / around
 
-- DIALOGUE 3: Entrances / Exits
-- 
+- DIALOGUE 3: Entrances / Exits, Have to
+  
 ---
 
 # DIALOGUE 1
@@ -101,6 +101,12 @@ For instance, ``The security guard monitors the main entrance to the office``.
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Have to
+
+**Have to** is an expression used **to express necessity or obligation**, especially in a work context. For example, ``You have to wear a helmet on the construction site`` means that wearing a helmet is a necessary safety rule.
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
