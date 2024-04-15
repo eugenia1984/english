@@ -183,6 +183,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
+- **industry** refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
+
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
