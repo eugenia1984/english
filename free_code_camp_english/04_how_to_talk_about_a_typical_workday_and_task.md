@@ -9,7 +9,7 @@
 
 - DIALOGUE 3: Entrances / Exits, Have to / Must, Essential / Optional
 
-- DIALOGUE 4: Protection / Protect
+- DIALOGUE 4: Protection / Protect, To discuss safety and risks
   
 ---
 
@@ -140,3 +140,18 @@ You can ask this in different ways, like ``What does [word] mean?``, ``What is t
 - **Protect** means to keep something safe. It's important in jobs where you need to take care of information or people. For example, ``companies must protect important details about customers``.
 
 ---
+
+##   <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+ To discuss safety and risks
+
+A **security incident is** an event that may be harmful to the safety or security of a company or organization. For example, ``A security incident like a stolen password needs to be reported immediately``.
+
+Note on Harm and Harmful:
+
+**Harm** means damage or injury to someone or something. It refers to causing a negative effect or putting someone or something at risk. For example: ``Touching hot surfaces can cause harm``, means that touching hot surfaces can lead to injury or damage.
+
+**Harmful** is an adjective used to describe something that can cause harm. It means dangerous or risky in a way that could lead to damage or injury. For example: ``Smoking is harmful to health``, indicates that smoking can cause health problems or damage.
+
+These terms are often used to discuss safety and risks, especially in contexts like health, security, and the environment.
+
+----
