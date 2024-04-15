@@ -339,22 +339,17 @@ It's help me to know what to expects.
 ```
 - Sophie: So Jake! How's working in security?
 Do you deal with any danger?
-- Jake: No, no so much.
+- Jake: No, not that so much.
 In the morning, I have to check the security cameras to work it propertly.
 I have to monitor the entrances and exits at all times.
-- Sophie:
+- Sophie: What a responsibility. What else do you do?
+- Jake: I can't forget to inspect the alarm systems.
+They have to be in top condition in case of emergencies.
+- Sophie: I see. Anything else on your checklist?
 - Jake:
-- Sophie:
+- Sophie: And what about the security badgets?
 - Jake:
-- Sophie:
-- Jake:
-- Sophie:
-- Jake:
-- Sophie:
-- Jake:
-- Sophie:
-- Jake:
-- Sophie:
-- Jake:
-- Sophie:
+- Sophie: This are a lot of responsabilities, Jake.
+- Jake: Well, yeah. Security is a top priority,
+and I have to spects that everything works as it's expectected
 ```
