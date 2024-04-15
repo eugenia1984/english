@@ -70,6 +70,8 @@
 
 - **daily**: means something that happens every day. For example: I read the news daily means I read the news every day. **daily activities**: refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
 
+- **Danger**: refers to the possibility of harm or risk. An example sentence could be, ``Firefighters often face danger in their work``.
+- 
 - **database administrator** is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
 
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
@@ -286,6 +288,8 @@
 
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
+- **Security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
+- 
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
 - **shopping malls** are large buildings with lots of different stores, and they're common in cities.
@@ -344,6 +348,8 @@
 
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
+- **To deal with** means to handle or manage something, especially challenges. For example, ``She deals with client requests at her job``.
+  
 - **To encourage**: means to give support, confidence, or hope to someone. It's what a good coach does to motivate their team to do their best.
 
 - **To ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
