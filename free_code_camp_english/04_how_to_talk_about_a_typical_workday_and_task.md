@@ -5,7 +5,7 @@
 
 - DIALOGUE 1: prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development
 
-- DIALOGUE 2: adverbs of frequency: ussally, collaborate /attend meetings / client
+- DIALOGUE 2: adverbs of frequency: usually, collaborate /attend meetings / client, before / after / around
 
 ---
 
