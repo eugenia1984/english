@@ -356,3 +356,31 @@ Access control, it's crutial.
 - Jake: Well, yeah. Security is a top priority,
 and I have to spects that everything works as it's expectected
 ```
+
+- Dialogue 4: James Explains Compliance
+
+```
+- James: Hey, Linda.
+Today, I want to talk to you about compliance
+and the obligations we have in our daily tasks.
+- Linda: Hey, James.
+So what is the meaning of 'compliance'?
+Can you tell me?
+- James: Of course.
+Compliance is when we put specific rules,
+policies, and regulations that are important for out industry in practise.
+It helps promote ethics at the workplace.
+- Linda: So, what do we have to comply with in our projects?
+- James: Great question! We have to comply with data protection regulations,
+security standards, and our company's code of conduct.
+It's essential to protect sensitive information and maintain our reputation.
+- Linda: Do we have to report, every security incident?
+- James: Absolutely.
+If you see any security breaches or incidents,
+you have to report them immediately.
+Reporting helps us address issues effectively.
+- Linda: James, what about training?
+Do we have to attend training sessions regularly?
+- James:  Yes, you have to attend the training every year.
+It helps you stay updated on the latest regulations and best practices.
+```
