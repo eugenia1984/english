@@ -8,7 +8,7 @@
 
 3. [Conversation starters in the break room](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/03_conversation_started_in_the_break_room.md): Verb to be, Suffix "-ly", Present perfect, Yes... but, questions with Do/Does, Negative with don't or doesn't, Verbs with -S or -ES for he, she and it, Questions with Does for: he/she/it, Want to, condition: only if, Simple Present - verbs with -s or -es, Adverbs of frequency, Do you...? Yes, I do / I do or No, I don't / I don't, Frequency: every, Frequency of actions , Is there...?, There are..., Any, There isn't / There aren't
 
-4. [How to talk about a typical workday and task](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/04_how_to_talk_about_a_typical_workday_and_task.md): prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development, Adverbs of frequency: usually,  Collaborate /attend meetings / client, before / after / around, Entrances / Exits
+4. [How to talk about a typical workday and task](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/04_how_to_talk_about_a_typical_workday_and_task.md): prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development, Adverbs of frequency: usually,  Collaborate /attend meetings / client, before / after / around, Entrances / Exits, Have to
 
 
 ---
