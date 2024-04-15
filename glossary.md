@@ -281,6 +281,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Project's needs** are the requirements or things that a project must have or achieve. In programming, this could include specific features, functions, or performance targets.
 
+- **promote ethics** means to encourage and support moral principles and standards. For example: ``The manager promotes ethics by enforcing transparent reporting``.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
