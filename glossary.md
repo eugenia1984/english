@@ -59,6 +59,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Collaboration** refers to working together with others to achieve a common goal.
 
+- **Compliance** means following rules and doing what is required in a job. It is about making sure we do things the right way. For example, ``In our job, compliance with safety rules keeps everyone safe``.
+
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
 - **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. We contribute our technical skills to develop the app. **contributing** involves adding something to a project,
