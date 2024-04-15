@@ -7,6 +7,8 @@
 
 - DIALOGUE 2: adverbs of frequency: usually, collaborate /attend meetings / client, before / after / around
 
+- DIALOGUE 3: Entrances / Exits
+- 
 ---
 
 # DIALOGUE 1
@@ -89,7 +91,16 @@ Terms like **coding**, **test the websites**, and **debug** issues are common in
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+# DIALOGUE 3
 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Entrances / Exits
+
+**Entrances** are the places where you can enter a building or an area, while **exits** are where you can leave. These terms are important in security to control and monitor the movement of people.
+
+For instance, ``The security guard monitors the main entrance to the office``.
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/
 
 ---
