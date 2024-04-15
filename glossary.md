@@ -6,7 +6,7 @@
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
-- **after that** is used to indicate the next action following a previous one. It helps in understanding the order in which things are done.
+- **after that** is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
