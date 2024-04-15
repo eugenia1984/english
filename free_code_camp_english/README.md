@@ -384,3 +384,36 @@ Do we have to attend training sessions regularly?
 - James:  Yes, you have to attend the training every year.
 It helps you stay updated on the latest regulations and best practices.
 ```
+
+- Dialogue 5: Brian Asks Sarah About Her Routine as a QA Tester
+
+```
+- Brian: Hey, Sarah.
+How's work as a QA tester?
+Is it really challenging?
+- Sarah: Sometimes. Let me tell you how my week usually goes.
+- Brian: Go on, please. What's your weekly routine like?
+- Sarah: Well, on weekdays, I usually wake up at around 6 and get ready for work
+- Brian: That's early. What's your morning routine?
+- Sarah: In the morning, I have breakfast at home and then head to the office at 8.
+- Brian: What's the first thing you do after arrive?
+- Sarah:  After I arrive, I check my emails and messages from the team.
+It helps me plan my day.
+- Brian: Great, what's next?
+- Sarah: After that, during the morning, I start testing the software.
+I have a differnet task to do each day.
+For example,
+- Brian: So, you test differente parts of the software each day?
+- Sarah: Exactly.
+
+- Brian: I see, what else do you do?
+- Sarah: On Wedneys we have
+- Brian: Sounds like a very productive week.
+- Sarah: Yes, there are a lot of this.
+But I like to collaborate to ensure the value of our software.
+- Brian: That's for sharing Sarah. It's interesting, to know what you do.
+- Sarah: You're welcome Brian.
+- Brian: 
+```
+
+---
