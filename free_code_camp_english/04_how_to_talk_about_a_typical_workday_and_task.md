@@ -9,7 +9,7 @@
 
 - DIALOGUE 3: Entrances / Exits, Have to / Must, Essential / Optional
 
-- DIALOGUE 4: Protection / Protect, To discuss safety and risks
+- DIALOGUE 4: Protection / Protect, To discuss safety and risks, Every / Any
   
 ---
 
@@ -155,3 +155,13 @@ Note on Harm and Harmful:
 These terms are often used to discuss safety and risks, especially in contexts like health, security, and the environment.
 
 ----
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Every / Any
+
+**Every** and **any** are often used in sentences but have different meanings.
+
+- **Every** is used to talk about all items in a group or category. For example, ``Every student must complete the assignment`` means all students.
+
+- On the other hand, **any** is used in questions or negative sentences to mean one, some, or all. For example, ``Can any student answer the question?`` means if there is even one student who can answer.
+
+---
