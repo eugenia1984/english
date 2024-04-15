@@ -333,3 +333,28 @@ The people from the team often do this.
 It's help me to know what to expects.
 - Anna: You're welcome Tom.
 ```
+
+- Dialogue 3: Jake Tells Sophie About His Routine
+
+```
+- Sophie: So Jake! How's working in security?
+Do you deal with any danger?
+- Jake: No, no so much.
+In the morning, I have to check the security cameras to work it propertly.
+I have to monitor the entrances and exits at all times.
+- Sophie:
+- Jake:
+- Sophie:
+- Jake:
+- Sophie:
+- Jake:
+- Sophie:
+- Jake:
+- Sophie:
+- Jake:
+- Sophie:
+- Jake:
+- Sophie:
+- Jake:
+- Sophie:
+```
