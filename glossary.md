@@ -416,6 +416,9 @@
 
 - **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
+
+- **What a responsibility** are used to show recognition of the importance of someone's duties.
+  
 - **within walking distance** means that the place is close enough to walk to comfortably.
 
 - **Wonderful** is an adjective used to express that something is very good or pleasant.
