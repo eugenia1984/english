@@ -366,6 +366,8 @@
 
 - **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
 
+- **To make sure** is used to express certainty or confirmation about something. For example,`` I check the list twice to make sure I have everything``.
+
 - **To meet someone's needs** means to fulfill or satisfy what someone requires or wants. In a project, this could mean making sure that the work done fits the client's requirements. For example, `Our team works hard to meet the client's needs` means the team aims to do what the client wants. This phrase is often used in customer service and project management.
 
 - **To plan ahead**: When you have meetings to plan ahead, it means you discuss and decide on things that will happen in the future. It helps everyone know what to do before things happen. Like saying, We have a family meeting to plan our vacation.
@@ -389,6 +391,8 @@
 - **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
 
 - **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
+
+- **To work properly** means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
 
 - **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
