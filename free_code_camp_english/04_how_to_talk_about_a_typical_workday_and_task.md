@@ -5,7 +5,7 @@
 
 - DIALOGUE 1: prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development
 
-- DIALOGUE 2
+- DIALOGUE 2: adverbs of frequency: ussualy.
 
 ---
 
@@ -62,6 +62,10 @@ Terms like **coding**, **test the websites**, and **debug** issues are common in
 ---
 
 # DIALOGUE 2
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Adverbs of frequency: usually
+
+``I usually attend a team meeting in the morning``, means that attending the meeting is a regular part of the morning routine.
 
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
