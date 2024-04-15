@@ -291,6 +291,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
 
+- **Rules** are specific guidelines or instructions that are meant to be followed. They are set to maintain order and ensure fair and proper conduct, especially in a professional setting. For example, ``The office rules include being punctual and respectful to colleagues``.
+  
 - **run well** is used when something is functioning well or is successful.
 
 ---
