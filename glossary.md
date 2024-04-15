@@ -384,6 +384,8 @@
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
+- **Top condition** refers to being in the best possible state or quality, especially important for equipment in safety-critical roles. For example, ``The fire extinguisher must be kept in top condition``.
+  
 - **too long** is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
