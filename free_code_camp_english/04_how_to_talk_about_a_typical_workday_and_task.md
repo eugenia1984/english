@@ -9,7 +9,7 @@
 
 - DIALOGUE 3: Entrances / Exits, Have to / Must, Essential / Optional
 
-- DIALOGUE 4:
+- DIALOGUE 4: Protection / Protect
   
 ---
 
@@ -133,6 +133,10 @@ You can ask this in different ways, like ``What does [word] mean?``, ``What is t
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Protection / Protect
+
+- **Protection** means keeping something safe from harm or damage. In many jobs, protecting data or people is very important. For example, ``Wearing helmets provides protection to workers on a construction site``.
+
+- **Protect** means to keep something safe. It's important in jobs where you need to take care of information or people. For example, ``companies must protect important details about customers``.
 
 ---
