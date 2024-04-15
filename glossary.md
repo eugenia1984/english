@@ -10,6 +10,8 @@
 
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
+- **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
+
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
@@ -225,6 +227,8 @@
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> N
+
+- **not that much** is used to indicate a small amount or degree, often in response to a question about quantity or frequency. For example, ``Do you travel for work? – Not that much``.
 
 - **not too far away**, it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
 
