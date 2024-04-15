@@ -6,6 +6,8 @@
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
+- **Access control** refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
+  
 - **after that** is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
@@ -365,6 +367,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **To handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
 
+- **To issue** in this context means to provide or distribute something officially, like badges or permits. For example, ``The office issues ID cards to all new employees``.
+  
 - **To Log In**: To enter your username and password to access a computer or website. Example: ``Every morning, I log in to my computer to start work``.
 
 - **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
@@ -383,6 +387,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **To review**: means to look over something, like a list or a plan.
 
+- **To revoke** means to officially cancel or take back a decision, right, or permission. For example, ``The administrator may revoke access if rules are broken``.
+  
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **To set deadlines** means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
