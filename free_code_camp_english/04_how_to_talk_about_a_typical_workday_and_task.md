@@ -5,7 +5,7 @@
 
 - DIALOGUE 1: prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development
 
-- DIALOGUE 2: adverbs of frequency: ussualy.
+- DIALOGUE 2: adverbs of frequency: ussally, collaborate /attend meetings / client
 
 ---
 
@@ -67,6 +67,17 @@ Terms like **coding**, **test the websites**, and **debug** issues are common in
 
 ``I usually attend a team meeting in the morning``, means that attending the meeting is a regular part of the morning routine.
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Collaborate , attend meetings, client
+
+**Collaborate** means to work jointly on an activity or project, often used in team settings.
+
+**Attend meetings** refers to being present at formal gatherings.
+
+**Clients** are people or organizations using the services of a professional.
+
+---
+
 
 ---
