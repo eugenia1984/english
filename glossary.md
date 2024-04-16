@@ -131,6 +131,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
 
+- **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> G
