@@ -288,6 +288,11 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **promote ethics** means to encourage and support moral principles and standards. For example: ``The manager promotes ethics by enforcing transparent reporting``.
   
 ---
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Q
+
+- **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
+  
+---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
 
