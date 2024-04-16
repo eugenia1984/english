@@ -10,7 +10,9 @@
 - DIALOGUE 3: Entrances / Exits, Have to / Must, Essential / Optional
 
 - DIALOGUE 4: Protection / Protect, To discuss safety and risks, Every / Any
-  
+
+- DIALOGUE 5: Weekdays / Weekend
+   
 ---
 
 # DIALOGUE 1
@@ -141,8 +143,7 @@ You can ask this in different ways, like ``What does [word] mean?``, ``What is t
 
 ---
 
-##   <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
- To discuss safety and risks
+##   <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> To discuss safety and risks
 
 A **security incident is** an event that may be harmful to the safety or security of a company or organization. For example, ``A security incident like a stolen password needs to be reported immediately``.
 
@@ -163,5 +164,13 @@ These terms are often used to discuss safety and risks, especially in contexts l
 - **Every** is used to talk about all items in a group or category. For example, ``Every student must complete the assignment`` means all students.
 
 - On the other hand, **any** is used in questions or negative sentences to mean one, some, or all. For example, ``Can any student answer the question?`` means if there is even one student who can answer.
+
+---
+
+# DIALOGUE 5
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Weekdays / Weekend
+
+**Weekdays** refer to Monday, Tuesday, Wednesday, Thursday, and Friday **Weekend** refers to Saturday and Sunday.
 
 ---
