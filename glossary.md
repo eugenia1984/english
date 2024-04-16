@@ -49,6 +49,8 @@
 - **Can't** is sometimes used for referring to something that should not be done, usually for reasons like safety, rules, or best practices. 
 It emphasizes the importance of avoiding certain actions. For example, ``You can't enter restricted areas without permission highlights a strict rule or prohibition``.
 
+- **Challenging** means something that is difficult in a way that tests your ability or determination. When work is challenging, it requires effort, skill, or strong problem-solving.
+  
 - **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
 
 - **Checking emails**: To look at and read new messages in your email account. Example: ``After logging in, I check my emails to see if I have any new messages``.
