@@ -11,7 +11,7 @@
 
 - DIALOGUE 4: Protection / Protect, To discuss safety and risks, Every / Any
 
-- DIALOGUE 5: Weekdays / Weekend
+- DIALOGUE 5: Weekdays / Weekend, At / To
    
 ---
 
@@ -172,5 +172,13 @@ These terms are often used to discuss safety and risks, especially in contexts l
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Weekdays / Weekend
 
 **Weekdays** refer to Monday, Tuesday, Wednesday, Thursday, and Friday **Weekend** refers to Saturday and Sunday.
+
+---
+
+###  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>   At / To
+
+Using the correct prepositions in the context of daily routines is essential for clear communication.
+
+**At** is used for specific times, after for sequences of actions, and **to** for indicating direction or destination.
 
 ---
