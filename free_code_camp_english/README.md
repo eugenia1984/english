@@ -418,3 +418,41 @@ But I like to collaborate to ensure the value of our software.
 ```
 
 ---
+
+5.  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> **How to discuss your morning or evening routine
+
+- Dialogue 1: Learn How to Discuss Your Morning or Evening Routine
+
+```
+- James: Good morning Sarah!
+Wow, it seems like you have a ton of energy this morning!
+What do you do to start the day off right?
+- Sarah:
+
+- James: Coffe it's always a good start.
+What do you do after that?
+- Sarah:
+
+- James: Yes, me too!
+What's next on your routine?
+- Sarah:
+
+- James:
+
+- Sarah:
+
+- James:
+
+- Sarah:
+
+- James:
+
+- Sarah:
+
+- James:
+
+- Sarah:
+
+- James:
+```
+---
