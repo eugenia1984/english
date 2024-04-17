@@ -427,7 +427,7 @@ But I like to collaborate to ensure the value of our software.
 - James: Good morning Sarah!
 Wow, it seems like you have a ton of energy this morning!
 What do you do to start the day off right?
-- Sarah: Hey James, thanks!
+- Sarah: Hey James! Thanks.
 Look, I don't do anything out of the ordinary, I think.
 I usually wake up around 7.
 The first thing I do is stretch a bit to wake up.
@@ -435,20 +435,20 @@ Then, I go straight to the kitchen to make a cup of coffee.
 It's my morning fuel!
 - James: Coffe it's always a good start.
 What do you do after that?
-- Sarah:
-
+- Sarah: After coffee, I like to take a quick shower to freshen up.
+It helps me feel more alert for the rest of the day.
 Then, I get dressed, jeans and a T-shirt, you know.
 Our company has a relaxed dress code and I like to keep it casual.
 - James: Yes, me too!
 What's next on your routine?
-- Sarah: Our company has a relaxed dress code and I like to keep it casual.
+- Sarah: Well, after that I have a balance breakfast.
 I often have cereal with some fruit and a glass of orange juice.
 Breakfast is important to keep my energy up during the morning.
 - James: An early coffee and then breakfast! I never thought of that!
-- Sarah: It help me to be alert.
+- Sarah: It help me to stay alert, early in the morning.
 Anyway, before leaving for work, I like to check my emails and messages
-
-I like to be
+to see if there is any important message fo someone of the team.
+I like to be inform about important task of the day.
 - James: I can't imagine to be so productive, even before coming to work.
 Thanks for sharing, Sarah. I'll try some of these tips.
 Maybe I can get more productive in the morning as well.
