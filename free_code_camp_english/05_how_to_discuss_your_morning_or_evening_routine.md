@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary
 
 ---
 
@@ -26,7 +26,7 @@ Here are some more examples:
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Idiomatic expressions
+###  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Idiomatic expressions
 
 Idiomatic expressions are **phrases where the words together have a different meaning than the individual words might suggest**.
 
@@ -43,3 +43,14 @@ This math problem ``is a piece of cake``. (very easy)
 ``They see eye to eye``. (agree with each other)
 
 ---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Ordinary / out fo the ordinary
+
+**Ordinary** means normal or usual. Something ordinary is not special or different. For example: ``Eating cereal for breakfast is ordinary``
+
+**Out of the ordinary** means something unusual or not common. For example, ``if your friend usually takes the bus to school but one day arrives in a limousine, that's out of the ordinary``. It's not common or usual for them.
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
