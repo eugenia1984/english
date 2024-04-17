@@ -211,6 +211,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **It’s nice to**: is used to express a positive sentiment or feeling about something or someone.
 
+- **It seems like**: can be used to express an impression you have by looking at something or someone. For example, ``It seems like it's cold outside!`` is an expression you can say when you have not left home yet, but you see everyone on the street wearing coats. Other examples include ``It seems like it's going to rain``, or ``It seems like you're happy today``.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
