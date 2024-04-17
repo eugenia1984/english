@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives
+- DIALOGUE 1: Adjectives, Idiomatic expressions
 
 ---
 
@@ -26,6 +26,20 @@ Here are some more examples:
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Idiomatic expressions
+
+Idiomatic expressions are **phrases where the words together have a different meaning than the individual words might suggest**.
+
+``A ton of energy`` is an idiomatic expression meaning having a lot of energy, similar to saying loads of energy.
+
+Another expression would be I slept ``like a rock``, which means sleeping very deeply. Here are some more examples of Idiomatic Expressions:
+
+She's ``feeling blue`` today. (feeling sad) 
+
+This math problem ``is a piece of cake``. (very easy) 
+
+``He's in hot water`` now. (in trouble) 
+
+``They see eye to eye``. (agree with each other)
 
 ---
