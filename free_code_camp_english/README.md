@@ -10,7 +10,7 @@
 
 4. [How to talk about a typical workday and task](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/04_how_to_talk_about_a_typical_workday_and_task.md): prepositions of time: in/on/at, AM /PM, Most, Specific vocabulary related to a profession, like web development, Adverbs of frequency: usually,  Collaborate /attend meetings / client, before / after / around, Entrances / Exits, Have to, Essential / Optional, Protection / Protect,  To discuss safety and risks, Every / Any, Weekdays / Weekend, At / To
 
-5. [How to discusss your morning or evening routine](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/05_how_to_discuss_your_morning_or_evening_routine.md): Adjectives, Idiomatic expressions, Ordinary / out fo the ordinary, Before / After, Verb take with nouns, Balanced, Early / Late, Never, Thought
+5. [How to discusss your morning or evening routine](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/05_how_to_discuss_your_morning_or_evening_routine.md): Adjectives, Idiomatic expressions, Ordinary / out fo the ordinary, Before / After, Verb take with nouns, Balanced, Early / Late, Never, Thought, Gerund (-ing)
 
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
 
