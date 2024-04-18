@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing)
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF
 
 ---
 
@@ -137,6 +137,17 @@ This rule is common in many English expressions. For example:
 ---
 
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Conditional with IF
+
+The word **if** is often used in **conditional statements to talk about a possible situation and its consequences**. For example:
+
+``If it rains, I will bring an umbrella``. (The action of bringing an umbrella depends on the possibility of rain.)
+
+``If you need help, just ask``. (The offer to help is conditional on the other person needing it.)
+
+
+`if + simple present / simple present`
+
+`if + simple present / future with will`
 
 ---
