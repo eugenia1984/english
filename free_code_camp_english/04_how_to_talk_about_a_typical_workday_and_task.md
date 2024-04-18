@@ -11,7 +11,7 @@
 
 - DIALOGUE 4: Protection / Protect, To discuss safety and risks, Every / Any
 
-- DIALOGUE 5: Weekdays / Weekend, At / To
+- DIALOGUE 5: Weekdays / Weekend, At / To, Before / After
    
 ---
 
@@ -182,3 +182,17 @@ Using the correct prepositions in the context of daily routines is essential for
 **At** is used for specific times, after for sequences of actions, and **to** for indicating direction or destination.
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Before / After
+
+The words ``before`` and ``after`` are used to describe the order of events in time.
+
+``Before`` is used to talk about something that happens earlier than another event, and ``after`` is used for something that happens later. For example:
+
+``I brush my teeth before I have breakfast`` -> Brushing teeth happens first
+
+``I go to work after I have breakfast`` -> Going to work happens later
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
