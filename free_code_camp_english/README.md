@@ -408,7 +408,6 @@ I have a differnet task to do each day.
 For example,
 - Brian: So, you test differente parts of the software each day?
 - Sarah: Exactly.
-
 - Brian: I see, what else do you do?
 - Sarah: On Wedneys we have
 - Brian: Sounds like a very productive week.
@@ -421,7 +420,7 @@ But I like to collaborate to ensure the value of our software.
 
 ---
 
-5.  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> **How to discuss your morning or evening routine
+5.  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> **How to discuss your morning or evening routine**
 
 - Dialogue 1: Learn How to Discuss Your Morning or Evening Routine
 
@@ -457,4 +456,5 @@ Maybe I can get more productive in the morning as well.
 - SaraH: It's my pleasure.
 It's the consistency that help me start with the right foot.
 ```
+
 ---
