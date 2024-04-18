@@ -24,6 +24,8 @@
 
 - **assign** means to give tasks to other people.
 
+- **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin)
+
 - **attentive**: means paying careful attention or listening carefully.
 
 - **awesome** is a word people use when they really like something. It's like saying very good!
