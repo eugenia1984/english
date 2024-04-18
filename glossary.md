@@ -153,6 +153,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
 
+- **Go straight to**: describes the action of going directly to a place without any stops along the way. For example: ``As soon as I arrive at the office, I go straight to my desk to check my emails``.
+
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
 - **go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
