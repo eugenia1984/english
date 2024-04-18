@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing)
 
 ---
 
@@ -120,7 +120,19 @@ I thought of going to the beach, but it was too cold``. (this means the person c
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Gerund (-ing)
+
+When a verb follows a preposition, it often takes the **-ing** form, known as a gerund. 
+
+**Gerunds are verbs acting as nouns**. 
+
+This rule is common in many English expressions. For example:
+
+``After eating dinner, we watched a movie``. (eating follows the preposition after)
+
+``She is interested in learning Spanish``. (learning follows the preposition in)
+
+``Before going to bed, I like to read``. (going follows the preposition before)
 
 ---
 
