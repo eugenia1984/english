@@ -12,6 +12,8 @@
 
 5. [How to discusss your morning or evening routine](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/05_how_to_discuss_your_morning_or_evening_routine.md): Adjectives, Idiomatic expressions, Ordinary / out fo the ordinary, Before / After, Verb take with nouns
 
+- [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogues:
