@@ -71,6 +71,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Comply with** means to act according to a rule, order, or request. Usually comply is followed by with. For example, to comply with indicates what needs to be followed. For example, ``Companies must comply with environmental regulations means businesses must follow rules about protecting the environment``.
 
+- **consistency** refers to the quality of always behaving or performing in a similar way, or of always happening in a similar way. It's often used to describe regular habits or behaviors. For example: ``Her consistency in studying every day led to great results``.
+
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
 - **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. We contribute our technical skills to develop the app. **contributing** involves adding something to a project,
@@ -273,6 +275,9 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **on** in this context links the updates to the specific subject they are about - the project progress. In English, you use on when you're talking about the topic of communication, like a presentation on science or an update on work. It shows a direct relationship between the communication and the topic.
 
+- **on the right foot** is an idiom meaning to start something in a positive or successful way. For example: ``Starting the day with a healthy breakfast sets you on the right foot.``
+
+
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
@@ -304,6 +309,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **promote ethics** means to encourage and support moral principles and standards. For example: ``The manager promotes ethics by enforcing transparent reporting``.
   
 ---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Q
 
 - **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
