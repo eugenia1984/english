@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even
 
 ---
 
@@ -149,5 +149,21 @@ The word **if** is often used in **conditional statements to talk about a possib
 `if + simple present / simple present`
 
 `if + simple present / future with will`
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Even
+
+The word even is used** to add emphasis to a statement, often highlighting something surprising, unexpected, or extreme**.
+
+When **combined with before** in the phrase even before, it **emphasizes that an action or event occurs earlier than usual or expected, adding a sense of surprise or admiration**. 
+
+For example:
+
+``Even before the sun rises, she starts her workout.``  -> emphasizes that her workout begins unusually early
+
+``He finished the project even before the deadline.`` -> implies that finishing before the deadline is surprisingly early
+
+In conversation, using even can express that something is more than what might be considered normal or usual. It makes the statement stronger.
 
 ---
