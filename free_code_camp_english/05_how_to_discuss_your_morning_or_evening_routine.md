@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns
 
 ---
 
@@ -52,5 +52,35 @@ This math problem ``is a piece of cake``. (very easy)
 
 ---
 
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Before / After
+
+The words ``before`` and ``after`` are used to describe the order of events in time.
+
+``Before`` is used to talk about something that happens earlier than another event, and ``after`` is used for something that happens later. For example:
+
+``I brush my teeth before I have breakfast`` -> Brushing teeth happens first
+
+``I go to work after I have breakfast`` -> Going to work happens later
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Verb take with nouns
+
+The verb ``take`` is used in many common English expressions. When take is used with different nouns, it can have special meanings. For example:
+
+``Take a shower`` means to shower. 
+
+``Take a walk`` means to go for a walk. 
+
+``Take a nap`` means to sleep for a little while. 
+
+``Take a chance`` means to try something that might be risky.
+
+These phrases are like fixed recipes in English; the words go together to mean something specific.
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
