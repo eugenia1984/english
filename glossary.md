@@ -12,6 +12,8 @@
 
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
+- **alert**: describes being fully aware and paying attention.
+  
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
@@ -303,6 +305,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Q
 
 - **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
+
+- **quick** describes something done in a short time.
   
 ---
 
@@ -312,6 +316,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
   
 - **regulations** are official rules made by a government or authority. They are designed to control how something works or how people act, especially in businesses. Example: ``Health and safety regulations ensure a safe workplace``.
 
+- **relaxed**: describes something or someone calm and not strict
+  
 - **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
 
 - **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
@@ -331,7 +337,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
 - **Security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
-- 
+  
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
 - **shopping malls** are large buildings with lots of different stores, and they're common in cities.
