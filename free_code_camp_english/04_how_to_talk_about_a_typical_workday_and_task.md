@@ -11,7 +11,7 @@
 
 - DIALOGUE 4: Protection / Protect, To discuss safety and risks, Every / Any
 
-- DIALOGUE 5: Weekdays / Weekend, At / To, Before / After, Verb take with nouns.
+- DIALOGUE 5: Weekdays / Weekend, At / To
    
 ---
 
@@ -182,33 +182,3 @@ Using the correct prepositions in the context of daily routines is essential for
 **At** is used for specific times, after for sequences of actions, and **to** for indicating direction or destination.
 
 ---
-
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Before / After
-
-The words ``before`` and ``after`` are used to describe the order of events in time.
-
-``Before`` is used to talk about something that happens earlier than another event, and ``after`` is used for something that happens later. For example:
-
-``I brush my teeth before I have breakfast`` -> Brushing teeth happens first
-
-``I go to work after I have breakfast`` -> Going to work happens later
-
----
-
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Verb take with nuns
-
-The verb ``take`` is used in many common English expressions. When take is used with different nouns, it can have special meanings. For example:
-
-``Take a shower`` means to shower. 
-
-``Take a walk`` means to go for a walk. 
-
-``Take a nap`` means to sleep for a little while. 
-
-``Take a chance`` means to try something that might be risky.
-
-These phrases are like fixed recipes in English; the words go together to mean something specific.
-
----
-
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
