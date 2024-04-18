@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Early / Late
 
 ---
 
@@ -95,5 +95,13 @@ If it describes an action that happened in the past (like She balanced the books
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Early / Late
+
+- **Early** refers to doing something sooner or before the usual time, like waking up early in the morning.
+
+- **Late** means doing something after the expected or usual time, like arriving late to a meeting. Here are some examples:
+
+``She likes to start her day early with a jog. He often works late at the office``.
+
+---
 
