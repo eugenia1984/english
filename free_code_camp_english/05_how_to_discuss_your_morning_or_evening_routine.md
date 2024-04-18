@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought
 
 ---
 
@@ -105,3 +105,26 @@ If it describes an action that happened in the past (like She balanced the books
 
 ---
 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Never
+
+The word never is **an adverb** used to mean **not at any time or not ever**. It's often used to talk about things that someone doesn't do or hasn't done. 
+
+For example: ``I have never been to Australia``. (this means the person has not visited Australia at any time) ``She never eats fast`` food. (this means she does not eat fast food at any time)
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Thought
+
+The word thought is the past tense of think. Thought of that means **to have considered or come up with an idea in the past**. For example: ``
+I thought of going to the beach, but it was too cold``. (this means the person considered going to the beach)
+
+---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+---
+
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+---
