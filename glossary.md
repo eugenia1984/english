@@ -135,6 +135,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers.
 
+- **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> G
