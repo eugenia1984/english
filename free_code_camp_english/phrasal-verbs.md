@@ -20,3 +20,9 @@
 **Take a chance** means to try something that might be risky.
 
 ---
+
+# UP
+
+**freshen up** mean to make oneself feel cleaner or more refreshed.
+
+---
