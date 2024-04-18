@@ -2,7 +2,7 @@
 
 ## Whay you will find?
 
-- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even
+- DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even, Future with WILL
 
 ---
 
@@ -165,5 +165,21 @@ For example:
 ``He finished the project even before the deadline.`` -> implies that finishing before the deadline is surprisingly early
 
 In conversation, using even can express that something is more than what might be considered normal or usual. It makes the statement stronger.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Future with WILL
+
+You probably remember that I'll is the contracted form of I will, a modal verb used to express future intentions, decisions, or plans made at the moment of speaking. For example:
+
+I'll call you tomorrow. (future intention to call) I'll take the bus to work. (decision made about taking the bus)
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
