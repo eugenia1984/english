@@ -81,6 +81,19 @@ These phrases are like fixed recipes in English; the words go together to mean s
 
 ---
 
-### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Balanced
+
+The word **balanced** can be an **adjective** or the **past tense of the verb balance**. 
+
+- As an adjective, it describes something that is in a state of equilibrium or evenly distributed, like in a ``balanced breakfast``.
+
+- As a verb, balance (and its past tense balanced) means to keep or put something in a steady position so that it does not fall.
+
+In a sentence, if balanced is used before a noun (like balanced diet), it's an adjective.
+
+If it describes an action that happened in the past (like She balanced the books), it's a verb.
+
+---
+
 ### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
