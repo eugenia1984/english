@@ -457,4 +457,33 @@ Maybe I can get more productive in the morning as well.
 It's the consistency that help me start with the right foot.
 ```
 
+- Dialogue 2: Consulting a Wellness Expert
+
+```
+- Sophie: So, I'm here because I feel sleepy during the mornings.
+I don't get productive until it's almost midday.
+Do you have any tips about how to have a healthy routine?
+- Expert: Absolutely.
+My first suggestion is to not hit the snooze button multiple times.
+It may be tempting, but it disrupts your sleep cycle
+
+- Sophie: That's a good point. What's else?
+- Expert: Another thing: don't skip breakfast.
+Breakfast give you the energy to start the day.
+If you skip it, you probably compensate later by eating too much
+
+- Sophie: I have a friend that do does in her routine.
+ Do you haeve any other suggestions?
+- Expert:
+It creates stress and makes you feel like you have to rush.
+
+- sophie: That's a good idea.
+- Expert: One more thing: don't rush during your morning routine.
+
+- Sophie: Wow, thanks! I'll try to include these changes into my morning routine.
+- Expert: ou're welcome! And remember: the small changes make a big difference.
+Your morning starts well when you have a good night's sleep.
+
+Have a great morning!
+```
 ---
