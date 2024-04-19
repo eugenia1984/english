@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even, Future with WILL
 
-- DIALOGUE 2: Words end with "Y", Maybe / May be
+- DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't
 
 ---
 
@@ -216,7 +216,16 @@ There's a difference between **may be** and **maybe**. Let's take a closer look.
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Imperative: Do not / Don't
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+The imperative form is used **to give orders, instructions, or advice**. It often starts with a verb in the base form for positive commands, or with don't/do not for negative commands. Understanding this form is important for following or giving instructions. 
+
+For example:
+
+``Drink plenty of water`` -> positive command
+
+``Don't stay up too late`` -> negative command
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
