@@ -213,6 +213,10 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
+- **immediately** means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
+
+
+
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
 
 - **insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
