@@ -374,6 +374,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
 
+- **small changes make a big difference** means that even minor adjustments in behavior or habits can have a significant impact. This expression is often used to encourage continuous improvements.
+
 - **stand up** refers to the action of rising from a sitting position.
 
 - **so far** means up to this moment or until now. It is used when talking about a time that started in the past and continues to the present. If someone asks, `Are you happy with the workplace so far?` They want to know if you liked your workplace from the first day up to today.
