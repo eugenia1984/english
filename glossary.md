@@ -185,6 +185,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **here** is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
 
+- **hit the snooze button** refers to the action of delaying the alarm clock to sleep a little longer. The verb ``hit`` in this context means to press, and ``snooze button`` is a feature on alarm clocks that allows for a brief delay in the alarm.
+  
 - **How about** is used to make a suggestion or ask someone's opinion about a suggestion. It's a friendly way to bring up a new topic or idea. For example, How about we meet later? means What do you think if we meet later?
 
 - **How was it?**: is a general way to ask about something that just happened.
