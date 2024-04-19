@@ -154,6 +154,8 @@ The word **if** is often used in **conditional statements to talk about a possib
 
 Conditional sentences often use the word **if to describe a situation that will cause a particular result**. They typically consist of two parts: ``the condition (the if part) and the result``. For example: ``If you study hard, you will pass the exam`` -> condition: studying hard; result: passing the exam.
 
+Conditional sentences often use if to describe a situation (cause) that will lead to a particular result (consequence). They typically consist of two parts: ``the if clause (condition) and the main clause (result)``. For example: ``If you sleep well, you will feel refreshed``. (condition: sleeping well; result: feeling refreshed)
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Even
