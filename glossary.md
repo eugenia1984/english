@@ -40,6 +40,8 @@
 
 - **brainstorming session** is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
 
+- **Breathing exercises** are practices where you consciously control your breathing pattern. They are often used for relaxation, stress management. ``Deep breathing helps to calm your nerves``. (uses controlled breathing for relaxation)
+
 - **brief** means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
 
 - **bugs** refer to errors or problems in the software that need to be identified and fixed. Understanding this term is crucial for comprehending the role of a QA tester.
@@ -60,6 +62,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
 
 - **Checking emails**: To look at and read new messages in your email account. Example: ``After logging in, I check my emails to see if I have any new messages``.
+
+- **clear your mind**: means to free your mind from stress or worry. ``Clear your mind before the test to focus better``. (freeing the mind from distractions).
 
 - **Coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
 
