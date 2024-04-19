@@ -4,6 +4,8 @@
 
 - DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even, Future with WILL
 
+- DIALOGUE 2: Words end with "Y"
+
 ---
 
 # DIALOGUE 1
@@ -181,7 +183,7 @@ I'll call you tomorrow. (future intention to call) I'll take the bus to work. (d
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Words end with "Y"
 
-Words ending in **y** often **describe a state or quality**. 
+- Words ending in **y** often **describe a state or quality**. 
 
 For example: If you add ``y`` to the noun ``sleep``, you create the adjective ``sleepy``, which means feeling a need to sleep or being tired. The y transforms the noun sleep into an adjective describing a condition. 
 
@@ -190,6 +192,17 @@ Similarly:
 ``snow + y = snowy`` -> having a lot of snow
 
 ``rain + y = rainy`` -> having a lot of rain
+
+
+- The y ending can also turn nouns into adjectives that describe a characteristic or quality.
+
+``Healthy`` comes from the noun ``health`` and means having or showing good health. 
+
+Like sleepy, the y changes the noun into an adjective. Other examples:
+
+``Wealthy`` -> having a lot of wealth
+
+``Cloudy`` -> full of or covered with clouds
 
 ---
 
