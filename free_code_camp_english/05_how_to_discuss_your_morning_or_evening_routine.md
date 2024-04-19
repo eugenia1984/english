@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even, Future with WILL
 
-- DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't
+- DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later
 
 ---
 
@@ -228,4 +228,16 @@ For example:
 
 ---
 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Later
+
+**The word later is the comparative form of late**, used to indicate a time or event that is after the expected, usual, or planned time. Comparatives are used to compare two things. For example:
+
+``We will leave later than planned``. -> means leaving after the planned time
+
+``She arrived later than me``. -> indicates she arrived after the speaker
+
+---
+
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+---
