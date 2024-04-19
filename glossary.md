@@ -356,6 +356,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
+- **sleep cycle** refers to the natural pattern of sleep, including different stages the body goes through while sleeping. For example: ``A good sleep cycle is vital for restful sleep``, meaning: refers to a healthy pattern of sleep.
+
 - **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
 
 - **stand up** refers to the action of rising from a sitting position.
@@ -411,6 +413,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
 - **To deal with** means to handle or manage something, especially challenges. For example, ``She deals with client requests at her job``.
+
+- **To disrupt** is a verb that means to interrupt or prevent something from continuing in its usual way. For example: ``Loud noises disrupt my concentration``, meaning: interrupts the concentration.
   
 - **To encourage**: means to give support, confidence, or hope to someone. It's what a good coach does to motivate their team to do their best.
 
