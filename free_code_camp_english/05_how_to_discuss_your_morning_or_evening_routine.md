@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even, Future with WILL
 
-- DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later
+- DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
 ---
 
@@ -240,6 +240,16 @@ For example:
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Who
+
+Who can be used as a relative pronoun to introduce a clause that gives more information about a person or people. It links a description or action specifically to a person. For example:
+
+She is someone who always knows what to do. (links the knowing what to do to the person)
+
+He's the data analyst who helped me a lot. (describes the data analyst with the action of helping)
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
