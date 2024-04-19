@@ -259,6 +259,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **most of the time**: means usually or very often.
 
+- **Multiple times** means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> N
