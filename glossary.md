@@ -447,6 +447,10 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **To review**: means to look over something, like a list or a plan.
 
 - **To revoke** means to officially cancel or take back a decision, right, or permission. For example, ``The administrator may revoke access if rules are broken``.
+
+- **to ring** refers to the action of making a sound, particularly a clear resonant sound. It's commonly used to describe the sound made by bells, telephones, or alarms. For example: ``The phone will ring at 9 AM to remind me of the meeting``, meaning: indicates the phone making a sound.
+
+I wake up when my alarm clock rings. (describes the alarm making a sound to wake someone up)
   
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
