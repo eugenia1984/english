@@ -463,27 +463,31 @@ It's the consistency that help me start with the right foot.
 - Sophie: So, I'm here because I feel sleepy during the mornings.
 I don't get productive until it's almost midday.
 Do you have any tips about how to have a healthy routine?
-- Expert: Absolutely.
+- Expert: Absolutely!
 My first suggestion is to not hit the snooze button multiple times.
 It may be tempting, but it disrupts your sleep cycle
-
+and you may feel groggy during the day.
+Set one alarm and get up when it rings.
 - Sophie: That's a good point. What's else?
 - Expert: Another thing: don't skip breakfast.
 Breakfast give you the energy to start the day.
 If you skip it, you probably compensate later by eating too much
-
+or you feel slugish in the morning.
+Have a balanced breakfast instead.
 - Sophie: I have a friend that do does in her routine.
  Do you haeve any other suggestions?
-- Expert:
+- Expert: Yes, don't start your day by checking your phone or emails immediately
 It creates stress and makes you feel like you have to rush.
-
-- sophie: That's a good idea.
+Take a few minutes for yourself.
+For example, you can stretch or do some breathing exercises to clear your mind.
+- Sophie: That's a good idea.
 - Expert: One more thing: don't rush during your morning routine.
-
+Give yourself time to get ready without running around.
+If you start the day feeling relaxed, you may have a more productive day.
 - Sophie: Wow, thanks! I'll try to include these changes into my morning routine.
-- Expert: ou're welcome! And remember: the small changes make a big difference.
+- Expert: You're welcome! And remember: the small changes make a big difference.
 Your morning starts well when you have a good night's sleep.
-
+Don't forget to get enough sleep to feel well-rested in the morning.
 Have a great morning!
 ```
 ---
