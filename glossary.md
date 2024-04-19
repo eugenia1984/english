@@ -67,6 +67,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Collaboration** refers to working together with others to achieve a common goal.
 
+- **Compensate** means to make up for something that is missed or lacking. It's often used to describe actions taken to balance out an absence or deficiency. For example: ``If you skip lunch, you might compensate by eating more at dinner``, meaning: not having lunch and then eating more later to make up for it.
+
 - **Compliance** means following rules and doing what is required in a job. It is about making sure we do things the right way. For example, ``In our job, compliance with safety rules keeps everyone safe``.
 
 - **Comply with** means to act according to a rule, order, or request. Usually comply is followed by with. For example, to comply with indicates what needs to be followed. For example, ``Companies must comply with environmental regulations means businesses must follow rules about protecting the environment``.
@@ -448,13 +450,13 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **To revoke** means to officially cancel or take back a decision, right, or permission. For example, ``The administrator may revoke access if rules are broken``.
 
-- **to ring** refers to the action of making a sound, particularly a clear resonant sound. It's commonly used to describe the sound made by bells, telephones, or alarms. For example: ``The phone will ring at 9 AM to remind me of the meeting``, meaning: indicates the phone making a sound.
-
-I wake up when my alarm clock rings. (describes the alarm making a sound to wake someone up)
+- **to ring** refers to the action of making a sound, particularly a clear resonant sound. It's commonly used to describe the sound made by bells, telephones, or alarms. For example: ``The phone will ring at 9 AM to remind me of the meeting``, meaning: indicates the phone making a sound. I wake up when my alarm clock rings. (describes the alarm making a sound to wake someone up)
   
 - **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **To set deadlines** means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
+
+- **to skip** means to not do or not include something that you usually do or that should be done.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
