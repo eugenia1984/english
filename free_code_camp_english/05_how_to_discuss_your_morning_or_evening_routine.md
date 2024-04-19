@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: Adjectives, Idiomatic expressions, Ordinary / Out of the ordinary, Before / After, Verb take with nouns, Balanced , Early / Late, Never, Thought, Gerund (-ing), conditional with IF, Even, Future with WILL
 
-- DIALOGUE 2: Words end with "Y"
+- DIALOGUE 2: Words end with "Y", Maybe / May be
 
 ---
 
@@ -205,6 +205,17 @@ Like sleepy, the y changes the noun into an adjective. Other examples:
 ``Cloudy`` -> full of or covered with clouds
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Maybe / May be
+
+There's a difference between **may be** and **maybe**. Let's take a closer look.
+
+- **May** on its own also **suggests possibility or permission**. **May be** suggests a **possibility or potentiality**.
+
+- **Maybe** is an adverb **indicating uncertainty or possibility**. For example: ``It may be raining outside``, suggests a possibility of rain. ``Maybe I will go out later``, expresses uncertainty about going out. ``May I ask a question?``, asks for the permission to speak.
+
+---
+
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
