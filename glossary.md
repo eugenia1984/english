@@ -382,6 +382,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
+- **tempting** is an adjective that describes something appealing or attractive, often making someone want to do or have it. For example: ``The idea of sleeping in is tempting``,  suggests the idea is appealing.
+  
 - **That sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
 
 - **theaters** are places where you can watch live performances or movies.
