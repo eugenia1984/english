@@ -141,6 +141,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers.
 
+- **Feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
+
 - **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
 
 ---
@@ -357,6 +359,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
 - **sleep cycle** refers to the natural pattern of sleep, including different stages the body goes through while sleeping. For example: ``A good sleep cycle is vital for restful sleep``, meaning: refers to a healthy pattern of sleep.
+
+- **Sluggish**: is an adjective that describes a feeling of low energy, slow movement, or a lack of alertness. It's often used when someone feels tired, lethargic, or not able to think or move quickly. This term can apply to both physical and mental states. Here are some examples: ``The computer was running sluggishly, taking a long time to respond``, meaning: describes slow performance, used metaphorically for an inanimate object.
 
 - **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
 
