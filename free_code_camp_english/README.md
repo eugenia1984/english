@@ -504,17 +504,16 @@ Let's see if we can come up with some ideas that include the kids.
 - Jake: Great! I usually get home at around 6.
 After that it's a bit chaotic.
 - Sarah: You can start by involving your kids in light activities.
-Go for a family walk
-or plan a , when you came home.
+Go for a family walk.
+or play a short outdoor game together, when you get home. 
 It's a great way to have fun and stay active.
 - James: Nice, what abour dinner?
 It's always a rush.
-- Sarah: Plan simple and meals for week days.
+- Sarah: Plan simple and quick meals for week days.
 Involve the kids in setting the table as well.
-
 - James: Good idea! After dinner, I usually help them with their homework.
 - Sarah: That's important.
-
+When they do homework, use that time to stretch or relax a bit.
 It's also help you with your health care.
 - James: Amazing. Hmm… How about bedtime?
 - Sarah: Keep a consistence bedtime routine for your kids.
