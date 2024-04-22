@@ -6,6 +6,8 @@
 
 - DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
+- DIALOGUE 3: Past Tense
+  
 ---
 
 # DIALOGUE 1
@@ -249,6 +251,21 @@ Who can be used as a relative pronoun to introduce a clause that gives more info
 She is someone who always knows what to do. (links the knowing what to do to the person)
 
 He's the data analyst who helped me a lot. (describes the data analyst with the action of helping)
+
+---
+
+# DIALOGUE 3
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Past Tense
+
+Past tense verbs are used to talk about actions that happened in the past. Some verbs change their form in the past tense, like say to said. For example: ``Yesterday, she said she would join us`` (SAID -> Past tense of say) ``He said the meeting was at noon`` (SAID -> Describes a past statement about the meeting time)
+
+Another example of irregular verb is tell, which becomes told in the past tense. For example: ``He told me about the plan last week`` (TELL -> Past tense of tell) ``Last night, they told stories about our last project`` (Using told to describe a past action)
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
 
