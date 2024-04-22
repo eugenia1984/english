@@ -219,6 +219,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
+- **Indoor** refers to activities done inside a building. Example: `Indoor activities include reading and cooking`
+
 - **industry** refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
@@ -307,6 +309,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
+
+- **outdoor** means activities done outside. Example: `Outdoor activities involve hiking and gardening.`
 
 - **outside** refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
 
@@ -419,6 +423,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **theaters** are places where you can watch live performances or movies.
 
 - **Then**: is often used to indicate the next step or action after something else has been done. For example, ``First, I check my emails, then I start coding``.
+
+- **Though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
 
 - **Tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
 
