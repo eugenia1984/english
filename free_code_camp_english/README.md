@@ -529,4 +529,23 @@ Thanks for helping me with my evening routine.
 - Sarah: Anytime, Jame.
 ```
 
+- Dialogue 4: Brian and Maria Talk About Eventful Evenings
+
+```
+- Brian: Hey Maria, is it true that you're never home in the evenings?
+
+- Maria:
+
+- Brian: OHey Maria, is it true that you're never home in the evenings?
+- Maria:
+- Brian: That's exciting! How about Thursdays?
+- Maria:
+- Brian: That's exciting! How about Thursdays?
+- Maria:
+- Brian: So many activities! I don't think I could keep up that pace.
+
+I think I'll try to go out more often in the evening as well.
+- Maria:
+```
+  
 ---
