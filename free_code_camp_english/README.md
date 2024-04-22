@@ -560,5 +560,34 @@ I think I'll try to go out more often in the evening as well.
 - Maria: Sure, Brian! Just don't forget to give yourself time to rest.
 Find what your interest are and have some fun.
 ```
+
+- Dialogue 5: Sophie and Brian Talk About the Weekend
+
+```
+- Sophie: Hey Brian. TGIF, right?
+Do you have any plans for the weekend?
+- Brian: Nothing out of the ordinary, Sophie.
+On Saturday, I wake up early, at 7:00.
+I run in the park near my place in the morning.
+In the afternoon, I visit my parents and I have lunch with them.
+- Sophie: Nice! On Saturday, I usually sleep until 9:30.
+In the morning, I do some house cleaning.
+In the afternoon, I watch a movie at home,
+or I go out with friends to do some window-shopping at the mall.
+- Brian: And on Sunday?
+- Sophie: On Sunday I have a lazy morning.
+ I just stay at home and play some video games on my console.
+In the evening, I make dinner and go to sleep early,
+because, on Monday, it's back to work again
+- Brian: I have a relaxed Sunday too.
+In the morning and in the evening, I work on a personal coding project.
+In the afternoon, I take a break and go for a quick walk in the park.
+- Sophie: that's a nice mix of indoor and outdoor activities!
+I don't work at the computer on weekends like you, thought.
+I save that for the weekdays, I suppose.
+- Brian: I know, right?
+But, it's a personal project and I like it a lot.
+so I don't mind spending some of my time on it.
+```
   
 ---
