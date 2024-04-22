@@ -284,6 +284,12 @@ The modal verb **could** is often used to **politely ask for help or suggestions
 
 Understanding how to use could is important to create polite requests or questions.
 
+### Understanding the difference between can and could is crucial in English.
+
+- **Can** is used to express ability, possibility, or to ask permission in the present or future. For example: ``I can code very well`` (present ability) ``Can I leave early today?`` (asking for permission)
+
+- **Could** is often used for polite requests, suggestions, or to talk about ability in the past. For example: ``Could you pass me that tool, please?`` (polite request) ``When I first learned programming, I could spend hours debugging without getting tired ``(past ability)
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
