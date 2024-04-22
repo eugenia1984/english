@@ -217,6 +217,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **I guess**: is a phrase used when someone is not completely sure but wants to make an assumption or express an opinion.
 
+**Identity** refers to who a person is, including their name, date of birth, and other personal information. For example: ``Protecting your identity online is important`` means keeping your personal information safe on the internet.
+
 - **I'm open to**, it means they are willing to consider new ideas or experiences. It shows that they are flexible and interested in trying different things. For instance, saying `I'm open to learning more` means the person is ready to learn new things. It's a useful phrase to express a positive attitude towards new opportunities or changes.
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
@@ -491,6 +493,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **To set deadlines** means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
 
 - **to skip** means to not do or not include something that you usually do or that should be done.
+
+- **To steal** means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission. 
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
