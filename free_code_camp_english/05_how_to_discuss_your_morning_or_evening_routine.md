@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
-- DIALOGUE 3: Past Tense, Could, Adjectives, Them / Their, While
+- DIALOGUE 3: Past Tense, Could / Can, Adjectives, Them / Their, While
   
 ---
 
@@ -278,7 +278,7 @@ Regular verbs usually add **-ed** to form the past tense. This can also result i
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Could
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Could / Can
 
 The modal verb **could** is often used to **politely ask for help or suggestions**. For example: ``Could you show me how to do this?`` (asking for help in a polite way) ``What could I do to improve my skills?`` (asking for suggestions)
 
