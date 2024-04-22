@@ -36,6 +36,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
 
+- **Be back** means to return.  For example: ``I'll be back by dinner`` (returning before a specific time)
+
 - **Bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example: ``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
 
 - **Bookstores** are shops that sell book
@@ -185,6 +187,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **handle**: means to manage or deal with something, especially effectively and competently. In a work context, it often refers to how someone manages tasks or projects. For example, ``She handles client requests very efficiently``.
 
+- **Hang out** means to spend time relaxing or socializing. For example: ``We hang out at the park on weekends`` (spending leisure time)
+
 - **have a break**: means to take a short rest or pause from what you are doing.
 
 - **have a chance to speak** implies that everyone is given the opportunity to contribute to the conversation.
@@ -278,6 +282,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> N
+
+- **night owl** is someone who stays up late. For example: ``He's a night owl, often working past midnight`` (stays up late)
 
 - **not that much** is used to indicate a small amount or degree, often in response to a question about quantity or frequency. For example, ``Do you travel for work? – Not that much``.
 
@@ -473,6 +479,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **to skip** means to not do or not include something that you usually do or that should be done.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
+
+- **tops** is used informally to indicate the maximum amount or time. For example: ``The meeting will last one hour, tops`` (no longer than one hour)
 
 - **Top condition** refers to being in the best possible state or quality, especially important for equipment in safety-critical roles. For example, ``The fire extinguisher must be kept in top condition``.
   
