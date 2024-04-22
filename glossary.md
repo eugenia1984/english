@@ -247,6 +247,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
 
+- **Keep up the pace** means to maintain the same level of activity or progress as someone else or as per a set standard. It's often used to talk about matching speed or staying on par with others. For example: ``It's hard to keep up the pace with the advanced runners in the group.``
+
 - **kind**: means being friendly, generous, and considerate. It's a positive adjective you use to describe someone who shows goodness or compassion to others.
 
 ---
