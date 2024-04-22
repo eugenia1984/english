@@ -6,7 +6,7 @@ In this course, you'll learn how to talk about the projects that you are involve
 
 ## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What's here?
 
-- DIALOGUE 1:  Preposition FOR, May / Might
+- DIALOGUE 1:  Preposition FOR, May / Might, Present Continuous
 
 ---
 
@@ -29,5 +29,25 @@ The word **might** is used to express possibility or uncertainty. It's similar t
 ``I might go to the park`` It means there's a possibility of going to the park, but it's not certain.
 
 In James's sentence, might suggests that there are possible problems he's looking for, but he's not sure yet.
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Present Conitnuus
+
+James uses the present continuous tense **to talk about actions happening at the moment of speaking or around it**.
+
+The present continuous is formed with ``the present tense of the verb to be (am/is/are) followed by the -ing form of the main verb``. 
+
+For example:
+
+``I am using`` in ``I am using special tools`` shows an action James is currently working on.
+
+This tense is often used for actions that are temporary or in progress. Some more examples include:
+
+``She is studying for the interview`` (she is currently focused on studying).
+
+``They are working on a new project`` (they are presently involved in the project).
+
+``He is walking to the station`` (he is in the process of walking to the station).
 
 ---
