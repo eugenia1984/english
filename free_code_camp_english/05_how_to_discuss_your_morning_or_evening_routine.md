@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
-- DIALOGUE 3: Past Tense, Could, Adjectives, Them / their
+- DIALOGUE 3: Past Tense, Could, Adjectives, Them / Their, While
   
 ---
 
@@ -306,4 +306,14 @@ Let's review the usage of **them** and **their**. Them is used to refer to multi
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> While
+
+While is used in sentences to indicate that two actions or events are happening at the same time. It often sets the scene for one action that occurs during the time another action is taking place. For example:
+
+``While I cook, I listen to music`` (I listen to music at the same time as I am cooking)
+
+``She reads while waiting for the bus`` (She reads during the time she is waiting)
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
