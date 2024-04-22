@@ -36,6 +36,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
 
+- **Bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example: ``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
+
 - **Bookstores** are shops that sell book
 
 - **brainstorming session** is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
