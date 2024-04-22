@@ -20,7 +20,7 @@
 
 1. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  **Greeting in the First Day at Office:**
 
-Dialog 1:
+- Dialogue 1: Maria introduces herself to Tom
 
 ```
 - Mary: Hello! You're the new graphic designer, right?
@@ -36,7 +36,7 @@ Dialog 1:
 - Tom: Thanks for showing me around the place, Maria.
 ```
 
-Dialog 2:
+- Dialogue 2: Tom meets the coworker next to him
 
 ```
 - Tom: Hi, there. I'm Tom. I'm the new graphic designer.
@@ -59,7 +59,7 @@ Dialog 2:
 - Tom:  Yes, I sure am!
 ```
 
-- Dialog 3:
+- Dialogue 3: Tom and Sophie take a lunch break
 
 ```
 - Tom: Wow, I'm so hungry. Is it lunch time?
@@ -76,7 +76,7 @@ Dialog 2:
 - Sophie: Well, is not so far.Come on, we can go together.
 ```
 
-- Dialog 4:
+- Dialogue 4: Sophie introduces Brian to Tom
 
 ```
 - Sophie: Oh, look who's here! Hey, Brian! How is everything?
@@ -90,7 +90,7 @@ Dialog 2:
 - Brian: But it's true, she is the person to go to if you need help.
 ```
 
-- Dialog 5:
+- Dialogue 5: End of the first day
 
 ```
 - Jake: Hey, you're Sarah, right?
@@ -533,19 +533,32 @@ Thanks for helping me with my evening routine.
 
 ```
 - Brian: Hey Maria, is it true that you're never home in the evenings?
-
-- Maria:
-
-- Brian: OHey Maria, is it true that you're never home in the evenings?
-- Maria:
+How do you do that?
+- Maria: Hi Brian. Well, yeah!
+I like doing fun things in the evening, so I go out a lot.
+On Mondays, I have dance classes from 6 to 7:30.
+I love dancing.
+- Brian: Oh great! What about Tuesdays?
+- Maria: On Tuesdays, I learn Japaneese.
+On Mondays, I have dance classes from 6 to 7:30.
+I think it's the only day I'm home so early.
+Then, on Wednesdays, I go to a local theater group.
+Practice goes until 9 PM. We perform small plays.
+It's really fun.
 - Brian: That's exciting! How about Thursdays?
-- Maria:
-- Brian: That's exciting! How about Thursdays?
-- Maria:
+- Maria: Thursdays it's for watching shows.
+I look for live concerts or theater plays.
+It's my favorite time for relax.
+- Brain: Wow! Do you rest at home on Fridays at least?
+- Maria: Not at all. I leave the weekends for that.
+On Fridays, I like to hang out with friends.
+We normally meet at a bar, chat and have something to eat and drink.
+But I'm not really a night owl, so I like to be back home by 9:30 tops.
 - Brian: So many activities! I don't think I could keep up that pace.
-
+But it's nice to know that you enjoy to the fullest, Maria.
 I think I'll try to go out more often in the evening as well.
-- Maria:
+- Maria: Sure, Brian! Just don't forget to give yourself time to rest.
+Find what your interest are and have some fun.
 ```
   
 ---
