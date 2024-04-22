@@ -7,7 +7,9 @@
 - DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
 - DIALOGUE 3: Past Tense, Could / Can, Adjectives, Them / Their, While
-  
+
+- DIALOGUE 4: Superlatives
+    
 ---
 
 # DIALOGUE 1
@@ -313,6 +315,17 @@ While is used in sentences to indicate that two actions or events are happening 
 ``While I cook, I listen to music`` (I listen to music at the same time as I am cooking)
 
 ``She reads while waiting for the bus`` (She reads during the time she is waiting)
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Superlatives
+
+You can create adjectives that express the highest degree of something. These are the superlative adjectives. They show that nothing else can exceed a certain level. The general rule is:
+
+- **Short adjectives: create a superlative by ending -est at the end of the word.** Example: She enjoys the fullest her weekdays (the + full + est)
+
+- **Long adjectives: Just add the most before the adjective.** Example: This is the most interesting book I've read. (the most + interesting)
+
 
 ---
 
