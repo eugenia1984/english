@@ -95,6 +95,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.
 
+- **Cybersecurity** is about keeping computers and online information safe. It stops bad people from stealing or damaging what's on computers and the internet.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> D
