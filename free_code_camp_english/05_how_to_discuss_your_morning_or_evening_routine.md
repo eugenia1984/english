@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
-- DIALOGUE 3: Past Tense, Could.
+- DIALOGUE 3: Past Tense, Could, Adjectives
   
 ---
 
@@ -292,6 +292,14 @@ Understanding how to use could is important to create polite requests or questio
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Adjectives
+
+Adjectives usually come before the nouns they describe, and there's a specific order: opinion, size, age, shape, color, origin, material, purpose. For example: A beautiful old Italian painting (opinion, age, origin)
+
+In the phrase simple and quick meals, simple (describing ease) and quick (describing speed) are adjectives. The order is flexible because they belong to different categories (opinion and speed).
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
