@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Words end with "Y", Maybe / May be, Imperative: don't, Later, Who
 
-- DIALOGUE 3: Past Tense, Could, Adjectives
+- DIALOGUE 3: Past Tense, Could, Adjectives, Them / their
   
 ---
 
@@ -300,6 +300,10 @@ In the phrase simple and quick meals, simple (describing ease) and quick (descri
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Them / their
+
+Let's review the usage of **them** and **their**. Them is used to refer to multiple people previously mentioned, and their shows possession or belonging to these people. For example: ``I saw the kids. I gave them their toys``. (them refers to the kids; their shows the toys belong to the kids)
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
