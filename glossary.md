@@ -402,6 +402,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **specific** means something very clear and exact. For example, `The client has specific goals for the project` means the client's goals are clear. **Specific requirements** means very clear and exact things you need to do. Like a list that tells you exactly what to do for a project. It combines the clarity of specific with the needs of requirements. Like saying, ` We need to meet the specific requirements of the client` which means meeting the precise needs or conditions the client has set.
 
+- **Stay** is used to indicate remaining in a particular state or condition. It's often used in instructions or advice to keep oneself in a certain situation. For example: ``Stay safe onlinecontinue being safe while using the internet). ``Stay calm during the test`` (continue being calm). ``Stay focused on your work`` (continue paying attention to your work)
+
 - **stay on track**: is often used to talk about continuing to do the right thing in order to achieve a goal. It's a motivational phrase used in both personal and professional contexts. For example: ``I make a list every morning to stay on track with my work.``
 
 - **Stretch**: To move your arms and legs to relax them. Example: ``I stretch during my break``.
