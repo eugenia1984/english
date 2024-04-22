@@ -12,6 +12,8 @@
 
 5. [How to discusss your morning or evening routine](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/05_how_to_discuss_your_morning_or_evening_routine.md): Adjectives, Idiomatic expressions, Ordinary / out fo the ordinary, Before / After, Verb take with nouns, Balanced, Early / Late, Never, Thought, Gerund (-ing), Even, Future with WILL, Words end with "Y", Maybe / May be, Imperative: Don't, Later, Who,  Past Tense, Could / Can, Adjectives, Them / Their, While, Superlatives
 
+6. [How to describe your current project](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/06-learn-how-to-describe-your-current-project.md)
+
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
 
 ---
@@ -589,5 +591,26 @@ I save that for the weekdays, I suppose.
 But, it's a personal project and I like it a lot.
 so I don't mind spending some of my time on it.
 ```
+
+---
+
+6. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> **How to describe your current project**
+
+- Dialogue 1: Sophie and James Discuss Their Projects
+
+```
+- Sophie: Hey James, what's your cybersecurity project about?
+- James: Hi, Sophie! I'm checking the network for problems.
+We want to be safe from hackers.
+I'm using special tools to see where we might have problems,
+and then I have to fix them.
+- Sophie: That's important work.
+I'm helping our team learn how to stay safe online.
+We are taking some lessons, and praticing what to do
+if someone trys to steal our identity.
+- James: That's great, Sophie!
+The two of us are doing some important work.
+```
   
 ---
+
