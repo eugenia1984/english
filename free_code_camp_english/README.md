@@ -12,7 +12,7 @@
 
 5. [How to discusss your morning or evening routine](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/05_how_to_discuss_your_morning_or_evening_routine.md): Adjectives, Idiomatic expressions, Ordinary / out fo the ordinary, Before / After, Verb take with nouns, Balanced, Early / Late, Never, Thought, Gerund (-ing), Even, Future with WILL, Words end with "Y", Maybe / May be, Imperative: Don't, Later, Who,  Past Tense, Could / Can, Adjectives, Them / Their, While, Superlatives
 
-6. [How to describe your current project](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/06-learn-how-to-describe-your-current-project.md): preposition FOR, May / Might
+6. [How to describe your current project](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/06-learn-how-to-describe-your-current-project.md): preposition FOR, May / Might, Present Continuous
 
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
 
