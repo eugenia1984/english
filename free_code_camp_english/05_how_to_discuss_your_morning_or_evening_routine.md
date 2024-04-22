@@ -259,9 +259,22 @@ He's the data analyst who helped me a lot. (describes the data analyst with the 
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Past Tense
 
+### IRREGULAR VERBS
+
 Past tense verbs are used to talk about actions that happened in the past. Some verbs change their form in the past tense, like say to said. For example: ``Yesterday, she said she would join us`` (SAID -> Past tense of say) ``He said the meeting was at noon`` (SAID -> Describes a past statement about the meeting time)
 
 Another example of irregular verb is tell, which becomes told in the past tense. For example: ``He told me about the plan last week`` (TELL -> Past tense of tell) ``Last night, they told stories about our last project`` (Using told to describe a past action)
+
+### REGULAR VERBS
+
+Regular verbs usually add **-ed** to form the past tense. This can also result in some adjectives as in the dialogue.
+
+``Complicated`` is the past tense form of the regular verb ``complicate``, as well as the adjective that means something is not simple or easy to do. One example of it as a verb can be: ``The problems on the road complicated our trip.``
+
+``I walked to the store`` -> WALK / WALKED ->Past tense of walk
+
+``She cleaned her room yesterday`` -> CLEAN / CLEANED -> Past tense of clean
+
 
 ---
 
