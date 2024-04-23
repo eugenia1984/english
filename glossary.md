@@ -231,8 +231,6 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **immediately** means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
-
-
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
 
 - **insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
@@ -278,6 +276,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
 - **make sure**: is a phrase used to express that you want to confirm something is done the right way.
+
+- **Making pictures** in the context of data refers to creating visual representations or graphs to illustrate data findings. It's a common practice in report-making to help show information.
 
 - **maybe**: is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
 
