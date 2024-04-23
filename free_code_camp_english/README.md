@@ -626,5 +626,22 @@ I'm using some tools to help me.
 We're not using pictures, but it's definitely fun
 ```
 
+- Dialogue 3: Maria And Mark Talk about Their Projects
+
+
+```
+- Maria: Hi Mark, how's the project going?
+- Mark: Hi Maria!
+I'm testing a new software tool to find problems.
+It's a nice experience so far,
+but we're doing more tests to make sure everything works.
+We're also asking some people to tell us what they think.
+It's a bit busy, but I'm learning a lot.
+- Maria: That's good to hear it.
+I'm managing the team that's making a new part for the client's platform.
+We're trying to work on it and talk to the client to make sure they like it.
+- Mark: Nice! Good luck there.
+```
+
 ---
 
