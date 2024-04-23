@@ -147,6 +147,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **everyone** is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
 
+- **experiment** means to try new ideas or methods. For example: ``We experiment with new teaching methods`` (trying new ideas)
+
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
 
 ---
@@ -231,11 +233,15 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **industry** refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
 
+- **infographic** is a visual image like a chart or diagram used to represent information
+
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
 - **immediately** means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
 - **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
+
+- **interview** is a conversation where someone asks questions to get information. For example: ``The journalist conducts interviews with her readers`` (conversation for information)
 
 - **insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
 
@@ -359,6 +365,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
+
+- **Readers** are people who read, especially those who read a particular publication.
 
 - **reasonable** means something is fair, makes sense, or is acceptable in a certain situation. For example, The price of the ticket is reasonable means the price is not too high and feels fair.
   
