@@ -11,6 +11,8 @@ In this course, you'll learn how to talk about the projects that you are involve
 - DIALOGUE 2: Present continuous
 
 - DIALOGUE 3: Their
+
+- DIALOGUE 4: Skills / To believe / Valuable
   
 ---
 
@@ -71,10 +73,27 @@ Present continuous can be used in negative forms to express that something is no
 
 ---
 
+# DIALOGUE 3 
+
 ## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Their
 
 **Their is a possessive pronoun**. It shows that something belongs to a group of people.
 
 For example, ``Their opinions are important`` means the opinions of a group of people are important.
+
+---
+
+# DIALOGUE 4
+
+``What are you up to`` -> is a friendly way to ask someone what they are doing. It's like asking, "What are you doing these days?"
+
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Skills / To believe / Valuable
+
+**Skills are abilities or expertise in certain areas**. For example: ``She has excellent writing skills.``
+
+**To believe means to have confidence or trust in something**. For example: ``I believe you will do well.``
+
+**Valuable means very useful or important**. For example: ``Her advice is very valuable to me.``
 
 ---
