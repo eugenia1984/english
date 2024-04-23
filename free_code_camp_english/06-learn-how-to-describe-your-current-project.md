@@ -9,6 +9,8 @@ In this course, you'll learn how to talk about the projects that you are involve
 - DIALOGUE 1:  Preposition FOR, May / Might, Present Continuous
 
 - DIALOGUE 2: Present continuous
+
+- DIALOGUE 3: Their
   
 ---
 
@@ -69,6 +71,10 @@ Present continuous can be used in negative forms to express that something is no
 
 ---
 
-## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Their
+
+**Their is a possessive pronoun**. It shows that something belongs to a group of people.
+
+For example, ``Their opinions are important`` means the opinions of a group of people are important.
 
 ---
