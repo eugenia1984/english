@@ -434,6 +434,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
 
+- **Thoughts** means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
+
 - **Tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
