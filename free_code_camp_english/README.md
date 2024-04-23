@@ -611,6 +611,20 @@ if someone trys to steal our identity.
 - James: That's great, Sophie!
 The two of us are doing some important work.
 ```
-  
+
+- Dialogue 2: Data Analysis Team Discuss Their Projects
+
+```
+- Bob: Hi Sarah, what are you doing now?
+- Sarah: Hi Bob! I'm looking at customer data to find patterns.
+We're not using pictures, but it's definitely fun
+but we're not having any luck at the moment
+- Bob: Interesting! I'm making pictures with our data for our reports.
+We think it may help people understand them better.
+I'm using some tools to help me.
+- Sarah: Pictures can be great to explain things.
+We're not using pictures, but it's definitely fun
+```
+
 ---
 
