@@ -133,6 +133,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
+- **Engaging** means interesting or able to attract attention. For example: ``She writes engaging stories means her stories are very interesting.``
+
 - **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
 
 - **Emergencies** are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
