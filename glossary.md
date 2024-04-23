@@ -131,6 +131,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **efforts** are the attempts or hard work put into doing something. Like, `His efforts in the project were noticeable`. `Coordinating efforts` in a project means organizing everyone's work so the project is successful. It's like making sure all parts of a puzzle fit together.
 
+- **either** at the end of a negative sentence, it means the same situation applies to them too. For example: ``I don't like carrots. My sister doesn't like them, either.``
+
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
 - **Engaging** means interesting or able to attract attention. For example: ``She writes engaging stories means her stories are very interesting.``
