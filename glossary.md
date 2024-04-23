@@ -95,6 +95,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.
 
+- **Currently** comes from current meaning happening now. Adding -ly turns an adjective into an adverb. For example: ``She is currently reading a book`` (She is reading a book now)
+
 - **Cybersecurity** is about keeping computers and online information safe. It stops bad people from stealing or damaging what's on computers and the internet.
 
 ---
@@ -519,6 +521,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
 - **Two blocks away** means that you need to walk past two street corners to get to a place. It's a short walk in a city.
+
+- **Trends** are popular styles or ideas that many people are talking about or doing. The word trend in the singular becomes trends in the plural. For example: ``One current trend is using eco-friendly products`` (singular). ``She writes about fashion trends`` (plural). ``Tech trends`` refer to popular developments in technology.
 
 - **Typical** means what is normal or usual. For example, ``A typical day at work involves meetings and writing reports``.
 
