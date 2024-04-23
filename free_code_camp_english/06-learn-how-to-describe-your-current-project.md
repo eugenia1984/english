@@ -8,6 +8,8 @@ In this course, you'll learn how to talk about the projects that you are involve
 
 - DIALOGUE 1:  Preposition FOR, May / Might, Present Continuous
 
+- DIALOGUE 2: Present continuous
+  
 ---
 
 # DIALOGUE 1
@@ -49,5 +51,24 @@ This tense is often used for actions that are temporary or in progress. Some mor
 ``They are working on a new project`` (they are presently involved in the project).
 
 ``He is walking to the station`` (he is in the process of walking to the station).
+
+---
+
+# DIALOGUE 2
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
+Present continuous is used for actions happening at the moment of speaking. For example: ``We're being successful with our marketing campaign`` (Notice how the verb to be was conjugated as being to demonstrate that this is true at the present moment).
+
+Present continuous can be used in negative forms to express that something is not happening. For example:
+
+``I'm not working today`` (negative form)
+
+``They're not finding any solutions`` (negative form)
+
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
