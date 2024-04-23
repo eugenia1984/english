@@ -643,5 +643,30 @@ We're trying to work on it and talk to the client to make sure they like it.
 - Mark: Nice! Good luck there.
 ```
 
+- Dialogue 4: Brian Talks To Amy About Their Projects
+
+```
+- Amy: Hi Brian, what's happening with your project?
+- Brian: Hey Amy!
+I'm not working on anything big at the moment.
+I'm taking a short break to learn more about front end.
+It's good to stop a bit and refresh my skills.
+How about you?
+- Amy: That's sounds like a good idea, Brian.
+I'm currently working on a series of blog posts about tech trends.
+It's excinting.
+I'm interviewing some experts and I'm getting information for the articles.
+It's keeping me bussy, but I enjoying it.
+- Brian: That's sounds interesting!
+Are you using any new tools or strategies to create engaging content?
+- Amy: Yes, I'm.
+I'm experimenting with video interviews and interactive infographics
+to make the content more engaging for our readers.
+It's a bit challenging, but I'm learning a lot in the process.
+- Brain: That's great AMy.
+Tell us when the blog posts are out.
+I'm looking forward to read them.
+```  
+
 ---
 
