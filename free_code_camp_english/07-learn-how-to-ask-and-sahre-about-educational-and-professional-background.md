@@ -4,6 +4,8 @@ In this course, you'll learn how to ask about another person's educational and p
 
 - DIALOGUE 1: Simple Past Tense - Verb to be
 
+- DIALOGUE 2: could you...?
+  
 ---
 
 ## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Simple Past Tense - verb To be
@@ -21,6 +23,22 @@ Questions in the past tense with the verb to be are very similar to how you do i
 ``Were you at the meeting yesterday?`` Notice how were comes before you to for a question. 
 
 ``What was my assignment?`` For a specific question, notice how was comes after what and before my.
+
+---
+
+# DIALOGUE 2
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Could you ...?
+
+The phrase could you tell me is a polite way to ask someone for information. It's commonly used in formal or professional situations, like job interviews or meetings. In English, some verbs have irregular past forms, meaning they do not follow the regular pattern of adding -ed to make the past tense. Can is one such verb, and its irregular simple past form is could.
+
+The existence of irregular forms, like could, often comes from the way language has evolved over time. These forms do not follow the regular patterns and need to be memorized.
+
+For example:
+
+Present: I can speak English.
+
+Past: I could speak English when I was six.
 
 ---
 
