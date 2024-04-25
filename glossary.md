@@ -131,6 +131,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **eating here**: means stay and eat at the office.
 
+- **e-commerce platform** refers to a software application that allows businesses to manage their online sales operations. It typically includes features for displaying products, processing orders, and handling customer transactions. This term is essential in the world of online business, as it enables companies to sell goods and services over the internet.
+
 - **efforts** are the attempts or hard work put into doing something. Like, `His efforts in the project were noticeable`. `Coordinating efforts` in a project means organizing everyone's work so the project is successful. It's like making sure all parts of a puzzle fit together.
 
 - **either** at the end of a negative sentence, it means the same situation applies to them too. For example: ``I don't like carrots. My sister doesn't like them, either.``
