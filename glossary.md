@@ -552,6 +552,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
+- **web applications** refers to software programs that run on a web server and are accessed through a web browser. They are an essential part of modern technology, allowing users to perform functions or access services over the internet.
+
 - **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
 
