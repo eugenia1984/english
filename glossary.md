@@ -36,6 +36,8 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
 
+- **bachelor's degree** is an undergraduate academic degree awarded by colleges and universities upon completion of a course of study. In the term bachelor's degree, the use of the noun (bachelor) followed by the 's indicates possession or association.
+
 - **Be back** means to return.  For example: ``I'll be back by dinner`` (returning before a specific time)
 
 - **Bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example: ``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
