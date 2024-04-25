@@ -734,26 +734,32 @@ Thank you for sharing your experiences with us.
 ```
 - Anna:  Hello!
 Thanks for come in today
-
-- Second candidate: Hello! Certanly.
-
+Could you tell me about your previous roles and responsibilities?
+- Second candidate: Hello!
+Certanly.
+I worked at Mock Corporation for five years.
+I was part of a team of software engineers,
+and we were responsible for developing and maintaining various applications.
 Our primary focus was creating user-friendly software.
 - Anna: That's great to hear it.
 Were the memebers of the team envolved on
 in any specific achievements or projects?
 - Second candidate: Yes, our team was involved in a project to redesign the company's website.
-
+We were responsible for implementing new features
+and ensuring the website had fast performance.
+It was a collaborative effort, and we were able to deliver the project on time.
 - Anna: Excellent!
 Can you share details about your educational background?
 Were you trained in a specific field?
 - Second candidate: Yes.
 I have a master's degree in computer science.
-My studies were intensive
-
+My studies were intensive,
+and I was introduced to many different methodologies.
 - Anna: Impressive!
 We appreciate candidates with strong educational backgrounds
+and practical experience.
+Thanks a lot for coming to the interview.
 ```
 
-```
 
 ---
