@@ -108,6 +108,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **Danger**: refers to the possibility of harm or risk. An example sentence could be, ``Firefighters often face danger in their work``.
 
 - **Data** refers to information or facts collected for reference or analysis. In a workplace, data can include numbers, words, or observations used to make decisions. For example: ``The company collects customer data to understand buying habits``. There are different types of data, like **quantitative data**, which is about numbers (like how many people visit a store), and **qualitative data**, which is about descriptions (like what people think about a product). **Customer data** is specific information about customers, like their buying habits or preferences.
+
+- **database** is a structured collection of data, typically stored electronically in a computer system. It is used to organize, store, and retrieve large amounts of information efficiently. In programming, database is essential for managing data that applications need to function
   
 - **database administrator** is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
 
