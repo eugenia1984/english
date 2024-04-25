@@ -62,6 +62,9 @@
 It emphasizes the importance of avoiding certain actions. For example, ``You can't enter restricted areas without permission highlights a strict rule or prohibition``.
 
 - **Challenging** means something that is difficult in a way that tests your ability or determination. When work is challenging, it requires effort, skill, or strong problem-solving.
+
+- **checkout process** refers to the steps involved in completing a purchase, whether in a physical store or online. In a physical store, this usually involves taking items to a cashier, paying, and receiving a receipt. In online shopping, it includes adding items to a cart, entering shipping and payment details, and finalizing the order.
+
   
 - **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
 
