@@ -702,21 +702,30 @@ to adapt to new security challenge.
 - Dialogue 1: A Job Interview
 
 ```
-- Anna: Good afternoon! Thanks for coming in for this interview.
-
-- Candidate: Good afternoon! Sure, I was a programmer at Acme Tech.
-
-- Anna: That's excellent. Were there any specific projects you'd like to mention?
-- Candidate:
+- Anna: Good afternoon!
+Thanks for coming in for this interview.
+Can you tell me about your previous job experiences?
+- Candidate: Good afternoon!
+Sure, I was a programmer at Acme Tech.
+I was there for three years.
+I was responsible for developing web applications
+and maintaining the company's database.
+I was also part of the updating team.
+- Anna: That's excellent.
+Were there any specific projects you'd like to mention?
+- Candidate: Yes, in one of my teams projects
 we were involved in the development of an e-commerce platform.
-
-- Anna:
+We were responsible for the checkout process,
+and it was a successful implementation.
+- Anna: GReat! Can you tell me about your educatio?
+Were you educated in computer science?
 - Candidate:  Yes. I have a bachelor's degree in computer science
-
+from California State University.
 During my studies, I was introduced to various programming languages
-
-- Anna: 
-
+and software development principles.
+- Anna: Wonderful!
+We value candidates with a strong educational background.
+Thank you for sharing your experiences with us.
 ```
 
 ---
