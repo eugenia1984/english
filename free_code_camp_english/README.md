@@ -697,3 +697,26 @@ to adapt to new security challenge.
 ```
 ---
 
+7. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Learn how to ask about educational and professinal background
+
+- Dialogue 1: A Job Interview
+
+```
+- Anna: Good afternoon! Thanks for coming in for this interview.
+
+- Candidate: Good afternoon! Sure, I was a programmer at Acme Tech.
+
+- Anna: That's excellent. Were there any specific projects you'd like to mention?
+- Candidate:
+we were involved in the development of an e-commerce platform.
+
+- Anna:
+- Candidate:  Yes. I have a bachelor's degree in computer science
+
+During my studies, I was introduced to various programming languages
+
+- Anna: 
+
+```
+
+---
