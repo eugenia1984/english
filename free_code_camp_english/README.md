@@ -761,5 +761,47 @@ and practical experience.
 Thanks a lot for coming to the interview.
 ```
 
+- Dialogue 3: Two Workmates Talk About Their Backgrounds
+
+```
+- Brian: Hey, how's it going?
+I noticed you're relatively new here
+What's your background at tech?
+- Sophie: Hey!
+Yeah, I joined the team a few months ago.
+I didn't study computer science at university,
+but I majored in electrical engineering.
+It wasn't exactly tech-related, but I learned a lot
+about problem-solving and critical thinking.
+- Brian: That's interesting!
+So, you didn't work on many programming projects
+during your studies, did you?
+- Sophie: No, not really.
+I played around with coding, but most of my projects involved
+circuits designs and electric systems.
+It was a bit different.
+- Brian: I see!
+Did you enjoy your time there
+even if it wasn't enterely tech-focussed?
+- Sophie: I did.
+It was challenging, but I met some fantastic people.
+We have a bunch of marathons,
+although I wasn't always a very strong programmer.
+- Brian: Well, we all have different journeys.
+I studied at a small college as well and majored in information technology.
+It was more hands-on, and I loved every bit of it.
+We didn't have to wear too many hats,
+but I have build and maintain networks
+and manage a few small projects.
+- Sophie: That sounds cool.
+Did you ever work on any big projects during your studies?
+- Brian: They weren't exactly big projects.
+Most of them were smaller scale. But it was a great learning experience.
+It's fascinating to me how we all take different paths
+but end up in the same tech world, right?
+- Sophie: Absolutely!
+Let's grab a coffee sometime and chat more!
+```
+
 
 ---
