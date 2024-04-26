@@ -6,7 +6,7 @@ In this course, you'll learn how to ask about another person's educational and p
 
 - DIALOGUE 2: Could you...?
 
-- DIALOGUE 3: Simple Past - Negative, Did you enjoy ... even if...?
+- DIALOGUE 3: Simple Past - Negative, Did you enjoy ... even if...? / Answer to a past tense interrogative
   
 ---
 
@@ -79,5 +79,13 @@ When you want to ask someone about their experiences related to a past event, yo
 ``Even if`` is used to introduce a condition or situation that contrasts with the main part of the question or statement. It helps to provide more context or specify conditions under which something occurred or was felt.
 
 For example, ``Did you enjoy your vacation, even if it rained every day?`` adds a contrasting condition to the question about the vacation.
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Answering to a past simple interrogative
+
+When answering to a past simple interrogative (a question), you can answer affirmatively with ``did`` or negatively with ``didn't``.
+
+For example, ``Did you go to the party?`` can be answered with: ``I did`` (affirmative) or ``I didn't`` (negative).
 
 ---
