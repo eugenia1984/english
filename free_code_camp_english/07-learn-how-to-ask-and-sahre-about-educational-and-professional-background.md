@@ -56,4 +56,18 @@ Remember that the main verb stays in its simple form. Only the auxiliary verb di
 
 - Negative sentence in the past: ``I didn't work yesterday`` - Only the auxiliary verb is conjugated to the past.
 
+## Wasn't / weren't
+
+There are some verbs you can't use didn't to create negative sentences in the past. The verb to beis one of them.
+
+If you want to create a negative sentence using the verb to be in the past, simply add not after was or were. 
+
+For example:
+
+It was working normally -> ``It wasn't working normally``.
+
+They were informed earlier -> ``They weren't informed earlier``.
+
+Wasn't is the abbreviation of was not and weren't the abbreviation of were not.
+
 ---
