@@ -542,6 +542,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
+- **to wear** too many hats is an idiom that means to have many different roles or responsibilities.
+
 - **To work properly** means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
 
 - **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
