@@ -4,7 +4,9 @@ In this course, you'll learn how to ask about another person's educational and p
 
 - DIALOGUE 1: Simple Past Tense - Verb to be
 
-- DIALOGUE 2: could you...?
+- DIALOGUE 2: Could you...?
+
+- DIALOGUE 3: Simple Past - Negative
   
 ---
 
@@ -42,4 +44,16 @@ Past: I could speak English when I was six.
 
 ---
 
-## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+# DIALOGUE 3
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Simple Past - Negative
+
+For most verbs, if you want to make a negative sentence in the past tense, simply put didn't in front of the main verb. Didn't is short for did not.
+
+Remember that the main verb stays in its simple form. Only the auxiliary verb did is conjugated. For example:
+
+- Affirmative sentence in the past: ``I worked yesterday`` - The Verb work is conjugated to the past.
+
+- Negative sentence in the past: ``I didn't work yesterday`` - Only the auxiliary verb is conjugated to the past.
+
+---
