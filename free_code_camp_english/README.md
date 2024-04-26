@@ -14,7 +14,7 @@
 
 6. [How to describe your current project](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/06-learn-how-to-describe-your-current-project.md): preposition FOR, May / Might, Present Continuous, Their, Skills / To believe / Valuable
 
-7. [Learn how to ask about educational and professinal background](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/07-learn-how-to-ask-and-sahre-about-educational-and-professional-background.md): Simple Past Tense - Verb to be, Could you...?, Simple Past - Negative.
+7. [Learn how to ask about educational and professinal background](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/07-learn-how-to-ask-and-sahre-about-educational-and-professional-background.md): Simple Past Tense - Verb to be, Could you...?, Simple Past - Negative, Did you...? Even if...
    
 
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
