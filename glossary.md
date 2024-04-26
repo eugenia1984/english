@@ -67,10 +67,11 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **checkout process** refers to the steps involved in completing a purchase, whether in a physical store or online. In a physical store, this usually involves taking items to a cashier, paying, and receiving a receipt. In online shopping, it includes adding items to a cart, entering shipping and payment details, and finalizing the order.
 
-  
 - **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
 
 - **Checking emails**: To look at and read new messages in your email account. Example: ``After logging in, I check my emails to see if I have any new messages``.
+
+- **Circuit design**: is the process of planning the layout and connections of an electrical or electronic circuit.
 
 - **clear your mind**: means to free your mind from stress or worry. ``Clear your mind before the test to focus better``. (freeing the mind from distractions).
 
@@ -141,6 +142,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **efforts** are the attempts or hard work put into doing something. Like, `His efforts in the project were noticeable`. `Coordinating efforts` in a project means organizing everyone's work so the project is successful. It's like making sure all parts of a puzzle fit together.
 
 - **either** at the end of a negative sentence, it means the same situation applies to them too. For example: ``I don't like carrots. My sister doesn't like them, either.``
+
+- **Electrical systems** refer to a network of electrical components connected to carry out some operation. These can include anything from simple circuits like a flashlight to complex systems found in computers and other high-tech devices.
 
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
