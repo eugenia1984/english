@@ -6,7 +6,7 @@ In this course, you'll learn how to ask about another person's educational and p
 
 - DIALOGUE 2: Could you...?
 
-- DIALOGUE 3: Simple Past - Negative
+- DIALOGUE 3: Simple Past - Negative, Did you enjoy ... even if...?
   
 ---
 
@@ -69,5 +69,15 @@ It was working normally -> ``It wasn't working normally``.
 They were informed earlier -> ``They weren't informed earlier``.
 
 Wasn't is the abbreviation of was not and weren't the abbreviation of were not.
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Did you enjoy ... even if...?
+
+When you want to ask someone about their experiences related to a past event, you can say ``Did you enjoy...?``. This is a simple way to ask about someone's preferences or satisfaction.
+
+``Even if`` is used to introduce a condition or situation that contrasts with the main part of the question or statement. It helps to provide more context or specify conditions under which something occurred or was felt.
+
+For example, ``Did you enjoy your vacation, even if it rained every day?`` adds a contrasting condition to the question about the vacation.
 
 ---
