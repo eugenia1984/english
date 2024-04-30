@@ -13,8 +13,6 @@
 - **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
 - **alert**: describes being fully aware and paying attention.
-  
-- **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
@@ -26,8 +24,12 @@
 
 - **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin)
 
+- **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
+  
 - **attentive**: means paying careful attention or listening carefully.
 
+- **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
+  
 - **awesome** is a word people use when they really like something. It's like saying very good!
 
 - **any** is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
