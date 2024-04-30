@@ -562,6 +562,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
 
+- **unconventional** is used to describe something that's not based on or conforming to what is generally done or believed. It often implies a method or approach that is different from the norm.
+
 - **unlock** means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
 - **update** is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
