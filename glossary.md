@@ -528,7 +528,9 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **to skip** means to not do or not include something that you usually do or that should be done.
 
-- **To steal** means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission. 
+- **To steal** means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission.
+  
+- **to take different paths** means choosing various routes or methods to achieve something.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
