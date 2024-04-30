@@ -161,6 +161,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **everyone** is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
 
+- **exactly** is used to emphasize the truth or accuracy of a statement or description. It can mean precisely or just. For example, if someone says, ``It's exactly what I needed``, they mean that it is precisely or perfectly what was required. Exactly often highlights that something is correct in every detail.
+
 - **experiment** means to try new ideas or methods. For example: ``We experiment with new teaching methods`` (trying new ideas)
 
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
