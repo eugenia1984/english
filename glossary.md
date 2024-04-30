@@ -413,6 +413,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
 - **Security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
+
+- **self-taught** means learning things by yourself, not from a school or teacher. It's when you learn something on your own. The word **taught** is from teach, which means to give someone knowledge or to show how to do something. So, if you are ``self-taught``, you have learned something by yourself.
   
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
