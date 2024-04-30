@@ -7,6 +7,8 @@ In this course, you'll learn how to ask about another person's educational and p
 - DIALOGUE 2: Could you...?
 
 - DIALOGUE 3: Simple Past - Negative, Did you enjoy ... even if...? / Answer to a past tense interrogative
+
+- DIALOGUE 4: Most / mostly
   
 ---
 
@@ -87,5 +89,17 @@ For example, ``Did you enjoy your vacation, even if it rained every day?`` adds 
 When answering to a past simple interrogative (a question), you can answer affirmatively with ``did`` or negatively with ``didn't``.
 
 For example, ``Did you go to the party?`` can be answered with: ``I did`` (affirmative) or ``I didn't`` (negative).
+
+---
+
+# DIALOGUE 4
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Most / mostly
+
+- **Most** is an adjective you can use when **to talk about the biggest part of something**. For exmaple: ``We completed most of our work before lunch``, it means a group finished the biggest part of their work.
+
+- **Mostly** is an adverb. You use it **to talk about what something is like most of the time**. For exemple: ``The office is mostly quiet in the mornings``, means that usually, in the mornings, the office is quiet.
+
+So, **most talks about a big part of something**, and **mostly tells you what usually happens or what something is like most of the time**.
 
 ---
