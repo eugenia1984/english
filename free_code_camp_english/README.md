@@ -830,4 +830,29 @@ It was a great way to apply what I learned.
 It is amazing how far you got studying by yourself.
 ```
 
+- Dialogue 5: Anna Talks About her Experience
+
+```
+-Tom: Hey, I've been curious about your background.
+How did you end up as a Tech recruiter?
+- Anna: Hey! Tt's an interesting story.
+How did you end up as a Tech recruiter?
+My plan was to become a therapist or counselor.
+But during my last year, I took a course in organizational psychology,
+and it piqued my interest in the workplace and employee dynamics.
+- Tom : That's a cool twist.
+Did you immediately start working as a tech recruiter after college?
+- Anna: Not right away.
+I worked in a general HR role at a non-tech company first,
+focusing on training and development.
+- Tom : What made you make the jump to tech?
+- Anna: I saw that tech companies appreciate innovation
+and care for the employees' well-being.
+This is directly related to what made me want
+to become a psychologist.
+So basically, that's what brought me here.
+- Tom : Awesome.
+It was great to get to know you better.
+```
+
 ---
