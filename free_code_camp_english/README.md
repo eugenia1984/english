@@ -803,5 +803,31 @@ but end up in the same tech world, right?
 Let's grab a coffee sometime and chat more!
 ```
 
+- Dialogue 4: A Developer with a Different Background
+
+```
+- Tom: Hey, Alice.
+How did you get into tech?
+- Alice: My background it's a bit unconventional.
+I didn't study tech at a traditional university.
+I'm mostly self-taught, and I took a lot of online courses.
+- Tom: That's interesting!
+So, you didn't attend a regular college or anything like that?
+- Alice: No, not at all.
+I was at a different job,
+but I got really interested in programming and tech,
+so I started learning in my free time.
+- Tom: That's impressive!
+Did you enjoy learning on your own?
+- Alice: Aboslutely! It was challenging, but I loveed it.
+The flexibility of online learning, allow me
+to balance my job and my studies.
+- Tom: Did you work on any projects during your self-study?
+- Alice: Yes, I did.
+I built a few small web applications, just to practice.
+It was a great way to apply what I learned.
+- Tom: I admired your dedication!
+It is amazing how far you got studying by yourself.
+```
 
 ---
