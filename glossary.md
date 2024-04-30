@@ -313,6 +313,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **most of the time**: means usually or very often.
 
+- **mostly** is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned.
+
 - **Multiple times** means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
   
 ---
