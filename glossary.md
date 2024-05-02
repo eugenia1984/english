@@ -363,6 +363,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
 
+- **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
+
 - **places around here** refers to locations in the nearby vicinity or area.
 
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
