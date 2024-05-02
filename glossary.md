@@ -343,8 +343,9 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **on the right foot** is an idiom meaning to start something in a positive or successful way. For example: ``Starting the day with a healthy breakfast sets you on the right foot.``
 
-
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
+
+- **Organizational psychology** is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
 
