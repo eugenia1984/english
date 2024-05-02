@@ -10,7 +10,7 @@ In this course, you'll learn how to ask about another person's educational and p
 
 - DIALOGUE 4: Most / mostly
 
-- DIALOGUE 5: Therapist / Counselor
+- DIALOGUE 5: Therapist / Counselor, Time with `last`
   
 ---
 
@@ -111,3 +111,19 @@ So, **most talks about a big part of something**, and **mostly tells you what us
 ## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Therapist / Counselor
 
 **Therapist** and **counselor** are words for people who help others with their feelings and thoughts. They give advice and support to those who are having a tough time with their emotions or mind.
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Yime with last
+
+The word ``last`` helps you talk about the time that just passed. When you say:
+
+``Last year`` it means the year that finished before this one. 
+
+``Last month`` is the month that ended before this one. 
+
+``Last week`` is the week that came before this week.
+
+Using words like ``last year``, ``last month``, ``last week``, or ``last day`` is a way to talk about things that happened not too long ago.
+
+---
