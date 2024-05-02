@@ -9,6 +9,8 @@ In this course, you'll learn how to ask about another person's educational and p
 - DIALOGUE 3: Simple Past - Negative, Did you enjoy ... even if...? / Answer to a past tense interrogative
 
 - DIALOGUE 4: Most / mostly
+
+- DIALOGUE 5: Therapist / Counselor
   
 ---
 
@@ -103,3 +105,9 @@ For example, ``Did you go to the party?`` can be answered with: ``I did`` (affir
 So, **most talks about a big part of something**, and **mostly tells you what usually happens or what something is like most of the time**.
 
 ---
+
+# DIALOGUE 5
+
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Therapist / Counselor
+
+**Therapist** and **counselor** are words for people who help others with their feelings and thoughts. They give advice and support to those who are having a tough time with their emotions or mind.
