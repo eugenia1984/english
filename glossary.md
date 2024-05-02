@@ -7,6 +7,8 @@
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
 - **Access control** refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
+
+- **actually** is used when you want to tell the real fact about something, especially if it's different from what someone thought or said. It's like saying, No, this is how it really is. You use actually to make your point stronger or to correct what someone else said. 
   
 - **after that** is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
