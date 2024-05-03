@@ -327,6 +327,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **night owl** is someone who stays up late. For example: ``He's a night owl, often working past midnight`` (stays up late)
 
+- **not right away**: is used to indicate that something didn't happen immediately or at the earliest opportunity. It suggests that there was a delay or a period before the action or change took place. This phrase helps to set the timeline of events or actions.
+
 - **not that much** is used to indicate a small amount or degree, often in response to a question about quantity or frequency. For example, ``Do you travel for work? – Not that much``.
 
 - **not too far away**, it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
