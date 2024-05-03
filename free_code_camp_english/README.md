@@ -16,7 +16,7 @@
 
 7. [Learn how to ask about educational and professinal background](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/07-learn-how-to-ask-and-sahre-about-educational-and-professional-background.md): Simple Past Tense - Verb to be, Could you...?, Simple Past - Negative, Did you enjoy ...? Even if... / Answer to a past tense interrogative, Most / mostly, Therapist / Counselor, Time with `last`
 
-8. [Learn how to talk about hobbies and interests](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/08-learn-how-to-talk-about-hobbies-and-interests.md)   
+8. [Learn how to talk about hobbies and interests](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/08-learn-how-to-talk-about-hobbies-and-interests.md): notice   
 
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
 
