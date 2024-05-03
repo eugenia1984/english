@@ -857,3 +857,36 @@ It was great to get to know you better.
 ```
 
 ---
+---
+
+8. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Learn how to talk about hobbies and interests
+
+- Dialogue 1: An Interest in Photography
+
+```
+- Maria: Hey, I noticed that you have a camera on your desk.
+Are you into photography?
+- Bob: Absolutely!
+I've been passionate about photography for many years.
+Capturing moments and scenes is like magic to me.
+- Maria: That's awesome!
+How long have you been into photography?
+- Bob: For nearly a decade now.
+It started as a hobby,
+but it's become a significant part of my life
+- Maria: Wow! That's kind of while!
+What kind of photography do you enjoy the most?
+- Bob: I like landscapes and nature.
+It's incredible to capture the beauty of our world in pictures.
+- Maria: That sounds amazing.
+I like photos a lot.
+Any tips for a newbie?
+- Bob: Absolutely!
+ I've taken things way too seriously in the past.
+So, I always recommend starting with the basics,
+learning about your camaera, and try to have fun.
+- Maria: Cool! thanks for the toips.
+- Bob: No problem.
+```
+
+---
