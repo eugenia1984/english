@@ -39,6 +39,8 @@ For regular verbs, it's usually the verb plus -ed (like walked), but for irregul
 For example: ``I've walked to the park.`` or ``She's seen the movie.``
 
 - The Present Perfect Tense is used to express past experiences that influence the present.
+
+- In situations where the Present Perfect tense is used to express the duration of time of a certain action, you normally use **for** to refer to this duration. For example: ``I've been an architect for more than 15 years``. -> Your career in architecture began more than 15 years ago. In the phrase ``for nearly a decade now``, Bob is saying that his interest in photography started around a decade ago.
   
 ---
 
