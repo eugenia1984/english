@@ -2,7 +2,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will see?
 
-- DIALOGUE 1: notice, I've been - Present Perfect Tense,
+- DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly
 
 ---
 
@@ -41,3 +41,9 @@ For example: ``I've walked to the park.`` or ``She's seen the movie.``
 - The Present Perfect Tense is used to express past experiences that influence the present.
   
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Near / nearly
+
+**Near** means close in distance or time, while **nearly** is used to indicate that something is almost, but not completely finished.
+
+For example, if you're near finishing a project, you're close to completing it. If you've nearly finished, you're almost done but not quite there yet.
