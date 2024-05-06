@@ -2,7 +2,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will see?
 
-- DIALOGUE 1: notice, I've been,
+- DIALOGUE 1: notice, I've been - Present Perfect Tense,
 
 ---
 
@@ -23,5 +23,15 @@ In Bob's sentence, you see a different structure being introduced. Instead of sa
 When you see **'ve been** in a sentence, remember it is a contraction of the **verb have**, which becomes **'ve**, and the **verb to be in the participle form**.
 
 For example: ``I've been in love with Jane for a long time now, but she just likes me as a friend.``
+
+## Present Perfect Tense
+
+The Present Perfect Tense is formed **using the auxiliary verb have or has with the past participle of a verb**. It's used **to talk about actions or situations from the past that still matter now**.
+
+To form it, use: ``have`` + ``I / you / we / they / and`` or ``has`` with ``he / she / it`` + ``the past participle``.
+
+For regular verbs, it's usually the verb plus -ed (like walked), but for irregular verbs, it can vary (like seen from see). For example:
+
+``I have walked to the park or She has seen the movi``. This tense is helpful in discussing past actions with current relevance.
 
 ---
