@@ -361,6 +361,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **passion** is a big feeling of love for something. When you have a passion for something, you really enjoy it and think it's very important. If someone has a passion for music, it means they love music a lot. In the conversation
 
+- **passionate about something**: when you not only like something, but also express strong emotions or feelings in relation to it. For example: ``I am passionate about learning languages. I have studied Spanish, French, Italian, Japanese, and Chinese. I can't wait to start another``.
+
 - **Patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
 
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
