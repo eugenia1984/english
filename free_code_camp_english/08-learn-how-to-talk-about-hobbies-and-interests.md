@@ -34,4 +34,8 @@ For regular verbs, it's usually the verb plus -ed (like walked), but for irregul
 
 ``I have walked to the park or She has seen the movi``. This tense is helpful in discussing past actions with current relevance.
 
+- In the Present Perfect Tense, you can contract have to **'ve** after I, you, we or they, and has to **'s** after he, she or it.
+
+For example: ``I've walked to the park.`` or ``She's seen the movie.``
+
 ---
