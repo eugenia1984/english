@@ -155,6 +155,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
 
+- **enjoy the most**: is used to express a preference or favorite aspect of something.
+
 - **Emergencies** are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
 
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
