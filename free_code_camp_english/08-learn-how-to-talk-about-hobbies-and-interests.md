@@ -38,4 +38,6 @@ For regular verbs, it's usually the verb plus -ed (like walked), but for irregul
 
 For example: ``I've walked to the park.`` or ``She's seen the movie.``
 
+- The Present Perfect Tense is used to express past experiences that influence the present.
+  
 ---
