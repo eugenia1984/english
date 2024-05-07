@@ -159,6 +159,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Emergencies** are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
 
+- **enjoy the most**: is used to indicate one's preferred or favorite aspect of an activity.
+
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
   
 - **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
