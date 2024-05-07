@@ -2,7 +2,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will see?
 
-- DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly
+- DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly, Have taken
 
 ---
 
@@ -49,3 +49,19 @@ For example: ``I've walked to the park.`` or ``She's seen the movie.``
 **Near** means close in distance or time, while **nearly** is used to indicate that something is almost, but not completely finished.
 
 For example, if you're near finishing a project, you're close to completing it. If you've nearly finished, you're almost done but not quite there yet.
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Have taken
+
+Have taken shows you did something before. Here's how you might use it:
+
+Picking up: I have taken the book. - You took the book from somewhere.
+
+Choosing: I have taken the red one. - You picked out the red one for yourself.
+
+Accepting: I have taken your idea. - You decided to go with someone's idea.
+
+Feeling: I have taken the joke seriously. - You thought the joke was more serious than it was meant to be.
+
+---
