@@ -4,6 +4,8 @@
 
 - DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly, Have taken
 
+- DIALOGUE 2: Present Perfect Tense: since
+
 ---
 
 # DIALOGUE 1
@@ -65,3 +67,11 @@ Accepting: I have taken your idea. - You decided to go with someone's idea.
 Feeling: I have taken the joke seriously. - You thought the joke was more serious than it was meant to be.
 
 ---
+
+# DIALOGUE 2
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Present Perfect Tense: since
+
+The Present Perfect Tense can be used with the word **since** to discuss the starting point of ongoing actions or conditions. For instance, ``I have liked painting since I was a child``. implies that the speaker began to enjoy painting in their childhood and continues to do so. 
+
+Note: the auxiliary verb have can be contracted to 've.
