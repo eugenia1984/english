@@ -283,6 +283,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **It seems like**: can be used to express an impression you have by looking at something or someone. For example, ``It seems like it's cold outside!`` is an expression you can say when you have not left home yet, but you see everyone on the street wearing coats. Other examples include ``It seems like it's going to rain``, or ``It seems like you're happy today``.
 
+- **I would love to**:  is used to express enthusiasm and agreement with a suggested or proposed activity. In affirmative sentences, would is often shortened to 'd, as in ``I'd love to``. For example, if someone asks you if you want to go to a concert, you can say ``I'd love to`` to show that you are very happy about the invitation and really want to go.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
