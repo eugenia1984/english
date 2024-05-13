@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly, Have taken
 
-- DIALOGUE 2: Present Perfect Tense: since - question form
+- DIALOGUE 2: Present Perfect Tense: since - question form - for and since
 
 ---
 
@@ -81,5 +81,13 @@ Note: the auxiliary verb have can be contracted to 've.
 Remember, to form questions in the Present Perfect Tense, the sentence structure must be rearranged by changing the position of the subject and the auxiliary verb have. The verb in its participle form (in this case, been) is places after the subject. 
 
 For example: ``How long have you been a doctor?``
+
+### For and since
+
+In the Present Perfect Tense, **for** and **since** are used to discuss time duration and starting points. 
+
+- **For tells how long something has been happening**.
+
+- **Since tells when something started**.
 
 ---
