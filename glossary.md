@@ -469,6 +469,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **supportive** is used to describe someone who provides encouragement or assistance to others. Think of it like a strong pillar that holds up a building - a supportive person helps to hold you up when you need it.
 
+- **Sure** is a friendly way to say yes or agree to something. It's like saying ``definitely`` or ``of course``.
+
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
 
 ---
