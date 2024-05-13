@@ -303,6 +303,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
 
+- **Let's see**: is often used when making tentative plans or expressing a willingness to explore options.
+
 - **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
 
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
