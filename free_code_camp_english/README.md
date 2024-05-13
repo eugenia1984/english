@@ -889,4 +889,30 @@ learning about your camaera, and try to have fun.
 - Bob: No problem.
 ```
 
+- Dialogue 2: The Bike Rider
+
+```
+- Jake: Hey, is that bicycle outside the office yours?
+ Do you enjoy cycling?
+- Linda: I do! I've liked riding my bike since my childhood.
+It's not just a hobby – it's a way of life for me.
+- Jake: That's great! How long have you been into cycling?
+- Linda: I've been a cyclist for more than 15 years.
+It's a love that hasn't disappeared with time.
+- Jake: Wow!
+And what kind of cycling do you enjoy the most?
+- Linda: I love road cycling and the feeling of the open road.
+It's a great way to stay fit and explore new places.
+- Jake: That's fantastic.
+I want to get into cycling, too.
+I haven't been on a bike since I was a kid.
+ probably even forgot how to do it.
+- Linda: People say we never forget.
+ Say, do you still have a bike?
+Would you like to go cycling with me one of these days?
+- Jake: Sure!
+ I'd love to. Let's see what we can do next week.
+- Linda: Ok, it's a bike date, then.
+```
+
 ---
