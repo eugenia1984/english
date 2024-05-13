@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly, Have taken
 
-- DIALOGUE 2: Present Perfect Tense: since - question form - for and since - negative form
+- DIALOGUE 2: Present Perfect Tense: since - question form - for and since - negative form, Would you like to...?
 
 ---
 
@@ -97,5 +97,13 @@ In the Present Perfect Tense, to form a negative sentence, **you insert not dire
 For example, if Jake wishes to express that a significant amount of time has passed since his last bicycle ride, he could say, ``I have not been on a bike since I was a child``.
 
 In this sentence, the combination of the verb have and not can also be abbreviated to **haven't**: ``I haven't been on a bike since I was a child.``
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Would you like to...?
+
+The phrase **Would you like to** is often used** when proposing or suggesting an activity**. 
+
+When Linda says Would you like to go cycling with me one of these days?, it's similar to saying Hey, let's go cycling together.
 
 ---
