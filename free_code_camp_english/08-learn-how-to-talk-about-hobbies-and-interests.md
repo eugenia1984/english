@@ -102,8 +102,14 @@ In this sentence, the combination of the verb have and not can also be abbreviat
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Would you like to...?
 
-The phrase **Would you like to** is often used** when proposing or suggesting an activity**. 
+The phrase **Would you like to** is often used **when proposing or suggesting an activity**. 
 
 When Linda says Would you like to go cycling with me one of these days?, it's similar to saying Hey, let's go cycling together.
+
+The phrase would you like** is a polite way to offer something or ask someone if they want something**. When offering something, you can specify it directly after the expression would you like. For instance, you might ask ``Would you like some coffee?`` when offering coffee to a guest. 
+
+If you are proposing to do something, such as going shopping, remember to include to between the expression and the action. For example:`` Would you like to go shopping?``. 
+
+Finally, if you are asking someone if you should do something for them, use me between would you like and to. For example: ``Would you like me to make some coffee?``.
 
 ---
