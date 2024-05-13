@@ -349,6 +349,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **on the right foot** is an idiom meaning to start something in a positive or successful way. For example: ``Starting the day with a healthy breakfast sets you on the right foot.``
 
+- **One of these days**: is a phrase you use when you talk about something you plan to do soon, but you haven't decided exactly when. It's like saying "sometime soon" or "in the near future." For example, if you say,`` One of these days, I'll visit Paris``, it means you want to visit Paris and hope to do it sometime soon, but you don't know the exact day yet.
+
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
 - **Organizational psychology** is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
