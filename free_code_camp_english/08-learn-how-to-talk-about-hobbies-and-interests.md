@@ -4,7 +4,7 @@
 
 - DIALOGUE 1: notice, I've been - Present Perfect Tense, Near / nearly, Have taken
 
-- DIALOGUE 2: Present Perfect Tense: since
+- DIALOGUE 2: Present Perfect Tense: since - question form
 
 ---
 
@@ -75,3 +75,11 @@ Feeling: I have taken the joke seriously. - You thought the joke was more seriou
 The Present Perfect Tense can be used with the word **since** to discuss the starting point of ongoing actions or conditions. For instance, ``I have liked painting since I was a child``. implies that the speaker began to enjoy painting in their childhood and continues to do so. 
 
 Note: the auxiliary verb have can be contracted to 've.
+
+### Question form
+
+Remember, to form questions in the Present Perfect Tense, the sentence structure must be rearranged by changing the position of the subject and the auxiliary verb have. The verb in its participle form (in this case, been) is places after the subject. 
+
+For example: ``How long have you been a doctor?``
+
+---
