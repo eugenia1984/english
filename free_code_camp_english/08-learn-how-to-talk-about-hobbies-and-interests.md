@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Present Perfect Tense: since - question form - for and since - negative form, Would you like to...?
 
-- DIALOGUE 3: That, Shelf / Shelves, Preposition: on
+- DIALOGUE 3: That, Shelf / Shelves, Preposition: on - behind
 
 ---
 
@@ -132,9 +132,11 @@ When you talk about more than one shelf, you should change the ending to make it
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Preposition: on
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Preposition: on, behind
 
-The preposition on indicates that something is positioned above and touching or supported by something else.
+The preposition **on** indicates that something is positioned above and touching or supported by something else.
+
+The preposition **behind** means that an object is located at the back side of another object. For example, ``My bag is behind me``. This means your bag is located at the back side of where you are sitting.
 
 ---
 
