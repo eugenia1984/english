@@ -185,6 +185,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
 
+- **Fantasy**: encompasses stories set in worlds that diverge from reality, often featuring magical elements, mythical creatures, and supernatural phenomena.
+
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
 
 - **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers.
@@ -440,6 +442,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> S
+
+- **Science Fiction (Sci-Fi)**: explores imaginative and futuristic concepts often grounded in scientific principles, technology, and the potential advancements of the future.
 
 - **schedule**: refers to a planned timeline for tasks or events. Understanding a project's schedule is key to managing time effectively. For example: This is the schedule of the day refers to all activities and actions planned for that day. **To schedule** means to arrange for an event or activity to take place at a specific time. It's like making an appointment or setting up a time for something. For example: `I schedule my doctor's appointments for the first thing in the morning.`
 
