@@ -335,7 +335,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **most of the time**: means usually or very often.
 
-- **mostly** is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned.
+- **mostly** is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned. **mostly** is used to say that something is true or happens most of the time but not completely. If someone asks, ``What kind of books do you read?``, you could answer, ``I read adventure books, mostly``. This means that while you might read various kinds of books, adventure books are what you choose to read most of the time.
 
 - **Multiple times** means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
   
