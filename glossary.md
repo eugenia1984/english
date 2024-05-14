@@ -32,6 +32,10 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin)
 
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
+
+- **at least** is used when you want to say the smallest amount or number of something is okay or enough. It's like saying "no less than this amount". For example, if you say, ``I study English for at least 30 minutes every day``, it means you spend 30 minutes or more studying English daily, but never less than 30 minutes.
+
+
   
 - **attentive**: means paying careful attention or listening carefully.
 
