@@ -6,7 +6,7 @@
 
 - DIALOGUE 2: Present Perfect Tense: since - question form - for and since - negative form, Would you like to...?
 
-- DIALOGUE 3: That, Shelf / Shelves
+- DIALOGUE 3: That, Shelf / Shelves, Preposition: on
 
 ---
 
@@ -132,6 +132,12 @@ When you talk about more than one shelf, you should change the ending to make it
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Preposition: on
+
+The preposition on indicates that something is positioned above and touching or supported by something else.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
 
 ---
