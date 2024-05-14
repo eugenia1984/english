@@ -24,6 +24,9 @@
 
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
 
+- **Are you kidding?** is used to express disbelief, surprise, or sometimes to confirm if someone is joking. 
+If your friend tells you they saw a dog riding a skateboard down the street, you might be surprised and say Are you kidding? to ask if they're really serious or just joking.
+
 - **assign** means to give tasks to other people.
 
 - **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin)
