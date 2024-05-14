@@ -85,6 +85,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Collaboration** refers to working together with others to achieve a common goal.
 
+- **collection** refers to a group of items gathered together, often because they are of the same type or share a theme. For instance, if you say ``I have a collection of stamps from different countries``, it means you have many stamps from various places kept together.
+
 - **Compensate** means to make up for something that is missed or lacking. It's often used to describe actions taken to balance out an absence or deficiency. For example: ``If you skip lunch, you might compensate by eating more at dinner``, meaning: not having lunch and then eating more later to make up for it.
 
 - **Compliance** means following rules and doing what is required in a job. It is about making sure we do things the right way. For example, ``In our job, compliance with safety rules keeps everyone safe``.
@@ -243,6 +245,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **hope** is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
 
+- **huge** means very big or large in size, amount, or degree. For example, ``The building is huge``. means the building is very large or big in size.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I
