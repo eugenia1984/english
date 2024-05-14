@@ -6,6 +6,8 @@
 
 - DIALOGUE 2: Present Perfect Tense: since - question form - for and since - negative form, Would you like to...?
 
+- DIALOGUE 3: That, Shelf / Shelves
+
 ---
 
 # DIALOGUE 1
@@ -111,5 +113,25 @@ The phrase would you like** is a polite way to offer something or ask someone if
 If you are proposing to do something, such as going shopping, remember to include to between the expression and the action. For example:`` Would you like to go shopping?``. 
 
 Finally, if you are asking someone if you should do something for them, use me between would you like and to. For example: ``Would you like me to make some coffee?``.
+
+---
+
+# DIALOGUE 3
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> That
+
+When you talk about objects or things in a specific place, you often use the word **that** to point them out. For example, ``that shelf`` means the shelf you are talking about or focusing on at the moment.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Shelf / Shelves
+
+The word **shelf** is a noun that refers to a flat, horizontal surface used for holding items. 
+
+When you talk about more than one shelf, you should change the ending to make it plural by replacing f with ves, so it becomes **shelves**. For example, one shelf, two shelves.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
 ---
