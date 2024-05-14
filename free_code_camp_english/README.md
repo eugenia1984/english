@@ -915,4 +915,26 @@ Would you like to go cycling with me one of these days?
 - Linda: Ok, it's a bike date, then.
 ```
 
+- Dialogue 3: The Collector
+
+```
+- JameS: Hey, I noticed you have a huge collection
+of action figures on that shelf behind you.
+Are you a collector?
+- Sarah: You bet.
+I love action figures.
+- James: That's awesome!
+What kind of figures are you most interested in?
+- Sarah:  I like sci-fi and fantasy, mostly.
+You can find everything here, from Star Wars to Lord of the Rings.
+- James:  That's cool.
+How long have you been into collecting?
+- Sarah: I've been a collector since I was 8 or 9 years old.
+It all started when I got my first action figure at a comic convention.
+- James: I didn't know that you were interested in this.
+- Sarah: Are you kidding?
+I go to at least one convention every year.
+It's the best moment of the year for me.
+```
+
 ---
