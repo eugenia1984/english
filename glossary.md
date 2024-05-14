@@ -273,7 +273,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **immediately** means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
-- **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, in What are you interested in?, they want to know about your hobbies, likes, or professional interests.
+- **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, ``in What are you interested in?``, they want to know about your hobbies, likes, or professional interests. **Interested in** means something catches your attention. For example, if you say ``I am interested in painting``, it means you like painting or enjoy learning about it.
 
 - **interview** is a conversation where someone asks questions to get information. For example: ``The journalist conducts interviews with her readers`` (conversation for information). **interview** is a formal meeting where someone asks questions to learn about another person's experience, skills, or opinions. In **job interviews**, like in the dialogue, the interviewer asks about the candidate's previous job experiences.
 
@@ -330,6 +330,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **maybe**: is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
+
+- **most** is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
 
 - **most of the time**: means usually or very often.
 
