@@ -108,6 +108,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **contribute**: means to give or add something, such as ideas, effort, or resources, to a cause, project, or group in order to help achieve a common goal. In a technological context, this could look like: She contributes code to the open-source project every week. We contribute our technical skills to develop the app. **contributing** involves adding something to a project,
 
+- **convention**: is a big meeting where people who like the same things, like comics or movies, come together to talk and learn about their hobbies.
+
 - **cool** is an informal term that Tom uses to ask if the team-building activities are good, interesting, or enjoyable.
 
 - **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts. **Corp.** is an abbreviation for corporation, which is a large company or group of companies.
@@ -338,6 +340,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Making pictures** in the context of data refers to creating visual representations or graphs to illustrate data findings. It's a common practice in report-making to help show information.
 
+- **marathon** is a very long race where people run 42 kilometers. It can also mean watching many movies or TV shows one after another without stopping.
+
 - **maybe**: is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
@@ -347,6 +351,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **most of the time**: means usually or very often.
 
 - **mostly** is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned. **mostly** is used to say that something is true or happens most of the time but not completely. If someone asks, ``What kind of books do you read?``, you could answer, ``I read adventure books, mostly``. This means that while you might read various kinds of books, adventure books are what you choose to read most of the time.
+
+- **Movie-related**: means anything that has to do with movies. For example, movie posters or toys from a movie are movie-related.
 
 - **Multiple times** means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
   
@@ -401,6 +407,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
 
 - **places around here** refers to locations in the nearby vicinity or area.
+
+- **Play together**: means to do games or activities with other people at the same time, like playing a board game or playing soccer in a park.
 
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
 
