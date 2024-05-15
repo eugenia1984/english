@@ -937,4 +937,27 @@ I go to at least one convention every year.
 It's the best moment of the year for me.
 ```
 
+- Dialogue 4: Inviting to A Convention
+
+```
+- Sarah: Hey, Tom!
+Have I told you I'm a huge sci-fi fan?
+I'm even part of an amazing fandom.
+- Tom: That's cool Sarah!
+I've heard there are massive communities of people who are into sci-fi.
+What kind of events do you have?
+- Sarah: Well, we have movie marathons, conventions,
+and we even play some movie-related video games together.
+There's a big convention next month.
+Would you like to come?
+- Tom: Thanks for the invite, Sarah.
+I appreciate it, but I'm not really into sci-fi.
+I hope you have a blast in the comition, thought.
+- Sarah: No problem, Tom.
+Maybe next time you'll join us!
+- Tom: Thanks!
+Have fun.
+I hope the convention is a success!
+```
+  
 ---
