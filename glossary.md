@@ -192,6 +192,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
 
+- **fandom**: is used to describe a community of fans who share a common interest, especially in a particular form of entertainment.
+
 - **Fantasy**: encompasses stories set in worlds that diverge from reality, often featuring magical elements, mythical creatures, and supernatural phenomena.
 
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
