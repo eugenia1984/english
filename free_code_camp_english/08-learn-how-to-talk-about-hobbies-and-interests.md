@@ -8,6 +8,8 @@
 
 - DIALOGUE 3: That, Shelf / Shelves, Preposition: on - behind, Most / Mostly
 
+- DIALOGUE 4: Have I told you...?
+  
 ---
 
 # DIALOGUE 1
@@ -145,5 +147,22 @@ The preposition **behind** means that an object is located at the back side of a
 - **Most** is used to refer to the greatest in amount or degree. For example, ``She spends most of her time reading``. This means she spends the greater part of her time reading compared to other activities.
 
 - **Mostly**, on the other hand, means mainly or for the most part. It's used when something is true or applies to a great extent but not entirely. For instance, ``The sky is mostly clear tonight``. This suggests that while there may be a few clouds, the majority of the sky is clear.
+
+---
+
+# DIALOGUE 4
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Have I told you...?
+
+In this dialogue, Sarah uses Have I told you to ask Tom in an engaging way if she has previously mentioned something about herself.
+
+Using Have I told you is a way to connect the past with the present, as if Sarah is trying to recall if she has shared her passion for sci-fi with Tom before.
+
+This phrase is a great example of how the Present Perfect Tense is used to talk about actions that occurred at an unspecified time before now.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+
 
 ---
