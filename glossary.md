@@ -278,6 +278,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **I'll let you know**: indicates a promise to provide information or updates about a future event or plan.
 
+- **I'm looking forward to it!**: is commonly used to express positive anticipation or eagerness about something in the future.
+
 - **I'm open to**, it means they are willing to consider new ideas or experiences. It shows that they are flexible and interested in trying different things. For instance, saying `I'm open to learning more` means the person is ready to learn new things. It's a useful phrase to express a positive attitude towards new opportunities or changes.
 
 - **I'm planning to**: is used to indicate a future intention or action that someone intends to carry out.
