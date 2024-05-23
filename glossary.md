@@ -536,6 +536,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **That's a cool twist**: is often used to express that something is interestingly unexpected or surprisingly different. The word twist here refers to a change or development in a situation or story that is unusual or unexpected. Cool in this context means it's positively received.
 
+- **That sounds great!**: is a phrase used to express enthusiasm or approval about a suggestion, plan, or invitation.
+
 - **theaters** are places where you can watch live performances or movies.
 
 - **Then**: is often used to indicate the next step or action after something else has been done. For example, ``First, I check my emails, then I start coding``.
