@@ -9,6 +9,8 @@
 - DIALOGUE 3: That, Shelf / Shelves, Preposition: on - behind, Most / Mostly
 
 - DIALOGUE 4: Have I told you...? / I appreciated it, but...
+
+- DIALOGUE 5: Present Perfect Tense
   
 ---
 
@@ -170,4 +172,12 @@ For example, if your friend offers to help you with coding challenge, and you're
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+# DIALOGUE 5
+  
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Present Perfect Tense
+
+The Present Perfect Tense is used to express the duration of an action or situation that started in the past and continues into the present.
+
+Example: `I've been into rock climbing and rafting for a while now.`
+
+---
