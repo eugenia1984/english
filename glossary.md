@@ -685,3 +685,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **you bet** is used to affirmatively confirm or agree with something. It indicates strong agreement or confirmation. For instance, if your friend asks you, Are you coming to the movie tonight?, you can respond with ``You bet!``. This means you are agreeing strongly or saying yes in a very enthusiastic way.
 
 - **your** can refer to something that belongs to either an individual or a group, depending on the context. When talking to one person, **your** refers to something belonging to that individual. For example, `Your book is on the table` means the book belongs to the individual you're speaking to. In contrast, when speaking to a group, **your** can refer to something that belongs to all of them. For example, `Your project is impressive` means the project belonging to the entire group is impressive. Understanding the context helps to determine if your is singular or plural.
+
+- **You're welcome to join!**: is used to extend an invitation to someone to participate in an activity or event.
+
+---
