@@ -18,7 +18,7 @@
 
 8. [Learn how to talk about hobbies and interests](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/08-learn-how-to-talk-about-hobbies-and-interests.md): notice, I've been - Present Perfect Tense, Near / nearly, Have taken, Present Perfect Tense: since - question form - for and since - negative form, Would you like to...? , That, Shelf / Shelves, Preposition: on - behind, Most / Mostly, Have I told you...? , I appreciated it, but..., Present Perfect Tense, Negative question for suggestions, Planning to + -ing
 
-9. [LEarn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md)
+9. [Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md)
 
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
 
