@@ -190,6 +190,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
 
+- **Extreme**:  means something is very great in degree or intensity, much more than usual. For example, if it's very, very hot outside, you might say, ``The heat today is extreme``. This means it's much hotter than what is normal. The term **extreme sports** refers to activities that involve a high degree of risk, often involving speed, height, or physical exertion.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
