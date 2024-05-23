@@ -10,7 +10,7 @@
 
 - DIALOGUE 4: Have I told you...? / I appreciated it, but...
 
-- DIALOGUE 5: Present Perfect Tense, Negative question for suggestions
+- DIALOGUE 5: Present Perfect Tense, Negative question for suggestions, Planning to + -ing
   
 ---
 
@@ -187,5 +187,13 @@ The sentence ``I've always wanted to try`` in the Present Perfect Tense **expres
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Negative questions for suggestions
 
 Negative questions are a way to ask someone to do something or suggest an action in a polite or encouraging way. They often start with why followed by a negative form like don't. For example, ``Why don't we go for a walk?`` suggests going for a walk as a good idea.
+
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Planning to + -ing
+
+Following the structure I'm planning to + base form + to + -ing, the sentence indicates a future intention to engage in an activity.
+
+Example: `I'm planning to visit my friend next week.`
 
 ---
