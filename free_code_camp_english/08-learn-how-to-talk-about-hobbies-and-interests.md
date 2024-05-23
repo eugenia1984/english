@@ -180,4 +180,6 @@ The Present Perfect Tense is used to express the duration of an action or situat
 
 Example: `I've been into rock climbing and rafting for a while now.`
 
+The sentence ``I've always wanted to try`` in the Present Perfect Tense **expresses a desire that has persisted over time but hasn't been fulfilled**. The word always is used to say that something happens every time, or all the time, without change.
+
 ---
