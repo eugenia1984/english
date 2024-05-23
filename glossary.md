@@ -276,6 +276,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **I'm open to**, it means they are willing to consider new ideas or experiences. It shows that they are flexible and interested in trying different things. For instance, saying `I'm open to learning more` means the person is ready to learn new things. It's a useful phrase to express a positive attitude towards new opportunities or changes.
 
+- **I'm planning to**: is used to indicate a future intention or action that someone intends to carry out.
+
 - **Implementation** in a technical or business context refers to the process of putting a plan or design into effect. In software development, for instance, implementation involves the actual coding and setup of a software application based on designed specifications. It is a critical phase where ideas or plans are turned into a functioning reality.
 
 - **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
