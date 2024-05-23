@@ -274,6 +274,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 **Identity** refers to who a person is, including their name, date of birth, and other personal information. For example: ``Protecting your identity online is important`` means keeping your personal information safe on the internet.
 
+- **I'd love to join**: is used to express eagerness or willingness to participate in an activity or event
+
 - **I'm open to**, it means they are willing to consider new ideas or experiences. It shows that they are flexible and interested in trying different things. For instance, saying `I'm open to learning more` means the person is ready to learn new things. It's a useful phrase to express a positive attitude towards new opportunities or changes.
 
 - **I'm planning to**: is used to indicate a future intention or action that someone intends to carry out.
