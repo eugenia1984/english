@@ -338,6 +338,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
+- ** maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
+
 - **make sure**: is a phrase used to express that you want to confirm something is done the right way.
 
 - **Making pictures** in the context of data refers to creating visual representations or graphs to illustrate data findings. It's a common practice in report-making to help show information.
