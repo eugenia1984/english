@@ -16,6 +16,16 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 -[4 * How to talk about a typical workday and task](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/04_how_to_talk_about_a_typical_workday_and_task.md)
 
+-[5 * How to discusss your morning or evening routine](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/05_how_to_discuss_your_morning_or_evening_routine.md)
+
+-[6 * How to describe your current project](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/06-learn-how-to-describe-your-current-project.md)
+
+-[7 * Learn how to ask about educational and professinal background](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/07-learn-how-to-ask-and-sahre-about-educational-and-professional-background.md)
+
+-[8 * Learn how to talk about hobbies and interests](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/08-learn-how-to-talk-about-hobbies-and-interests.md)
+
+-[9 * Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md)
+
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
 
 ---
