@@ -240,6 +240,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Hang out** means to spend time relaxing or socializing. For example: ``We hang out at the park on weekends`` (spending leisure time)
 
+- **have a blast**:  is used to wish someone a lot of fun and enjoyment in an upcoming event or activity. For example, if your friend is going to a birthday party, you might say, ``Have a blast at the party!`` This means you hope they have a lot of fun at the party.
+
 - **have a break**: means to take a short rest or pause from what you are doing.
 
 - **have a chance to speak** implies that everyone is given the opportunity to contribute to the conversation.
