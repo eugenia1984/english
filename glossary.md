@@ -442,6 +442,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
 
+- **Rafting**: involves navigating a river or other bodies of water in a raft, usually going through challenging parts of the river.
+
 - **Readers** are people who read, especially those who read a particular publication.
 
 - **reasonable** means something is fair, makes sense, or is acceptable in a certain situation. For example, The price of the ticket is reasonable means the price is not too high and feels fair.
@@ -455,6 +457,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
 
 - **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
+
+- **Rock climbing**: is the sport of climbing up natural rock formations or artificial rock walls.
 
 - **Routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
 
