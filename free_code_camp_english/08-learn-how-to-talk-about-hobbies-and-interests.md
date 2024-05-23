@@ -8,7 +8,7 @@
 
 - DIALOGUE 3: That, Shelf / Shelves, Preposition: on - behind, Most / Mostly
 
-- DIALOGUE 4: Have I told you...?
+- DIALOGUE 4: Have I told you...? / I appreciated it, but...
   
 ---
 
@@ -162,7 +162,12 @@ This phrase is a great example of how the Present Perfect Tense is used to talk 
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> I appreciate it, but
 
+The expression ``I appreciate it, but`` is used to express gratitude for an offer or gesture while politely declining or stating a personal limitation or preference.
+
+For example, if your friend offers to help you with coding challenge, and you're thankful but want to try it on your own first, you might say, ``I appreciate it, but I want to give it a shot by myself first``.
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
