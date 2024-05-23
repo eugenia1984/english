@@ -959,5 +959,30 @@ Maybe next time you'll join us!
 Have fun.
 I hope the convention is a success!
 ```
+
+- Dialogue 5: Getting into Extreme Sports
+
+```
+- Brian: Hey, Sophie.
+I heard you're into extreme sports.
+Is that true?
+- Sophie: Yeah, I loved them.
+I've been into rock climbing and rafting for a while now.
+- Brian: hat's amazing!
+I've always wanted to try rafting
+but I've never had the opportunity.
+- Sophie: Well, why don't you try it?
+I'm planning to go rafting this weekend.
+You're welcome to join!
+- Brian: Really?
+That sounds great!
+I'd love to join you.
+- Sophie:  Great!
+We'll have a lot of fun.
+I'll let you know the details later.
+- Brian: Thanks Sophie.
+I'm looking forward to it!
+```
+
   
 ---
