@@ -861,7 +861,7 @@ It was great to get to know you better.
 ---
 ---
 
-8. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Learn how to talk about hobbies and interests
+8. <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> **Learn how to talk about hobbies and interests**
 
 - Dialogue 1: An Interest in Photography
 
@@ -986,5 +986,32 @@ I'll let you know the details later.
 I'm looking forward to it!
 ```
 
-  
+---
+---
+
+.9 <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> **Learn how to discuss roles and responsabilities**
+
+- Dialogue 1: Describing Other People And What They Do
+
+```
+- Bob:  Hey, have you met Anna yet?
+She's now in charge of the HR department.
+- Sophie: No, I haven't seen her yet.
+What can you tell me about her?
+- Bob: She is a tall woman in her early 40s, with long blond hair and glasses.
+You'll recognize her right away.
+She's quite serious and organized, which makes her excellent at her job.
+She's been working with tech companies for about ten years.
+- Sophie: Ten years?
+That's impressive!
+What does she do exactly?
+- Bob: Well, she's responsible for hiring people and taking care of workers.
+She makes sure we follow the rules and that everyone is happy.
+Word is that she's strict but fair,
+and she always looks out for the best interests of the team.
+- Sophie: Those are very positive things you've just said.
+I'm exciting we have someone like her in our company.
+I'd love to chat with her sometime and learn from her experiences
+```
+
 ---
