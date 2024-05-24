@@ -1,4 +1,4 @@
-# Glossary
+# <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Glossary
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
@@ -264,6 +264,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **hope** is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
 
+- **HR department**: stands for Human Resources department. It's a part of a company that takes care of everything related to the people who work there. This includes hiring new employees, training them, making sure they are paid, and helping with any problems they might have at work. For instance, if you have a question about your holiday time, you would go to the HR department to ask.
+
 - **huge** means very big or large in size, amount, or degree. For example, ``The building is huge``. means the building is very large or big in size.
   
 ---
@@ -293,6 +295,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **industry** refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
 
 - **infographic** is a visual image like a chart or diagram used to represent information
+
+- **in charge of**: means being responsible for something or someone, leading or managing it/them. It's used when talking about the person who has control or authority over a particular area, project, or group. For example, ``Tom is in charge of this project``. This means Tom has the responsibility and authority to plan and manage everything related to the project.
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
