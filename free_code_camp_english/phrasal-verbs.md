@@ -9,6 +9,12 @@
 
 ---
 
+# RIGHT
+
+**right away** means quickly or very soon. For instance, If you find a bug in the code, tell me and ``I'll fix it right away``. This means if you discover a problem in the computer program, let me know and I will correct it immediately.
+
+---
+
 # TAKE
 
 **Take a shower** means to shower.
