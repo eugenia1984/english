@@ -1,6 +1,6 @@
 # <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 09 - Learn how to discuss roles and responsabilities
 
-- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers
+- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers, describing
 
 ---
 
@@ -37,5 +37,13 @@ Examples:
 ``My brother is in his early 20``s. This gives a general idea that he is at the beginning of his twenties without specifying the exact age.
 
 ``My aunt is in her late 50s``. It suggests she is towards the end of her fifties, close to turning 60, but doesn't say the precise age.
+
+---
+
+## Describing
+
+When you describe something with more than one adjective, there's a specific order. For example, for describing hair, the length (like long) usually comes before the color (like blond).
+
+Example: `She is a tall woman in her early 40s, with LONG BLOND hair and glasses.`
 
 ---
