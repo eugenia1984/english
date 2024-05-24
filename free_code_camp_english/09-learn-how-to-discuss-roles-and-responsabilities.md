@@ -1,6 +1,6 @@
 # <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 09 - Learn how to discuss roles and responsabilities
 
-- DIALOGUE 1: Present Perfect Tense
+- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers
 
 ---
 
@@ -25,5 +25,17 @@ The word **yet** is often used in questions in the Present Perfect Tense to inqu
 The Present Perfect tense negative form is used to talk about things that have not happened at any time up until now. It's formed using **have not** or **has not** (**haven't/hasn't**) followed by **the past participle of the verb**.
 
 For example: ``I haven't finished my homework yet``. or ``She hasn't called me back``.
+
+---
+
+##  in + someone's early/late + numbers
+
+The structure in + someone's early/late + numbers is used to talk about a person's age without specifying exactly how old they are.
+
+Examples:
+
+``My brother is in his early 20``s. This gives a general idea that he is at the beginning of his twenties without specifying the exact age.
+
+``My aunt is in her late 50s``. It suggests she is towards the end of her fifties, close to turning 60, but doesn't say the precise age.
 
 ---
