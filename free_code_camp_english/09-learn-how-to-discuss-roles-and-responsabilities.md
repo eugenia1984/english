@@ -46,6 +46,18 @@ When you describe something with more than one adjective, there's a specific ord
 
 Example: `She is a tall woman in her early 40s, with LONG BLOND hair and glasses.`
 
-- f there are more adjectives, you often start with **size or age**, then talk about **shape**, and finally **color**. For example, when talking about a balloon, you might say ``a big round red balloon``. Example: `A large square blue box`
-  
+- if there are more adjectives, you often start with **size or age**, then talk about **shape**, and finally **color**. For example, when talking about a balloon, you might say ``a big round red balloon``. Example: `A large square blue box`
+
+### with
+
+When describing someone's appearance, you often use with followed by a feature.
+
+Examples:
+
+``with glasses`` for someone who wears glasses
+
+``with curly hair`` for someone who has curly hair, or
+
+``with a blue jacket`` for someone wearing a blue jacket
+
 ---
