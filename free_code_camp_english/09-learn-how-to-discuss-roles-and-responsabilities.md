@@ -46,4 +46,6 @@ When you describe something with more than one adjective, there's a specific ord
 
 Example: `She is a tall woman in her early 40s, with LONG BLOND hair and glasses.`
 
+- f there are more adjectives, you often start with **size or age**, then talk about **shape**, and finally **color**. For example, when talking about a balloon, you might say ``a big round red balloon``.
+  
 ---
