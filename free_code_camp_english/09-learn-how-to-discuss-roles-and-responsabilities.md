@@ -20,4 +20,10 @@ For example, for the irregular verb meet, its past participle is met.
 
 The word **yet** is often used in questions in the Present Perfect Tense to inquire if something has happened up to now.
 
+## Present Perfect Tense - Negative
+
+The Present Perfect tense negative form is used to talk about things that have not happened at any time up until now. It's formed using **have not** or **has not** (**haven't/hasn't**) followed by **the past participle of the verb**.
+
+For example: ``I haven't finished my homework yet``. or ``She hasn't called me back``.
+
 ---
