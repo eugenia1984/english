@@ -1,10 +1,10 @@
-# 09 - Learn how to discuss roles and responsabilities
+# <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 09 - Learn how to discuss roles and responsabilities
 
 - DIALOGUE 1: Present Perfect Tense
 
 ---
 
-# DIALOGUE 1
+# <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> DIALOGUE 1
 
 ## Present Perfect Tense
 
