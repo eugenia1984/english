@@ -404,6 +404,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Organizational psychology** is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
 
+- **Organized**: means arranged or planned well, making sure everything is where it should be or done at the right time. For instance, She keeps the Trello board very organized. It means she arranges and manages the Trello board (a tool for organizing tasks and projects) in a neat and orderly way, making sure everything is well-planned and easy to find.
+
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
 
 - **outdoor** means activities done outside. Example: `Outdoor activities involve hiking and gardening.`
@@ -449,6 +451,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
 
 - **quick** describes something done in a short time.
+
+- **quite** is used to describe adjectives or adverbs to a certain degree, often meaning "very" or to a significant extent but not completely. For example, ``The test was quite difficult``. This means the test was very difficult, but not to the extreme.
   
 ---
 
@@ -495,6 +499,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **self-taught** means learning things by yourself, not from a school or teacher. It's when you learn something on your own. The word **taught** is from teach, which means to give someone knowledge or to show how to do something. So, if you are ``self-taught``, you have learned something by yourself.
 
 - **Seriousl**y is used when you want to show that something is important or true. It helps to make what you are saying stronger. For example, if you say, ``I seriously love programming``, it means you really love programming a lot. Or, if you say, ``Take this project seriously``, it means you think the project is very important and should be treated with care.
+
+- **Serious**: means showing deep thought, not joking, or focusing intensely on something important. For example, ``He is serious about learning English``. This shows he is very focused and committed to learning English, not doing it just for fun.
   
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
