@@ -1,6 +1,6 @@
 # <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 09 - Learn how to discuss roles and responsabilities
 
-- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers, describing
+- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers, describing, have/has been + verb -ing
 
 ---
 
@@ -59,5 +59,19 @@ Examples:
 ``with curly hair`` for someone who has curly hair, or
 
 ``with a blue jacket`` for someone wearing a blue jacket
+
+---
+
+## have/has been + verb-ing
+
+The structure **have/has been + verb-ing** is used in the **Present Perfect Continuous** tense. It emphasizes** actions that started in the past and are still continuing now**. Been is the past participle form of the verb be.
+
+It can be used with for followed by a period of time or since followed by a specific starting point in time to highlight the duration or how long the action happens.
+
+Examples:
+
+``We have been studying English for three years``. This means we started studying English three years ago and are still studying it now.
+
+``He has been playing the guitar since he was ten``. This means he started playing the guitar when he was ten years old and continues to play it.
 
 ---
