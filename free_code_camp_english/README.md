@@ -16,9 +16,9 @@
 
 7. [Learn how to ask about educational and professinal background](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/07-learn-how-to-ask-and-sahre-about-educational-and-professional-background.md): Simple Past Tense - Verb to be, Could you...?, Simple Past - Negative, Did you enjoy ...? Even if... / Answer to a past tense interrogative, Most / mostly, Therapist / Counselor, Time with `last`
 
-8. [Learn how to talk about hobbies and interests](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/08-learn-how-to-talk-about-hobbies-and-interests.md): notice, I've been - Present Perfect Tense, Near / nearly, Have taken, Present Perfect Tense: since - question form - for and since - negative form, Would you like to...? , That, Shelf / Shelves, Preposition: on - behind, Most / Mostly, Have I told you...? , I appreciated it, but..., Present Perfect Tense, Negative question for suggestions, Planning to + -ing
+8. [Learn how to talk about hobbies and interests](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/08-learn-how-to-talk-about-hobbies-and-interests.md): notice, I've been - Present Perfect Tense, Near / nearly, Have taken, Present Perfect Tense: since - question form - for and since - negative form, Would you like to...? , That, Shelf / Shelves, Preposition: on - behind, Most / Mostly, Have I told you...? , I appreciated it, but..., Present Perfect Tense, Negative question for suggestions, Planning to + -ing, 
 
-9. [Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md): Present Perfect Tense, in + someone's early/late + numbers, describing
+9. [Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md): Present Perfect Tense, in + someone's early/late + numbers, describing, have/has been + verb -ing
 
 - [**Phrasal verbs**](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/phrasal-verbs.md)
 
