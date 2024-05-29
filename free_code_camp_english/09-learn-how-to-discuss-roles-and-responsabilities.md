@@ -78,6 +78,12 @@ Examples:
 
 ## Resposible for
 
-The phrase responsible for means someone has a duty to do something at work or in life. You can use a noun or an -ing form of a verb to describe the duties or tasks. Examples: ``She's responsible for the team.``, or ``I am responsible for teaching English.``
+The phrase responsible for means someone has a duty to do something at work or in life. You can use a noun or an -ing form of a verb to describe the duties or tasks. 
+
+Examples: ``She's responsible for the team.``, or ``I am responsible for teaching English.``
+
+``Hiring`` means to give someone a job. A simple example could be, ``The manager is hiring new workers``.
+
+``Taking care`` of means to look after or ensure someone's well-being. An example is, ``She is taking care of her sick friend``.
 
 ---
