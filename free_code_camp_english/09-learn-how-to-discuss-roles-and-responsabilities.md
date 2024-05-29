@@ -75,3 +75,9 @@ Examples:
 ``He has been playing the guitar since he was ten``. This means he started playing the guitar when he was ten years old and continues to play it.
 
 ---
+
+## Resposible for
+
+The phrase responsible for means someone has a duty to do something at work or in life. You can use a noun or an -ing form of a verb to describe the duties or tasks. Examples: ``She's responsible for the team.``, or ``I am responsible for teaching English.``
+
+---
