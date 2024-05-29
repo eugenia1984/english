@@ -206,6 +206,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
 
+- **Follow the rules**: means to do what the rules say. ``If there is a rule that says use camelCase for variable names, to follow the rules means you name your variables like myVariable instead of my_variable``.
+
 - **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
 
 ---
@@ -354,7 +356,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - ** maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
 
-- **make sure**: is a phrase used to express that you want to confirm something is done the right way.
+- **make sure**: is a phrase used to express that you want to confirm something is done the right way. . For example, ``You make sure the code runs`` means you check the code to be certain it has no errors and can run properly.
 
 - **Making pictures** in the context of data refers to creating visual representations or graphs to illustrate data findings. It's a common practice in report-making to help show information.
 
