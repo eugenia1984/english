@@ -1,6 +1,6 @@
 # <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 09 - Learn how to discuss roles and responsabilities
 
-- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers, describing, have/has been + verb -ing
+- DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers, describing, have/has been + verb -ing, Word is...
 
 ---
 
@@ -85,5 +85,14 @@ Examples: ``She's responsible for the team.``, or ``I am responsible for teachin
 ``Hiring`` means to give someone a job. A simple example could be, ``The manager is hiring new workers``.
 
 ``Taking care`` of means to look after or ensure someone's well-being. An example is, ``She is taking care of her sick friend``.
+
+---
+
+## Word is ...
+
+
+The phrase **word is** is used when sharing information or rumors you've heard from others. It's like saying people say or I've heard.
+
+For example, if someone says,`` Word is that the new update will make the program faster``, they mean they've heard the new update will improve the program's speed.
 
 ---
