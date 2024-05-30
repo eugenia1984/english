@@ -9,6 +9,12 @@
 
 ---
 
+# LOOK
+
+**look out for** means to watch over and protect someone or something, making sure they are safe or their needs are met. For example, ``You should look out for your children at the park``. means you should make sure your children are safe while you are at the park.
+
+---
+
 # RIGHT
 
 **right away** means quickly or very soon. For instance, If you find a bug in the code, tell me and ``I'll fix it right away``. This means if you discover a problem in the computer program, let me know and I will correct it immediately.
