@@ -65,6 +65,9 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **bugs** refer to errors or problems in the software that need to be identified and fixed. Understanding this term is crucial for comprehending the role of a QA tester.
 
+- **But** is a word used to connect two ideas that might seem opposite or different. It shows contrast. For example, ``I like apples but not oranges``. This statement shows a preference for apples over oranges.
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> C
@@ -195,6 +198,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
+
+- **Fair** means treating everyone equally and justly. For example, ``The judge was fair in her decision``, meaning the judge made a decision based on the rules and without favoritism.
 
 - **fandom**: is used to describe a community of fans who share a common interest, especially in a particular form of entertainment.
 
@@ -519,6 +524,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **small changes make a big difference** means that even minor adjustments in behavior or habits can have a significant impact. This expression is often used to encourage continuous improvements.
 
 - **stand up** refers to the action of rising from a sitting position.
+
+- **Strict** means someone enforces rules strongly. For example, ``My teacher is strict about homework deadlines``. It means the teacher insists that everyone hands in their 
 
 - **so far** means up to this moment or until now. It is used when talking about a time that started in the past and continues to the present. If someone asks, `Are you happy with the workplace so far?` They want to know if you liked your workplace from the first day up to today.
 
