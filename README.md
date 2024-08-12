@@ -29,7 +29,9 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 ---
 
+
 ## Please: 🎁
+
 
 * Share this project with others 📢
 
@@ -39,7 +41,9 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 ---
 
+
 ## NOTE
+
 
 I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
