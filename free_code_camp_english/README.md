@@ -1018,10 +1018,13 @@ I'd love to chat with her sometime and learn from her experiences
 
 ```
 - Tom: Hey, have you ever worked with Anna from HR?
-- Alice:
-- Tom:
-- Alice:
-- Tom:
+- Alice: I've seen her a couple of times. Why do you ask?
+- Tom: Well, I noticed that she's always in her office super early
+and leaves pretty late. Do you know why?
+- Alice: Yes, she is very commited.
+She seems to take her work very seriously.
+- Tom: I don`t know really much about her.
+What's her role?
 - Alice:
 - Tom: Wow, that's a long time! Is she a strict person?
 - Alice:
