@@ -2,6 +2,8 @@
 
 - DIALOGUE 1: Present Perfect Tense,  in + someone's early/late + numbers, describing, have/has been + verb -ing, Word is...
 
+- DIALOGUE 2
+  
 ---
 
 # <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> DIALOGUE 1
@@ -94,5 +96,10 @@ Examples: ``She's responsible for the team.``, or ``I am responsible for teachin
 The phrase **word is** is used when sharing information or rumors you've heard from others. It's like saying people say or I've heard.
 
 For example, if someone says,`` Word is that the new update will make the program faster``, they mean they've heard the new update will improve the program's speed.
+
+---
+---
+
+# <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> DIALOGUE
 
 ---
