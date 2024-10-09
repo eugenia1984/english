@@ -1014,4 +1014,19 @@ I'm exciting we have someone like her in our company.
 I'd love to chat with her sometime and learn from her experiences
 ```
 
+- Dialogue 2: Talking about Anna
+
+```
+- Tom: Hey, have you ever worked with Anna from HR?
+- Alice:
+- Tom:
+- Alice:
+- Tom:
+- Alice:
+- Tom: Wow, that's a long time! Is she a strict person?
+- Alice:
+- Tom: She sounds like a very interesting person.
+I should have a chat with her sometime.
+```
+
 ---
