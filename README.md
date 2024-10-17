@@ -24,8 +24,9 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 -[9 * Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md)
 
-- [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
+---
 
+- [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
 
 ---
 
