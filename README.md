@@ -4,7 +4,27 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will find?
 
-- [FreeCodeCamp: English for Developers](https://github.com/eugenia1984/english/tree/main/free_code_camp_english):
+### 1 - [English for developers IT profesionals](https://github.com/eugenia1984/english/tree/main/english-for-developers-it-professionals)
+
+Modules:
+
+Module 1: Grammar 101: the alphabet, acronysm & symbols / Pronuns in English / Personal introductions / work routine
+
+Module 2: Roles & Task in an IT Company: Organization of an IT company /Daily tasks in an IT company
+
+Module 3: Virtual calls: Video call interaction / Vocabulary for video call
+
+Module 4: Meeting how to talk about completed actions: Past actions at work / Pronunciation of the "ed" ending / use of irregular verbs at work / what did you do yesterday?
+
+Module 5: Daily meetings. How to talk about current actions: Current project status / Updates using verbs in the ing / What are you working on?
+
+Module 6: Daily meetings. How to talk about impediments: Questions about impediments / Do you have any blocks or impediments
+
+Module 7: Bonus track: The tech lingo: Helpful verb for tech problems / Phrases for Backend and Frontend users
+
+
+
+### 2 - [FreeCodeCamp: English for Developers](https://github.com/eugenia1984/english/tree/main/free_code_camp_english):
 
 -[1 * Greeting in the First Day at Office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/01_greeting_in_the_first_day_at_office.md) 
 
