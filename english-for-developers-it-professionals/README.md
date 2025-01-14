@@ -16,4 +16,10 @@
 
 7. Module 7 - [Bonus track: The tech lingo](https://github.com/eugenia1984/english/english-for-developers-it-professionals/blob/main/module7.md): Helpful verb for tech problems / Phrases for Backend and Frontend users
 
----      
+---
+
+## Certificate
+
+![image](https://github.com/eugenia1984/english-for-developers-it-professionals/assets/72580574/a325bc89-e072-4124-9f0b-f5b591351ff8)
+
+---
