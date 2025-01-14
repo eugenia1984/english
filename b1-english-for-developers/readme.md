@@ -4,6 +4,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 ---
 
-1 - Learn to describe places and events
+1 - [Learn to describe places and events](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/1-learn-to-describe-places-and-events.md)
 
 ---
