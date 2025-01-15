@@ -45,7 +45,7 @@ Modules:
 -[9 * Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md)
 
 
-### 3 - [B1 - English for developers by FreeCodeCamps](https://github.com/eugenia1984/english/tree/main/b1-english-for-developers)
+### 3 - [B1 - English for developers by FreeCodeCamp](https://github.com/eugenia1984/english/tree/main/b1-english-for-developers)
 
 ---
 
