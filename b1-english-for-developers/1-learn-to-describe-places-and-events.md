@@ -39,5 +39,14 @@ For example, in the question Do you have a minute?, do is used to ask if someone
 
 If someone says, I'm starting a new job next week, you can reply, Is that right? to confirm what they said.
 
+### Plan to work on
+
+`Plan to work on+ -> means to have an intention or a decision to start or continue working on something. It's used to talk about future actions or projects you intend to do.
+
+When you say that you work on something it means you are dedicating time and energy to a specific task or project. For example:
+
+- `I need to work on my presentation for tomorrow.` -> You need to dedicate time to prepare your presentation for the next day.
+
+- `She plans to work on her novel this summer.` -> She intends to spend time writing or improving her novel during the summer.
 
 ---
