@@ -20,3 +20,13 @@ Lisa: I can help you sign up. When you are available to work over the form?
 Bob: How about tomorrow during lunch?
 lisa: Works for me.
 ```
+
+### Do you have a minute?
+
+`Do you have a minute?`->  is a polite way to ask if someone has time to talk.
+
+The auxiliary verb **do** is used to **form questions** in the **Present Simple tense**.
+
+For example, in the question Do you have a minute?, do is used to ask if someone has time.
+
+---
