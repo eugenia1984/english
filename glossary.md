@@ -245,6 +245,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
 
+- **hackathon** is an event where programmers and developers come together to work on software projects. These events often last for a short, intense period, like a weekend, and involve collaboration and creativity.
+
 - **handle**: means to manage or deal with something, especially effectively and competently. In a work context, it often refers to how someone manages tasks or projects. For example, ``She handles client requests very efficiently``.
 
 - **Hang out** means to spend time relaxing or socializing. For example: ``We hang out at the park on weekends`` (spending leisure time)
