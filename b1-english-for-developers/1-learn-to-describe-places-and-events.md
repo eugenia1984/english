@@ -49,4 +49,11 @@ When you say that you work on something it means you are dedicating time and ene
 
 - `She plans to work on her novel this summer.` -> She intends to spend time writing or improving her novel during the summer.
 
+
+### Who's ...?
+
+`Who's`-> is a contraction of who is and is used to ask about a person or people in the Present Simple tense. For example:
+
+`Who's your team lead?`-> is the same as Who is your team lead?
+
 ---
