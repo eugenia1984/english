@@ -33,4 +33,11 @@ For example, in the question Do you have a minute?, do is used to ask if someone
 
 `What's up?` is a casual way to ask someone how they are or what they need. It is a common informal greeting or way to start a conversation.
 
+### Is that right?
+
+`Is that right?+ -> is used to confirm information you have heard. It is a common way to ask for confirmation. For example:
+
+If someone says, I'm starting a new job next week, you can reply, Is that right? to confirm what they said.
+
+
 ---
