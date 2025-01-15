@@ -29,4 +29,8 @@ The auxiliary verb **do** is used to **form questions** in the **Present Simple 
 
 For example, in the question Do you have a minute?, do is used to ask if someone has time.
 
+### What's up?
+
+`What's up?` is a casual way to ask someone how they are or what they need. It is a common informal greeting or way to start a conversation.
+
 ---
