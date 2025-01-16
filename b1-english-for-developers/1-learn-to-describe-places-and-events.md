@@ -67,3 +67,30 @@ For example:
 `I will call you during the break.` -> This specifies that the call will happen within the break time.
 
 ---
+
+## Dialogue 2: Cybersecurity Training
+
+
+```
+Anna:    Hi, Brian. Do you have a moment?
+         I want to talk to you about our cybersecurity training.
+Brian:   Sure Anna. Wht's on your mind?
+Anna:    It concerns me that some employees might not be using strong passwords.
+         Do we cover this in our training?
+Brian:   We touch on it, but perhaps not in enough detail.
+         I'm currently adding a new section focused on password security now.
+Anna:    Sounds good. How often do we hold these training sessions?
+Brian:   We have them quarterly, but I'm planning an extra session next month because of recent security threats.
+         Yes, it's mandatory.
+Anna:    Yes, it's mandatory. And how long are this sessions?
+Brian:   Usually two hours.
+         I'm thinking of using real life scenarios this time, especially for identifying phishing attempts.
+What do you think?
+Anna:    Using real life scenarios makes the training more relevant.
+         When do you think this new module will be ready?
+Brian: I'm aiming to have it ready to roll out by the end of the week.
+         The team is working on it as we speak.
+Anna:    That's great to hear.
+         I appreciate your proactive approach to this, Brian.
+         Let's touch base again once the module is ready.
+```
