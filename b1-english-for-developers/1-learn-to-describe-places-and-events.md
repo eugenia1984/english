@@ -56,4 +56,14 @@ When you say that you work on something it means you are dedicating time and ene
 
 `Who's your team lead?`-> is the same as Who is your team lead?
 
+### How about...?
+
+**How about** is used **to suggest a time or idea**. The word during is used to specify a time period when something will happen. 
+
+For example:
+
+`How about we meet at 3 PM?` -> This suggests a meeting time.
+
+`I will call you during the break.` -> This specifies that the call will happen within the break time.
+
 ---
