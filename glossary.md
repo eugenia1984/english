@@ -369,7 +369,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **marathon** is a very long race where people run 42 kilometers. It can also mean watching many movies or TV shows one after another without stopping.
 
-- **maybe**: is a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say Maybe if you are not sure if you want to go or if you are available.
+- **maybe**: to show that something is possible but not certain.. It's a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea.
+
+For example: if someone asks you if you want to go to the movies, you can say `Maybe` if you are not sure if you want to go or if you are available.
+
+`Maybe I will go to the party.` -> It is possible you will go to the party, but you are not sure.
+
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
