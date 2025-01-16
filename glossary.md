@@ -361,7 +361,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
-- ** maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
+- **maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
 
 - **make sure**: is a phrase used to express that you want to confirm something is done the right way. . For example, ``You make sure the code runs`` means you check the code to be certain it has no errors and can run properly.
 
@@ -519,6 +519,8 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
 - **shopping malls** are large buildings with lots of different stores, and they're common in cities.
+
+- **sign up**: means to register or create an account for something. For example: `I want to sign up for the new course.` -> You want to register to a new course.
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
