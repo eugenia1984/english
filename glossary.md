@@ -20,6 +20,8 @@
 
 - **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
+- **any** is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
+  
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
 
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
@@ -34,16 +36,14 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
 - **at least** is used when you want to say the smallest amount or number of something is okay or enough. It's like saying "no less than this amount". For example, if you say, ``I study English for at least 30 minutes every day``, it means you spend 30 minutes or more studying English daily, but never less than 30 minutes.
-
-
   
 - **attentive**: means paying careful attention or listening carefully.
 
 - **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
+
+- **available**: means free to do something or not busy. For example: `Are you available to help me tomorrow?` -> This question is asking if the person is free to help tomorrow.
   
 - **awesome** is a word people use when they really like something. It's like saying very good!
-
-- **any** is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
 
 ---
 
