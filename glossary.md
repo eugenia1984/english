@@ -576,6 +576,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **Thoughts** means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
 
 - **Tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
+  
+- **Typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example:
+
+`Typically, we have meetings on Mondays.` -> This means that meetings usually happen on Mondays.
+
+`She typically arrives at work by 9 AM.` -> This means that she usually arrives at work by 9 AM.
 
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
