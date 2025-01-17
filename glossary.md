@@ -123,7 +123,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Currently** comes from current meaning happening now. Adding -ly turns an adjective into an adverb. For example: ``She is currently reading a book`` (She is reading a book now)
 
-- **Cybersecurity** is about keeping computers and online information safe. It stops bad people from stealing or damaging what's on computers and the internet.
+- **Cybersecurity** is about keeping computers and online information safe. It stops bad people from stealing or damaging what's on computers and the internet. Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. It ensures that sensitive information and critical systems are safe from unauthorized access or damage. For example:
 
 ---
 
