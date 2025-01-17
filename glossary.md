@@ -105,6 +105,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Comply with** means to act according to a rule, order, or request. Usually comply is followed by with. For example, to comply with indicates what needs to be followed. For example, ``Companies must comply with environmental regulations means businesses must follow rules about protecting the environment``.
 
+- **concern**: means to worry or make someone feel anxious about something. For example:
+
+`The security of the network concerns the IT team.` -> The IT team is worried about the security of the network.
+
+`It concerns me that the software isn't updating correctly.` -> You are worried about the software not updating as it should.
+
 - **consistency** refers to the quality of always behaving or performing in a similar way, or of always happening in a similar way. It's often used to describe regular habits or behaviors. For example: ``Her consistency in studying every day led to great results``.
 
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
