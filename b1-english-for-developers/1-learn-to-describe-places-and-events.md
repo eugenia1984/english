@@ -98,3 +98,9 @@ Anna:    That's great to hear.
          I appreciate your proactive approach to this, Brian.
          Let's touch base again once the module is ready.
 ```
+
+## What's on your mind?
+
+`What's on your mind?` is used to ask someone what they are thinking about or what they want to discuss. For example: `You look worried. What's on your mind?`
+
+---
