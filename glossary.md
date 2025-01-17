@@ -614,6 +614,12 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 - **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
+- **To cover**: means to include or deal with a particular topic or subject. For example: 
+
+`The training covers cybersecurity best practices.` -> The training includes lessons on how to protect systems and data from threats.
+
+`Will the presentation cover software updates?` -> You are asking if the presentation will include information about recent software updates.
+
 - **To deal with** means to handle or manage something, especially challenges. For example, ``She deals with client requests at her job``.
 
 - **To disrupt** is a verb that means to interrupt or prevent something from continuing in its usual way. For example: ``Loud noises disrupt my concentration``, meaning: interrupts the concentration.
