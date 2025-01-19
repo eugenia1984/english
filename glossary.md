@@ -36,7 +36,11 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
 - **at least** is used when you want to say the smallest amount or number of something is okay or enough. It's like saying "no less than this amount". For example, if you say, ``I study English for at least 30 minutes every day``, it means you spend 30 minutes or more studying English daily, but never less than 30 minutes.
-  
+
+- **attempts**: refers to efforts or tries to do something. For example:
+
+`He made several attempts to unlock the door.` -> He tried multiple times to unlock the door.
+   
 - **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
 
 - **Attendance**: refers to the act of being present at a place, such as a meeting, class, or event.
@@ -393,7 +397,6 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 `Maybe I will go to the party.` -> It is possible you will go to the party, but you are not sure.
 
-
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
 - **most** is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
@@ -460,7 +463,12 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 `They are perhaps the best developer for this project.` -> They might be the best developer, but it is not definite.
 
+- **Phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source.
 
+For example:
+
+`Phishing attempts are common in emails that look like they come from your bank.` -> Scammers often try to trick people using fake emails.
+  
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
 
 - **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
