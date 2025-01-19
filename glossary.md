@@ -748,6 +748,15 @@ For example:
 
 - **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
+
+- **Touch base**: means to make contact or to check in with someone, usually to discuss progress or updates.
+
+For example:
+
+`Let's touch base next week to see how the project is going.` -> We'll talk again next week to discuss the project's progress.
+
+`I'll touch base with you later about the meeting.` -> you'll contact this person later to talk about the meeting.
+
 - **to wear** too many hats is an idiom that means to have many different roles or responsibilities.
 
 - **To work properly** means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
