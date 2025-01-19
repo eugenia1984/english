@@ -31,7 +31,13 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **assign** means to give tasks to other people.
 
-- **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin)
+- **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin).
+
+- **As we speak**: means that something is happening at this very moment, while the conversation is taking place.
+
+For example:
+
+`The update is being deployed as we speak.` -> The update is being rolled out at this very moment.
 
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
