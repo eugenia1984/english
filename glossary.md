@@ -477,6 +477,14 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 - **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
 
+- **Quarterly**: means happening every three months, or four times a year.
+
+For example:
+
+`The company releases its financial reports quarterly.` -> The reports are released every three months.
+
+`We hold quarterly meetings.` -> Meetings are organized four times a year.
+
 - **quick** describes something done in a short time.
 
 - **quite** is used to describe adjectives or adverbs to a certain degree, often meaning "very" or to a significant extent but not completely. For example, ``The test was quite difficult``. This means the test was very difficult, but not to the extreme.
