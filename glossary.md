@@ -638,6 +638,15 @@ For example:
 
 `She typically arrives at work by 9 AM.` -> This means that she usually arrives at work by 9 AM.
 
+
+- **To aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward.
+
+For example:
+
+`She aims to become a developer.` -> Her goal is to become a developer.
+
+`We aim to finish the project by Friday.` -> The goal is to complete the project by Friday.
+
 - **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
 - **To attend** means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
