@@ -165,4 +165,12 @@ For example:
 
 `The training included real-life scenarios to help us understand how to respond to emergencies`. -> The training used examples of situations that could happen in real life to help participants learn.
 
+### The subject of the sentence
+
+When a sentence starts with a verb that ends in -ing, it often functions as the subject of the sentence. This form is known as a gerund. For example:
+
+Coding is an essential skill for developers. - Coding is the subject of the sentence.
+
+Testing new software helps prevent bugs. - Testing is the subject.
+
 ---
