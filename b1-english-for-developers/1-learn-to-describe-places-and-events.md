@@ -173,4 +173,22 @@ Coding is an essential skill for developers. - Coding is the subject of the sent
 
 Testing new software helps prevent bugs. - Testing is the subject.
 
+
+### To roll out
+
+To roll out means **to launch or introduce something new, such as a product, service, or project**. It is often used in business and technology contexts. 
+
+For example:
+
+`The company plans to roll out a new software update next month.` -> The company will launch the update next month.
+
+### By the end of....
+
+By the end of is used **to set a deadline or specify a time by which something should be completed**. 
+
+For example:
+
+`I need to finish this report by the end of the day.` -> The report should be completed before the day is over.
+
+
 ---
