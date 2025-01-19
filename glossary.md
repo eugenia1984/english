@@ -37,10 +37,16 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **at least** is used when you want to say the smallest amount or number of something is okay or enough. It's like saying "no less than this amount". For example, if you say, ``I study English for at least 30 minutes every day``, it means you spend 30 minutes or more studying English daily, but never less than 30 minutes.
   
-- **attentive**: means paying careful attention or listening carefully.
-
 - **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
 
+- **Attendance**: refers to the act of being present at a place, such as a meeting, class, or event.
+
+For example:
+
+`Attendance at the meeting was high.` -> This means many people were present at the meeting.
+
+- **attentive**: means paying careful attention or listening carefully.
+  
 - **available**: means free to do something or not busy. For example: `Are you available to help me tomorrow?` -> This question is asking if the person is free to help tomorrow.
   
 - **awesome** is a word people use when they really like something. It's like saying very good!
