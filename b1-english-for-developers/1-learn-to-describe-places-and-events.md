@@ -156,5 +156,13 @@ For example:
 
 `The virus is a threat to our system.` -> This means the virus could cause harm to the system.
 
+### Real-life scenario
+
+
+A real-life scenario is a situation that could happen in everyday life. It's used in training or teaching to make the learning more practical and relevant. 
+
+For example:
+
+`The training included real-life scenarios to help us understand how to respond to emergencies`. -> The training used examples of situations that could happen in real life to help participants learn.
 
 ---
