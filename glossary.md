@@ -373,6 +373,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
+- **Mandatory**: means something that is required or must be done. It is not optional.
+
+For example:
+
+`Attendance at the meeting is mandatory.` -> This means you have to be present at the meeting.
+
 - **maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
 
 - **make sure**: is a phrase used to express that you want to confirm something is done the right way. . For example, ``You make sure the code runs`` means you check the code to be certain it has no errors and can run properly.
