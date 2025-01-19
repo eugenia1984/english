@@ -99,8 +99,29 @@ Anna:    That's great to hear.
          Let's touch base again once the module is ready.
 ```
 
-## What's on your mind?
+#@# What's on your mind?
 
 `What's on your mind?` is used to ask someone what they are thinking about or what they want to discuss. For example: `You look worried. What's on your mind?`
+
+
+##@ How often?
+
+**How often** is used **to ask about the frequency of an event**. 
+
+For example:
+
+`How often do you update the software?` -> You are asking about the number of times the software is updated in a given period.
+
+`How often does the team meet?` -> You are asking about the frequency of team meetings.
+
+### To hold
+
+**To hold** can mean to **organize or conduct an event**. It is often used when talking about meetings, classes, or events. 
+
+For example:
+
+`We hold sprint meetings every Monday.` -> You and your team organize sprint meetings every Monday.
+
++They hold a tech webinar every quarter.` -> They organize a tech webinar once every three months.
 
 ---
