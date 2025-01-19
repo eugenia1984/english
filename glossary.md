@@ -24,6 +24,13 @@
   
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
 
+
+- **Approach**: is a way of dealing with something.
+
+For example:
+
+`Her approach to solving the problem was very effective.` -> Here, approach refers to the method she used to solve the problem.
+
 - **are you interested?** is a way of asking someone if they want to know more or participate in something.
 
 - **Are you kidding?** is used to express disbelief, surprise, or sometimes to confirm if someone is joking. 
