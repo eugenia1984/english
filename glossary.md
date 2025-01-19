@@ -442,6 +442,13 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 - **Patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
 
+- **Perhaps**: is used to express uncertainty or possibility. It is similar in meaning to maybe. For example:
+
+`Perhaps we will launch the new feature next week.` -> There is a possibility of launching the new feature, but it is not certain.
+
+`They are perhaps the best developer for this project.` -> They might be the best developer, but it is not definite.
+
+
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
 
 - **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
