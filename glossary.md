@@ -668,6 +668,10 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
+- **To touch on**: can mean to briefly mention or deal with a topic. It is often used when covering a subject without going into much detail. For example:
+
+`The speaker touched on the new software update during the meeting.` -> The speaker briefly mentioned the software update but did not go into detail.
+
 - **tops** is used informally to indicate the maximum amount or time. For example: ``The meeting will last one hour, tops`` (no longer than one hour)
 
 - **Top condition** refers to being in the best possible state or quality, especially important for equipment in safety-critical roles. For example, ``The fire extinguisher must be kept in top condition``.
