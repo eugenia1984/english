@@ -399,6 +399,13 @@ For example: if someone asks you if you want to go to the movies, you can say `M
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
+
+- **Module**: refers to a unit or section of a course or training program.
+
+For example:
+
+`The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
+
 - **most** is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
 
 - **most of the time**: means usually or very often.
