@@ -122,6 +122,39 @@ For example:
 
 `We hold sprint meetings every Monday.` -> You and your team organize sprint meetings every Monday.
 
-+They hold a tech webinar every quarter.` -> They organize a tech webinar once every three months.
+`They hold a tech webinar every quarter.` -> They organize a tech webinar once every three months.
+
+### Extra 
+
+**Extra** means **additional or more than what is usual or necessary**. 
+
+For example:
+
+`We need extra chairs for the meeting.` -> We need more chairs than usual.
+
+### Because
+
+**Because** is used **to give a reason for something**. 
+
+For example:
+
+`We canceled the meeting because of bad weather.` -> The bad weather is the reason for canceling the meeting.
+
+### Recent
+
+**Recent** refers to **something that happened not long ago**. 
+
+For example:
+
+`The recent news was surprising.` -> The news came out not long ago.
+
+### Threat
+
+**Threat** means **a danger or something that can cause harm**. 
+
+For example:
+
+`The virus is a threat to our system.` -> This means the virus could cause harm to the system.
+
 
 ---
