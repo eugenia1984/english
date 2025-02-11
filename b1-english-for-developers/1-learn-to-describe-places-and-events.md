@@ -192,3 +192,31 @@ For example:
 
 
 ---
+
+## Dialogue 3: Struggling with IDEs
+
+```
+Tom:   Hey Sarah, do you have a moment?
+       I'm struggling with these IDEs.
+Sarah: Sure, I'm not busy. What's the problem?
+Tom:    The live preview isn't showing in Visual Studio Code.
+        Isn't it supposed to support that feature?
+Sarah:  It should, but it's not displaying because the live server extension might not be running.
+        Are you using that extension for realtime previews?
+Tom:    I think we are, but maybe it's not set up right.
+        Also, in IntelliJ IDEA, the code autocompletion isn't popping up.
+        Isn't it automatic?
+Sarah: It usually is, but it doesn't work if the project isn't set up right.
+        Have you checked the settings?
+Tom:    I'll have to check again.
+        And in Eclipse, it's not sho
+Sarah:  Yes, they are, but they're not visible if the project isn't linked to Git.
+        Is your project connected to Git in Eclipse?
+Tom:    It's supposed to be. This is frustrating.
+        Are these IDEs always this tricky?
+Sarah:  Not always, but they can be when they're not set up properly.
+        Do you want to walk through on setting them up?
+Tom:     Yes, please. That would be great.
+```
+
+---
