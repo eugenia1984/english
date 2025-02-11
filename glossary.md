@@ -727,6 +727,10 @@ For example:
 - **to skip** means to not do or not include something that you usually do or that should be done.
 
 - **To steal** means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission.
+
+- **To struggle**: to have difficulty with something. For example:
+
+`The program is struggling to load.` -> This means the program is currently having difficulty loading.
   
 - **to take different paths** means choosing various routes or methods to achieve something.
 
