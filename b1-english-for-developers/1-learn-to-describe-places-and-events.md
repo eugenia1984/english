@@ -219,4 +219,14 @@ Sarah:  Not always, but they can be when they're not set up properly.
 Tom:     Yes, please. That would be great.
 ```
 
+### Present Continuous
+
+The Present Continuous tense is used **to describe actions that are happening right now**.
+
+In the example above, notice that when forming the Present Continuous tense with the verb struggle, the final e is dropped, resulting in **struggling**. This is a common rule for verbs that end in e.
+
+In Tom's sentence, he uses the Present Continuous tense to describe his ongoing difficulty with IDEs (Integrated Development Environments).
+
+You should **add -ing** to struggle because the action is happening right now.
+
 ---
