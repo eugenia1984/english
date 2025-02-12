@@ -314,6 +314,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 **Identity** refers to who a person is, including their name, date of birth, and other personal information. For example: ``Protecting your identity online is important`` means keeping your personal information safe on the internet.
 
+- **IDEs**: stands for Integrated Development Environments. These are software tools used by developers to write, test, and debug code. Examples of popular IDEs include Visual Studio Code, IntelliJ IDEA, and Eclipse.
+
 - **I'd love to join**: is used to express eagerness or willingness to participate in an activity or event
 
 - **I'll let you know**: indicates a promise to provide information or updates about a future event or plan.
@@ -596,6 +598,10 @@ For example:
 - **stand up** refers to the action of rising from a sitting position.
 
 - **Strict** means someone enforces rules strongly. For example, ``My teacher is strict about homework deadlines``. It means the teacher insists that everyone hands in their 
+
+- **struggling with something**: it means they are having difficulty or trouble with it. For example:
+
+`The team is struggling with the project deadline.` -> The team is having trouble meeting the deadline.
 
 - **so far** means up to this moment or until now. It is used when talking about a time that started in the past and continues to the present. If someone asks, `Are you happy with the workplace so far?` They want to know if you liked your workplace from the first day up to today.
 
