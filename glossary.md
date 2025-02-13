@@ -603,6 +603,11 @@ For example:
 
 `The team is struggling with the project deadline.` -> The team is having trouble meeting the deadline.
 
+- **supposed to**_ is used to express something that is expected or assumed to happen, based on a plan, rule, or expectation. For example:
+
+`The project is supposed to be finished by Friday.` -> This means it is expected to be completed by that time.
+
+
 - **so far** means up to this moment or until now. It is used when talking about a time that started in the past and continues to the present. If someone asks, `Are you happy with the workplace so far?` They want to know if you liked your workplace from the first day up to today.
 
 - **some** is often used to indicate an unspecified amount or number. In this context, there isn't a specific number of places
