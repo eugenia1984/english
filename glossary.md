@@ -410,11 +410,15 @@ For example:
 
 - **marathon** is a very long race where people run 42 kilometers. It can also mean watching many movies or TV shows one after another without stopping.
 
-- **maybe**: to show that something is possible but not certain.. It's a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea.
-
-For example: if someone asks you if you want to go to the movies, you can say `Maybe` if you are not sure if you want to go or if you are available.
+- **maybe**: to show that something is possible but not certain.. It's a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say `Maybe` if you are not sure if you want to go or if you are available.
 
 `Maybe I will go to the party.` -> It is possible you will go to the party, but you are not sure.
+
+- **might**: is used to express possibility. When Sarah says, might not be running, she's suggesting that it's possible the live server extension isn't currently active or working. For example:
+
+`The server might be down.` -> It's possible the server isn't working.
+
+`She might not be available today.` -> It's possible she's not free today.
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
