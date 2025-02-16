@@ -261,5 +261,13 @@ A tag question **is a short question added to the end of a sentence to confirm o
 
 When Tom says, `Isn't it automatic?`, he is asking for confirmation that the auto-completion should happen automatically.
 
+### Present Simple - Negative (doesn't / isn't)
+
+
+In the Present Simple tense, the negative form is created using **doesn't** or **isn't** for third-person singular subjects (he, she, it).
+
+Use **doesn't** with action verbs to show that something is not happening, like `It doesn't work`.
+
+Use **isn't** with forms of to be to show that something is not true, like `isn't set up`.
 
 ---
