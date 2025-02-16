@@ -241,4 +241,13 @@ It replaces Visual Studio Code to avoid saying the program's name again.
 
 By identifying what is expected to support the feature, you can determine that it refers to the program itself.
 
+
+### Should
+
+Should is used **to express that something is expected to happen or be true**. 
+
+When Sarah says, It should, she means that the live preview is expected to work in Visual Studio Code. For example:
+
+`The app should start when you press the button.` -> This means you expect the app to start when pressing the button.
+
 ---
