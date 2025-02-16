@@ -509,6 +509,8 @@ For example:
 
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
 
+- **pop up**: is used when something suddenly appears on your screen. In coding, suggestions from auto-completion often pop up as you type.
+
 - **practicing** you are doing an activity regularly to improve your skills at it.
 
 - **previous job**: is the work you did before your current or most recent position.
