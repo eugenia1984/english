@@ -250,4 +250,16 @@ When Sarah says, It should, she means that the live preview is expected to work 
 
 `The app should start when you press the button.` -> This means you expect the app to start when pressing the button.
 
+
+### Tag question
+
+A tag question **is a short question added to the end of a sentence to confirm or check something**. It's often used when the speaker expects the listener to agree with them. For example:
+
+`It's a nice day, isn't it?` -> The speaker expects that the listener will agree that it's a nice day.
+
+`They are coming to the meeting, aren't they?` -> The speaker expects that the listener will agree that they are coming to the meeting.
+
+When Tom says, `Isn't it automatic?`, he is asking for confirmation that the auto-completion should happen automatically.
+
+
 ---
