@@ -25,9 +25,7 @@
 - **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
 
 
-- **Approach**: is a way of dealing with something.
-
-For example:
+- **Approach**: is a way of dealing with something. For example:
 
 `Her approach to solving the problem was very effective.` -> Here, approach refers to the method she used to solve the problem.
 
@@ -40,9 +38,7 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin).
 
-- **As we speak**: means that something is happening at this very moment, while the conversation is taking place.
-
-For example:
+- **As we speak**: means that something is happening at this very moment, while the conversation is taking place. For example:
 
 `The update is being deployed as we speak.` -> The update is being rolled out at this very moment.
 
@@ -56,9 +52,7 @@ For example:
    
 - **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
 
-- **Attendance**: refers to the act of being present at a place, such as a meeting, class, or event.
-
-For example:
+- **Attendance**: refers to the act of being present at a place, such as a meeting, class, or event. For example:
 
 `Attendance at the meeting was high.` -> This means many people were present at the meeting.
 
@@ -74,9 +68,13 @@ For example:
 
 - **bachelor's degree** is an undergraduate academic degree awarded by colleges and universities upon completion of a course of study. In the term bachelor's degree, the use of the noun (bachelor) followed by the 's indicates possession or association.
 
-- **Be back** means to return.  For example: ``I'll be back by dinner`` (returning before a specific time)
+- **Be back** means to return.  For example:
 
-- **Bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example: ``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
+``I'll be back by dinner`` (returning before a specific time)
+
+- **Bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example:
+
+``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
 
 - **Bookstores** are shops that sell book
 
@@ -88,7 +86,9 @@ For example:
 
 - **bugs** refer to errors or problems in the software that need to be identified and fixed. Understanding this term is crucial for comprehending the role of a QA tester.
 
-- **But** is a word used to connect two ideas that might seem opposite or different. It shows contrast. For example, ``I like apples but not oranges``. This statement shows a preference for apples over oranges.
+- **But** is a word used to connect two ideas that might seem opposite or different. It shows contrast. For example:
+
+``I like apples but not oranges``. This statement shows a preference for apples over oranges.
 
 
 ---
@@ -168,7 +168,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
   
 - **database administrator** is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
 
-- **date **can be used in different contexts. While it often refers to a romantic meeting between two people, it can also simply mean an appointment or a planned event between friends or colleagues. For example, saying ``Let's set a date for our next meeting`` uses date in a non-romantic way, referring to choosing a day for a meeting.
+- **date**: can be used in different contexts. While it often refers to a romantic meeting between two people, it can also simply mean an appointment or a planned event between friends or colleagues. For example, saying ``Let's set a date for our next meeting`` uses date in a non-romantic way, referring to choosing a day for a meeting.
 
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
 
@@ -586,6 +586,12 @@ For example:
 - **Seriousl**y is used when you want to show that something is important or true. It helps to make what you are saying stronger. For example, if you say, ``I seriously love programming``, it means you really love programming a lot. Or, if you say, ``Take this project seriously``, it means you think the project is very important and should be treated with care.
 
 - **Serious**: means showing deep thought, not joking, or focusing intensely on something important. For example, ``He is serious about learning English``. This shows he is very focused and committed to learning English, not doing it just for fun.
+
+- **set up right**: means to configure something correctly so that it works as expected. If something isn't set up right, it might not function properly. For example:
+
+`The printer isn't working because it's not set up right.` -> The printer isn't configured correctly.
+
+`Make sure the software is set up right before you start using it.` -> You need to configure the software correctly to ensure it works.
   
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
