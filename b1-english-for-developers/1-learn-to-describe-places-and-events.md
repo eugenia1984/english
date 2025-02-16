@@ -229,4 +229,16 @@ In Tom's sentence, he uses the Present Continuous tense to describe his ongoing 
 
 You should **add -ing** to struggle because the action is happening right now.
 
+### It
+
+It is used to **replace a noun that has already been mentioned, helping avoid repetition in a sentence**. For example:
+
+`I bought a new laptop. It works really well.` -> Here, it replaces laptop to avoid repeating the word.
+
+`In The Live Preview isn't showing in Visual Studio Code. Isn't it supposed to support that feature?`, it refers to Visual Studio Code because Tom is talking about the program and its ability to support a feature.
+
+It replaces Visual Studio Code to avoid saying the program's name again.
+
+By identifying what is expected to support the feature, you can determine that it refers to the program itself.
+
 ---
