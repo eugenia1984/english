@@ -236,7 +236,11 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
 
-- **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers.
+- **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers. For example:
+
+`One feature of VS Code is the ability to integrate with Git.` -> This refers to a specific capability that VS Code offers to its users.
+
+
 
 - **Feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
 
@@ -621,6 +625,10 @@ For example:
 - **stay on track**: is often used to talk about continuing to do the right thing in order to achieve a goal. It's a motivational phrase used in both personal and professional contexts. For example: ``I make a list every morning to stay on track with my work.``
 
 - **Stretch**: To move your arms and legs to relax them. Example: ``I stretch during my break``.
+
+- **support**: means that a program or tool is capable of working with a certain feature or functionality. For example:
+
+`VS Code supports multiple programming languages.` -> VS Code can work with different languages.
 
 - **supportive** is used to describe someone who provides encouragement or assistance to others. Think of it like a strong pillar that holds up a building - a supportive person helps to hold you up when you need it.
 
