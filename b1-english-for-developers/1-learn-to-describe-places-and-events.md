@@ -294,4 +294,15 @@ Your project is connected to Git. (Statement)
 
 `Is your project connected to Git?` (Question) -> In Sarah's sentence, she uses this inversion to ask Tom if his project is connected to Git in Eclipse.
 
+
+### This is
+
+This is is a simple way to start a sentence when describing something. For example:
+
+`This is confusing.` -> The situation is hard to understand.
+
+`This is exciting.` -> The situation makes you feel excited.
+
+`This is frustrating.` -> Being upset or annoyed because something isn't working as expected
+
 ---
