@@ -286,4 +286,12 @@ When someone asks a question like **Have you + verb ?**, they are trying to find
 
 In this case, Sarah asks: `Have you checked the settings?` because she wants to know if Tom has already taken a specific action that could solve the problem.
 
+#@# Verb to be - question
+
+When forming questions with the verb to be, the usual word order of the subject and verb is inverted. This means that the verb comes before the subject. For example:
+
+Your project is connected to Git. (Statement)
+
+`Is your project connected to Git?` (Question) -> In Sarah's sentence, she uses this inversion to ask Tom if his project is connected to Git in Eclipse.
+
 ---
