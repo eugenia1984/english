@@ -85,6 +85,12 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **brief** means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
 
 - **bugs** refer to errors or problems in the software that need to be identified and fixed. Understanding this term is crucial for comprehending the role of a QA tester.
+  
+- **Built-in**: refers to features or tools that are included as part of a software program or device from the start, without needing to be added or installed separately. When something is built-in, it's already there and ready to use. For example:
+
+`This laptop has a built-in camera.` -> The camera is included as part of the laptop.
+
+`The software comes with built-in security features.` -> The security features are already included in the software.
 
 - **But** is a word used to connect two ideas that might seem opposite or different. It shows contrast. For example:
 
