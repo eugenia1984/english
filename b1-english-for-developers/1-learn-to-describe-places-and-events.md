@@ -280,4 +280,10 @@ Example:
 | ------ | ----- |
 | The auto-completion doesn't work. |If the project isn't set up correctly. |
 
+### Have you...?
+
+When someone asks a question like **Have you + verb ?**, they are trying to find out if you did something specific.
+
+In this case, Sarah asks: `Have you checked the settings?` because she wants to know if Tom has already taken a specific action that could solve the problem.
+
 ---
