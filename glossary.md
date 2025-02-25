@@ -292,6 +292,10 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
 
+- **Have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example:
+
+`You have to save your changes before closing the program.` -> This means it's necessary to save changes before closing the program.
+
 - **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
 
 - **here** is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
