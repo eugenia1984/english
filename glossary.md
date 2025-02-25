@@ -698,9 +698,7 @@ For example:
 `She typically arrives at work by 9 AM.` -> This means that she usually arrives at work by 9 AM.
 
 
-- **To aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward.
-
-For example:
+- **To aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward. For example:
 
 `She aims to become a developer.` -> Her goal is to become a developer.
 
@@ -798,10 +796,7 @@ For example:
 
 - **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
-
-- **Touch base**: means to make contact or to check in with someone, usually to discuss progress or updates.
-
-For example:
+- **Touch base**: means to make contact or to check in with someone, usually to discuss progress or updates. For example:
 
 `Let's touch base next week to see how the project is going.` -> We'll talk again next week to discuss the project's progress.
 
@@ -815,7 +810,20 @@ For example:
 
 - **Two blocks away** means that you need to walk past two street corners to get to a place. It's a short walk in a city.
 
-- **Trends** are popular styles or ideas that many people are talking about or doing. The word trend in the singular becomes trends in the plural. For example: ``One current trend is using eco-friendly products`` (singular). ``She writes about fashion trends`` (plural). ``Tech trends`` refer to popular developments in technology.
+- **Trends** are popular styles or ideas that many people are talking about or doing. The word trend in the singular becomes trends in the plural. For example:
+
+``One current trend is using eco-friendly products`` (singular). 
+
+``She writes about fashion trends`` (plural). 
+
+``Tech trends`` refer to popular developments in technology.
+
+- **Tricky**: is used to describe something that is difficult, complicated, or challenging to deal with.For example:
+
+`The instructions were tricky to follow.` -> The instructions were hard to understand or complicated.
+
+`Solving this problem is tricky.` -> Solving the problem is difficult.
+
 
 - **Typical** means what is normal or usual. For example, ``A typical day at work involves meetings and writing reports``.
 
