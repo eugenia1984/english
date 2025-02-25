@@ -270,4 +270,14 @@ Use **doesn't** with action verbs to show that something is not happening, like 
 
 Use **isn't** with forms of to be to show that something is not true, like `isn't set up`.
 
+### IF
+
+**if** -> often introduces the cause of a problem, explaining what needs to happen for something else to occur.
+
+Example:
+
+| Effect | Cause |
+| ------ | ----- |
+| The auto-completion doesn't work. |If the project isn't set up correctly. |
+
 ---
