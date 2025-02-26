@@ -305,4 +305,16 @@ This is is a simple way to start a sentence when describing something. For examp
 
 `This is frustrating.` -> Being upset or annoyed because something isn't working as expected
 
+### When
+
+**when** is used **to describe a specific condition or situation that causes something to happen**.
+
+In Sarah's sentence, when introduces the condition where the IDEs become tricky: `if they're not set up properly`. For example:
+
+`The program crashes when it runs out of memory.` -> The condition of running out of memory causes the program to crash.
+
+`The printer only works when it's plugged in.` -> The condition of being plugged in allows the printer to work.
+
+In both cases, when is used to explain the situation in which something occurs.
+
 ---
