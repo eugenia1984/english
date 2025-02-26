@@ -850,10 +850,21 @@ For example:
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
+- **Walkthrough**: is made up of two parts:
+
+**Walk** -> refers to moving step by step, usually on foot.
+
+**Through** -> means moving from one side to another or from start to finish.
+
+When these words are combined into **walkthrough**, it means a step-by-step explanation or guide to help someone understand how to do something. For example:
+
+`The software includes a walkthrough to help new users get started.` -> There is a guide that explains each step to using the software.
+
+`Let me give you a walkthrough of the process.` -> You will explain each step of the process in detail.
+
 - **web applications** refers to software programs that run on a web server and are accessed through a web browser. They are an essential part of modern technology, allowing users to perform functions or access services over the internet.
 
 - **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
-
 
 - **What a responsibility** are used to show recognition of the importance of someone's duties.
   
