@@ -317,4 +317,30 @@ In Sarah's sentence, when introduces the condition where the IDEs become tricky:
 
 In both cases, when is used to explain the situation in which something occurs.
 
+
+###
+
+Sarah decided to e-mail and document their conversation
+
+```
+Hi Tom,
+
+It was good talking with you earlier. I'm sending you this e-mail to summarize conversation. Hope this is helpful.
+
+1. Visual Studio Code - live preview:
+
+Make sure the live server extension is installed and running. If it's still not displaying, check your project settings and ensure that all files are correctly set up for real-time previews.
+
+2. IntelliJ IDEA - Auto-Completion:
+
+Double-check your project settings. If auto-completion isn't working, the project might not be set up right. Go to your project settings and verify that all necessary plugins are enabled.
+
+3. Eclipse - Git Tools:
+
+The Git tools are built-in, but they won't be visible unless your project is linked to Git. Make sure your project is connected to the Git repository.
+
+Let me know if you need any more help, or if you'd like to go through a detailed walkthrough together.
+
+Best, Sarah
+```
 ---
