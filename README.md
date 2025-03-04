@@ -48,6 +48,10 @@ Modules:
 
 ### 3 - [B1 - English for developers by FreeCodeCamp](https://github.com/eugenia1984/english/tree/main/b1-english-for-developers)
 
+-1 - [Learn to describe places and events](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/1-learn-to-describe-places-and-events.md)
+
+-2 - [Learn how to talk about past experiences](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/2-learn-how-to-talk-about-past-experiences.md)
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
