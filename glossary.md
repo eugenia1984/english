@@ -628,11 +628,18 @@ For example:
 
 - **stand up** refers to the action of rising from a sitting position.
 
-- **Strict** means someone enforces rules strongly. For example, ``My teacher is strict about homework deadlines``. It means the teacher insists that everyone hands in their 
+- **strict** means someone enforces rules strongly. For example, ``My teacher is strict about homework deadlines``. It means the teacher insists that everyone hands in their 
 
 - **struggling with something**: it means they are having difficulty or trouble with it. For example:
 
 `The team is struggling with the project deadline.` -> The team is having trouble meeting the deadline.
+
+
+- **stuck on**: is used when someone is unable to move forward with a task or solve a problem. It suggests being trapped or unable to progress. For example:
+
+`We were stuck on this code error for hours.` -> We could not proceed until that error in the code was found.
+
+`She got stuck on the final question of the exam.` -> She spent a long time on the final question.
 
 - **supposed to**_ is used to express something that is expected or assumed to happen, based on a plan, rule, or expectation. For example:
 
