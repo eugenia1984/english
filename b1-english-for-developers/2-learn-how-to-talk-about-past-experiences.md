@@ -43,4 +43,12 @@ For example:
 `Did she call you yesterday?` -> You want to know if the person received a call the day before.
 
 
+## The Simple Past - short answers
+
+When giving short answers to a question directed to you about something you did or did not do in the past, use **Yes, I did** or No, I didn't to answer to them briefly. For example:
+
+Did you buy that car you wanted? No, I didn't. - This means you did not buy the car.
+
+Did you pass the English test? Yes, I did - This means you passed the test.
+
 ---
