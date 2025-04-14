@@ -29,5 +29,18 @@ Lisa:   Perfect.
         Let's make sure we double check credentials after security updates in the future.
 ```
 
-```
+
+### The Simple Past structure for forming questions 
+
+Starts with **did + subject + base form of the verb**. 
+
+You use **did** to show the action happened in the past, but **keep the main verb (e.g., find) in its base form**. 
+
+For example:
+
+`Did they finish the report on time?` -> You want to know if the report was concluded before it was due.
+
+`Did she call you yesterday?` -> You want to know if the person received a call the day before.
+
+
 ---
