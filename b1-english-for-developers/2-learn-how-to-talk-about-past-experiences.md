@@ -2,4 +2,32 @@
 
 ## Dialogue 1: A Debugging Session Recap
 
+```
+Lisa:   Hey, James.
+        Did you find that bug we were stuck on yesterday?
+James:  Yes, I did. It was quite a hunt.
+        First, I checked the recent changes we made to the code.
+Lisa:   What did you find there?
+James:  Nothing at first.
+        Then I reviewed the error logs more carefully.
+        That's when I noticed something odd.
+Lisa:   What was it?
+James:  The system wasn't connecting to the database properly.
+        After that, I realized we didn't update the database credentials after the last security patch.
+Lisa:   Ah, so the credentials were the issue.
+        Did you fix them?
+James:  Yes, I updated the credentials and the connection was finally successful.
+        The app started working again.
+Lisa:   Great job. Wasn't it stressful though?
+James:  A bit, but solving problems like these is what makes our job interesting, right?
+Lisa:   Absolutely.
+        Thanks for handling it, James.
+        Did anything else come up while you were debugging?
+James:  Not really.
+        Everything else was running smoothly once the database issue was fixed.
+Lisa:   Perfect.
+        Let's make sure we double check credentials after security updates in the future.
+```
+
+```
 ---
