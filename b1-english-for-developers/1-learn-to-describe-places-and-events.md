@@ -99,12 +99,12 @@ Anna:    That's great to hear.
          Let's touch base again once the module is ready.
 ```
 
-#@# What's on your mind?
+### What's on your mind?
 
 `What's on your mind?` is used to ask someone what they are thinking about or what they want to discuss. For example: `You look worried. What's on your mind?`
 
 
-##@ How often?
+### How often?
 
 **How often** is used **to ask about the frequency of an event**. 
 
