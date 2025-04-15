@@ -51,4 +51,22 @@ When giving short answers to a question directed to you about something you did 
 
 `Did you pass the English test? Yes, I did.` -> This means you passed the test.
 
+### Simple Past tense in affirmative sentences
+
+You use the Simple Past tense in affirmative sentences when you want to talk about completed actions at a moment in the past.
+
+In the Simple Past, **regular verbs** like check are formed by **adding -ed** to the base verb. 
+
+**Irregular verbs**, such as make, **have unique forms that do not follow this rule**. 
+
+In James's sentence: **Checked** is the past form of the regular verb **check**, indicating an action that was completed in the past.
+
+For example: 
+
+`He checked his email before the meeting.` -> He looked at the e-mails at a moment in the past prior to the meeting.
+
+**Made** is the past form of the irregular verb **make**, indicating something that was created or done in the past. For example:
+
+`She made a list of items to buy.` -> She created a list of what she wanted to buy before going to the store.
+
 ---
