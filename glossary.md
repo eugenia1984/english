@@ -594,15 +594,15 @@ For example:
 
 - **schedule**: refers to a planned timeline for tasks or events. Understanding a project's schedule is key to managing time effectively. For example: This is the schedule of the day refers to all activities and actions planned for that day. **To schedule** means to arrange for an event or activity to take place at a specific time. It's like making an appointment or setting up a time for something. For example: `I schedule my doctor's appointments for the first thing in the morning.`
 
-- **See you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
+- **see you tomorrow**: is a casual way of saying goodbye and expressing the hope to meet the person the next day.
 
-- **Security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
+- **security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
 
 - **self-taught** means learning things by yourself, not from a school or teacher. It's when you learn something on your own. The word **taught** is from teach, which means to give someone knowledge or to show how to do something. So, if you are ``self-taught``, you have learned something by yourself.
 
-- **Seriousl**y is used when you want to show that something is important or true. It helps to make what you are saying stronger. For example, if you say, ``I seriously love programming``, it means you really love programming a lot. Or, if you say, ``Take this project seriously``, it means you think the project is very important and should be treated with care.
+- **seriousl**y is used when you want to show that something is important or true. It helps to make what you are saying stronger. For example, if you say, ``I seriously love programming``, it means you really love programming a lot. Or, if you say, ``Take this project seriously``, it means you think the project is very important and should be treated with care.
 
-- **Serious**: means showing deep thought, not joking, or focusing intensely on something important. For example, ``He is serious about learning English``. This shows he is very focused and committed to learning English, not doing it just for fun.
+- **serious**: means showing deep thought, not joking, or focusing intensely on something important. For example, ``He is serious about learning English``. This shows he is very focused and committed to learning English, not doing it just for fun.
 
 - **set up right**: means to configure something correctly so that it works as expected. If something isn't set up right, it might not function properly. For example:
 
@@ -634,7 +634,6 @@ For example:
 
 `The team is struggling with the project deadline.` -> The team is having trouble meeting the deadline.
 
-
 - **stuck on**: is used when someone is unable to move forward with a task or solve a problem. It suggests being trapped or unable to progress. For example:
 
 `We were stuck on this code error for hours.` -> We could not proceed until that error in the code was found.
@@ -645,7 +644,6 @@ For example:
 
 `The project is supposed to be finished by Friday.` -> This means it is expected to be completed by that time.
 
-
 - **so far** means up to this moment or until now. It is used when talking about a time that started in the past and continues to the present. If someone asks, `Are you happy with the workplace so far?` They want to know if you liked your workplace from the first day up to today.
 
 - **some** is often used to indicate an unspecified amount or number. In this context, there isn't a specific number of places
@@ -654,11 +652,11 @@ For example:
 
 - **specific** means something very clear and exact. For example, `The client has specific goals for the project` means the client's goals are clear. **Specific requirements** means very clear and exact things you need to do. Like a list that tells you exactly what to do for a project. It combines the clarity of specific with the needs of requirements. Like saying, ` We need to meet the specific requirements of the client` which means meeting the precise needs or conditions the client has set.
 
-- **Stay** is used to indicate remaining in a particular state or condition. It's often used in instructions or advice to keep oneself in a certain situation. For example: ``Stay safe onlinecontinue being safe while using the internet). ``Stay calm during the test`` (continue being calm). ``Stay focused on your work`` (continue paying attention to your work)
+- **stay** is used to indicate remaining in a particular state or condition. It's often used in instructions or advice to keep oneself in a certain situation. For example: ``Stay safe onlinecontinue being safe while using the internet). ``Stay calm during the test`` (continue being calm). ``Stay focused on your work`` (continue paying attention to your work)
 
 - **stay on track**: is often used to talk about continuing to do the right thing in order to achieve a goal. It's a motivational phrase used in both personal and professional contexts. For example: ``I make a list every morning to stay on track with my work.``
 
-- **Stretch**: To move your arms and legs to relax them. Example: ``I stretch during my break``.
+- **stretch**: To move your arms and legs to relax them. Example: ``I stretch during my break``.
 
 - **support**: means that a program or tool is capable of working with a certain feature or functionality. For example:
 
@@ -666,7 +664,7 @@ For example:
 
 - **supportive** is used to describe someone who provides encouragement or assistance to others. Think of it like a strong pillar that holds up a building - a supportive person helps to hold you up when you need it.
 
-- **Sure** is a friendly way to say yes or agree to something. It's like saying ``definitely`` or ``of course``.
+- **sure** is a friendly way to say yes or agree to something. It's like saying ``definitely`` or ``of course``.
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
 
@@ -690,7 +688,13 @@ For example:
 
 - **theaters** are places where you can watch live performances or movies.
 
-- **Then**: is often used to indicate the next step or action after something else has been done. For example, ``First, I check my emails, then I start coding``.
+- **Then**: is often used to indicate the next step or action after something else has been done. For example: `First, I check my emails, then I start coding`.
+
+`I turned on the computer, and then I opened my email.` -> You only opened the email after turning on the computer.
+
+'We fixed the bug, then we tested the application again.` -> They only tested the application again after fixing the bug.
+
+
 
 - **Though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
 
