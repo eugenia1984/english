@@ -434,8 +434,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
-
-- **Module**: refers to a unit or section of a course or training program. For example:
+- **module**: refers to a unit or section of a course or training program. For example:
 
 `The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
 
@@ -515,9 +514,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 `They are perhaps the best developer for this project.` -> They might be the best developer, but it is not definite.
 
-- **phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source.
-
-For example:
+- **phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source. For example:
 
 `Phishing attempts are common in emails that look like they come from your bank.` -> Scammers often try to trick people using fake emails.
   
@@ -532,6 +529,10 @@ For example:
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
 
 - **pop up**: is used when something suddenly appears on your screen. In coding, suggestions from auto-completion often pop up as you type.
+
+- **postmortem**: comes from Latin, meaning after death, but in a business context, it refers to a meeting or review conducted after the completion of a project to analyze its successes and problems. This meeting helps organizations learn from their experiences and improve future projects. For example:
+
+`The team conducted a postmortem to discuss the challenges faced during the product launch.` -> This means the team met after product launch to discuss the challenges they encountered in the process.
 
 - **practicing** you are doing an activity regularly to improve your skills at it.
 
