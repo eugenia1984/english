@@ -2,9 +2,7 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
-- **a bit**: is used to indicate a small amount or degree of something. For Example:
-
-`I was a bit tired after the long day.` -> Here, a bit emphasizes that the speaker was slightly tired, but it wasn't extreme.
+- **a bit**: is used to indicate a small amount or degree of something. For Example: `I was a bit tired after the long day.` -> Here, a bit emphasizes that the speaker was slightly tired, but it wasn't extreme.
 
 This phrase is commonly used in informal contexts to soften statements or describe minor degrees of feelings or situations. In this dialog, James is admitting that the situation was slightly stressful but not overwhelming.
 
@@ -40,9 +38,9 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **assign**: means to give tasks to other people.
 
-- **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin).
+- **as well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin).
 
-- **As we speak**: means that something is happening at this very moment, while the conversation is taking place. For example: `The update is being deployed as we speak.` -> The update is being rolled out at this very moment.
+- **as we speak**: means that something is happening at this very moment, while the conversation is taking place. For example: `The update is being deployed as we speak.` -> The update is being rolled out at this very moment.
 
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
@@ -50,7 +48,7 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **attempts**: refers to efforts or tries to do something. For example: `He made several attempts to unlock the door.` -> He tried multiple times to unlock the door.
    
-- **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
+- **attend**: means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
 
 - **attendance**: refers to the act of being present at a place, such as a meeting, class, or event. For example: `Attendance at the meeting was high.` -> This means many people were present at the meeting.
 
@@ -180,6 +178,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **develop**: means to make or create something, especially something new. For example, someone might develop a new game or a website.
 
 - **discuss**: It means to talk about something with someone.
+
+- **double check**: means to verify something a second time to ensure it is correct or accurate. It is often used when dealing with important tasks to avoid errors. For example: `We need to double check the calculations before submitting the report.` -> Meaning you'd like to verify if the calculations are right once more before sending the report to those who will analyze it.
 
 - **down the street**: means further along the street or a short distance away on the same street.
 
