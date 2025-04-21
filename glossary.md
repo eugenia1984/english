@@ -702,8 +702,10 @@ For example:
 'We fixed the bug, then we tested the application again.` -> They only tested the application again after fixing the bug.
 
 
-
 - **Though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
+
+Though is often used at the end of a sentence to add emphasis or to show a contrast with what was previously said or implied. For example:
+`The presentation went well, though it was stressful at first.` -> Here, though highlights the contrast between the overall success and the initial stress.
 
 - **Thoughts** means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
 
