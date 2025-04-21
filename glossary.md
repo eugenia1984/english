@@ -165,7 +165,9 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **danger**: refers to the possibility of harm or risk. An example sentence could be, ``Firefighters often face danger in their work``.
 
-- **data**: refers to information or facts collected for reference or analysis. In a workplace, data can include numbers, words, or observations used to make decisions. For example: ``The company collects customer data to understand buying habits``. There are different types of data, like **quantitative data**, which is about numbers (like how many people visit a store), and **qualitative data**, which is about descriptions (like what people think about a product). **Customer data** is specific information about customers, like their buying habits or preferences.
+- **data**: refers to information or facts collected for reference or analysis. In a workplace, data can include numbers, words, or observations used to make decisions. For example: ``The company collects customer data to understand buying habits``.
+
+There are different types of data, like **quantitative data**, which is about numbers (like how many people visit a store), and **qualitative data**, which is about descriptions (like what people think about a product). **Customer data** is specific information about customers, like their buying habits or preferences.
 
 - **database**: is a structured collection of data, typically stored electronically in a computer system. It is used to organize, store, and retrieve large amounts of information efficiently. In programming, database is essential for managing data that applications need to function
   
@@ -203,13 +205,13 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
-- **Engaging** means interesting or able to attract attention. For example: ``She writes engaging stories means her stories are very interesting.``
+- **engaging** means interesting or able to attract attention. For example: ``She writes engaging stories means her stories are very interesting.``
 
 - **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
 
 - **enjoy the most**: is used to express a preference or favorite aspect of something.
 
-- **Emergencies** are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
+- **emergencies**: are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
 
 - **enjoy the most**: is used to indicate one's preferred or favorite aspect of an activity.
 
@@ -217,39 +219,37 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
   
 - **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
 
-- **Every**: When you want to talk about something that happens regularly on a specific day of the week, you use the expression every followed by the day. For example, `I go to the gym every Tuesday`.
+- **every**: when you want to talk about something that happens regularly on a specific day of the week, you use the expression every followed by the day. For example, `I go to the gym every Tuesday`.
 
-- **everyone** is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
+- **everyone**: is used to refer to all people in a group. The opposite of everyone is **no one** and **nobody**. No one and nobody both mean not a single person.
 
-- **exactly** is used to emphasize the truth or accuracy of a statement or description. It can mean precisely or just. For example, if someone says, ``It's exactly what I needed``, they mean that it is precisely or perfectly what was required. Exactly often highlights that something is correct in every detail.
+- **exactly**: is used to emphasize the truth or accuracy of a statement or description. It can mean precisely or just. For example, if someone says, ``It's exactly what I needed``, they mean that it is precisely or perfectly what was required. Exactly often highlights that something is correct in every detail.
 
-- **experiment** means to try new ideas or methods. For example: ``We experiment with new teaching methods`` (trying new ideas)
+- **experiment**: means to try new ideas or methods. For example: ``We experiment with new teaching methods`` (trying new ideas)
 
 - **expertise**: refers to special skills or knowledge that someone has, especially because of their experience or training. For example, She has expertise in web design means she is very skilled or knowledgeable in web design.
 
-- **Extreme**:  means something is very great in degree or intensity, much more than usual. For example, if it's very, very hot outside, you might say, ``The heat today is extreme``. This means it's much hotter than what is normal. The term **extreme sports** refers to activities that involve a high degree of risk, often involving speed, height, or physical exertion.
+- **extreme**:  means something is very great in degree or intensity, much more than usual. For example, if it's very, very hot outside, you might say, ``The heat today is extreme``. This means it's much hotter than what is normal. The term **extreme sports** refers to activities that involve a high degree of risk, often involving speed, height, or physical exertion.
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> F
 
-- **Fair** means treating everyone equally and justly. For example, ``The judge was fair in her decision``, meaning the judge made a decision based on the rules and without favoritism.
+- **fair**: means treating everyone equally and justly. For example, ``The judge was fair in her decision``, meaning the judge made a decision based on the rules and without favoritism.
 
 - **fandom**: is used to describe a community of fans who share a common interest, especially in a particular form of entertainment.
 
-- **Fantasy**: encompasses stories set in worlds that diverge from reality, often featuring magical elements, mythical creatures, and supernatural phenomena.
+- **fantasy**: encompasses stories set in worlds that diverge from reality, often featuring magical elements, mythical creatures, and supernatural phenomena.
 
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
 
-- **features** refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers. For example:
+- **features**: refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers. For example:
 
 `One feature of VS Code is the ability to integrate with Git.` -> This refers to a specific capability that VS Code offers to its users.
 
+- **feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
 
-
-- **Feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
-
-- **Follow the rules**: means to do what the rules say. ``If there is a rule that says use camelCase for variable names, to follow the rules means you name your variables like myVariable instead of my_variable``.
+- **follow the rules**: means to do what the rules say. ``If there is a rule that says use camelCase for variable names, to follow the rules means you name your variables like myVariable instead of my_variable``.
 
 - **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
 
@@ -271,11 +271,11 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
 
-- **Go straight to**: describes the action of going directly to a place without any stops along the way. For example: ``As soon as I arrive at the office, I go straight to my desk to check my emails``.
+- **go straight to**: describes the action of going directly to a place without any stops along the way. For example: ``As soon as I arrive at the office, I go straight to my desk to check my emails``.
 
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
-- **go-to person** is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
+- **go-to person**: is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
 
 - **great traits**: means very good qualities or characteristics.
 
@@ -287,7 +287,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **handle**: means to manage or deal with something, especially effectively and competently. In a work context, it often refers to how someone manages tasks or projects. For example, ``She handles client requests very efficiently``.
 
-- **Hang out** means to spend time relaxing or socializing. For example: ``We hang out at the park on weekends`` (spending leisure time)
+- **hang out**: means to spend time relaxing or socializing. For example: ``We hang out at the park on weekends`` (spending leisure time)
 
 - **have a blast**:  is used to wish someone a lot of fun and enjoyment in an upcoming event or activity. For example, if your friend is going to a birthday party, you might say, ``Have a blast at the party!`` This means you hope they have a lot of fun at the party.
 
@@ -297,27 +297,27 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **Have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
 
-- **Have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example:
+- **have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example:
 
 `You have to save your changes before closing the program.` -> This means it's necessary to save changes before closing the program.
 
 - **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
 
-- **here** is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
+- **here**: is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
 
-- **hit the snooze button** refers to the action of delaying the alarm clock to sleep a little longer. The verb ``hit`` in this context means to press, and ``snooze button`` is a feature on alarm clocks that allows for a brief delay in the alarm.
+- **hit the snooze button**: refers to the action of delaying the alarm clock to sleep a little longer. The verb ``hit`` in this context means to press, and ``snooze button`` is a feature on alarm clocks that allows for a brief delay in the alarm.
   
-- **How about** is used to make a suggestion or ask someone's opinion about a suggestion. It's a friendly way to bring up a new topic or idea. For example, How about we meet later? means What do you think if we meet later?
+- **how about**: is used to make a suggestion or ask someone's opinion about a suggestion. It's a friendly way to bring up a new topic or idea. For example, How about we meet later? means What do you think if we meet later?
 
-- **How was it?**: is a general way to ask about something that just happened.
+- **how was it?**: is a general way to ask about something that just happened.
 
 - **hold**: When you use the verb hold in the context of meetings, it means to have or conduct a meeting. Like saying, Our school holds an assembly every Friday. It means this school has assemblies every Friday.
 
-- **hope** is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
+- **hope**: is used to express a wish for something to be true or to happen. For example, saying I hope you're doing well means you wish that the person is fine or happy.
 
 - **HR department**: stands for Human Resources department. It's a part of a company that takes care of everything related to the people who work there. This includes hiring new employees, training them, making sure they are paid, and helping with any problems they might have at work. For instance, if you have a question about your holiday time, you would go to the HR department to ask.
 
-- **huge** means very big or large in size, amount, or degree. For example, ``The building is huge``. means the building is very large or big in size.
+- **huge**: means very big or large in size, amount, or degree. For example, ``The building is huge``. means the building is very large or big in size.
   
 ---
 
@@ -325,7 +325,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **I guess**: is a phrase used when someone is not completely sure but wants to make an assumption or express an opinion.
 
-**Identity** refers to who a person is, including their name, date of birth, and other personal information. For example: ``Protecting your identity online is important`` means keeping your personal information safe on the internet.
+**identity**: refers to who a person is, including their name, date of birth, and other personal information. For example: ``Protecting your identity online is important`` means keeping your personal information safe on the internet.
 
 - **IDEs**: stands for Integrated Development Environments. These are software tools used by developers to write, test, and debug code. Examples of popular IDEs include Visual Studio Code, IntelliJ IDEA, and Eclipse.
 
