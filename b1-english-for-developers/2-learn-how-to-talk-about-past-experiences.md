@@ -69,4 +69,17 @@ For example:
 
 `She made a list of items to buy.` -> She created a list of what she wanted to buy before going to the store.
 
+
+### Affirmative sentences in the Simple Past follow specific rules:
+
+For the verb to be, the forms are **was** (singular) and **were** (plural). These forms are used without auxiliary verbs. For example:
+
+`The project was successful.` -> This means the project brought good results.
+
+`They were happy with the results.` -> this represents how they felt about the results of the project.
+
+**Regular verbs in the Simple Past are formed by adding -ed to the base verb**. For example:
+
+`I worked on the project yesterday.` - You add **-ed** to the base form of the verb work to say that the action happened in a moment in the past.
+
 ---
