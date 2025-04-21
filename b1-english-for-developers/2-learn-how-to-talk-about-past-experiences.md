@@ -103,3 +103,33 @@ This structure is often used to confirm something or to express surprise or doub
 **Finally** marks the last step in a sequence.
 
 ---
+
+## Dialogue 2: Project Post-Mortem
+
+```
+Linda:  I was thinking we could do a quick post-mortem of the design project.
+Jake:   Sure.
+        I was reviewing our security protocols for the project just yesterday.
+        What's on your mind?
+Linda:  Well, during the project, I was working closely with the development team,
+        and we were constantly updating the user interface based on user feedback.
+Jake:   I noticed that.
+        But there was a time when we weren't considering security implications during those updates, right?
+Linda:  Yes, that's true.
+        We used to focus solely on design aspects and user experience.
+        Did you use to check the updates for security vulnerabilities?
+Jake:   I did, but not always in real time.
+        Sometimes I was checking them a day later, which wasn't ideal.
+Linda:  I remember there was a week when we were all working overtime.
+        You were fixing a security issue, weren't you?
+Jake:   Exactly.
+        There was a major vulnerability that needed immediate action.
+        While I was addressing that, the team was waiting for my green light to proceed.
+Linda:  It was quite a learning curve for us.
+        We didn't use to integrate security and design as much as we should.
+Jake:   Agreed.
+        Moving forward, we should ensure that security checks are happening while the design updates are being made.
+        We can't afford to overlook this aspect again.
+```
+
+---
