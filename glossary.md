@@ -2,6 +2,12 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
+- **a bit**: is used to indicate a small amount or degree of something. For Example:
+
+`I was a bit tired after the long day.` -> Here, a bit emphasizes that the speaker was slightly tired, but it wasn't extreme.
+
+This phrase is commonly used in informal contexts to soften statements or describe minor degrees of feelings or situations. In this dialog, James is admitting that the situation was slightly stressful but not overwhelming.
+
 - **a couple of**: is a casual way of saying two or a small number of. It's often used in conversation to indicate a small quantity of something.
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
