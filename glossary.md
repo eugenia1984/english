@@ -2,59 +2,51 @@
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> A
 
-- **A couple of** is a casual way of saying two or a small number of. It's often used in conversation to indicate a small quantity of something.
+- **a couple of**: is a casual way of saying two or a small number of. It's often used in conversation to indicate a small quantity of something.
 
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
-- **Access control** refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
+- **access control**: refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
 
-- **action figure** is a small toy that looks like a character from a movie, comic book, or video game. People often collect them because they like the characters or stories. For example, if you say,`` My brother got a new action figure for his birthday``, it means he received a toy that represents a character he probably likes.
+- **action figure**: is a small toy that looks like a character from a movie, comic book, or video game. People often collect them because they like the characters or stories. For example, if you say,`` My brother got a new action figure for his birthday``, it means he received a toy that represents a character he probably likes.
 
-- **actually** is used when you want to tell the real fact about something, especially if it's different from what someone thought or said. It's like saying, No, this is how it really is. You use actually to make your point stronger or to correct what someone else said. 
+- **actually**: is used when you want to tell the real fact about something, especially if it's different from what someone thought or said. It's like saying, No, this is how it really is. You use actually to make your point stronger or to correct what someone else said. 
   
-- **after that** is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
+- **after that**: is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
-- **agenda** is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
+- **agenda**: is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
 
 - **alert**: describes being fully aware and paying attention.
 
-- **All of you** is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
+- **all of you**: is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
-- **any** is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
+- **any**: is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
   
-- **app** is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
+- **app**: is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
 
 
-- **Approach**: is a way of dealing with something. For example:
+- **approach**: is a way of dealing with something. For example: `Her approach to solving the problem was very effective.` -> Here, approach refers to the method she used to solve the problem.
 
-`Her approach to solving the problem was very effective.` -> Here, approach refers to the method she used to solve the problem.
+- **are you interested?**: is a way of asking someone if they want to know more or participate in something.
 
-- **are you interested?** is a way of asking someone if they want to know more or participate in something.
+- **are you kidding?**: is used to express disbelief, surprise, or sometimes to confirm if someone is joking. 
+If your friend tells you they saw a dog riding a skateboard down the street, you might be surprised and say `Are you kidding?` to ask if they're really serious or just joking.
 
-- **Are you kidding?** is used to express disbelief, surprise, or sometimes to confirm if someone is joking. 
-If your friend tells you they saw a dog riding a skateboard down the street, you might be surprised and say Are you kidding? to ask if they're really serious or just joking.
-
-- **assign** means to give tasks to other people.
+- **assign**: means to give tasks to other people.
 
 - **As well**: is a phrase used to add something to what has just been said, similar to also or too. It's often used to include something or someone else in an action or statement. For example: ``I'll have coffee and a muffin as well``. (not only coffee, but also a muffin).
 
-- **As we speak**: means that something is happening at this very moment, while the conversation is taking place. For example:
-
-`The update is being deployed as we speak.` -> The update is being rolled out at this very moment.
+- **As we speak**: means that something is happening at this very moment, while the conversation is taking place. For example: `The update is being deployed as we speak.` -> The update is being rolled out at this very moment.
 
 - **at all times** means always or continuously, indicating something that happens without interruption. For instance, ``Security guards must be alert at all times``.
 
 - **at least** is used when you want to say the smallest amount or number of something is okay or enough. It's like saying "no less than this amount". For example, if you say, ``I study English for at least 30 minutes every day``, it means you spend 30 minutes or more studying English daily, but never less than 30 minutes.
 
-- **attempts**: refers to efforts or tries to do something. For example:
-
-`He made several attempts to unlock the door.` -> He tried multiple times to unlock the door.
+- **attempts**: refers to efforts or tries to do something. For example: `He made several attempts to unlock the door.` -> He tried multiple times to unlock the door.
    
 - **attend** means to be present at an event or place. It's often used regarding schools, colleges, meetings, or events. It implies regular participation or presence at a specific place or event.
 
-- **Attendance**: refers to the act of being present at a place, such as a meeting, class, or event. For example:
-
-`Attendance at the meeting was high.` -> This means many people were present at the meeting.
+- **attendance**: refers to the act of being present at a place, such as a meeting, class, or event. For example: `Attendance at the meeting was high.` -> This means many people were present at the meeting.
 
 - **attentive**: means paying careful attention or listening carefully.
   
@@ -66,73 +58,68 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
 
-- **bachelor's degree** is an undergraduate academic degree awarded by colleges and universities upon completion of a course of study. In the term bachelor's degree, the use of the noun (bachelor) followed by the 's indicates possession or association.
+- **bachelor's degree**: is an undergraduate academic degree awarded by colleges and universities upon completion of a course of study. In the term bachelor's degree, the use of the noun (bachelor) followed by the 's indicates possession or association.
 
-- **Be back** means to return.  For example:
+- **be back**: means to return.  For example: ``I'll be back by dinner`` (returning before a specific time)
 
-``I'll be back by dinner`` (returning before a specific time)
-
-- **Bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example:
-
+- **bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example: 
 ``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
 
-- **Bookstores** are shops that sell book
+- **bookstores**: are shops that sell book.
 
-- **brainstorming session** is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
+- **brainstorming session**: is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
 
-- **Breathing exercises** are practices where you consciously control your breathing pattern. They are often used for relaxation, stress management. ``Deep breathing helps to calm your nerves``. (uses controlled breathing for relaxation)
-
-- **brief** means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
+- **brief**: means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
+  
+- **breathing exercises**: are practices where you consciously control your breathing pattern. They are often used for relaxation, stress management. ``Deep breathing helps to calm your nerves``. (uses controlled breathing for relaxation)
 
 - **bugs** refer to errors or problems in the software that need to be identified and fixed. Understanding this term is crucial for comprehending the role of a QA tester.
   
-- **Built-in**: refers to features or tools that are included as part of a software program or device from the start, without needing to be added or installed separately. When something is built-in, it's already there and ready to use. For example:
+- **built-in**: refers to features or tools that are included as part of a software program or device from the start, without needing to be added or installed separately. When something is built-in, it's already there and ready to use. For example:
 
 `This laptop has a built-in camera.` -> The camera is included as part of the laptop.
 
 `The software comes with built-in security features.` -> The security features are already included in the software.
 
-- **But** is a word used to connect two ideas that might seem opposite or different. It shows contrast. For example:
-
-``I like apples but not oranges``. This statement shows a preference for apples over oranges.
+- **but**: is a word used to connect two ideas that might seem opposite or different. It shows contrast. For example: ``I like apples but not oranges``. This statement shows a preference for apples over oranges.
 
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> C
 
-- **café** is a place where you can buy and drink coffee, often with light meals and snacks.
+- **café**: is a place where you can buy and drink coffee, often with light meals and snacks.
 
-- **can** is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
+- **can**: is a modal verb used to express abilities or possibilities. It indicates what someone is capable of doing.
 
-- **Can't** is sometimes used for referring to something that should not be done, usually for reasons like safety, rules, or best practices. 
+- **can't**: is sometimes used for referring to something that should not be done, usually for reasons like safety, rules, or best practices. 
 It emphasizes the importance of avoiding certain actions. For example, ``You can't enter restricted areas without permission highlights a strict rule or prohibition``.
 
-- **Challenging** means something that is difficult in a way that tests your ability or determination. When work is challenging, it requires effort, skill, or strong problem-solving.
+- **challenging**: means something that is difficult in a way that tests your ability or determination. When work is challenging, it requires effort, skill, or strong problem-solving.
 
-- **checkout process** refers to the steps involved in completing a purchase, whether in a physical store or online. In a physical store, this usually involves taking items to a cashier, paying, and receiving a receipt. In online shopping, it includes adding items to a cart, entering shipping and payment details, and finalizing the order.
+- **checkout process**: refers to the steps involved in completing a purchase, whether in a physical store or online. In a physical store, this usually involves taking items to a cashier, paying, and receiving a receipt. In online shopping, it includes adding items to a cart, entering shipping and payment details, and finalizing the order.
 
-- **Chat**: To talk with someone. Example: ``I chat with my friends at work``.
+- **chat**: To talk with someone. Example: ``I chat with my friends at work``.
 
-- **Checking emails**: To look at and read new messages in your email account. Example: ``After logging in, I check my emails to see if I have any new messages``.
+- **checking emails**: To look at and read new messages in your email account. Example: ``After logging in, I check my emails to see if I have any new messages``.
 
-- **Circuit design**: is the process of planning the layout and connections of an electrical or electronic circuit.
+- **circuit design**: is the process of planning the layout and connections of an electrical or electronic circuit.
 
 - **clear your mind**: means to free your mind from stress or worry. ``Clear your mind before the test to focus better``. (freeing the mind from distractions).
 
-- **Coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
+- **coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
 
-- **Coffee shops** are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
+- **coffee shops**: are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
 
-- **Collaboration** refers to working together with others to achieve a common goal.
+- **collaboration**: refers to working together with others to achieve a common goal.
 
-- **collection** refers to a group of items gathered together, often because they are of the same type or share a theme. For instance, if you say ``I have a collection of stamps from different countries``, it means you have many stamps from various places kept together.
+- **collection**: refers to a group of items gathered together, often because they are of the same type or share a theme. For instance, if you say ``I have a collection of stamps from different countries``, it means you have many stamps from various places kept together.
 
-- **Compensate** means to make up for something that is missed or lacking. It's often used to describe actions taken to balance out an absence or deficiency. For example: ``If you skip lunch, you might compensate by eating more at dinner``, meaning: not having lunch and then eating more later to make up for it.
+- **compensate**: means to make up for something that is missed or lacking. It's often used to describe actions taken to balance out an absence or deficiency. For example: ``If you skip lunch, you might compensate by eating more at dinner``, meaning: not having lunch and then eating more later to make up for it.
 
-- **Compliance** means following rules and doing what is required in a job. It is about making sure we do things the right way. For example, ``In our job, compliance with safety rules keeps everyone safe``.
+- **compliance**: means following rules and doing what is required in a job. It is about making sure we do things the right way. For example, ``In our job, compliance with safety rules keeps everyone safe``.
 
-- **Comply with** means to act according to a rule, order, or request. Usually comply is followed by with. For example, to comply with indicates what needs to be followed. For example, ``Companies must comply with environmental regulations means businesses must follow rules about protecting the environment``.
+- **comply with**: means to act according to a rule, order, or request. Usually comply is followed by with. For example, to comply with indicates what needs to be followed. For example, ``Companies must comply with environmental regulations means businesses must follow rules about protecting the environment``.
 
 - **concern**: means to worry or make someone feel anxious about something. For example:
 
@@ -140,7 +127,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 `It concerns me that the software isn't updating correctly.` -> You are worried about the software not updating as it should.
 
-- **consistency** refers to the quality of always behaving or performing in a similar way, or of always happening in a similar way. It's often used to describe regular habits or behaviors. For example: ``Her consistency in studying every day led to great results``.
+- **consistency**: refers to the quality of always behaving or performing in a similar way, or of always happening in a similar way. It's often used to describe regular habits or behaviors. For example: ``Her consistency in studying every day led to great results``.
 
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
@@ -156,9 +143,9 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.
 
-- **Currently** comes from current meaning happening now. Adding -ly turns an adjective into an adverb. For example: ``She is currently reading a book`` (She is reading a book now)
+- **currently**: comes from current meaning happening now. Adding -ly turns an adjective into an adverb. For example: ``She is currently reading a book`` (She is reading a book now)
 
-- **Cybersecurity** is about keeping computers and online information safe. It stops bad people from stealing or damaging what's on computers and the internet. Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. It ensures that sensitive information and critical systems are safe from unauthorized access or damage. For example:
+- **cybersecurity**: is about keeping computers and online information safe. It stops bad people from stealing or damaging what's on computers and the internet. Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. It ensures that sensitive information and critical systems are safe from unauthorized access or damage. For example:
 
 ---
 
@@ -166,13 +153,13 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **daily**: means something that happens every day. For example: I read the news daily means I read the news every day. **daily activities**: refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
 
-- **Danger**: refers to the possibility of harm or risk. An example sentence could be, ``Firefighters often face danger in their work``.
+- **danger**: refers to the possibility of harm or risk. An example sentence could be, ``Firefighters often face danger in their work``.
 
-- **Data** refers to information or facts collected for reference or analysis. In a workplace, data can include numbers, words, or observations used to make decisions. For example: ``The company collects customer data to understand buying habits``. There are different types of data, like **quantitative data**, which is about numbers (like how many people visit a store), and **qualitative data**, which is about descriptions (like what people think about a product). **Customer data** is specific information about customers, like their buying habits or preferences.
+- **data**: refers to information or facts collected for reference or analysis. In a workplace, data can include numbers, words, or observations used to make decisions. For example: ``The company collects customer data to understand buying habits``. There are different types of data, like **quantitative data**, which is about numbers (like how many people visit a store), and **qualitative data**, which is about descriptions (like what people think about a product). **Customer data** is specific information about customers, like their buying habits or preferences.
 
-- **database** is a structured collection of data, typically stored electronically in a computer system. It is used to organize, store, and retrieve large amounts of information efficiently. In programming, database is essential for managing data that applications need to function
+- **database**: is a structured collection of data, typically stored electronically in a computer system. It is used to organize, store, and retrieve large amounts of information efficiently. In programming, database is essential for managing data that applications need to function
   
-- **database administrator** is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
+- **database administrator**: is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
 
 - **date**: can be used in different contexts. While it often refers to a romantic meeting between two people, it can also simply mean an appointment or a planned event between friends or colleagues. For example, saying ``Let's set a date for our next meeting`` uses date in a non-romantic way, referring to choosing a day for a meeting.
 
