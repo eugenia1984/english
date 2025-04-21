@@ -139,6 +139,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **corporation** is a type of business or company. It's a legal entity that is separate from its owners. Corporations can own property, be sued, and make contracts. **Corp.** is an abbreviation for corporation, which is a large company or group of companies.
 
+- **credentials**: refers to information such as usernames, passwords, or keys that allow a user or system to access another system or resource. For example:
+
+`Please enter your credentials to log in to the server.` -> meaning you should insert your information to access the server.
+
+`The credentials were incorrect, so the login failed.` -> meaning the information you inserted is different from the one the system has in its database.
+
 - **cutting-edge**: refers to the most advanced stage of development of something.
 
 - **cutting-edge gadgets**: are the latest and most advanced tools or devices.
@@ -488,6 +494,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 - **passion**: is a big feeling of love for something. When you have a passion for something, you really enjoy it and think it's very important. If someone has a passion for music, it means they love music a lot. In the conversation
 
 - **passionate about something**: when you not only like something, but also express strong emotions or feelings in relation to it. For example: ``I am passionate about learning languages. I have studied Spanish, French, Italian, Japanese, and Chinese. I can't wait to start another``.
+
+- **patch**: is an update or fix applied to software or systems to correct issues, improve functionality, or enhance security. For example:
+
+`The developers released a patch to fix the bug.` -> meaning they fixed the bug through an update to the system.
+
+`Make sure to apply the latest security patch to protect your system.` -> meaning the last security update will be able to protect your system better.
 
 - **patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
 
