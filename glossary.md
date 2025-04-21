@@ -478,13 +478,19 @@ For example:
 
 - **on the right foot** is an idiom meaning to start something in a positive or successful way. For example: ``Starting the day with a healthy breakfast sets you on the right foot.``
 
-- **One of these days**: is a phrase you use when you talk about something you plan to do soon, but you haven't decided exactly when. It's like saying "sometime soon" or "in the near future." For example, if you say,`` One of these days, I'll visit Paris``, it means you want to visit Paris and hope to do it sometime soon, but you don't know the exact day yet.
+- **one of these days**: is a phrase you use when you talk about something you plan to do soon, but you haven't decided exactly when. It's like saying "sometime soon" or "in the near future." For example, if you say,`` One of these days, I'll visit Paris``, it means you want to visit Paris and hope to do it sometime soon, but you don't know the exact day yet.
 
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
-- **Organizational psychology** is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
+- **odd**: is used to describe something that is unusual, strange, or unexpected. It often refers to something that does not fit the norm or is out of the ordinary. For example:
 
-- **Organized**: means arranged or planned well, making sure everything is where it should be or done at the right time. For instance, She keeps the Trello board very organized. It means she arranges and manages the Trello board (a tool for organizing tasks and projects) in a neat and orderly way, making sure everything is well-planned and easy to find.
+`The system showed an odd behavior during the test.` -> Meaning the system acted different from the normal.
+
+`I saw an odd pattern in the data.` -> Meaning the pattern in the data was different.
+
+- **organizational psychology** is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
+
+- **organized**: means arranged or planned well, making sure everything is where it should be or done at the right time. For instance, She keeps the Trello board very organized. It means she arranges and manages the Trello board (a tool for organizing tasks and projects) in a neat and orderly way, making sure everything is well-planned and easy to find.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
 
@@ -500,15 +506,15 @@ For example:
 
 - **passionate about something**: when you not only like something, but also express strong emotions or feelings in relation to it. For example: ``I am passionate about learning languages. I have studied Spanish, French, Italian, Japanese, and Chinese. I can't wait to start another``.
 
-- **Patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
+- **patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
 
-- **Perhaps**: is used to express uncertainty or possibility. It is similar in meaning to maybe. For example:
+- **perhaps**: is used to express uncertainty or possibility. It is similar in meaning to maybe. For example:
 
 `Perhaps we will launch the new feature next week.` -> There is a possibility of launching the new feature, but it is not certain.
 
 `They are perhaps the best developer for this project.` -> They might be the best developer, but it is not definite.
 
-- **Phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source.
+- **phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source.
 
 For example:
 
@@ -520,7 +526,7 @@ For example:
 
 - **places around here** refers to locations in the nearby vicinity or area.
 
-- **Play together**: means to do games or activities with other people at the same time, like playing a board game or playing soccer in a park.
+- **play together**: means to do games or activities with other people at the same time, like playing a board game or playing soccer in a park.
 
 - **point of contact** refers to the person you can talk to or ask questions when you need help or information. This person acts as the main communicator or liaison for a specific matter or project. For example, `Laura is our point of contact for the new project` means you can go to Laura for information or assistance related to that project.
 
@@ -534,7 +540,7 @@ For example:
 
 - **project manager** is a key role in many companies. This person is responsible for planning, organizing, and directing the completion of specific projects while ensuring these projects are on time, on budget, and within scope.
 
-- **Project's needs** are the requirements or things that a project must have or achieve. In programming, this could include specific features, functions, or performance targets.
+- **project's needs** are the requirements or things that a project must have or achieve. In programming, this could include specific features, functions, or performance targets.
 
 - **promote ethics** means to encourage and support moral principles and standards. For example: ``The manager promotes ethics by enforcing transparent reporting``.
   
@@ -544,7 +550,7 @@ For example:
 
 - **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
 
-- **Quarterly**: means happening every three months, or four times a year.
+- **quarterly**: means happening every three months, or four times a year.
 
 For example:
 
@@ -560,9 +566,9 @@ For example:
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> R
 
-- **Rafting**: involves navigating a river or other bodies of water in a raft, usually going through challenging parts of the river.
+- **rafting**: involves navigating a river or other bodies of water in a raft, usually going through challenging parts of the river.
 
-- **Readers** are people who read, especially those who read a particular publication.
+- **readers** are people who read, especially those who read a particular publication.
 
 - **reasonable** means something is fair, makes sense, or is acceptable in a certain situation. For example, The price of the ticket is reasonable means the price is not too high and feels fair.
 
@@ -578,11 +584,11 @@ For example:
 
 - **requirements** are things that are needed. Like when you have a list of things you must do for a project. For example, `The project has several key requirements` refers to essential tasks or conditions for the project.
 
-- **Rock climbing**: is the sport of climbing up natural rock formations or artificial rock walls.
+- **rock climbing**: is the sport of climbing up natural rock formations or artificial rock walls.
 
-- **Routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
+- **routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
 
-- **Rules** are specific guidelines or instructions that are meant to be followed. They are set to maintain order and ensure fair and proper conduct, especially in a professional setting. For example, ``The office rules include being punctual and respectful to colleagues``.
+- **rules** are specific guidelines or instructions that are meant to be followed. They are set to maintain order and ensure fair and proper conduct, especially in a professional setting. For example, ``The office rules include being punctual and respectful to colleagues``.
   
 - **run well** is used when something is functioning well or is successful.
 
