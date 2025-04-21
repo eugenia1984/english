@@ -91,4 +91,15 @@ This structure is often used to confirm something or to express surprise or doub
 
 `Weren't they informed about the changes?` -> You are trying to confirm if they were informed or not.
 
+
+### Sequential linkers like first, then, after that, and finally are used to describe the order of actions or events.
+
+**First** is used to describe the initial action.
+
+**Then** refers to the next immediate step.
+
+**After that** is used to introduce a step following another action with some distinction between them.
+
+**Finally** marks the last step in a sequence.
+
 ---
