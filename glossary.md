@@ -384,23 +384,21 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **leading a team**: means being in charge of a group of people and guiding them to achieve their goals. It's like being the captain of a ship.
 
-- **Let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
+- **let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
 
-- **Let's see**: is often used when making tentative plans or expressing a willingness to explore options.
+- **let's see**: is often used when making tentative plans or expressing a willingness to explore options.
 
 - **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
 
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
-- **Lunch Break**: A period during the workday set aside for eating lunch. Example: ``I usually take my lunch break at 1:00 PM``.
+- **lunch break**: A period during the workday set aside for eating lunch. Example: ``I usually take my lunch break at 1:00 PM``.
   
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
-- **Mandatory**: means something that is required or must be done. It is not optional.
-
-For example:
+- **Mandatory**: means something that is required or must be done. It is not optional. For example:
 
 `Attendance at the meeting is mandatory.` -> This means you have to be present at the meeting.
 
@@ -408,9 +406,9 @@ For example:
 
 - **make sure**: is a phrase used to express that you want to confirm something is done the right way. . For example, ``You make sure the code runs`` means you check the code to be certain it has no errors and can run properly.
 
-- **Making pictures** in the context of data refers to creating visual representations or graphs to illustrate data findings. It's a common practice in report-making to help show information.
+- **making pictures**: in the context of data refers to creating visual representations or graphs to illustrate data findings. It's a common practice in report-making to help show information.
 
-- **marathon** is a very long race where people run 42 kilometers. It can also mean watching many movies or TV shows one after another without stopping.
+- **marathon**: is a very long race where people run 42 kilometers. It can also mean watching many movies or TV shows one after another without stopping.
 
 - **maybe**: to show that something is possible but not certain.. It's a word used when you are suggesting a possibility, but you are not sure if this possibility will happen or not. It shows that you are not making a definite plan, but you are open to the idea. For example: if someone asks you if you want to go to the movies, you can say `Maybe` if you are not sure if you want to go or if you are available.
 
@@ -425,33 +423,31 @@ For example:
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
 
-- **Module**: refers to a unit or section of a course or training program.
-
-For example:
+- **Module**: refers to a unit or section of a course or training program. For example:
 
 `The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
 
-- **most** is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
+- **most**: is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
 
 - **most of the time**: means usually or very often.
 
-- **mostly** is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned. **mostly** is used to say that something is true or happens most of the time but not completely. If someone asks, ``What kind of books do you read?``, you could answer, ``I read adventure books, mostly``. This means that while you might read various kinds of books, adventure books are what you choose to read most of the time.
+- **mostly**: is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned. **mostly** is used to say that something is true or happens most of the time but not completely. If someone asks, ``What kind of books do you read?``, you could answer, ``I read adventure books, mostly``. This means that while you might read various kinds of books, adventure books are what you choose to read most of the time.
 
-- **Movie-related**: means anything that has to do with movies. For example, movie posters or toys from a movie are movie-related.
+- **movie-related**: means anything that has to do with movies. For example, movie posters or toys from a movie are movie-related.
 
-- **Multiple times** means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
+- **multiple times**: means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
   
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> N
 
-- **night owl** is someone who stays up late. For example: ``He's a night owl, often working past midnight`` (stays up late)
+- **night owl**: is someone who stays up late. For example: ``He's a night owl, often working past midnight`` (stays up late)
 
 - **not right away**: is used to indicate that something didn't happen immediately or at the earliest opportunity. It suggests that there was a delay or a period before the action or change took place. This phrase helps to set the timeline of events or actions.
 
-- **not that much** is used to indicate a small amount or degree, often in response to a question about quantity or frequency. For example, ``Do you travel for work? – Not that much``.
+- **not that much**: is used to indicate a small amount or degree, often in response to a question about quantity or frequency. For example, ``Do you travel for work? – Not that much``.
 
-- **not too far away**, it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
+- **not too far away**: it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
 
 - **noon**: 12:00 PM, in the middle of the day. Example: We have our team meeting at noon.
 
@@ -459,11 +455,11 @@ For example:
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> O
 
-- **of course** is a phrase used to express strong agreement or to indicate that something is obvious.
+- **of course**: is a phrase used to express strong agreement or to indicate that something is obvious.
 
-- **on** in this context links the updates to the specific subject they are about - the project progress. In English, you use on when you're talking about the topic of communication, like a presentation on science or an update on work. It shows a direct relationship between the communication and the topic.
+- **on**: in this context links the updates to the specific subject they are about - the project progress. In English, you use on when you're talking about the topic of communication, like a presentation on science or an update on work. It shows a direct relationship between the communication and the topic.
 
-- **on the right foot** is an idiom meaning to start something in a positive or successful way. For example: ``Starting the day with a healthy breakfast sets you on the right foot.``
+- **on the right foot**: is an idiom meaning to start something in a positive or successful way. For example: ``Starting the day with a healthy breakfast sets you on the right foot.``
 
 - **one of these days**: is a phrase you use when you talk about something you plan to do soon, but you haven't decided exactly when. It's like saying "sometime soon" or "in the near future." For example, if you say,`` One of these days, I'll visit Paris``, it means you want to visit Paris and hope to do it sometime soon, but you don't know the exact day yet.
 
@@ -475,21 +471,21 @@ For example:
 
 `I saw an odd pattern in the data.` -> Meaning the pattern in the data was different.
 
-- **organizational psychology** is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
+- **organizational psychology**: is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
 
 - **organized**: means arranged or planned well, making sure everything is where it should be or done at the right time. For instance, She keeps the Trello board very organized. It means she arranges and manages the Trello board (a tool for organizing tasks and projects) in a neat and orderly way, making sure everything is well-planned and easy to find.
 
 - **our**: is a possessive pronoun. It shows that something belongs to or is related to a group that includes the speaker
 
-- **outdoor** means activities done outside. Example: `Outdoor activities involve hiking and gardening.`
+- **outdoor**: means activities done outside. Example: `Outdoor activities involve hiking and gardening.`
 
-- **outside** refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
+- **outside**: refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
 
-- **passion** is a big feeling of love for something. When you have a passion for something, you really enjoy it and think it's very important. If someone has a passion for music, it means they love music a lot. In the conversation
+- **passion**: is a big feeling of love for something. When you have a passion for something, you really enjoy it and think it's very important. If someone has a passion for music, it means they love music a lot. In the conversation
 
 - **passionate about something**: when you not only like something, but also express strong emotions or feelings in relation to it. For example: ``I am passionate about learning languages. I have studied Spanish, French, Italian, Japanese, and Chinese. I can't wait to start another``.
 
@@ -530,7 +526,13 @@ For example:
 - **project's needs** are the requirements or things that a project must have or achieve. In programming, this could include specific features, functions, or performance targets.
 
 - **promote ethics** means to encourage and support moral principles and standards. For example: ``The manager promotes ethics by enforcing transparent reporting``.
-  
+
+- **properly**: is the adverb form of the adjective proper. Both words can express doing something in the correct or suitable manner, but their usage differs depending on the sentence structure. For example:
+
+`The application didn't function properly after the update.` -> This means the updates brought errors to the code. The adverb properly modifies the verb function.
+
+`This wasn't a proper configuration of the database.` -> The adjective proper describes the noun configuration.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Q
