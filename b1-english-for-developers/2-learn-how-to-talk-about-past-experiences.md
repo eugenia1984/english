@@ -82,4 +82,13 @@ For the verb to be, the forms are **was** (singular) and **were** (plural). Thes
 
 `I worked on the project yesterday.` - You add **-ed** to the base form of the verb work to say that the action happened in a moment in the past.
 
+
+### In negative questions with the verb to be in the Simple Past, use the structure Wasn't/Weren't + subject + complement?
+
+This structure is often used to confirm something or to express surprise or doubt. For example:
+
+`Wasn't she at the meeting yesterday?` -> You are not only asking about her being at the meeting, you are trying to confirm it because you think she was.
+
+`Weren't they informed about the changes?` -> You are trying to confirm if they were informed or not.
+
 ---
