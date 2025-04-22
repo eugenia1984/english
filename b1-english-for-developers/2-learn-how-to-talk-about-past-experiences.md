@@ -132,4 +132,15 @@ Jake:   Agreed.
         We can't afford to overlook this aspect again.
 ```
 
+### Past Continuous
+
+The Past Continuous tense is used **to describe actions or thoughts that were in progress at a specific time in the past**.
+
+This tense is often used **to describe background actions or ongoing processes in the past**. 
+
+The structure is **was/were + verb ending in -ing**.
+
+Example: `He was reviewing the report when the meeting started.` -> Meaning that the action of reviewing the report was in progress and another situation interrupted it.
+
+
 ---
