@@ -140,7 +140,12 @@ This tense is often used **to describe background actions or ongoing processes i
 
 The structure is **was/were + verb ending in -ing**.
 
-Example: `He was reviewing the report when the meeting started.` -> Meaning that the action of reviewing the report was in progress and another situation interrupted it.
+Examples: 
 
+`He was reviewing the report when the meeting started.` -> Meaning that the action of reviewing the report was in progress and another situation interrupted it.
+
+The Past Continuous tense is used to describe actions that were ongoing at a specific time in the past. **When two Past Continuous sentences are used together, they often describe simultaneous actions or actions happening alongside each other**.
+
+`While I was preparing the report, they were testing the new features.` -> This means the action of my preparing the report and the testing of the new features happened at the same time.
 
 ---
