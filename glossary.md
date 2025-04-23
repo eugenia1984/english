@@ -111,6 +111,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **clear your mind**: means to free your mind from stress or worry. ``Clear your mind before the test to focus better``. (freeing the mind from distractions).
 
+- **closely**: is an adverb that means working in a careful, detailed, or collaborative way. It is related to the adjective close, which refers to a short distance or a strong relationship. For example:
+
+`The manager worked closely with the design team.` -> This sentence uses the adverb, which describes how they worked.
+
+`They have a close relationship.` -> This sentence uses the adjective, which describes the relationship.
+
 - **coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
 
 - **coffee shops**: are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
@@ -132,6 +138,12 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 `It concerns me that the software isn't updating correctly.` -> You are worried about the software not updating as it should.
 
 - **consistency**: refers to the quality of always behaving or performing in a similar way, or of always happening in a similar way. It's often used to describe regular habits or behaviors. For example: ``Her consistency in studying every day led to great results``.
+
+- **constantly**: is an adverb that describes something that happens continuously or very frequently. It is related to the adjective constant, which refers to something that does not change or stops. For example:
+
+`She constantly checks her emails throughout the day.` -> This sentence uses the adverb, which describes the frequency of the action of checking.
+
+`There was a constant need for updates.` -> This sentence uses the adjective, which describes the need as being frequent.
 
 - **contactless**: usually describes a type of technology where you don't need to physically touch or swipe something.
 
