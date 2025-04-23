@@ -229,7 +229,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **ergonomic**: refers to the design of products intended to provide optimum comfort and to avoid stress or injury. Ex.: ergonomic chair, ergonomic mouse
   
-- **even** is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
+- **even**: is used to emphasize something unexpected or to include something in addition. For example, `She can speak many languages, even Tupi` means that it's surprising or notable that she can also speak Tupi, in addition to other languages. **Even** is often used to emphasize something that may not be expected or is additional to what has already been mentioned.
 
 - **every**: when you want to talk about something that happens regularly on a specific day of the week, you use the expression every followed by the day. For example, `I go to the gym every Tuesday`.
 
@@ -255,9 +255,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **favorite lunch spot**: refers to a preferred place where someone likes to have their lunch.
 
-- **features**: refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers. For example:
-
-`One feature of VS Code is the ability to integrate with Git.` -> This refers to a specific capability that VS Code offers to its users.
+- **features**: refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers. For example: `One feature of VS Code is the ability to integrate with Git.` -> This refers to a specific capability that VS Code offers to its users.
 
 - **feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
 
@@ -295,7 +293,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
 
-- **hackathon** is an event where programmers and developers come together to work on software projects. These events often last for a short, intense period, like a weekend, and involve collaboration and creativity.
+- **hackathon**: is an event where programmers and developers come together to work on software projects. These events often last for a short, intense period, like a weekend, and involve collaboration and creativity.
 
 - **handle**: means to manage or deal with something, especially effectively and competently. In a work context, it often refers to how someone manages tasks or projects. For example, ``She handles client requests very efficiently``.
 
@@ -309,9 +307,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **Have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
 
-- **have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example:
-
-`You have to save your changes before closing the program.` -> This means it's necessary to save changes before closing the program.
+- **have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example: `You have to save your changes before closing the program.` -> This means it's necessary to save changes before closing the program.
 
 - **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
 
@@ -353,42 +349,39 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **Implementation** in a technical or business context refers to the process of putting a plan or design into effect. In software development, for instance, implementation involves the actual coding and setup of a software application based on designed specifications. It is a critical phase where ideas or plans are turned into a functioning reality.
 
-- **inactive** is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
+- **inactive**: is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
-- **Indoor** refers to activities done inside a building. Example: `Indoor activities include reading and cooking`
+- **indoor**: refers to activities done inside a building. Example: `Indoor activities include reading and cooking`
 
-- **industry** refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
+- **industry**: refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
 
-- **infographic** is a visual image like a chart or diagram used to represent information
+- **infographic**: is a visual image like a chart or diagram used to represent information
 
 - **in charge of**: means being responsible for something or someone, leading or managing it/them. It's used when talking about the person who has control or authority over a particular area, project, or group. For example, ``Tom is in charge of this project``. This means Tom has the responsibility and authority to plan and manage everything related to the project.
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
-- **immediately** means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
+- **immediately**: means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
-- **interested in** is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, ``in What are you interested in?``, they want to know about your hobbies, likes, or professional interests. **Interested in** means something catches your attention. For example, if you say ``I am interested in painting``, it means you like painting or enjoy learning about it.
+- **interested in**: is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, ``in What are you interested in?``, they want to know about your hobbies, likes, or professional interests. **Interested in** means something catches your attention. For example, if you say ``I am interested in painting``, it means you like painting or enjoy learning about it.
 
-- **interview** is a conversation where someone asks questions to get information. For example: ``The journalist conducts interviews with her readers`` (conversation for information). **interview** is a formal meeting where someone asks questions to learn about another person's experience, skills, or opinions. In **job interviews**, like in the dialogue, the interviewer asks about the candidate's previous job experiences.
+- **interview**: is a conversation where someone asks questions to get information. For example: ``The journalist conducts interviews with her readers`` (conversation for information). **interview** is a formal meeting where someone asks questions to learn about another person's experience, skills, or opinions. In **job interviews**, like in the dialogue, the interviewer asks about the candidate's previous job experiences.
 
-- **insights** are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
+- **insights**: are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
 
-- **interface** is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
+- **interface**: is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
 
-- **It depends** on is used to say that the answer to a question can change based on different things. For example: ``How long it takes to make a website depends on how big or small the job is.`` or ``Choosing the coding language depends on the computer or system we use.`` Notice that after depends there’s always the preposition **on**.
+- **it depends**: on is used to say that the answer to a question can change based on different things. For example: ``How long it takes to make a website depends on how big or small the job is.`` or ``Choosing the coding language depends on the computer or system we use.`` Notice that after depends there’s always the preposition **on**.
 
-- **It is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
+- **it is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
 
-- **It makes my day**: When someone says this, it means that a particular thing or event has made them feel really good.
+- **it makes my day**: When someone says this, it means that a particular thing or event has made them feel really good.
 
-- **It’s nice to**: is used to express a positive sentiment or feeling about something or someone.
+- **it’s nice to**: is used to express a positive sentiment or feeling about something or someone.
 
+- **it's not showing**: is used to explain that something expected to appear on the screen isn't visible. For example: `The image isn't showing on the screen.` -> The image is supposed to be there, but it's not visible.
 
-- **It's not showing**: is used to explain that something expected to appear on the screen isn't visible. For example:
-
-`The image isn't showing on the screen.` -> The image is supposed to be there, but it's not visible.
-
-- **It seems like**: can be used to express an impression you have by looking at something or someone. For example, ``It seems like it's cold outside!`` is an expression you can say when you have not left home yet, but you see everyone on the street wearing coats. Other examples include ``It seems like it's going to rain``, or ``It seems like you're happy today``.
+- **it seems like**: can be used to express an impression you have by looking at something or someone. For example, ``It seems like it's cold outside!`` is an expression you can say when you have not left home yet, but you see everyone on the street wearing coats. Other examples include ``It seems like it's going to rain``, or ``It seems like you're happy today``.
 
 - **I would love to**:  is used to express enthusiasm and agreement with a suggested or proposed activity. In affirmative sentences, would is often shortened to 'd, as in ``I'd love to``. For example, if someone asks you if you want to go to a concert, you can say ``I'd love to`` to show that you are very happy about the invitation and really want to go.
 
@@ -396,7 +389,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> K
 
-- **Keep up the pace** means to maintain the same level of activity or progress as someone else or as per a set standard. It's often used to talk about matching speed or staying on par with others. For example: ``It's hard to keep up the pace with the advanced runners in the group.``
+- **keep up the pace**: means to maintain the same level of activity or progress as someone else or as per a set standard. It's often used to talk about matching speed or staying on par with others. For example: ``It's hard to keep up the pace with the advanced runners in the group.``
 
 - **kind**: means being friendly, generous, and considerate. It's a positive adjective you use to describe someone who shows goodness or compassion to others.
 
@@ -422,9 +415,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
 
-- **Mandatory**: means something that is required or must be done. It is not optional. For example:
-
-`Attendance at the meeting is mandatory.` -> This means you have to be present at the meeting.
+- **mandatory**: means something that is required or must be done. It is not optional. For example: `Attendance at the meeting is mandatory.` -> This means you have to be present at the meeting.
 
 - **maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
 
@@ -446,9 +437,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **mobile**: means something that can be moved or used on the go, like mobile phones or tablets.
 
-- **module**: refers to a unit or section of a course or training program. For example:
-
-`The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
+- **module**: refers to a unit or section of a course or training program. For example: `The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
 
 - **most**: is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
 
@@ -688,9 +677,7 @@ For example:
 
 - **stretch**: To move your arms and legs to relax them. Example: ``I stretch during my break``.
 
-- **support**: means that a program or tool is capable of working with a certain feature or functionality. For example:
-
-`VS Code supports multiple programming languages.` -> VS Code can work with different languages.
+- **support**: means that a program or tool is capable of working with a certain feature or functionality. For example: `VS Code supports multiple programming languages.` -> VS Code can work with different languages.
 
 - **supportive** is used to describe someone who provides encouragement or assistance to others. Think of it like a strong pillar that holds up a building - a supportive person helps to hold you up when you need it.
 
@@ -702,15 +689,15 @@ For example:
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> T
 
-- **TGIF** stands for Thank God It's Friday, a common expression used to express happiness that the work week is ending and the weekend is near.
+- **TGIF**: stands for Thank God It's Friday, a common expression used to express happiness that the work week is ending and the weekend is near.
 
-- **team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
+- **team-building**: activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
-- **tech recruiter** refers to a professional role focused on recruiting candidates for technology-related positions. This role involves understanding the tech industry, identifying qualified candidates, and matching them with suitable tech job openings.
+- **tech recruiter**: refers to a professional role focused on recruiting candidates for technology-related positions. This role involves understanding the tech industry, identifying qualified candidates, and matching them with suitable tech job openings.
 
-- **tempting** is an adjective that describes something appealing or attractive, often making someone want to do or have it. For example: ``The idea of sleeping in is tempting``,  suggests the idea is appealing.
+- **tempting**: is an adjective that describes something appealing or attractive, often making someone want to do or have it. For example: ``The idea of sleeping in is tempting``,  suggests the idea is appealing.
   
-- **that sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
+- **that sounds like a plan**: they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
 
 - **that's a cool twist**: is often used to express that something is interestingly unexpected or surprisingly different. The word twist here refers to a change or development in a situation or story that is unusual or unexpected. Cool in this context means it's positively received.
 
@@ -724,12 +711,12 @@ For example:
 
 'We fixed the bug, then we tested the application again.` -> They only tested the application again after fixing the bug.
 
-- **though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
+- **though**: is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
 
 Though is often used at the end of a sentence to add emphasis or to show a contrast with what was previously said or implied. For example:
 `The presentation went well, though it was stressful at first.` -> Here, though highlights the contrast between the overall success and the initial stress.
 
-- **thoughts** means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
+- **thoughts**: means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
 
 - **tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
   
@@ -745,11 +732,11 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 `We aim to finish the project by Friday.` -> The goal is to complete the project by Friday.
 
-- **to assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
+- **to assign tasks**: means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
-- **to attend** means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
+- **to attend**: means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
 
-- **to be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
+- **to be familiar with**: is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
 
@@ -813,17 +800,13 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to steal**: means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission.
 
-- **to struggle**: to have difficulty with something. For example:
-
-`The program is struggling to load.` -> This means the program is currently having difficulty loading.
+- **to struggle**: to have difficulty with something. For example: `The program is struggling to load.` -> This means the program is currently having difficulty loading.
   
 - **to take different paths**: means choosing various routes or methods to achieve something.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
-- **to touch on**: can mean to briefly mention or deal with a topic. It is often used when covering a subject without going into much detail. For example:
-
-`The speaker touched on the new software update during the meeting.` -> The speaker briefly mentioned the software update but did not go into detail.
+- **to touch on**: can mean to briefly mention or deal with a topic. It is often used when covering a subject without going into much detail. For example: `The speaker touched on the new software update during the meeting.` -> The speaker briefly mentioned the software update but did not go into detail.
 
 - **tops**: is used informally to indicate the maximum amount or time. For example: ``The meeting will last one hour, tops`` (no longer than one hour)
 
