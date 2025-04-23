@@ -704,140 +704,138 @@ For example:
 
 - **TGIF** stands for Thank God It's Friday, a common expression used to express happiness that the work week is ending and the weekend is near.
 
-- **Team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
+- **team-building** activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
 - **tech recruiter** refers to a professional role focused on recruiting candidates for technology-related positions. This role involves understanding the tech industry, identifying qualified candidates, and matching them with suitable tech job openings.
 
 - **tempting** is an adjective that describes something appealing or attractive, often making someone want to do or have it. For example: ``The idea of sleeping in is tempting``,  suggests the idea is appealing.
   
-- **That sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
+- **that sounds like a plan**, they mean they agree with the suggestion and think it's a good idea. It's like saying Yes, let's do that.
 
-- **That's a cool twist**: is often used to express that something is interestingly unexpected or surprisingly different. The word twist here refers to a change or development in a situation or story that is unusual or unexpected. Cool in this context means it's positively received.
+- **that's a cool twist**: is often used to express that something is interestingly unexpected or surprisingly different. The word twist here refers to a change or development in a situation or story that is unusual or unexpected. Cool in this context means it's positively received.
 
-- **That sounds great!**: is a phrase used to express enthusiasm or approval about a suggestion, plan, or invitation.
+- **that sounds great!**: is a phrase used to express enthusiasm or approval about a suggestion, plan, or invitation.
 
 - **theaters** are places where you can watch live performances or movies.
 
-- **Then**: is often used to indicate the next step or action after something else has been done. For example: `First, I check my emails, then I start coding`.
+- **then**: is often used to indicate the next step or action after something else has been done. For example: `First, I check my emails, then I start coding`.
 
 `I turned on the computer, and then I opened my email.` -> You only opened the email after turning on the computer.
 
 'We fixed the bug, then we tested the application again.` -> They only tested the application again after fixing the bug.
 
-
-- **Though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
+- **though** is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
 
 Though is often used at the end of a sentence to add emphasis or to show a contrast with what was previously said or implied. For example:
 `The presentation went well, though it was stressful at first.` -> Here, though highlights the contrast between the overall success and the initial stress.
 
-- **Thoughts** means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
+- **thoughts** means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
 
-- **Tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
+- **tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
   
-- **Typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example:
+- **typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example:
 
 `Typically, we have meetings on Mondays.` -> This means that meetings usually happen on Mondays.
 
 `She typically arrives at work by 9 AM.` -> This means that she usually arrives at work by 9 AM.
 
-
-- **To aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward. For example:
+- **to aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward. For example:
 
 `She aims to become a developer.` -> Her goal is to become a developer.
 
 `We aim to finish the project by Friday.` -> The goal is to complete the project by Friday.
 
-- **To assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
+- **to assign tasks** means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
-- **To attend** means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
+- **to attend** means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
 
-- **To be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
+- **to be familiar with** is a phrase used to ask or describe if you have knowledge or understanding about something, in this case, the games Monopoly and Ticket To Ride.
 
 - **to be in good hands**: means that someone is being taken care of by a competent or capable person. It’s like saying you can relax because you trust the person helping or looking after you.
 
-- **To be into** something means to be interested in it or to enjoy it.
+- **to be into**: something means to be interested in it or to enjoy it.
 
-- **To break down** means dividing something into smaller, more manageable parts. For example: ``When I work on a large project, I often break down the work into smaller sections``.
+- **to break down**: means dividing something into smaller, more manageable parts. For example: ``When I work on a large project, I often break down the work into smaller sections``.
 
 - **to bring**: means to take something or someone with you to the place where you are going. For example, ``I bring my phone to work every day``. It's often used when talking about taking items from one place to another.
 
-- **To collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team.
+- **to collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team.
 
-- **To coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
+- **to coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
-- **To cover**: means to include or deal with a particular topic or subject. For example: 
+- **to cover**: means to include or deal with a particular topic or subject. For example: 
 
 `The training covers cybersecurity best practices.` -> The training includes lessons on how to protect systems and data from threats.
 
 `Will the presentation cover software updates?` -> You are asking if the presentation will include information about recent software updates.
 
-- **To deal with** means to handle or manage something, especially challenges. For example, ``She deals with client requests at her job``.
+- **to deal with**: means to handle or manage something, especially challenges. For example, ``She deals with client requests at her job``.
 
-- **To disrupt** is a verb that means to interrupt or prevent something from continuing in its usual way. For example: ``Loud noises disrupt my concentration``, meaning: interrupts the concentration.
+- **to disrupt**: is a verb that means to interrupt or prevent something from continuing in its usual way. For example: ``Loud noises disrupt my concentration``, meaning: interrupts the concentration.
   
-- **To encourage**: means to give support, confidence, or hope to someone. It's what a good coach does to motivate their team to do their best.
+- **to encourage**: means to give support, confidence, or hope to someone. It's what a good coach does to motivate their team to do their best.
 
 - **To ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
 
-- **To handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
+- **to handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
 
-- **To issue** in this context means to provide or distribute something officially, like badges or permits. For example, ``The office issues ID cards to all new employees``.
+- **to issue**: in this context means to provide or distribute something officially, like badges or permits. For example, ``The office issues ID cards to all new employees``.
   
-- **To Log In**: To enter your username and password to access a computer or website. Example: ``Every morning, I log in to my computer to start work``.
+- **to Log In**: To enter your username and password to access a computer or website. Example: ``Every morning, I log in to my computer to start work``.
 
-- **To look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
+- **to look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
 
-- **To manage** means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
+- **to manage**: means to be in charge of or control something. For example, He manages a small team at work means he is responsible for overseeing the team.
 
-- **To make sure** is used to express certainty or confirmation about something. For example,`` I check the list twice to make sure I have everything``.
+- **to make sure**: is used to express certainty or confirmation about something. For example,`` I check the list twice to make sure I have everything``.
 
-- **To meet someone's needs** means to fulfill or satisfy what someone requires or wants. In a project, this could mean making sure that the work done fits the client's requirements. For example, `Our team works hard to meet the client's needs` means the team aims to do what the client wants. This phrase is often used in customer service and project management.
+- **to meet someone's needs**: means to fulfill or satisfy what someone requires or wants. In a project, this could mean making sure that the work done fits the client's requirements. For example, `Our team works hard to meet the client's needs` means the team aims to do what the client wants. This phrase is often used in customer service and project management.
 
-- **To plan ahead**: When you have meetings to plan ahead, it means you discuss and decide on things that will happen in the future. It helps everyone know what to do before things happen. Like saying, We have a family meeting to plan our vacation.
+- **to plan ahead**: When you have meetings to plan ahead, it means you discuss and decide on things that will happen in the future. It helps everyone know what to do before things happen. Like saying, We have a family meeting to plan our vacation.
 
-- **To prepare in advance** means to get something ready before the time it is needed. This helps meetings to go smoothly because everyone knows what will be discussed.
+- **to prepare in advance**: means to get something ready before the time it is needed. This helps meetings to go smoothly because everyone knows what will be discussed.
 
-- **To prioritize** means to decide which tasks are most important to do first.
+- **to prioritize**: means to decide which tasks are most important to do first.
 
-- **To review**: means to look over something, like a list or a plan.
+- **to review**: means to look over something, like a list or a plan.
 
-- **To revoke** means to officially cancel or take back a decision, right, or permission. For example, ``The administrator may revoke access if rules are broken``.
+- **to revoke**: means to officially cancel or take back a decision, right, or permission. For example, ``The administrator may revoke access if rules are broken``.
 
-- **to ring** refers to the action of making a sound, particularly a clear resonant sound. It's commonly used to describe the sound made by bells, telephones, or alarms. For example: ``The phone will ring at 9 AM to remind me of the meeting``, meaning: indicates the phone making a sound. I wake up when my alarm clock rings. (describes the alarm making a sound to wake someone up)
+- **to ring**: refers to the action of making a sound, particularly a clear resonant sound. It's commonly used to describe the sound made by bells, telephones, or alarms. For example: ``The phone will ring at 9 AM to remind me of the meeting``, meaning: indicates the phone making a sound. I wake up when my alarm clock rings. (describes the alarm making a sound to wake someone up)
 
-- **to rush** means to do something or move quickly or in a hurry, often due to time pressure. It's used to describe actions done with urgency. For example: ``I had to rush to catch the train``. (means moving quickly to not miss the train) ``Don't rush your decision``. (suggests taking time to decide)
+- **to rush**: means to do something or move quickly or in a hurry, often due to time pressure. It's used to describe actions done with urgency. For example: ``I had to rush to catch the train``. (means moving quickly to not miss the train) ``Don't rush your decision``. (suggests taking time to decide)
   
-- **To see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
+- **to see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
-- **To set deadlines** means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
+- **to set deadlines**: means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
 
-- **to skip** means to not do or not include something that you usually do or that should be done.
+- **to skip**: means to not do or not include something that you usually do or that should be done.
 
-- **To steal** means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission.
+- **to steal**: means to take something that doesn't belong to you without permission. For example: ``Some people try to steal our data`` means that there are people that try to take personal data without the owner's permission.
 
-- **To struggle**: to have difficulty with something. For example:
+- **to struggle**: to have difficulty with something. For example:
 
 `The program is struggling to load.` -> This means the program is currently having difficulty loading.
   
-- **to take different paths** means choosing various routes or methods to achieve something.
+- **to take different paths**: means choosing various routes or methods to achieve something.
 
 - **to think**: is used to express an opinion or belief about something. It is what you do with your mind when you consider or have an opinion on something.
 
-- **To touch on**: can mean to briefly mention or deal with a topic. It is often used when covering a subject without going into much detail. For example:
+- **to touch on**: can mean to briefly mention or deal with a topic. It is often used when covering a subject without going into much detail. For example:
 
 `The speaker touched on the new software update during the meeting.` -> The speaker briefly mentioned the software update but did not go into detail.
 
-- **tops** is used informally to indicate the maximum amount or time. For example: ``The meeting will last one hour, tops`` (no longer than one hour)
+- **tops**: is used informally to indicate the maximum amount or time. For example: ``The meeting will last one hour, tops`` (no longer than one hour)
 
-- **Top condition** refers to being in the best possible state or quality, especially important for equipment in safety-critical roles. For example, ``The fire extinguisher must be kept in top condition``.
+- **top condition**: refers to being in the best possible state or quality, especially important for equipment in safety-critical roles. For example, ``The fire extinguisher must be kept in top condition``.
   
-- **too long** is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
+- **too long**: is used when something takes more time than is necessary or desired. For example, The meeting lasted four hours. Four hours is too long for a meeting! It's different from **so long**, which is often used to express that something takes a significant amount of time, but it doesn't necessarily mean it's more than what is wanted.
 
 - **today**: is a word used to refer to the current day, the day that is happening now.
 
-- **to support** means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
+- **to support**: means to provide help or assistance to someone. It's about making sure team members have what they need to succeed.
 
-- **to tackle tasks** refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
+- **to tackle tasks**: refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
 - **Touch base**: means to make contact or to check in with someone, usually to discuss progress or updates. For example:
 
@@ -845,15 +843,15 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 `I'll touch base with you later about the meeting.` -> you'll contact this person later to talk about the meeting.
 
-- **to wear** too many hats is an idiom that means to have many different roles or responsibilities.
+- **to wear**: too many hats is an idiom that means to have many different roles or responsibilities.
 
-- **To work properly** means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
+- **To work properly**: means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
 
-- **training session** is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
+- **training session**: is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
-- **Two blocks away** means that you need to walk past two street corners to get to a place. It's a short walk in a city.
+- **two blocks away**: means that you need to walk past two street corners to get to a place. It's a short walk in a city.
 
-- **Trends** are popular styles or ideas that many people are talking about or doing. The word trend in the singular becomes trends in the plural. For example:
+- **trends**: are popular styles or ideas that many people are talking about or doing. The word trend in the singular becomes trends in the plural. For example:
 
 ``One current trend is using eco-friendly products`` (singular). 
 
@@ -861,43 +859,46 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 ``Tech trends`` refer to popular developments in technology.
 
-- **Tricky**: is used to describe something that is difficult, complicated, or challenging to deal with.For example:
+- **tricky**: is used to describe something that is difficult, complicated, or challenging to deal with.For example:
 
 `The instructions were tricky to follow.` -> The instructions were hard to understand or complicated.
 
 `Solving this problem is tricky.` -> Solving the problem is difficult.
 
-
-- **Typical** means what is normal or usual. For example, ``A typical day at work involves meetings and writing reports``.
+- **typical** means what is normal or usual. For example, ``A typical day at work involves meetings and writing reports``.
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
 
-- **unconventional** is used to describe something that's not based on or conforming to what is generally done or believed. It often implies a method or approach that is different from the norm.
+- **unconventional**: is used to describe something that's not based on or conforming to what is generally done or believed. It often implies a method or approach that is different from the norm.
 
-- **unlock** means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
+- **unlock**: means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
-- **update** is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
+- **update**: is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
 
-- **user-friendly** refers to something that is easy and pleasant to use, especially digital products like websites or apps.
+- **user feedback**: refers to opinions, suggestions, or issues reported by users about their experience with a product or service. For example: `The company improved the app based on user feedback.` -> Meaning the comments and suggestions coming from the users were read and used to make the app better.
+
+- **user-friendly**: refers to something that is easy and pleasant to use, especially digital products like websites or apps.
+
+- **user interface (UI)**: refers to the part of a system or software that users interact with directly, such as buttons, menus, and screens. For example: `The user interface was redesigned to be more intuitive.` -> Meaning the part of the software the user interacts with was improved.
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> V
 
-- **Video games**: are games you play on a computer, a game console, or a phone where you control what happens on the screen using buttons or a controller. They can be adventures, sports, puzzles, or many other types.
+- **video games**: are games you play on a computer, a game console, or a phone where you control what happens on the screen using buttons or a controller. They can be adventures, sports, puzzles, or many other types.
 
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> W
 
-- **Walkthrough**: is made up of two parts:
+- **walkthrough**: is made up of two parts:
 
-**Walk** -> refers to moving step by step, usually on foot.
+-**Walk** -> refers to moving step by step, usually on foot.
 
-**Through** -> means moving from one side to another or from start to finish.
+-**Through** -> means moving from one side to another or from start to finish.
 
 When these words are combined into **walkthrough**, it means a step-by-step explanation or guide to help someone understand how to do something. For example:
 
@@ -905,32 +906,32 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 
 `Let me give you a walkthrough of the process.` -> You will explain each step of the process in detail.
 
-- **web applications** refers to software programs that run on a web server and are accessed through a web browser. They are an essential part of modern technology, allowing users to perform functions or access services over the internet.
+- **web applications**: refers to software programs that run on a web server and are accessed through a web browser. They are an essential part of modern technology, allowing users to perform functions or access services over the internet.
 
-- **well** is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
+- **well**: is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
-- **What a responsibility** are used to show recognition of the importance of someone's duties.
+- **what a responsibility**: are used to show recognition of the importance of someone's duties.
   
-- **within walking distance** means that the place is close enough to walk to comfortably.
+- **within walking distance**: means that the place is close enough to walk to comfortably.
 
-- **Wonderful** is an adjective used to express that something is very good or pleasant.
+- **wonderful**: is an adjective used to express that something is very good or pleasant.
 
-- **workspace** is often used to describe the area where someone works, especially in an office environment.
+- **workspace**: is often used to describe the area where someone works, especially in an office environment.
 
-- **Workday** refers to the day or hours during which you work. For example, ``My workday starts at 9 AM and ends at 5 PM``.
+- **workday**: refers to the day or hours during which you work. For example, ``My workday starts at 9 AM and ends at 5 PM``.
 
-- **workmate** refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
+- **workmate**: refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
 
-- **Would like** is used to express a desire or wish in a polite way. For example, `I would like to show you something` indicates a polite intention. In spoken English, it's often abbreviated to `I'd`. For example, `I'd like to show you something`. This abbreviation is very common in everyday conversation.
+- **would like**: is used to express a desire or wish in a polite way. For example, `I would like to show you something` indicates a polite intention. In spoken English, it's often abbreviated to `I'd`. For example, `I'd like to show you something`. This abbreviation is very common in everyday conversation.
 
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Y
 
-- **you bet** is used to affirmatively confirm or agree with something. It indicates strong agreement or confirmation. For instance, if your friend asks you, Are you coming to the movie tonight?, you can respond with ``You bet!``. This means you are agreeing strongly or saying yes in a very enthusiastic way.
+- **you bet**: is used to affirmatively confirm or agree with something. It indicates strong agreement or confirmation. For instance, if your friend asks you, Are you coming to the movie tonight?, you can respond with ``You bet!``. This means you are agreeing strongly or saying yes in a very enthusiastic way.
 
-- **your** can refer to something that belongs to either an individual or a group, depending on the context. When talking to one person, **your** refers to something belonging to that individual. For example, `Your book is on the table` means the book belongs to the individual you're speaking to. In contrast, when speaking to a group, **your** can refer to something that belongs to all of them. For example, `Your project is impressive` means the project belonging to the entire group is impressive. Understanding the context helps to determine if your is singular or plural.
+- **your**: can refer to something that belongs to either an individual or a group, depending on the context. When talking to one person, **your** refers to something belonging to that individual. For example, `Your book is on the table` means the book belongs to the individual you're speaking to. In contrast, when speaking to a group, **your** can refer to something that belongs to all of them. For example, `Your project is impressive` means the project belonging to the entire group is impressive. Understanding the context helps to determine if your is singular or plural.
 
-- **You're welcome to join!**: is used to extend an invitation to someone to participate in an activity or event.
+- **you're welcome to join!**: is used to extend an invitation to someone to participate in an activity or event.
 
 ---
