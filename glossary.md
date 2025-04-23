@@ -612,6 +612,10 @@ For example:
 
 - **security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
 
+- **security protocol**: refers to specific procedures designed to protect systems, networks, or data from unauthorized access or threats. For example:
+
+`Our security protocols require two-factor authentication for all logins.` -> This means that the use of two-factor authentication for logging in is a part of the procedures related to protecting the system.
+
 - **self-taught** means learning things by yourself, not from a school or teacher. It's when you learn something on your own. The word **taught** is from teach, which means to give someone knowledge or to show how to do something. So, if you are ``self-taught``, you have learned something by yourself.
 
 - **seriousl**y is used when you want to show that something is important or true. It helps to make what you are saying stronger. For example, if you say, ``I seriously love programming``, it means you really love programming a lot. Or, if you say, ``Take this project seriously``, it means you think the project is very important and should be treated with care.
