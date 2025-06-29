@@ -361,6 +361,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
+- **immediate action**: refers to steps that must be taken right away to address a pressing issue or problem. For example: `When the server crashed, the team took immediate action to restore functionality.` -> This means the team acted as fast as they could to restore the server's functionality.
+
 - **immediately**: means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
 - **in real time**: refers to something happening immediately as events occur, without delay. It is often used in the context of monitoring, communication, or data processing. For example: `The system updates the dashboard in real time, so you can see changes instantly.` -> Meaning the dashboard changes immediately after the updates are applied.
@@ -418,6 +420,8 @@ There are different types of data, like **quantitative data**, which is about nu
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> M
+
+- **major vulnerability**: is a significant weakness or flaw in a system that could lead to serious consequences if exploited. It usually requires urgent attention to protect the system or data. For example: `The team discovered a major vulnerability in the software that could allow unauthorized access.` -> This means the weakness was a serious one.
 
 - **mandatory**: means something that is required or must be done. It is not optional. For example: `Attendance at the meeting is mandatory.` -> This means you have to be present at the meeting.
 
