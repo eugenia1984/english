@@ -182,4 +182,15 @@ For Example:
 
 `You weren't at the meeting, were you?` -> You want to confirm if the person did not attend the meeting - you believe they didn't.
 
+### Didn't use to
+
+In negative sentences with used to, the auxiliary verb didn't is used to indicate the past, and the main verb use remains in its base form (not conjugated).
+
+This structure emphasizes that an action was not habitual or common in the past.
+
+Important: **The auxiliary verb didn't makes the sentence negative. The verb use stays in its base form because the past tense is already conveyed by didn't.** 
+
+For example: `We didn't use to have weekly meetings, but now we do.` -> This means weekly meetings were not common back then.
+
+
 ---
