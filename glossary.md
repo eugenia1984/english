@@ -363,6 +363,10 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **immediately**: means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
+- **in real time**: refers to something happening immediately as events occur, without delay. It is often used in the context of monitoring, communication, or data processing. For example: `The system updates the dashboard in real time, so you can see changes instantly.` -> Meaning the dashboard changes immediately after the updates are applied.
+
+
+  
 - **interested in**: is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, ``in What are you interested in?``, they want to know about your hobbies, likes, or professional interests. **Interested in** means something catches your attention. For example, if you say ``I am interested in painting``, it means you like painting or enjoy learning about it.
 
 - **interview**: is a conversation where someone asks questions to get information. For example: ``The journalist conducts interviews with her readers`` (conversation for information). **interview** is a formal meeting where someone asks questions to learn about another person's experience, skills, or opinions. In **job interviews**, like in the dialogue, the interviewer asks about the candidate's previous job experiences.
