@@ -194,3 +194,31 @@ For example: `We didn't use to have weekly meetings, but now we do.` -> This mea
 
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 3: Tech Conference Experience
+
+```
+Maria: Brian, is that you?
+       What a surprise to see you here at PyCon.
+Brian: Wow, Maria.
+       So nice to see you.
+       Let's catch up.
+       I attended some really interesting sessions these last few days.
+Maria: Yeah, me too.
+       I checked out the latest in Python development.
+       Do you remember how we used to get excited about new tech back at work?
+Brian: Absolutely.
+       We used to spend our lunch breaks chatting about the newest trends in programming.
+       Did you go to the AI workshop yesterday?
+Maria: Yes, I did.
+       While the speaker was going through neural networks, I thought about our project last year.
+       I remember you would often stay late, fine-tuning the code until it was just right.
+Brian: Now I take care of the training so that others can do the same.
+       Speaking of which, did you manage to catch the cyber security talk this morning?
+Maria: I missed it.
+       I was in a design sprint workshop.
+       We brainstormed for two hours straight.
+       How was it?
+Brian: It was eye-opening, especially the parts about protecting data.
+       It made me think of how we handled security in our earlier projects.
+```
