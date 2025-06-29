@@ -497,6 +497,9 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **outside**: refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
 
+- **overtime** (**To work overtime**): means to work extra hours beyond the standard schedule, often to meet deadlines or complete urgent tasks. For example: `The team had to work overtime to finish the project before the deadline.` -> Meaning you had to work extra hours to complete the project in order to meet the deadline. In this sentence, Linda is recalling a specific week when everyone had to put in extra hours to meet the demands of their work.
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
