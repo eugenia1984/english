@@ -99,6 +99,8 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **can't**: is sometimes used for referring to something that should not be done, usually for reasons like safety, rules, or best practices. 
 It emphasizes the importance of avoiding certain actions. For example, ``You can't enter restricted areas without permission highlights a strict rule or prohibition``.
 
+- **can't afford**: means that something is not feasible or permissible, often due to resource, time, or risk constraints. It emphasizes the necessity of avoiding a specific action or making a particular choice. For example: `We can't afford to miss the deadline for this project`. -> This means that missing the deadline is not something we can do.
+
 - **challenging**: means something that is difficult in a way that tests your ability or determination. When work is challenging, it requires effort, skill, or strong problem-solving.
 
 - **checkout process**: refers to the steps involved in completing a purchase, whether in a physical store or online. In a physical store, this usually involves taking items to a cashier, paying, and receiving a receipt. In online shopping, it includes adding items to a cart, entering shipping and payment details, and finalizing the order.
