@@ -263,6 +263,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
 
+- **fine-tuning**: means making small, precise adjustments to improve something or optimize it to achieve the desired result. It is often used in technical or creative contexts. For example: `She spent hours fine-tuning the presentation to ensure it was perfect for the audience`. -> This means she adjusted even the smallest details of the presentation to make it perfect.
+
 - **follow the rules**: means to do what the rules say. ``If there is a rule that says use camelCase for variable names, to follow the rules means you name your variables like myVariable instead of my_variable``.
 
 - **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
