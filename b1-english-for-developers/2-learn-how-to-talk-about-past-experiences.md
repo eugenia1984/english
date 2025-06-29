@@ -163,4 +163,23 @@ For example:
 
 In this context, weren't considering means that, at a certain point in the past, the team was not taking security implications into account while performing updates.
 
+
+### Past Continuous - Tag question
+
+Tag questions are short questions added to the end of a statement to confirm information or seek agreement. 
+
+The structure depends on the main sentence: 
+
+-**If the main sentence is positive, the tag is negative**. 
+
+For example:
+
+`You were working late, weren't you?` -> You want to confirm if the other person was working late - you believe they were.
+
+-**If the main sentence is negative, the tag is positive**. 
+
+For Example:
+
+`You weren't at the meeting, were you?` -> You want to confirm if the person did not attend the meeting - you believe they didn't.
+
 ---
