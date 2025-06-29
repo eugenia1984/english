@@ -1,6 +1,6 @@
-# 1 - Learn to describe places and events
+# 1 - <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Learn to describe places and events
 
-## Dialogue 1: Hackathon Plans
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 1: Hackathon Plans
 
 ```
 Bob:    Hey Lisa, do you have a minute?
@@ -72,7 +72,7 @@ For example:
 
 ---
 
-## Dialogue 2: Cybersecurity Training
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 2: Cybersecurity Training
 
 
 ```
@@ -193,7 +193,7 @@ For example:
 
 ---
 
-## Dialogue 3: Struggling with IDEs
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 3: Struggling with IDEs
 
 ```
 Tom:   Hey Sarah, do you have a moment?
