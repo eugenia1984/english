@@ -1,6 +1,6 @@
-# 2 - Learn how to talk about past experiences 
+# 2 - <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> Learn how to talk about past experiences 
 
-## Dialogue 1: A Debugging Session Recap
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 1: A Debugging Session Recap
 
 ```
 Lisa:   Hey, James.
@@ -104,7 +104,7 @@ This structure is often used to confirm something or to express surprise or doub
 
 ---
 
-## Dialogue 2: Project Post-Mortem
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 2: Project Post-Mortem
 
 ```
 Linda:  I was thinking we could do a quick post-mortem of the design project.
