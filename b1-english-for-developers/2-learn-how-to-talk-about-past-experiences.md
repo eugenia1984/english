@@ -148,4 +148,19 @@ The Past Continuous tense is used to describe actions that were ongoing at a spe
 
 `While I was preparing the report, they were testing the new features.` -> This means the action of my preparing the report and the testing of the new features happened at the same time.
 
+
+### Past Continuous - Negative form
+
+The Past Continuous in it's negative form is used to describe actions that were not happening at a specific time in the past. 
+
+The structure is: **wasn't / weren't + verb ending in -ing**. 
+
+For example:
+
+`He wasn't listening during the meeting.` -> This sentence uses the singular form was
+
+`They weren't following the instructions carefully.` -> This sentence uses the plural form were.
+
+In this context, weren't considering means that, at a certain point in the past, the team was not taking security implications into account while performing updates.
+
 ---
