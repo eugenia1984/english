@@ -222,3 +222,14 @@ Maria: I missed it.
 Brian: It was eye-opening, especially the parts about protecting data.
        It made me think of how we handled security in our earlier projects.
 ```
+
+### what + an indefinite article
+
+The structure what + an indefinite article is used **to emphasize strong feelings or reactions about something**. It often expresses surprise, admiration, or emotion. 
+
+For example:
+
+`What a beautiful day it is!` -> Here, the structure highlights the speaker's admiration for the day.
+
+
+---
