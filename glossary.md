@@ -223,6 +223,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **enjoy the most**: is used to express a preference or favorite aspect of something.
 
+- **ensure**: means to make certain or guarantee that something happens as intended. It is often used when setting priorities or responsibilities. For example: `We need to ensure that all employees are aware of the new guidelines.` -> This means we should pay attention to the fact the employees know what the new guidelines are.
+  
 - **emergencies**: are serious, unexpected situations that require immediate action, like a fire or a medical crisis. Emergencies is the plural form of emergency
 
 - **enjoy the most**: is used to indicate one's preferred or favorite aspect of an activity.
@@ -454,6 +456,8 @@ There are different types of data, like **quantitative data**, which is about nu
 - **mostly**: is used to indicate that something is true to a large extent but not completely. It suggests that while other factors or methods may be involved, the primary aspect is what is mentioned. **mostly** is used to say that something is true or happens most of the time but not completely. If someone asks, ``What kind of books do you read?``, you could answer, ``I read adventure books, mostly``. This means that while you might read various kinds of books, adventure books are what you choose to read most of the time.
 
 - **movie-related**: means anything that has to do with movies. For example, movie posters or toys from a movie are movie-related.
+
+- **moving forward**: means looking ahead or planning for the future. It emphasizes taking steps or making changes from this point onward. For example: `Moving forward, the team will prioritize communication to avoid delays.` -> This means that prioritizing communication is something that will start being done from now on.
 
 - **multiple times**: means many times or on several occasions. It's used to indicate that an action or event happens repeatedly. For example: ``He checked his phone multiple times during the meeting``, indicates he checked his phone many times.
   
