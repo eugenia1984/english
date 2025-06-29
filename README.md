@@ -4,7 +4,7 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> What you will find?
 
-### 1 - [English for developers IT profesionals](https://github.com/eugenia1984/english/tree/main/english-for-developers-it-professionals)
+### 1 - [<img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  English for developers IT profesionals](https://github.com/eugenia1984/english/tree/main/english-for-developers-it-professionals)
 
 Modules:
 
@@ -25,7 +25,7 @@ Modules:
 
 
 
-### 2 - [FreeCodeCamp: English for Developers](https://github.com/eugenia1984/english/tree/main/free_code_camp_english):
+### 2 - [<img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  FreeCodeCamp: English for Developers](https://github.com/eugenia1984/english/tree/main/free_code_camp_english):
 
 -[1 * Greeting in the First Day at Office](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/01_greeting_in_the_first_day_at_office.md) 
 
@@ -46,7 +46,7 @@ Modules:
 -[9 * Learn how to discuss roles and responsabilities](https://github.com/eugenia1984/english/blob/main/free_code_camp_english/09-learn-how-to-discuss-roles-and-responsabilities.md)
 
 
-### 3 - [B1 - English for developers by FreeCodeCamp](https://github.com/eugenia1984/english/tree/main/b1-english-for-developers)
+### 3 - [<img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  B1 - English for developers by FreeCodeCamp](https://github.com/eugenia1984/english/tree/main/b1-english-for-developers)
 
 -1 - [Learn to describe places and events](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/1-learn-to-describe-places-and-events.md)
 
