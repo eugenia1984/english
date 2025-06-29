@@ -52,6 +52,8 @@ Modules:
 
 -2 - [Learn how to talk about past experiences](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/2-learn-how-to-talk-about-past-experiences.md)
 
+-3 - [Learn how to talk about pst activities](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/3-learn-how-to-talk-about-past-activities.md)
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
