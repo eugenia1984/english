@@ -38,5 +38,9 @@ For example:
 `She has seen the report.` -> At some point before now, she saw the report.
 
 
+- In the Present Perfect tense, **contractions often combine the subject and the auxiliary verb have or has**. 
+
+For example: `They have` becomes `They've`. / `He has` becomes `He's`.
+
 
 ---
