@@ -900,9 +900,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **walkthrough**: is made up of two parts:
 
--**Walk** -> refers to moving step by step, usually on foot.
-
--**Through** -> means moving from one side to another or from start to finish.
+-**Walk** -> refers to moving step by step, usually on foot. / **Through** -> means moving from one side to another or from start to finish.
 
 When these words are combined into **walkthrough**, it means a step-by-step explanation or guide to help someone understand how to do something. For example:
 
@@ -911,6 +909,8 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 `Let me give you a walkthrough of the process.` -> You will explain each step of the process in detail.
 
 - **web applications**: refers to software programs that run on a web server and are accessed through a web browser. They are an essential part of modern technology, allowing users to perform functions or access services over the internet.
+
+- **we've got**: the phrase we've got is often used to mean we have or we have obtained. The word got here is used in an informal way to indicate possession or to emphasize that an issue has been identified.
 
 - **well**: is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
