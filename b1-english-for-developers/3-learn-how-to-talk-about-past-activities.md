@@ -21,4 +21,22 @@ Linda: Not yet, but I've scheduled a meeting for tomorrow morning.
        We'll go over the proposed fixes and decide on the best approach.
 ```
 
+### Present Perfect
+
+The Present Perfect tense is used **to talk about actions or experiences that happened at some point before now.**
+
+Use this structure **to talk about something that happened before now, but where the exact time isn't important.**
+
+To form the Present Perfect tense, use **have or has followed by the past participle of the verb**.
+
+The past participle of the verb see is seen. It's **irregular**, which means it doesn't just **add -ed** like regular verbs. 
+
+For example:
+
+`I have seen the report.` -> At some point before now, you saw the report.
+
+`She has seen the report.` -> At some point before now, she saw the report.
+
+
+
 ---
