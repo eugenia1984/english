@@ -50,7 +50,7 @@ Modules:
 
 -1 - [Learn to describe places and events](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/1-learn-to-describe-places-and-events.md)
 
--2 - [Learn how to talk about past experiences](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/2-learn-how-to-talk-about-past-experiences.md)
+-2 - [Learn how to talk about past experiences](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/2-learn-how-to-talk-about-past-experiences.md): Simple Past
 
 -3 - [Learn how to talk about past activities](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/3-learn-how-to-talk-about-past-activities.md): Present Perfect
 
