@@ -43,4 +43,18 @@ For example:
 For example: `They have` becomes `They've`. / `He has` becomes `He's`.
 
 
+### Present Perfect - Questions
+
+
+The Present Perfect tense is often used to ask about experiences or actions that happened at an unspecified time in the past.
+
+When forming questions in this tense, use **Have or Has (auxiliary verb) + subject + past participle (main verb)**. 
+
+For example:
+
+`Have you ever been to the HR?` -> Asking if someone has visited the HR at any time in the past.
+
+`Has it finished loading the update?` -> Asking if the process of loading the update was completed at some point in the past.
+
+
 ---
