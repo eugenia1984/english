@@ -12,6 +12,14 @@ This phrase is commonly used in informal contexts to soften statements or descri
 
 - **access control**: refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
 
+- **across**: is used to describe something that happens over a wide area or in many different places. It can indicate movement from one side to another or something spread out over a range. For example:
+
+`The company has offices across the country.` -> The offices are spread out in different locations in the country.
+
+`She walked across the street`. -> She moved from one side of the street to the other.
+
+**Across different screen sizes** means that the issue appears on many different screen sizes.
+
 - **action figure**: is a small toy that looks like a character from a movie, comic book, or video game. People often collect them because they like the characters or stories. For example, if you say,`` My brother got a new action figure for his birthday``, it means he received a toy that represents a character he probably likes.
 
 - **actually**: is used when you want to tell the real fact about something, especially if it's different from what someone thought or said. It's like saying, No, this is how it really is. You use actually to make your point stronger or to correct what someone else said. 
