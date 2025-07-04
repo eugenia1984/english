@@ -76,6 +76,13 @@ It is formed using **have/has been + the present participle (verb ending in -ing
 
 Example: `The navigation bar and the footer haven't been adapting well to smaller screens.`
 
+### Present Perfect - Since
+
+Since is used with the Present Perfect tense **to show when an action or event started in the past and continues to the present**. 
+
+For example: `I have worked here since 2019.` -> This means the action of working started in 2019 and is still true now.
+
+**Use since with a specific point in time (like a year, date, or a specific event)**.
 
 ### Present Perfect Continuous - Questions
 
