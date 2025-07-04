@@ -333,6 +333,12 @@ There are different types of data, like **quantitative data**, which is about nu
 - 
 - **have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example: `You have to save your changes before closing the program.` -> This means it's necessary to save changes before closing the program.
 
+- **have to deal with**: is used to talk about something that requires attention or action. It means that there is a need to handle or manage a situation or problem. For example:
+
+`We have to deal with a lot of paperwork this week`. -> They need to manage or handle the paperwork.
+
+`She has to deal with customer complaints every day`. -> Handling complaints is part of her responsibilities.
+
 - **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
 
 - **here**: is an adverb that indicates a location or place. It refers to the current location of the speaker or the location they are talking about.
