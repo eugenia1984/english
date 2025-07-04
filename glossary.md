@@ -319,8 +319,10 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **have a chance to speak** implies that everyone is given the opportunity to contribute to the conversation.
 
-- **Have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
+- **have a great evening**: is a kind expression wishing someone a pleasant time for the rest of the day, specifically the evening.
 
+- **have the time**: is used to ask if someone had enough time or the opportunity to do something.
+- 
 - **have to**: is used to express that something is necessary or required. It indicates that there is no choice but to do something. For example: `You have to save your changes before closing the program.` -> This means it's necessary to save changes before closing the program.
 
 - **helpful**: when you describe someone as helpful, you mean they offer help or provide solutions to problems you might face.
