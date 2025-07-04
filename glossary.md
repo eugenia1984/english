@@ -18,7 +18,15 @@ This phrase is commonly used in informal contexts to soften statements or descri
 
 `She walked across the street`. -> She moved from one side of the street to the other.
 
-**Across different screen sizes** means that the issue appears on many different screen sizes.
+**Across** ->  is a preposition that means from one side to another or throughout a particular area or group. For example:
+
+`The news spread quickly across the country.` -> The news spread throughout the entire country.
+
+`She looked across the room.` -> She looked from one side of the room to the other.
+
+In the sentence, `Are all updated elements performing well across devices?`, across means on all or throughout different devices.
+
+- **across different screen sizes**: means that the issue appears on many different screen sizes.
 
 - **action figure**: is a small toy that looks like a character from a movie, comic book, or video game. People often collect them because they like the characters or stories. For example, if you say,`` My brother got a new action figure for his birthday``, it means he received a toy that represents a character he probably likes.
 
