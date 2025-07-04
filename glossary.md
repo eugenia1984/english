@@ -648,6 +648,14 @@ For example:
 
 - **rock climbing**: is the sport of climbing up natural rock formations or artificial rock walls.
 
+- **roll out**: means to introduce or launch something new, like a product, service, or update, to the public or users. For example:
+
+`The company plans to roll out a new feature next week`. -> They will release or launch the new feature next week.
+
+`We will roll out the new marketing campaign soon`. -> They will start or introduce the new campaign.
+
+
+
 - **routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
 
 - **rules** are specific guidelines or instructions that are meant to be followed. They are set to maintain order and ensure fair and proper conduct, especially in a professional setting. For example, ``The office rules include being punctual and respectful to colleagues``.
