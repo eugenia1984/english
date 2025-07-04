@@ -118,4 +118,10 @@ Bob:   Thanks for staying proactive, Linda.
         Let's ensure we keep up this momentum.
 ```
 
+### Mix of Present Perfect and Present Continuous tenses 
+
+This sentence uses a mix of Present Perfect and Present Continuous tenses to describe progress and ongoing issues. For example:
+
+We've made progress, but some icons and buttons aren't responding correctly`. 
+
 ---
