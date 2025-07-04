@@ -56,5 +56,15 @@ For example:
 
 `Has it finished loading the update?` -> Asking if the process of loading the update was completed at some point in the past.
 
+### Present Perfect - Short answers
+
+
+When answering to a yes/no question in the Present Perfect tense, you can use short answers:
+
+
+For a positive answer, you would say `Yes, we have`. This confirms that the action has been done before.
+
+For a negative answer, you would say `No, we haven't`. This clearly indicates that the action has not been done before.
+
 
 ---
