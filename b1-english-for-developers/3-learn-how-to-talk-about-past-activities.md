@@ -56,6 +56,7 @@ For example:
 
 `Has it finished loading the update?` -> Asking if the process of loading the update was completed at some point in the past.
 
+`Have you finished your project?`
 
 ### Present Perfect - Short answers
 
