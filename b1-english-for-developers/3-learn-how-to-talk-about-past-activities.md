@@ -67,12 +67,19 @@ For a positive answer, you would say `Yes, we have`. This confirms that the acti
 
 For a negative answer, you would say `No, we haven't`. This clearly indicates that the action has not been done before.
 
-### Present Perfect Conitnuous
+### Present Perfect Continuous
 
 The Present Perfect Continuous tense is used to **describe actions that started in the past and are still continuing or have recently stopped, often with an emphasis on the duration of the action**.
 
 It is formed using **have/has been + the present participle (verb ending in -ing)**.
 
 Example: `The navigation bar and the footer haven't been adapting well to smaller screens.`
+
+
+### Present Perfect Continuous - Questions
+
+`Has` is the auxiliary verb used to start a question in the Present Perfect tense for the third person singular.
+
+Example: `Has the development teams know about it?`
 
 ---
