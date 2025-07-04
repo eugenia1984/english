@@ -586,6 +586,10 @@ Example: `The images overlap on the webpage, making it difficult to see all the 
 
 `This wasn't a proper configuration of the database.` -> The adjective proper describes the noun configuration.
 
+- **proposed**: means something that has been suggested or put forward for consideration. For example:
+
+`The proposed plan includes a new timeline.` -> It means that the plan, which includes a new timeline, has been suggested but not yet finalized or accepted.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Q
