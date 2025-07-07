@@ -157,4 +157,14 @@ James:  I'm happy to hear that.
 
 For example: `We have been collaborating on this project for two years.` -> This means that the collaboration started two years ago and is still happening.
 
+
+### Preposition FOR
+
+The preposition for is used **to indicate a period of time in this context**. When combined with the Present Perfect tense (have been), it shows how long something has lasted up to the present. 
+
+For example:
+
+`She has worked here for five years`. -> She started working there five years ago and is still working there now.
+
+
 ----
