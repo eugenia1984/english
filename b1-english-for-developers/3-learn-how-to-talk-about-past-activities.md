@@ -166,5 +166,10 @@ For example:
 
 `She has worked here for five years`. -> She started working there five years ago and is still working there now.
 
+### Past Perfect - Negative
+
+**Hadn't** is the contraction for **had not**, indicating something that didn't happen in the past relative to another event.
+
+For example: `I hadn't focused on design principles before starting this project`. -> This means that studying design principles was not a focus until the project began.
 
 ----
