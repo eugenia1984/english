@@ -443,6 +443,10 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
 
+- **looking back**: means to reflect on past events or to think about what has happened before. For example:
+
+`Looking back, I learned a lot from that project.` -> It means they are remembering and considering past experiences. In this sentence, James uses looking back to talk about the time he and Linda worked together on updates.
+
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
 - **lunch break**: A period during the workday set aside for eating lunch. Example: ``I usually take my lunch break at 1:00 PM``.
