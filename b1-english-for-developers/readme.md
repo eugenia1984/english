@@ -10,6 +10,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 2- [Learn how to talk about past experiences](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/2-learn-how-to-talk-about-past-experiences.md): Simple Past
 
-3- [Learn how to talk about past activities](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/3-learn-how-to-talk-about-past-activities.md): Present Perfect, Present Perfect Continuous
+3- [Learn how to talk about past activities](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/3-learn-how-to-talk-about-past-activities.md): Present Perfect, Present Perfect Continuous, Past Perfect
 
 ---
