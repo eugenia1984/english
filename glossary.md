@@ -481,6 +481,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **module**: refers to a unit or section of a course or training program. For example: `The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
 
+- **more than ever before**: means that something is happening now at a higher level or frequency than at any previous time. It emphasizes that there has been an increase or improvement over what happened in the past. For example: `She practices coding more than ever before.` -> This means that she is practicing coding now more frequently or intensely than she did in the past.
+
 - **most**: is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
 
 - **most of the time**: means usually or very often.
