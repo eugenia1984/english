@@ -35,4 +35,13 @@ For example:
 
 `He has been fixing bugs in the software for several hours`. -> This means he started fixing the bugs earlier and is still working on it.
 
+### Present Perfect Continuous - Question form
+
+The interrogative form of the Present Perfect Continuous is created by using **Have/Has + subject + been + verb(-ing)**. 
+
+It is used to ask about actions that started in the past and are still happening. 
+
+For example: `Have they been testing the new software features?` -> Someone checks if the testing has been ongoing.
+
+
 ----
