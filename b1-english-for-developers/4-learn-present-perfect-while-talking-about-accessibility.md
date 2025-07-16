@@ -43,5 +43,12 @@ It is used to ask about actions that started in the past and are still happening
 
 For example: `Have they been testing the new software features?` -> Someone checks if the testing has been ongoing.
 
+### Present Perfect Continuous - Negative
+
+**Haven't** is the contraction of **have not**, used in the Present Perfect tense to indicate that an action has not occurred.
+
+Negative refers to something unfavorable or critical. 
+
+For example: `The user left a negative review about the app's performance.` -> Here, negative describes the unfavorable nature of the review.
 
 ----
