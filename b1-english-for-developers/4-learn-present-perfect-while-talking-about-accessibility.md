@@ -1,6 +1,6 @@
 # <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Learn Present Perfect while talking about accessibility
 
-## Dialogue 1: Improving Screen Reader Compatibility
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 1: Improving Screen Reader Compatibility
 
 ```
 Tom:    Hey, Sophie, have you been working on the screen reader updates recently?
@@ -52,3 +52,28 @@ Negative refers to something unfavorable or critical.
 For example: `The user left a negative review about the app's performance.` -> Here, negative describes the unfavorable nature of the review.
 
 ----
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 2: Closed Captioning Challenges
+
+```
+Alice: James, have you heard about the closed captioning issue on our video platform?
+Kames: Yes, for some reason it hasn't been displaying correctly for some users.
+       The captions are misaligned and out of sync, which isn't good for accessibility.
+Alice: Exactly.
+       Do you know if it's been affecting all the videos or just a few?
+James: It seems to be affecting several videos.
+       Our quality assurance team has been testing the platform
+       and noticed that the captions aren't syncing properly.
+Alice: That's concerning.
+       Have they found out why it's happening?
+James: Not yet.
+       The synchronization code hasn't been updated in a while,
+       which might be part of the problem.
+       Also, the captions haven't been rendering consistently across different devices.
+Alice: Is there a plan to fix it?
+James: We're working on it.
+       The development team hasn't found a definitive solution yet,
+       but they're narrowing down the possibilities.
+```
+
+---
