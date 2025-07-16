@@ -18,7 +18,7 @@ This phrase is commonly used in informal contexts to soften statements or descri
 
 `She walked across the street`. -> She moved from one side of the street to the other.
 
-**Across** ->  is a preposition that means from one side to another or throughout a particular area or group. For example:
+**across** ->  is a preposition that means from one side to another or throughout a particular area or group. For example:
 
 `The news spread quickly across the country.` -> The news spread throughout the entire country.
 
@@ -31,6 +31,10 @@ In the sentence, `Are all updated elements performing well across devices?`, acr
 - **action figure**: is a small toy that looks like a character from a movie, comic book, or video game. People often collect them because they like the characters or stories. For example, if you say,`` My brother got a new action figure for his birthday``, it means he received a toy that represents a character he probably likes.
 
 - **actually**: is used when you want to tell the real fact about something, especially if it's different from what someone thought or said. It's like saying, No, this is how it really is. You use actually to make your point stronger or to correct what someone else said. 
+
+- **adjustments**: means small changes made to improve or adapt something. For example: `We made adjustments to the app's layout for better user experience.` -> Adjustments refers to the changes made to improve how users interact with the app.
+
+
   
 - **after that**: is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
