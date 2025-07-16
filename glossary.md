@@ -133,6 +133,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **clear your mind**: means to free your mind from stress or worry. ``Clear your mind before the test to focus better``. (freeing the mind from distractions).
 
+- **closed captioning**: means the text version of spoken words and other sounds in a video, used to aid viewers who are deaf or hard of hearing. For example: `The closed captioning needs to be accurate for better accessibility.` -> This shows how subtitles help viewers understand video content clearly.
+
 - **closely**: is an adverb that means working in a careful, detailed, or collaborative way. It is related to the adjective close, which refers to a short distance or a strong relationship. For example:
 
 `The manager worked closely with the design team.` -> This sentence uses the adverb, which describes how they worked.
@@ -951,6 +953,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> V
 
 - **video games**: are games you play on a computer, a game console, or a phone where you control what happens on the screen using buttons or a controller. They can be adventures, sports, puzzles, or many other types.
+
+- **video platform**: refers to an online service or application that hosts videos. For example: `Our video platform allows users to upload and share their videos easily.` -> This describes a service where users can manage and view videos.
 
 
 ---
