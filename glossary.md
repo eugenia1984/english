@@ -437,6 +437,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **large**: means big, usually with many employees or a lot of money. For instance, He got a job at a large corporation.
 
+- **layouts**: are the arrangement or structure of elements on a page or interface. For example: `The layout of the homepage was changed to make it more user-friendly.` -> This means that the arrangement of elements on the homepage was adjusted to make it easier for users to navigate.
+
 - **leading a team**: means being in charge of a group of people and guiding them to achieve their goals. It's like being the captain of a ship.
 
 - **let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
