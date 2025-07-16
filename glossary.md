@@ -831,7 +831,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
   
 - **to encourage**: means to give support, confidence, or hope to someone. It's what a good coach does to motivate their team to do their best.
 
-- **To ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
+- **to ensure** means to make certain or guarantee that something happens. For example, `We ensure quality by checking every product` means they make sure every product is good.
 
 - **to handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
 
@@ -877,6 +877,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to touch on**: can mean to briefly mention or deal with a topic. It is often used when covering a subject without going into much detail. For example: `The speaker touched on the new software update during the meeting.` -> The speaker briefly mentioned the software update but did not go into detail.
 
+- **to tweak**: means to make a slight adjustment or modification. For example: `The developer tweaked the code to improve the app's performance.` -> This means that the developer made small changes to the code to enhance how the app functions.
 - **tops**: is used informally to indicate the maximum amount or time. For example: ``The meeting will last one hour, tops`` (no longer than one hour)
 
 - **top condition**: refers to being in the best possible state or quality, especially important for equipment in safety-critical roles. For example, ``The fire extinguisher must be kept in top condition``.
