@@ -313,6 +313,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **great traits**: means very good qualities or characteristics.
 
+- **guidelines**: are rules or principles that provide direction. For example: `The team followed the design guidelines to maintain consistency across pages.` -> This means that the team followed specific rules to ensure a consistent appearance and structure across different pages.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> H
