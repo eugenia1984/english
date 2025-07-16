@@ -20,3 +20,19 @@ Tom:    Probably a few more weeks.
         and I believe we're close to finalizing the major changes.
 Sophie: That's good news. It feels great to make our app more accessible.
 ```
+
+### Present Perfect Continuous
+
+The Present Perfect Continuous tense is used **to describe actions that started in the past and are still happening**. 
+
+-**It focuses on the duration or continuation of the action.** 
+
+The structure of this tense is_ **have/has + been + verb(-ing)**. 
+
+For example:
+
+`We have been developing a new app for accessibility`. -> This means the development started in the past and is still ongoing.
+
+`He has been fixing bugs in the software for several hours`. -> This means he started fixing the bugs earlier and is still working on it.
+
+----
