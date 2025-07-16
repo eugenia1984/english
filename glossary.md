@@ -143,6 +143,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **collection**: refers to a group of items gathered together, often because they are of the same type or share a theme. For instance, if you say ``I have a collection of stamps from different countries``, it means you have many stamps from various places kept together.
 
+- **come along**: is often used to describe progress or improvement over time. For example: `The new website design is coming along nicely` -> it means that the website design is progressing well.
+
 - **compensate**: means to make up for something that is missed or lacking. It's often used to describe actions taken to balance out an absence or deficiency. For example: ``If you skip lunch, you might compensate by eating more at dinner``, meaning: not having lunch and then eating more later to make up for it.
 
 - **compliance**: means following rules and doing what is required in a job. It is about making sure we do things the right way. For example, ``In our job, compliance with safety rules keeps everyone safe``.
