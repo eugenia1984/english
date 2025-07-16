@@ -653,6 +653,8 @@ For example:
 - **regulations** are official rules made by a government or authority. They are designed to control how something works or how people act, especially in businesses. Example: ``Health and safety regulations ensure a safe workplace``.
 
 - **relaxed**: describes something or someone calm and not strict
+
+- **relief**: means a feeling of comfort or reassurance when something concerning improves. For example: `It was a relief to hear that the project was approved.` -> Relief describes the comfort felt after getting good news about the project.
   
 - **representative** is a person chosen or appointed to speak or act on behalf of others. In a business context, representatives from a company attend meetings to discuss their needs or collaborate on projects. For example, He is our representative at the conference means he is the person attending the conference to represent the interests of his company.
 
