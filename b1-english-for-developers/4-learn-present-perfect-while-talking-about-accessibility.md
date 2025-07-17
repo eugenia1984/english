@@ -77,3 +77,32 @@ James: We're working on it.
 ```
 
 ---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Voice Command Features
+
+```
+Bob:   Hi Linda have you been working on the new voice command features?
+Linda: Yes, I've been testing them since the latest software update.
+       We've had some positive feedback, but there are still a few bugs to fix.
+Bob:   How long have you been focusing on this evaluation?
+Linda: For the past couple weeks.
+       I've been trying to cover all scenarios to ensure that the commands work consistently.
+Bob:   Have you had any problems with voice recognition?
+Linda: A few.
+       The system hasn't been responding well to certain accents,
+       and it struggles with background noise.
+       We need to improve its accuracy.
+Bob:   What about the integration with other systems?
+       Has it been seamless?
+Linda: Not entirely.
+       It's had issues connecting with our older devices,
+       but we're working on it.
+       The development team has been brainstorming solutions.
+Bob:   That's a good start.
+       By the way, have we tested it with real users yet?
+Linda: Not yet, but we plan to.
+       I think it would be helpful to get some real-world feedback before we roll it out completely.
+```
+
+---
