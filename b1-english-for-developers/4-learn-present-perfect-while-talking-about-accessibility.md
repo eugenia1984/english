@@ -105,4 +105,10 @@ Linda: Not yet, but we plan to.
        I think it would be helpful to get some real-world feedback before we roll it out completely.
 ```
 
+### Present Perfect Continuous - for
+
+In the Present Perfect Continuous tense, for is used to specify the duration of time that an action has been happening. For example:
+
+I have been studying for my exams for three hours. - In this sentence, for indicates the length of time (three hours) that the action of studying has been taking place.
+
 ---
