@@ -114,3 +114,29 @@ I have been studying for my exams for three hours. - In this sentence, for indic
 - **for vs. since**: For is used with periods of time (e.g., days, weeks), while since is used with specific dates or points in time.
   
 ---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 4: Accessibility Training for Developers
+
+```
+Anna:  Hi, James.
+       Have you been reviewing the training feedback for our accessibility program?
+James: Yes, I've been working on it since the last training session.
+       We've received a lot of positive comments,
+       but there are some areas we still need to improve.                  
+Anna:  That's great to hear.
+       How long have we been running these sessions?
+James: We've been conducting them for about six months now.
+       It's been a gradual process,
+       but we've seen steady progress in our team's understanding of accessibility.
+Anna:  Are there any specific areas where people haven't been performing as expected?
+James: Yes, the interactive activities haven't been as effective as we thought.
+       It seems that some of the scenarios weren't relevant enough for the participants.
+Anna:  I see.
+       Have you identified any solutions to make them more engaging?
+James: We're working on it.
+       The instructional design team has been brainstorming ideas to make the sessions more interactive.
+       We've also considered incorporating more real-life scenarios.
+Anna:  That makes sense.
+       Let's keep in touch to monitor the progress and ensure we're meeting our accessibility goals.
+```
