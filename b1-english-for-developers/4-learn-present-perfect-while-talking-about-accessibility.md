@@ -111,4 +111,6 @@ In the Present Perfect Continuous tense, for is used to specify the duration of 
 
 I have been studying for my exams for three hours. - In this sentence, for indicates the length of time (three hours) that the action of studying has been taking place.
 
+- **for vs. since**: For is used with periods of time (e.g., days, weeks), while since is used with specific dates or points in time.
+  
 ---
