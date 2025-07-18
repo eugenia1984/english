@@ -27,6 +27,22 @@ Jake:  The training is planned for Thursday afternoon.
        Every team member must understand the changes and how these will impact our operations.
 ```
 
+### Future: will - affirmative
+
+**Will** -> indicate the Future Simple tense, showing that the action is expected to happen.
+
+The structure **will + verb** is commonly used to talk about future events, plans, or predictions. 
+
+For example:
+
+`They will be at the meeting tomorrow`. -> This means their presence is planned for the future.
+
+`We will start the project next week`. -> This means the project is scheduled to begin in the future.
+
+
+*TIP* -> **Using will is a straightforward way to express future intentions, promises, or schedules-**
+
+
 ### Future: will - question
 
 Te structure **Will + subject + verb** to **ask about a planned event in the future**.
