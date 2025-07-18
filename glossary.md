@@ -96,6 +96,10 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **brainstorming session**: is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
 
 - **brief**: means short in duration or length. When people say something is brief, it indicates that it won't take a lot of time. **Briefly** is the adverb form of brief and is used to describe how an action is done. For example, I will speak briefly means the speaking will be done for a short time.
+
+- **briefed**: means that someone has been provided with detailed instructions or information to prepare them for a specific task or situation.
+
+Unexpected refers to something that happens without prior knowledge or warning. For example: `The team was briefed on the emergency procedures.` -> This means the team was given instructions about what to do in an emergency.
   
 - **breathing exercises**: are practices where you consciously control your breathing pattern. They are often used for relaxation, stress management. ``Deep breathing helps to calm your nerves``. (uses controlled breathing for relaxation)
 
