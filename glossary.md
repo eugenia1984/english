@@ -710,6 +710,8 @@ For example:
 
 - **serious**: means showing deep thought, not joking, or focusing intensely on something important. For example, ``He is serious about learning English``. This shows he is very focused and committed to learning English, not doing it just for fun.
 
+- **set for**: **set**means that something is arranged, planned, or scheduled for a specific time or purpose. The preposition **for** is used to indicate the time or purpose of the planned event. For example: `The meeting is set for 3 PM tomorrow.` -> This means the meeting is scheduled to take place at that time.
+
 - **set up right**: means to configure something correctly so that it works as expected. If something isn't set up right, it might not function properly. For example:
 
 `The printer isn't working because it's not set up right.` -> The printer isn't configured correctly.
