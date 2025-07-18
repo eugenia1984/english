@@ -14,4 +14,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 4- [Learn Present Perfect while talking about accessibility](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/4-learn-present-perfect-while-talking-about-accessibility.md): Present Perfect Continuous
 
+5- [Learn how to plan future events](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/5-learn-how-to-plan-future-events.md)
+
 ---
