@@ -803,6 +803,10 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **thoughts**: means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
 
+- **timetable**: is a schedule that outlines the times and dates of planned events or activities. In this context, Jake refers to a timetable for the system update, and Maria mentions reviewing it, showing she is prepared. For example: `The timetable for the train is posted at the station.` -> This means the schedule for train arrivals and departures is available for reference.
+
+
+
 - **tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
   
 - **typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example:
