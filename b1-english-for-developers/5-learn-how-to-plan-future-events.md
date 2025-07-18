@@ -1,1 +1,30 @@
-# Learn how to plan future events
+# <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Learn how to plan future events
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 1: Scheduled Maintenance to Prevent DoS Attacks
+
+
+```
+Jake:  Maria, the next system update is scheduled for this Saturday at 2am.
+       It's crucial to enhance our firewall settings to prevent any potential denial of service attacks.
+Maria: Yes, Jake.
+       I've reviewed the timetable.
+       The server downtime starts exactly when the user traffic is at its lowest, correct?
+Jake:  That's right.
+       The update should last about two hours.
+       Our main goal is to minimize disruption while strengthening our defenses.
+Maria: Will the support team be on call during the update?
+       We need to make sure they're ready to handle any immediate issues that come up.
+Jake:  Absolutely.
+       The entire technical support team will be on duty.
+       They've been briefed and are prepared to manage any unexpected situations.
+Maria: Great.
+       And when does the team perform the final checks?
+Jake:  The final system checks are set for Friday night.
+       We'll confirm that all security patches are ready to be deployed without any complications.
+Maria: Perfect.
+       And the training session for the new security protocols, when is that planned?
+Jake:  The training is planned for Thursday afternoon.
+       Every team member must understand the changes and how these will impact our operations.
+```
+
+---
