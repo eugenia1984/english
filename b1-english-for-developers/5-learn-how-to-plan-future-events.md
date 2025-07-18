@@ -54,3 +54,21 @@ This structure is common in formal questions about future arrangements. For exam
 `Will they join us for dinner?` -> This is asking if they have plans to come to dinner.
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Responding to Phishing Threats
+
+```
+Jake:  Sarah, I just found out that we've had a phishing attack on our system.
+     It looks like someone will need to notify the team and take immediate action.
+Sarah:
+Jake:
+Sarah:
+Jake:
+Sarah:
+Jake:
+Sarah:
+Jake:
+Sarah:
+```
+
+---
