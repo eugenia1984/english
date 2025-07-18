@@ -8,6 +8,8 @@ This phrase is commonly used in informal contexts to soften statements or descri
 
 - **a couple of**: is a casual way of saying two or a small number of. It's often used in conversation to indicate a small quantity of something.
 
+- **accessibility program**: is a set of initiatives aimed at making resources or environments accessible to everyone, particularly people with disabilities. For example: `Our accessibility program includes features like screen readers and adjustable font sizes.` -> In this example, the program focuses on inclusive tools and features for people with different abilities.
+
 - **access card**: refers to a card that gives the holder permission to enter or access a specific place.
 
 - **access control**: refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
