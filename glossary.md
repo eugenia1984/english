@@ -406,8 +406,6 @@ There are different types of data, like **quantitative data**, which is about nu
 - **immediately**: means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
 
 - **in real time**: refers to something happening immediately as events occur, without delay. It is often used in the context of monitoring, communication, or data processing. For example: `The system updates the dashboard in real time, so you can see changes instantly.` -> Meaning the dashboard changes immediately after the updates are applied.
-
-
   
 - **interested in**: is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, ``in What are you interested in?``, they want to know about your hobbies, likes, or professional interests. **Interested in** means something catches your attention. For example, if you say ``I am interested in painting``, it means you like painting or enjoy learning about it.
 
@@ -904,7 +902,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to tackle tasks**: refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
-- **Touch base**: means to make contact or to check in with someone, usually to discuss progress or updates. For example:
+- **touch base**: means to make contact or to check in with someone, usually to discuss progress or updates. For example:
 
 `Let's touch base next week to see how the project is going.` -> We'll talk again next week to discuss the project's progress.
 
@@ -912,7 +910,9 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to wear**: too many hats is an idiom that means to have many different roles or responsibilities.
 
-- **To work properly**: means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
+- **to work properly**: means to function correctly or as expected. Example: ``It's important that all machines work properly for safety.``
+
+- **training feedback**: refers to comments, reviews, or suggestions gathered from participants after a training session. For example: `The training feedback highlighted areas where we can improve the course material.` -> Here, feedback helps identify strengths and weaknesses in the training.
 
 - **training session**: is a period of time dedicated to learning new skills or information. It's like a class. For instance, attending a training session on communication means going to a class to learn about communication.
 
