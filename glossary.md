@@ -768,6 +768,8 @@ For example:
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
 
+- **system update**: is an essential process that makes improvements, adds new features, or corrects issues in the software on a device or network. For example: `The system update included security improvements to protect user data.` -> The update made changes to help keep user information safe from potential threats.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> T
