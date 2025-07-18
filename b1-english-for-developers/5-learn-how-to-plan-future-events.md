@@ -27,4 +27,14 @@ Jake:  The training is planned for Thursday afternoon.
        Every team member must understand the changes and how these will impact our operations.
 ```
 
+### Future: will - question
+
+Te structure **Will + subject + verb** to **ask about a planned event in the future**.
+
+This structure is common in formal questions about future arrangements. For example:
+
+`Will the meeting start at 10 AM?` -> This is asking if the meeting is scheduled to begin at that specific time.
+
+`Will they join us for dinner?` -> This is asking if they have plans to come to dinner.
+
 ---
