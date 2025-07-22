@@ -568,6 +568,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> P
 
+- **parameterized**: comes from the root word parameter, which is a value or placeholder used to control how something works. When people say a query is parameterized, it means it uses predefined values (parameters) instead of inserting user input directly.
+
 - **passion**: is a big feeling of love for something. When you have a passion for something, you really enjoy it and think it's very important. If someone has a passion for music, it means they love music a lot. In the conversation
 
 - **passionate about something**: when you not only like something, but also express strong emotions or feelings in relation to it. For example: ``I am passionate about learning languages. I have studied Spanish, French, Italian, Japanese, and Chinese. I can't wait to start another``.
