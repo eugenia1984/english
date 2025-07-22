@@ -59,6 +59,8 @@ Modules:
 
 -5 - [Learn how to plan future events](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/5-learn-how-to-plan-future-events.md): future with will and going to
 
+-6 - [Learn Future Continuous while describing actions](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/6-learn-future-continuous-while-describing-actions.md)
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
