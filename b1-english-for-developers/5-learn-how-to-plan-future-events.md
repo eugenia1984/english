@@ -81,12 +81,22 @@ Sarah:  Thanks, Jake.
         Let's meet later to discuss the investigation results and plan our next steps.
 ```
 
-### Future - will
+### Future - will 
 
 **Will** is used **to express a decision made at the moment of speaking, often when someone reacts to a situation**. It is **a way to show spontaneity or immediate response**. 
 
 For example:
 
 `I will call the manager right away`. -> This shows a decision made at the moment in response to a need.
+
+### Future: I'll (I will)
+
+**I'll** is the contraction for **I will**. 
+
+It is commonly used to express decisions made at the moment of speaking or to indicate future actions. For example:
+
+`I'll call the manager now.` -> This shows a decision made at the moment of speaking.
+
+`I'll help you with your project.` -> This means offering help immediately after hearing about the need.
 
 ---
