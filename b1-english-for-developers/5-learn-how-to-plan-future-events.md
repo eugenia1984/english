@@ -58,13 +58,19 @@ This structure is common in formal questions about future arrangements. For exam
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Responding to Phishing Threats
 
 ```
-Jake:  Sarah, I just found out that we've had a phishing attack on our system.
-       It looks like someone will need to notify the team and take immediate action.
-Sarah: Oh, no. Do you know where it originated from?
-Jake:  Not yet, but I think it came from an email link.
-Sarah:
-Jake:
-Sarah:
+Jake:   Sarah, I just found out that we've had a phishing attack on our system.
+        It looks like someone will need to notify the team and take immediate action.
+Sarah:  Oh, no. Do you know where it originated from?
+Jake:   Not yet, but I think it came from an email link.
+        We need to investigate quickly.
+        I'll send out a warning to everyone right away.
+Sarah:  That sounds like a good plan.
+        Do you think it will affect our project deadlines?
+Jake:   It might.
+        I hope it won't, but we should prepare for delays.
+        I'll update the project manager about the situation.
+Sarah:  I'll alert the development team and tell them to check their emails carefully.
+        Is there anything else we should do?
 Jake:
 Sarah:
 Jake:
