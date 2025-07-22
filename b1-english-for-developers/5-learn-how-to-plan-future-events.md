@@ -89,14 +89,25 @@ For example:
 
 `I will call the manager right away`. -> This shows a decision made at the moment in response to a need.
 
-### Future: I'll (I will)
+### Future: I'll (I will) & Won't (will not)
 
-**I'll** is the contraction for **I will**. 
+- **I'll** is the contraction for **I will**. It is commonly used to express decisions made at the moment of speaking or to indicate future actions.
 
-It is commonly used to express decisions made at the moment of speaking or to indicate future actions. For example:
+For example:
 
 `I'll call the manager now.` -> This shows a decision made at the moment of speaking.
 
 `I'll help you with your project.` -> This means offering help immediately after hearing about the need.
+
+
+- **Won't** is the contraction for **will not**, which is used to make negative sentences about the future.
+
+For example:
+
+`They won't finish the project on time if they don't start now.` -> This predicts a negative outcome if action isn't taken.
+
+`He won't attend the meeting because he is sick`. -> This shows a future action that will not happen.
+
+
 
 ---
