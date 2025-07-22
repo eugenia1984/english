@@ -71,10 +71,14 @@ Jake:   It might.
         I'll update the project manager about the situation.
 Sarah:  I'll alert the development team and tell them to check their emails carefully.
         Is there anything else we should do?
-Jake:
-Sarah:
-Jake:
-Sarah:
+Jake:   We'll probably need to run a full system scan to ensure that there's no hidden malware.
+        Can you coordinate with the IT support team for that?
+Sarah:  Yes, I'll contact them now.
+        How do you think our clients will react to this news?
+Jake:   They'll likely be concerned,
+        but I'll reassure them that we're taking all necessary steps to secure our systems.
+Sarah:  Thanks, Jake.
+        Let's meet later to discuss the investigation results and plan our next steps.
 ```
 
 ---
