@@ -81,4 +81,12 @@ Sarah:  Thanks, Jake.
         Let's meet later to discuss the investigation results and plan our next steps.
 ```
 
+### Future - will
+
+**Will** is used **to express a decision made at the moment of speaking, often when someone reacts to a situation**. It is **a way to show spontaneity or immediate response**. 
+
+For example:
+
+`I will call the manager right away`. -> This shows a decision made at the moment in response to a need.
+
 ---
