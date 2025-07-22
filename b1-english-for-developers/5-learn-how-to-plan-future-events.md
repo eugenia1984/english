@@ -137,4 +137,14 @@ Jake:  We'll probably do that after we've completed the training.
        It's better to ensure our team is fully prepared first.
 ```
 
+### Future - going to
+
+**Going to** is used to talk about **planned actions or intentions for the future**. 
+
+For example:
+
+`We are going to upgrade the system next month`. -> This means the upgrade is planned and will happen soon.
+
+`She is going to learn SQL next year`. -> This means she intends to learn SQL in the future.
+
 ---
