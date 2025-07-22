@@ -137,7 +137,7 @@ Jake:  We'll probably do that after we've completed the training.
        It's better to ensure our team is fully prepared first.
 ```
 
-### Future - going to
+### Future - Going to
 
 **Going to** is used to talk about **planned actions or intentions for the future**. 
 
@@ -146,5 +146,19 @@ For example:
 `We are going to upgrade the system next month`. -> This means the upgrade is planned and will happen soon.
 
 `She is going to learn SQL next year`. -> This means she intends to learn SQL in the future.
+
+### Future - Going to - question
+
+This type of question uses going to to ask about someone's future actions or plans. You use it when you want to know what someone intends to do or has already planned. 
+
+For example:
+
+`What are you going to do about the missing files?` -> This asks about the person's future action to solve a problem.
+
+`When are you going to update the system?` -> This asks about a specific plan for the future.
+
+Structure -> `What / When / Who / Where ... + are / is + going to +...`
+
+
 
 ---
