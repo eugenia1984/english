@@ -586,10 +586,10 @@ There are different types of data, like **quantitative data**, which is about nu
 
 `They are perhaps the best developer for this project.` -> They might be the best developer, but it is not definite.
 
-- **phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source. For example:
+- **phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source. For example: `Phishing attempts are common in emails that look like they come from your bank.` -> Scammers often try to trick people using fake emails.
 
-`Phishing attempts are common in emails that look like they come from your bank.` -> Scammers often try to trick people using fake emails.
-  
+**phishing** is a method used by scammers to trick people into sharing personal information like passwords or credit card details, usually through fake emails or websites. For example: `The phishing email looked like it came from our bank.` -> This means the email was fake but designed to steal personal information.
+
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
 
 - **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
