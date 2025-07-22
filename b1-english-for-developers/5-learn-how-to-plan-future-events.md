@@ -109,5 +109,32 @@ For example:
 `He won't attend the meeting because he is sick`. -> This shows a future action that will not happen.
 
 
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Planning for SQL Injection Prevention
+
+```
+Jake: I've been looking into our database security,
+      and I think we're going to need some additional measures to prevent SQL injection attacks.
+Maria: I agree.
+       We've been noticing some unusual queries in the logs.
+       What are you going to recommend to improve security?
+Jake:  We're going to implement parameterized queries to minimize the risk.
+       This should reduce the chances of unauthorized access to our data.
+Maria: That sounds like a solid plan.
+       Are we going to require additional training for our developers?
+Jake:  Yes. We're going to hold the session next week
+       to ensure everyone knows how to implement these changes.
+       It's crucial that we all follow best practices.
+Maria: I'm going to inform the team about the upcoming training.
+       Is there anything else we need to do?
+Jake:  We're going to monitor the database activity more closely.
+       This will help us catch any suspicious patterns early.
+Maria: Great.
+       I think this is going to make a big difference in our security.
+       Are we going to share this information with other departments?
+Jake:  We'll probably do that after we've completed the training.
+       It's better to ensure our team is fully prepared first.
+```
 
 ---
