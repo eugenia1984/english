@@ -59,9 +59,9 @@ This structure is common in formal questions about future arrangements. For exam
 
 ```
 Jake:  Sarah, I just found out that we've had a phishing attack on our system.
-     It looks like someone will need to notify the team and take immediate action.
-Sarah:
-Jake:
+       It looks like someone will need to notify the team and take immediate action.
+Sarah: Oh, no. Do you know where it originated from?
+Jake:  Not yet, but I think it came from an email link.
 Sarah:
 Jake:
 Sarah:
