@@ -738,6 +738,8 @@ For example:
 
 - **small changes make a big difference** means that even minor adjustments in behavior or habits can have a significant impact. This expression is often used to encourage continuous improvements.
 
+- **staging server**: refers to a testing environment where changes to a system or application are tested before being implemented on the live, production server. For example: `We uploaded the new website features to the staging server for testing`. -> In this sentence, staging server is the testing space used to ensure that the new website features function correctly before they go live.
+
 - **stand up** refers to the action of rising from a sitting position.
 
 - **stress tests**: are evaluations designed to see how a system performs under high pressure or extreme conditions. For example: `The developers ran stress tests on the website to check its performance during peak traffic`. -> This means the developers tested the website to ensure it could handle a large number of visitors at the same time.
