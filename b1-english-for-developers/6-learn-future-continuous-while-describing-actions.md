@@ -47,7 +47,7 @@ Alice: Hey, Mark.
 Mark:  Yes, we have.
        Some users are complaining that they can't log in.
        Did you figure out what's causing the problem?
-Alice: I think it's related to our session manager.
+Alice: I think it's related to our session management.
        The tokens aren't being refreshed properly, are they?
 Mark:  That seems to be the case.
        The system is supposed to renew tokens every 30 minutes, isn't it?
