@@ -686,8 +686,6 @@ For example:
 
 `We will roll out the new marketing campaign soon`. -> They will start or introduce the new campaign.
 
-
-
 - **routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
 
 - **rules** are specific guidelines or instructions that are meant to be followed. They are set to maintain order and ensure fair and proper conduct, especially in a professional setting. For example, ``The office rules include being punctual and respectful to colleagues``.
@@ -965,6 +963,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 - **unlock**: means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
 - **update**: is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
+
+- **user authentication**: is the process of verifying that a user is who they claim to be. It typically involves entering a username and password, scanning a fingerprint, or using another method to confirm identity. For example: `Our company uses two-factor user authentication. Users must enter their password and a code sent to their phone to log in`. -> This means that the company adds an extra layer of security by requiring users to provide two separate pieces of information — a password and a code — to verify their identity and gain access to the system.
 
 - **user feedback**: refers to opinions, suggestions, or issues reported by users about their experience with a product or service. For example: `The company improved the app based on user feedback.` -> Meaning the comments and suggestions coming from the users were read and used to make the app better.
 
