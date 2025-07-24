@@ -10,7 +10,7 @@ Brian:    Yes, I'll be monitoring the system to make sure everything goes smooth
           We've been preparing for it all week.
           Are you planning to join us?
 Jessica:  Yes, I will be joining you.
-          I want to double check the new security features
+          I want to double-check the new security features
           to prevent any potential denial of service attacks.
           When do we expect the maintenance to start?
 Brian:    It's going to start around 2 a.m. and should last a couple of hours.
