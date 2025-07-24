@@ -231,6 +231,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **down the street**: means further along the street or a short distance away on the same street.
 
+- **downtime**: means the period when a system, service, or device is unavailable or not working. For example: `The website experienced an hour of downtime due to server maintenance`. -> This means the website could not be accessed for an hour because the server was being worked on.
+
 - **downtown** is the heart of a city where there are many shops, restaurants, and usually tall buildings.
 
 - **drawing tablet**: is a tool that people use with computers to draw or design things.
