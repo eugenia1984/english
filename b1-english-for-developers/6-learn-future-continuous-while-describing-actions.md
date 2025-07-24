@@ -37,3 +37,40 @@ I will be double-checking the new security features tomorrow.
 
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Troubleshooting Authentication Errors
+
+```
+Alice: Hey, Mark.
+       We've been having some trouble with our user authentication,
+       haven't we?
+Mark:  Yes, we have.
+       Some users are complaining that they can't log in.
+       Did you figure out what's causing the problem?
+Alice: I think it's related to our session manager.
+       The tokens aren't being refreshed properly, are they?
+Mark:  That seems to be the case.
+       The system is supposed to renew tokens every 30 minutes, isn't it?
+Alice: Yes, it should, but something's going wrong.
+       Are you going to check the server logs to find out what happened?
+Mark:  I already did.
+       There's nothing unusual in the logs.
+       This is strange, isn't it?
+Alice: It is.
+       Let's run a few more tests to see if we can replicate the issue.
+       Will you help me with that?
+Mark:  Sure.
+       We can do some tests on the staging server, can't we?
+Alice: Yes, we can.
+       That should give us more information.
+       By the way, have the support tickets been piling up because of this?
+Mark:  Unfortunately, yes.
+       We need to resolve this quickly, don't we?
+Alice: Absolutely.
+       Let's work together to find a solution.
+       We don't want our users getting frustrated, do we?
+Mark:  No, we don't.
+       Okay, let's get to work and see if we can sort this out.
+```
+
+---
