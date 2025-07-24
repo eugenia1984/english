@@ -27,4 +27,13 @@ Brian:    Good idea.
           We don't want anyone getting frustrated because they can't access the site.
 ```
 
+### Future Continuous
+
+The Future Continuous tense is used to describe an ongoing action that will happen in the future. 
+
+Its structure is **will be + verb ending in -ing**.
+
+I will be double-checking the new security features tomorrow.
+
+
 ---
