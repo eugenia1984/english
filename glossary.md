@@ -598,6 +598,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **pics** is a short form of pictures. When you take pics, you are using your camera or cell phone to capture images.
 
+- **piling up**: means accumulating or gathering in a large quantity, often more than expected or manageable. For example: `The homework assignments are piling up as the deadline approaches`. -> This example highlights how the number of homework assignments is growing significantly, creating a sense of urgency or pressure.
+
 - **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
 
 - **places around here** refers to locations in the nearby vicinity or area.
@@ -732,7 +734,7 @@ For example:
 
 - **sleep cycle** refers to the natural pattern of sleep, including different stages the body goes through while sleeping. For example: ``A good sleep cycle is vital for restful sleep``, meaning: refers to a healthy pattern of sleep.
 
-- **Sluggish**: is an adjective that describes a feeling of low energy, slow movement, or a lack of alertness. It's often used when someone feels tired, lethargic, or not able to think or move quickly. This term can apply to both physical and mental states. Here are some examples: ``The computer was running sluggishly, taking a long time to respond``, meaning: describes slow performance, used metaphorically for an inanimate object.
+- **sluggish**: is an adjective that describes a feeling of low energy, slow movement, or a lack of alertness. It's often used when someone feels tired, lethargic, or not able to think or move quickly. This term can apply to both physical and mental states. Here are some examples: ``The computer was running sluggishly, taking a long time to respond``, meaning: describes slow performance, used metaphorically for an inanimate object.
 
 - **small**: means not big, often with fewer employees or less money. For example: She works for a small company.
 
@@ -756,7 +758,9 @@ For example:
 
 `She got stuck on the final question of the exam.` -> She spent a long time on the final question.
 
-- **supposed to**_ is used to express something that is expected or assumed to happen, based on a plan, rule, or expectation. For example:
+- **support tickets**: are messages or requests sent by users to a support team to report problems or ask for assistance. For example: `The support team resolved over 50 support tickets this week`. -> It means more than 50 issues reported by users were addressed by the support team.
+
+- **supposed to**: is used to express something that is expected or assumed to happen, based on a plan, rule, or expectation. For example:
 
 `The project is supposed to be finished by Friday.` -> This means it is expected to be completed by that time.
 
