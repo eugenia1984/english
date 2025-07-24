@@ -73,4 +73,20 @@ Mark:  No, we don't.
        Okay, let's get to work and see if we can sort this out.
 ```
 
+### Question tags
+
+Tag questions are **short questions added to the end of a sentence**. They are used **to confirm information or ask for agreement**. 
+
+A tag question includes a helping verb and a pronoun that matches the subject of the main sentence. The verb in the tag question must match the verb tense of the main sentence.
+
+- `Haven't` and `hasn't` are negative contractions of `have` and `has`, used in tag questions to confirm or check information.
+
+-Use haven't when the subject is plural (like we or they) or when the subject is I. 
+
+-Use hasn't when the subject is singular (like he, she, or it). For example:
+
+`We've been working hard, haven't we?` -> The main sentence uses we've (we have), so the tag question uses haven't we? to confirm the statement.
+
+`She's finished her report, hasn't she?` -> The main sentence uses she's (she has), so the tag question uses hasn't she? to confirm the statement.
+
 ---
