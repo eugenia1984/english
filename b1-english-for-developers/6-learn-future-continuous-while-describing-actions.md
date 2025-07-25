@@ -90,3 +90,25 @@ A tag question includes a helping verb and a pronoun that matches the subject of
 `She's finished her report, hasn't she?` -> The main sentence uses she's (she has), so the tag question uses hasn't she? to confirm the statement.
 
 ---
+
+### <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Preventing MitM attacks
+
+
+```
+Anna:  Hi, Brian.
+       I've heard about these Man-in-the-Middle attacks.
+       When do they usually happen?
+Brian: Typically,
+       they occur when you're using public Wi-Fi or unsecured networks.
+       It's crucial to be careful,
+       especially during peak travel times like holidays or weekends.
+Anna:  I see.
+       How often should we remind employees to use secure connections?
+Brian:
+Anna:
+Brian:
+Anna:
+Brian:
+```
+
+---
