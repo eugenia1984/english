@@ -740,6 +740,8 @@ For example:
 
 - **small changes make a big difference** means that even minor adjustments in behavior or habits can have a significant impact. This expression is often used to encourage continuous improvements.
 
+- **sort this out**: means to solve or fix a specific problem. It is a casual way of saying figure out a solution or resolve an issue. The general phrase sort out can also be used more broadly for organizing or dealing with problems. For example: `We need to sort out the issues with the payment system before launch`. -> It means you need to fix or resolve the problems with the payment system to ensure everything works correctly before launching it.
+
 - **staging server**: refers to a testing environment where changes to a system or application are tested before being implemented on the live, production server. For example: `We uploaded the new website features to the staging server for testing`. -> In this sentence, staging server is the testing space used to ensure that the new website features function correctly before they go live.
 
 - **stand up** refers to the action of rising from a sitting position.
