@@ -762,6 +762,8 @@ For example:
 
 `She got stuck on the final question of the exam.` -> She spent a long time on the final question.
 
+- **summit**: is a formal gathering or meeting where people come together to discuss specific topics, often for planning or decision-making. For example: `The company is hosting a summit to plan next year's cybersecurity strategies`. -> It shows that the company is organizing an important meeting where leaders or teams will discuss and decide on strategies for improving cybersecurity.
+
 - **support tickets**: are messages or requests sent by users to a support team to report problems or ask for assistance. For example: `The support team resolved over 50 support tickets this week`. -> It means more than 50 issues reported by users were addressed by the support team.
 
 - **supposed to**: is used to express something that is expected or assumed to happen, based on a plan, rule, or expectation. For example:
