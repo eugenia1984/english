@@ -479,6 +479,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **mandatory**: means something that is required or must be done. It is not optional. For example: `Attendance at the meeting is mandatory.` -> This means you have to be present at the meeting.
 
+- **man-in-the-Middle (or MITM)**: is a type of attack where a hacker secretly gets between two people or systems that are communicating. The hacker listens to or changes the information being shared without anyone knowing. For example: `A Man-in-the-Middle attack (MITM) happened when a hacker intercepted the data sent between a user's computer and their bank`. -> The hacker pretended to be the bank, intercepted the information, and stole the user's login credentials. This allowed the hacker to access the bank account without the user knowing.
+
 - **maybe next time**: is used to politely suggest the possibility of someone participating or joining an activity or event in the future. It can be used independently or as part of a sentence.
 
 - **make sure**: is a phrase used to express that you want to confirm something is done the right way. . For example, ``You make sure the code runs`` means you check the code to be certain it has no errors and can run properly.
