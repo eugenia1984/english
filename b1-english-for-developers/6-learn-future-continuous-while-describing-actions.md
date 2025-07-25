@@ -104,11 +104,25 @@ Brian: Typically,
        especially during peak travel times like holidays or weekends.
 Anna:  I see.
        How often should we remind employees to use secure connections?
-Brian:
-Anna:
-Brian:
-Anna:
-Brian:
+Brian: We send out reminders every month,
+       but we're planning to increase that to every two weeks
+       to keep everyone vigilant.
+       By the end of this week,
+       we'll have new job aids with updated security tips.
+Anna:  That sounds like a good approach.
+       When is our next security review meeting?
+Brian: It's scheduled for tomorrow afternoon.
+       We'll discuss the current security protocols
+       and the steps we're taking to prevent Man-in-the-Middle attacks.
+Anna:  Got it.
+       We have our summit coming next week and many team members are coming from other countries.
+       What should they do to protect themselves while traveling for work?
+Brian: Everyone should always use a VPN,
+       especially when accessing sensitive information.
+       They should also avoid using public Wi-Fi for important tasks
+       like banking or accessing corporate emails.
+Anna:  Thanks for the advice.
+       Let's ensure everyone gets these updates before they travel next week.
 ```
 
 ---
