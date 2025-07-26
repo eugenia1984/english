@@ -70,14 +70,19 @@ For example:
 
 
 
-## Conditional type 1
+## First Conditional 
 
-**This structure is used to talk about real and possible future situations.**
+The First Conditional is used **to describe a possible situation in the present or future**. 
 
 It follows the structure:  `IF PRESENT SIMPLE (condition) + FUTURE WITH WILL (result)` 
 
-Example: **If** the power cable isn't connected securely, the computer **won't** turn on. 
+**This structure is used to talk about real and possible future situations.**
 
--> This highlights the importance of a stable, permanent connection for the computer to work, and the Present Simple tense emphasizes the ongoing state of the cable needing to be securely attached.
+Examples: 
+
+**If** the power cable **isn't** connected securely, the computer **won't turn on**.  -> This highlights the importance of a stable, permanent connection for the computer to work, and the Present Simple tense emphasizes the ongoing state of the cable needing to be securely attached.
+
+**If** you **restart** the system, the problem **will go away**. -> Restarting the system will likely resolve the issue.
+
 
 ---
