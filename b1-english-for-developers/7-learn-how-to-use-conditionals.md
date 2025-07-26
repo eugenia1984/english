@@ -56,9 +56,25 @@ For example:
 
 `The app saves data to the cloud`. -> States a general fact about the app's functionality.
 
+## Zero Conditional
+
+The Zero Conditional is used **for things that are always true when a condition is met**.
+
+It follows the structure `IF PRESENT SIMPLE (condition) + PRESENT SIMPLE (result)`. 
+
+For example:
+
+`If you press the power button, the computer starts`. -> Pressing the power button always turns on the computer.
+
+`If the internet is down, the website doesn't load`. -> The website won't open if there's no internet connection.
+
+
+
 ## Conditional type 1
 
-`IF PRESENT SIMPLE + FUTURE WITH WILL` -> **This structure is used to talk about real and possible future situations.**
+**This structure is used to talk about real and possible future situations.**
+
+It follows the structure:  `IF PRESENT SIMPLE (condition) + FUTURE WITH WILL (result)` 
 
 Example: **If** the power cable isn't connected securely, the computer **won't** turn on. 
 
