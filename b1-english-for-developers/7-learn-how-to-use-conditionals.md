@@ -86,3 +86,38 @@ Examples:
 
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 2: Data Backup
+
+```
+Bob:    Hi Maria,
+        have you checked our data backup procedures recently?
+        If we don't backup regularly,
+        we could lose important information, right?
+Maria:  Yes, you're correct.
+        If someone forgets, it could be a disaster.
+        But I think we are pretty solid here.
+        Brian helped us set up a reminder to backup our work daily
+        along with some other tasks.
+Bob:    Oh, I see.
+        So you don't need to rely on your memory.
+        That's clever.
+Maria:  I agree.
+        But why did you ask?
+        Did you notice something wrong?
+Bob:    No, not really.
+        I was in a meeting where the stakeholders were talking about it,
+        and I just wanted to double check.
+        If we lose critical data, it could set us back weeks.
+        Is there anything else we could do besides these reminders?
+Maria:  Besides the daily reminders,
+        we could also set up automatic backups.
+        If we automate the process, there's less chance of human error.
+        What do you think?
+Bob:    I think that's a great idea.
+        If we automate it, we don't have to worry about people forgetting.
+        How can we set it up?
+Maria:  Brian mentioned we can schedule automatic backups at the end of each day.
+        If we do that, it should cover most of our bases.
+```
+---
