@@ -91,6 +91,8 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **bedtime**: refers to the time at which someone usually goes to bed. It's often associated with routines that help people, especially children, prepare for sleep. For example: 
 ``Their bedtime is at 8, and they always read for a few minutes before turning off the lights.``
 
+- **BIOS**: stands for Basic Input/Output System. It is a crucial system component that helps initialize the hardware during startup and loads the operating system. For example: `If the BIOS is outdated, your system may have performance issues`. -> An old BIOS can cause your computer to run poorly.
+
 - **bookstores**: are shops that sell book.
 
 - **brainstorming session**: is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
