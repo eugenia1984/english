@@ -18,6 +18,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 6- [Learn Future Continuous while describing actions](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/6-learn-future-continuous-while-describing-actions.md): Future Continuous,  Question tags
 
-7- [Learn how to use conditionals](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/7-learn-how-to-use-conditionals.md): Present Continuous
+7- [Learn how to use conditionals](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/7-learn-how-to-use-conditionals.md): Present Continuous, Present Simple
 
 ---
