@@ -1,6 +1,6 @@
 # <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> Learn How to use conditionals
 
-## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> If it doesn't boot
 
 
 ```
@@ -35,5 +35,15 @@ Mark:    If the application has memory leaks,
 Sarah:   Absolutely.
          Thanks for the insights, Mark.
 ```
+
+## Present Continuous
+
+The Present Continuous tense often **emphasizes a temporary condition or an issue occurring at the moment of speaking**. 
+
+For example:
+
+`The server isn't running diagnostics`. -> Highlights that the diagnostics process isn't happening right now.
+
+`Developers aren't debugging the application`. -> Shows the developers aren't working on that activity at the moment.
 
 ---
