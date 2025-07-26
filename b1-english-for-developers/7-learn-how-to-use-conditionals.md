@@ -58,7 +58,7 @@ For example:
 
 ## Conditional type 1
 
-`IF PRESENT SIMPLE + FUTURE WITH WILL`
+`IF PRESENT SIMPLE + FUTURE WITH WILL` -> **This structure is used to talk about real and possible future situations.**
 
 Example: **If** the power cable isn't connected securely, the computer **won't** turn on. 
 
