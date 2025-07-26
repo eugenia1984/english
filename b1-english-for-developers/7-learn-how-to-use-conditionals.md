@@ -46,4 +46,14 @@ For example:
 
 `Developers aren't debugging the application`. -> Shows the developers aren't working on that activity at the moment.
 
+## Present Simple
+
+The Present Simple tense often **refers to actions or situations that are true all the time, rather than temporary occurrences**. 
+
+For example:
+
+`The system updates automatically every night`. -> Refers to a scheduled routine that happens regularly.
+
+`The app saves data to the cloud`. -> States a general fact about the app's functionality.
+
 ---
