@@ -56,4 +56,12 @@ For example:
 
 `The app saves data to the cloud`. -> States a general fact about the app's functionality.
 
+## Conditional type 1
+
+`IF PRESENT SIMPLE + FUTURE WITH WILL`
+
+Example: **If** the power cable isn't connected securely, the computer **won't** turn on. 
+
+-> This highlights the importance of a stable, permanent connection for the computer to work, and the Present Simple tense emphasizes the ongoing state of the cable needing to be securely attached.
+
 ---
