@@ -120,4 +120,42 @@ Bob:    I think that's a great idea.
 Maria:  Brian mentioned we can schedule automatic backups at the end of each day.
         If we do that, it should cover most of our bases.
 ```
+
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 3: What If...
+
+
+```
+Lisa:  Hey Tom, have you ever thought about
+       what would happen if TechCorp went out of business?
+Tom:   If TechCorp went out of business,
+       it would be a big shock.
+       They work with so many companies.
+       Why do you ask?
+lisa:  I read they might be having money problems.
+       If they closed,
+       it would affect a lot of tech companies,
+       wouldn't it?
+Tom:   Yes, it would.
+       If they shut down,
+       a lot of people would lose their jobs and their current projects would stop,
+       wouldn't they?
+Lisa:  That's right.
+       If that happened,
+       a lot of smaller companies would be in trouble too.
+       TechCorp helps fund some of their projects.
+Tom:   True.
+       If that money goes away, those companies might not survive.
+       It would be a big change for everyone.
+Lisa:  Do you think they can fix their money problems?
+Tom:   Maybe, but it's hard to know.
+       If they get new investors, it might help,
+       but it doesn't look likely.
+Lisa:  I hope they do.
+       If they go out of business, it would change everything.
+```
+
+---
+
+
