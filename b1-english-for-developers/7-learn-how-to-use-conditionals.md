@@ -160,7 +160,7 @@ Tom:   It definitely would.
 
 ### Second Conditional:
 
-The Second Conditional structure: **If + Past Simple tense, would + base verb**
+The Second Conditional structure: **IF + PAST SIMPLE, WOULD + BASE VERB**
 
 This structure is used **for unreal or unlikely scenarios**.
 
