@@ -84,6 +84,15 @@ Examples:
 
 **If** you **restart** the system, the problem **will go away**. -> Restarting the system will likely resolve the issue.
 
+### Firts Conditional with might:
+
+The sentence uses the First Conditional, structured as: `IF + PRESENT SIMPLE / MIGHT + BASE VERB`.
+
+In this context:
+
+`If they get new investors` -> is the condition (a possible action).
+
+`It might help` -> is the result (a possible benefit from the action).
 
 ---
 
