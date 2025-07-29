@@ -171,6 +171,18 @@ Example:  `What would happen if TechCorp went out of business?`, reflects an ima
 **What would happen**  -> expresses the result of that scenario.
 
 
+### Tag question
+
+A tag question **is a short question added to the end of a sentence**, used **to confirm information or invite agreement**. 
+
+It is formed by: `Taking the auxiliary verb (e.g., would, is, has, will) from the main sentence. Using the opposite form: positive to negative or negative to positive.
+
+
+In Lisa's sentence: 
+
+`The main clause is It would affect a lot of tech companies (positive).
+
+The tag is `wouldn't it? (negative form of would). -> This confirms the statement and invites agreement or feedback
 
 ---
 
