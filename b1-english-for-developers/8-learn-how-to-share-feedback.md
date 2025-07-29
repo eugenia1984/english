@@ -37,3 +37,35 @@ Jessica:  Thanks, Bob.
 ```
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 2: Team Feedback Session
+
+```
+Brian: Hi, Lisa.
+       What do you think about the recent team meeting?
+       Some people seem to have strong opinions about our approach to the project.
+Lisa:  I noticed that too.
+       If everyone has a different opinion,
+       it could be difficult to make progress.
+Brian: Yes, but I think it's healthy to have some disagreement.
+       If we all agreed on everything,
+       we might miss important details.
+       Don't you think?
+Lisa:  I understand,
+       but sometimes too much disagreement can slow things down.
+       If we want to meet our deadlines,
+       we need to work together.
+Brian: True, but if we ignore different perspectives,
+       we could end up with a less effective solution.
+Lisa:  I guess you're right.
+       I just feel that if we focus too much on debating,
+       we won't have enough time to get the actual work done.
+Brian: Perhaps,
+       but it's also important to make sure everyone feels heard.
+       If people don't feel valued,
+       they might lose motivation, right?
+Lisa:  That's a good point.
+       Maybe we can find a balance between listening to feedback and keeping things on track.
+```
+
+---
