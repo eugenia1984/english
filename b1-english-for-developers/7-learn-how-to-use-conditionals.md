@@ -154,6 +154,8 @@ Tom:   Maybe, but it's hard to know.
        but it doesn't look likely.
 Lisa:  I hope they do.
        If they go out of business, it would change everything.
+Tom:   It definitely would.
+        Let's watch the news and see what happens.
 ```
 
 ---
