@@ -65,7 +65,52 @@ Brian: Perhaps,
        If people don't feel valued,
        they might lose motivation, right?
 Lisa:  That's a good point.
-       Maybe we can find a balance between listening to feedback and keeping things on track.
+       Maybe we can find a balance between
+      listening to feedback and keeping things on track.
+```
+
+---
+
+##  <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 3: Client Feedback
+
+```
+Maria:  Hi, James.
+        I just got an email from a client.
+        He's not happy with our latest update
+        and I'm not sure why.
+        Did you hear anything about this?
+James:  No, I didn't.
+        What did he say?
+        Is it something serious?
+Maria:  He mentioned that some features aren't working as expected.
+James:  Which features did he mention?
+        Do you think it's a coding issue?
+Maria:  He pointed out that the search function is slow
+        and some buttons aren't responding.
+        If we don't fix these,
+        it could impact customer satisfaction.
+James:  Absolutely.
+        Do you think we need to update the software again?
+        If we do, it might delay other projects.
+Maria:  We need to find a solution without causing too much disruption.
+        Can you look into it and see what's causing the problem?
+James:  Sure.
+        I'll check it out.
+        If it's a simple fix, I can work on it right away.
+Maria:  Yes, but let's make sure we understand
+        the full scope of the issue before making changes.
+        If we rush, it could lead to more problems.
+James:  You're right.
+        I'll take a closer look and let you know what I find.
+        If there's anything critical,
+        I'll update immediately.
+Maria:  Sounds good.
+        Also, let's keep the client informed so they know we're working on it.
+        If we keep them in the loop,
+        it might help ease their frustration, right?
+James:  Exactly.
+        I'll send you an update once I've investigated.
+        Let's hope it's an easy fix.
 ```
 
 ---
