@@ -592,6 +592,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
 
+- **performance review**: is an evaluation of an employee's work over a specific period. It typically involves feedback on strengths, areas for improvement, and future goals. For example: `During the performance review, the manager highlighted her achievements over the past year`. -> This means the manager took the opportunity during the review to mention her successes in the previous year.
+
 - **perhaps**: is used to express uncertainty or possibility. It is similar in meaning to maybe. For example:
 
 `Perhaps we will launch the new feature next week.` -> There is a possibility of launching the new feature, but it is not certain.
