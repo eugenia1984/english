@@ -160,7 +160,11 @@ Tom:   It definitely would.
 
 ### Second Conditional:
 
-Lisa's question ->  `What would happen if TechCorp went out of business?`, reflects an imagined possibility.
+The Second Conditional structure: **If + Past Simple tense, would + base verb**
+
+This structure is used **for unreal or unlikely scenarios**.
+
+Example:  `What would happen if TechCorp went out of business?`, reflects an imagined possibility.
 
 **If TechCorp went out of business** -> is the condition (imaginary scenario).
 
