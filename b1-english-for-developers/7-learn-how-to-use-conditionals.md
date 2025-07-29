@@ -158,6 +158,16 @@ Tom:   It definitely would.
         Let's watch the news and see what happens.
 ```
 
+### Second Conditional:
+
+Lisa's question ->  `What would happen if TechCorp went out of business?`, reflects an imagined possibility.
+
+**If TechCorp went out of business** -> is the condition (imaginary scenario).
+
+**What would happen**  -> expresses the result of that scenario.
+
+
+
 ---
 
 
