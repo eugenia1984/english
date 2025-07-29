@@ -323,6 +323,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **go out** with the team refers to leaving the usual place of work to spend time together, usually for social activities or team bonding.
 
+- **go out of business**: means that a company closes permanently, often due to financial problems or lack of customers. For example: `If the company doesn't innovate, it could go out of business`. -> Without introducing new ideas, the company might fail.
+
 - **go straight to**: describes the action of going directly to a place without any stops along the way. For example: ``As soon as I arrive at the office, I go straight to my desk to check my emails``.
 
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
