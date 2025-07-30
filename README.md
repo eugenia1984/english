@@ -65,6 +65,8 @@ Modules:
 
 -8 - [Learn how to share feedback](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/8-learn-how-to-share-feedback.md)
 
+-9- [Learn how to share your opinion](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/9-learn-how-to-share-your-opinion.md)
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
