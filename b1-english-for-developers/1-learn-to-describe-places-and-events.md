@@ -1,4 +1,4 @@
-# 1 - <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Learn to describe places and events
+# <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain.png" alt="great britain"/> 1 - Learn to describe places and events
 
 ## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 1: Hackathon Plans
 
