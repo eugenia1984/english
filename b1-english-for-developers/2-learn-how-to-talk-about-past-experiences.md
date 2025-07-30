@@ -1,4 +1,4 @@
-# 2 - <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> Learn how to talk about past experiences 
+# <img width="48" height="48" src="https://img.icons8.com/color/48/great-britain.png" alt="great britain"/> 2 - Learn how to talk about past experiences 
 
 ## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 1: A Debugging Session Recap
 
