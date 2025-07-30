@@ -835,8 +835,6 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **timetable**: is a schedule that outlines the times and dates of planned events or activities. In this context, Jake refers to a timetable for the system update, and Maria mentions reviewing it, showing she is prepared. For example: `The timetable for the train is posted at the station.` -> This means the schedule for train arrivals and departures is available for reference.
 
-
-
 - **tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
   
 - **typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example:
@@ -891,8 +889,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to join**: means to attend or participate in an activity, event, or meeting. For example: `Thanks for joining the meeting this morning`. -> This means you are grateful for the fact that the person is attending the morning meeting.
 
+- **to keep someone in the loop**: means to keep them informed and updated about a situation. For example: `Please keep me in the loop about any project changes.` -> This means the speaker wants to receive updates about project modifications.
 
-  
 - **to Log In**: To enter your username and password to access a computer or website. Example: ``Every morning, I log in to my computer to start work``.
 
 - **to look like**: is used to describe someone's or something's appearance, often implying a comparison. When you're curious about someone's physical characteristics, such as their hair color, height, or overall look, you might use expressions like: `What does (he/she) look like?` or `What do they look like?` The choice between these depends on the number and gender of the person you're asking about. Use does with singular pronouns (he, she) when referring to one person and do with they when referring to someone whose gender might not be known or if referring to people in a non-binary or plural sense.
