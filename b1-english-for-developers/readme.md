@@ -20,6 +20,8 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 7- [Learn how to use conditionals](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/7-learn-how-to-use-conditionals.md): Present Continuous, Present Simple, Zero Conditional, First Conditional, Second Conditional
 
-- [Learn how to share feedback](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/8-learn-how-to-share-feedback.md)
-  
+8- [Learn how to share feedback](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/8-learn-how-to-share-feedback.md)
+
+9- [Learn how to share your opinion](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/9-learn-how-to-share-your-opinion.md)
+
 ---
