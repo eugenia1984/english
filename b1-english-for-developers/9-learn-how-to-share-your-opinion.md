@@ -26,4 +26,15 @@ Tom:   I'd rather stick with JavaScript
        It's perfect for creating interactive elements on websites.
 ```
 
+### Prefer + noun in -ing form
+
+
+Prefer is typically followed by a noun or the -ing form of a verb. 
+
+For example:
+
+`Users often prefer apps with simple and clean designs`. -> People usually choose apps that are easy to navigate and visually appealing.
+
+`Some people prefer using dark mode to reduce eye strain`. -> Many users choose dark mode because it's easier on their eyes.
+
 ---
