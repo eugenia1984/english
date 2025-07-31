@@ -76,6 +76,9 @@ Maria:  Good point,
         which can save us time during development.
         Since we often need to debug complex code,
         it's a significant advantage.
+Jake:   Okay, let's agree to disagree.
+        Maybe we should see what the rest of the team prefers,
+        since it won't just be the two of us working on this project.
 ```
 
 ---
