@@ -327,6 +327,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **go straight to**: describes the action of going directly to a place without any stops along the way. For example: ``As soon as I arrive at the office, I go straight to my desk to check my emails``.
 
+- **go-to**: refers to something that is considered the best or most reliable choice in a certain situation. For example: `Python is the go-to language for data analysis`. -> This means Python is the most commonly used or trusted language for data analysis.
+
 - **go together**: is often used to suggest that two or more people accompany each other to a particular place or participate in an activity together.
 
 - **go-to person**: is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
