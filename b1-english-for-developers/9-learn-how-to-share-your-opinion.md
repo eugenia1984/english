@@ -4,9 +4,26 @@
 
 ```
 Linda: I think Python is the best language for beginners.
-       It's easy to learn and it has tons of libraries, especially for design work.
+       It's easy to learn and it has tons of libraries,
+       especially for design work.
 Tom:   I see.
        Well, I think JavaScript is more versatile.
+       You can use it for web design
+       and it has some great tools for creating animations.
+Linda: In my case,
+       I prefer Python because it's great for data analysis.
+       Plus it's really good for building prototypes quickly.
+Tom:   I'm not a fan of Python syntax.
+       It feels a bit rigid.
+       I find JavaScript more flexible
+       and it's the go-to language for front-end development.
+Linda: That's true,
+       but Python works better for back-end stuff.
+       You can do a lot with it,
+       especially for automation and data-driven projects.
+Tom:   I'd rather stick with JavaScript
+       because it fits my graphic design work.
+       It's perfect for creating interactive elements on websites.
 ```
 
 ---
