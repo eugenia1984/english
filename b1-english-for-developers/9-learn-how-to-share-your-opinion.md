@@ -49,3 +49,33 @@ Cloud storage is good for backing up large volumes of data`. -> This means cloud
 
 
 ---
+
+## <img width="28" height="48" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 2: Deciding on a Development Environment
+
+```
+Maria:  We need to choose a development environment for the new project.
+        Do you have any preferences?
+Jake:   I prefer using Visual Studio Code
+        because it's lightweight and has excellent security features.
+Maria:  I see your point, but I like IntelliJ IDEA.
+        It has robust tools for code refactoring,
+        which makes it easier for the team to maintain the code base.
+Jake:   That's true,
+        but Visual Studio Code has a large selection of extensions.
+        It's customizable,
+        which is useful for our different teams.
+Maria:  I understand,
+        but IntelliJ IDEA integrates well with various build tools.
+        It also has built-in support for version control,
+        which we rely on a lot.
+Jake:   That's a good reason,
+        but wouldn't we need something that can easily detect vulnerabilities?
+        Visual Studio Code has security plugins that are really helpful for that.
+Maria:  Good point,
+        but IntelliJ IDEA has a strong debugging feature,
+        which can save us time during development.
+        Since we often need to debug complex code,
+        it's a significant advantage.
+```
+
+---
