@@ -75,7 +75,9 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 - **attendance**: refers to the act of being present at a place, such as a meeting, class, or event. For example: `Attendance at the meeting was high.` -> This means many people were present at the meeting.
 
 - **attentive**: means paying careful attention or listening carefully.
-  
+
+- **automation**: is the use of technology to perform tasks automatically without human intervention. For example: `The company uses automation to schedule social media posts every day. - It means using software tools to schedule posts without manual input each time.
+
 - **available**: means free to do something or not busy. For example: `Are you available to help me tomorrow?` -> This question is asking if the person is free to help tomorrow.
   
 - **awesome** is a word people use when they really like something. It's like saying very good!
@@ -218,6 +220,9 @@ There are different types of data, like **quantitative data**, which is about nu
 - **database**: is a structured collection of data, typically stored electronically in a computer system. It is used to organize, store, and retrieve large amounts of information efficiently. In programming, database is essential for managing data that applications need to function
   
 - **database administrator**: is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
+
+- **data-driven**: means making decisions based on data analysis. For example: `The team made a data-driven decision to improve website performance based on user activity data`. -> It indicates that the decision was based on actual data about user behavior, rather than assumptions or guesses.
+
 
 - **date**: can be used in different contexts. While it often refers to a romantic meeting between two people, it can also simply mean an appointment or a planned event between friends or colleagues. For example, saying ``Let's set a date for our next meeting`` uses date in a non-romantic way, referring to choosing a day for a meeting.
 
