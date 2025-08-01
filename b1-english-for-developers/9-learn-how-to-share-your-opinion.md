@@ -89,4 +89,14 @@ For example:
 
 `The system should be secure, but wouldn't it be safer with extra testing?` -> In this case, the speaker is questioning whether more testing is needed to make the system safer.
 
+- Jake really wants the team to use Visual Studio Code, so he tried to persuade them with this email:
+
+```
+Visual Studio Code is a popular choice for development because it is lightweight and customizable. It offers many extensions to meet the needs of different teams and comes with built-in security features to protect the codebase. Since it's flexible, it works well for various types of projects.
+
+The tool makes teamwork easier by supporting version control, so developers can track changes to the code. It also helps with code refactoring, improving the structure of the code when needed. It's useful for large teams working on complex projects.
+
+Besides, Visual Studio Code helps detect vulnerabilities with security plugins and offers strong debugging tools. These features make it easier to maintain high-quality, secure software.
+```
+
 ---
