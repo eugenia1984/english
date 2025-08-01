@@ -140,7 +140,7 @@ Bob:   I'll ask on the team channel.
 
 - Following the conversation with Lisa, Bob sent an email to the team:
 
-``
+```
 Dear Team,
 
 I hope you're doing well! 
