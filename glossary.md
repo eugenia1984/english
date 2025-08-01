@@ -82,6 +82,8 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
   
 - **awesome** is a word people use when they really like something. It's like saying very good!
 
+- **AWS**: stands for Amazon Web Services, which is a cloud computing platform. For example: `We use AWS to store all our data and run our applications`. -> This means you use AWS for cloud storage and computing needs instead of relying on local servers.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> B
