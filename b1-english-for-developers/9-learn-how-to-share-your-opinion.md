@@ -105,3 +105,37 @@ These features make it easier to maintain high-quality, secure software.
 ```
 
 ---
+
+## <img width="28" height="48" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Selecting a Cloud Platform
+
+```
+Bob:   Lisa, we're thinking of using a cloud platform for our next project.
+       Do you have any suggestions?
+Lisa:  Well, it could be a good idea to use AWS.
+       It's quite popular and there's a lot of documentation for it.
+Bob:   I see,
+       but I'm not sure if AWS is the best option for us.
+       It might be a bit complex for some of our team members.
+Lisa:  That's true.
+       It seems like Google Cloud might be easier to use,
+       especially for smaller projects.
+       It could be a better fit if we're looking for simplicity.
+Bob:   Maybe.
+       I think Azure could work too,
+       since it integrates well with other Microsoft products and we already use those.
+       What do you think?
+Lisa:  It might work,
+       but I'm not sure if Azure has the same level of support as AWS.
+       I've heard that their customer service isn't as responsive.
+Bob:   I guess that's something to consider.
+       We could try asking around to see what other teams have experienced with these platforms.
+       Would that be a good idea?
+Lisa:  That might be the best approach.
+       It could help us make a more informed decision.
+Bob:   I'll ask on the team channel.
+       I might even create a poll and see the votes.
+       This might be fun.
+       Thank you for your help.
+```
+
+---
