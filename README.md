@@ -67,6 +67,8 @@ Modules:
 
 -9- [Learn how to share your opinion](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/9-learn-how-to-share-your-opinion.md)
 
+-10- [Learn how to express agreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/10-learn-how-to-express-agreement.md)
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
