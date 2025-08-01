@@ -436,6 +436,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **interface**: is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
 
+- **I see your point**: is a common phrase used when you want to show that you understand the other person's opinion or perspective, even if you don't necessarily agree with them. For example: `I see your point, but I think we should try a different approach`. -> In this case, you are acknowledging the other person's idea while suggesting an alternative.
+
 - **it depends**: on is used to say that the answer to a question can change based on different things. For example: ``How long it takes to make a website depends on how big or small the job is.`` or ``Choosing the coding language depends on the computer or system we use.`` Notice that after depends there’s always the preposition **on**.
 
 - **it is true**: is used to confirm or agree with what someone else said. It means that something is correct or factual.
