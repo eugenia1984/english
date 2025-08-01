@@ -690,6 +690,8 @@ For example:
 - **recognize** means to know someone or something because you have seen, heard, met, or experienced them before. For example, ``when you see a friend at a party, you recognize him because you know what he looks like``.
 
 - **recommend**: You say you recommend that someone does something when you tell this person that what you suggest is a good, maybe the best choice for them. For example: ``I recommend that you read this book. It's the best on the topic``. When you have actions following the verb recommend, use them in the -ing form. For example: ``I recommend reading this book if you want to understand this topic better``.
+
+- **refactoring**: is the process of restructuring existing code to improve its design and make it easier to manage, without changing how it works. For example: `The developers spent the weekend refactoring the code to make it more readable and efficient`. - This means that the developers improved the structure of the code without altering its behavior.
   
 - **regulations** are official rules made by a government or authority. They are designed to control how something works or how people act, especially in businesses. Example: ``Health and safety regulations ensure a safe workplace``.
 
