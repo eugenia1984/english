@@ -631,6 +631,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **practicing** you are doing an activity regularly to improve your skills at it.
 
+- **preferences**: refers to the things a person likes more than other things, or their personal choices. For example: `The developer's preferences for coding languages are Python and JavaScript`. -> This means the developer prefers Python and JavaScript over other programming languages.
+
 - **previous job**: is the work you did before your current or most recent position.
 
 - **proactive**: means taking action by causing change and not only reacting to change when it happens.
