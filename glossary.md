@@ -845,6 +845,8 @@ For example:
 
 'We fixed the bug, then we tested the application again.` -> They only tested the application again after fixing the bug.
 
+- **thinking of**: is used when you are considering an idea, action, or plan. For example: `I'm thinking of buying a new laptop`. -> This means you are considering the option of buying a new laptop, but have not made a decision yet.
+
 - **though**: is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
 
 Though is often used at the end of a sentence to add emphasis or to show a contrast with what was previously said or implied. For example:
