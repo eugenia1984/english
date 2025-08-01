@@ -151,6 +151,10 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 `They have a close relationship.` -> This sentence uses the adjective, which describes the relationship.
 
+- **codebase**: refers to the entire collection of source code used to build a software project. It includes all the files, scripts, and resources involved in development. For example: `The codebase of the new project is large, and it will take time to review all the files`. -> This means that the collection of all the project's code is extensive and will require a lot of time to go through.
+
+
+
 - **coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
 
 - **coffee shops**: are cozy spots where people can purchase coffee and small bites to eat. They are also places where many like to sit to do some work or catch up with friends.
