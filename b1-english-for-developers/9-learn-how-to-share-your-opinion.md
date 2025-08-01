@@ -81,4 +81,12 @@ Jake:   Okay, let's agree to disagree.
         since it won't just be the two of us working on this project.
 ```
 
+### Wouldn't 
+
+**Wouldn't** is **a contraction of would not**, used to form a question, often **to express doubt or inquire about something**. 
+
+For example:
+
+`The system should be secure, but wouldn't it be safer with extra testing?` -> In this case, the speaker is questioning whether more testing is needed to make the system safer.
+
 ---
