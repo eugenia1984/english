@@ -146,7 +146,8 @@ Dear Team,
 I hope you're doing well! 
 We need to choose the best cloud platform for our next project. 
 We're looking at three options: AWS, Google Cloud, and Azure. 
-Each platform has its own strengths, but I'm not sure which one is the best choice for us.
+Each platform has its own strengths, 
+but I'm not sure which one is the best choice for us.
 
 Well, AWS is very popular, but it could be a bit complex for some of us. 
 Google Cloud might be easier to use, especially for smaller projects. 
@@ -154,7 +155,8 @@ Azure could work well, too, since it fits with the Microsoft tools we already us
 
 I've created a poll to gather everyone's opinion. 
 Please take a moment to vote for the platform you think would be best for our team. 
-The poll will be open for the next few days, and your input will help us make a more informed decision.
+The poll will be open for the next few days, 
+and your input will help us make a more informed decision.
 
 Thanks for your help!
 
