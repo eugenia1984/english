@@ -430,6 +430,8 @@ There are different types of data, like **quantitative data**, which is about nu
   
 - **interested in**: is a phrase used to ask or talk about someone's preferences, hobbies, or areas of professional focus. For example, ``in What are you interested in?``, they want to know about your hobbies, likes, or professional interests. **Interested in** means something catches your attention. For example, if you say ``I am interested in painting``, it means you like painting or enjoy learning about it.
 
+- **IntelliJ IDEA**: is a powerful integrated development environment (IDE) created by JetBrains. It is mainly used for writing Java code but also supports other programming languages. This IDE provides tools like code completion, debugging, and testing to make programming easier. For example: `IntelliJ IDEA offers great features like smart code completion and powerful refactoring tools`. -> This means that IntelliJ IDEA has helpful features that assist developers in writing and improving their code.
+
 - **interview**: is a conversation where someone asks questions to get information. For example: ``The journalist conducts interviews with her readers`` (conversation for information). **interview** is a formal meeting where someone asks questions to learn about another person's experience, skills, or opinions. In **job interviews**, like in the dialogue, the interviewer asks about the candidate's previous job experiences.
 
 - **insights**: are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
