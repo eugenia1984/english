@@ -443,6 +443,8 @@ There are different types of data, like **quantitative data**, which is about nu
 - **insights**: are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
 
 - **interface**: is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
+  
+- **I see**: is used to show that you understand what someone is saying, but it does not necessarily mean you agree. For example: `I see why you prefer that framework, but I still think we should compare other options`. –> This means you acknowledge the other person's opinion while keeping an open discussion.
 
 - **I see your point**: is a common phrase used when you want to show that you understand the other person's opinion or perspective, even if you don't necessarily agree with them. For example: `I see your point, but I think we should try a different approach`. -> In this case, you are acknowledging the other person's idea while suggesting an alternative.
 
