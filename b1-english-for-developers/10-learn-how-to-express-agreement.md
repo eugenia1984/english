@@ -51,4 +51,14 @@ For example: `The team created wireframes to plan the website's navigation befor
 
 For example: `We created user scenarios to see how customers navigate the checkout process`. –> This means the team simulated different ways users complete a purchase to identify any issues.
 
+### Look forward to
+
+**Look forward to** means to eagerly anticipate something. It is often used when expressing excitement or positive expectation for an event or action that will happen in the future. It should be followed by a noun or the -ing form of a verb. 
+
+For example:
+
+`I'm looking forward to the meeting`. –> This shows your excitement about the meeting.
+
+I'm looking forward to seeing you soon`. –> This expresses your eagerness about meeting someone in the future.
+
 ---
