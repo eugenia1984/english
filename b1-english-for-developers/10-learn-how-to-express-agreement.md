@@ -59,6 +59,6 @@ For example:
 
 `I'm looking forward to the meeting`. –> This shows your excitement about the meeting.
 
-I'm looking forward to seeing you soon`. –> This expresses your eagerness about meeting someone in the future.
+`I'm looking forward to seeing you soon`. –> This expresses your eagerness about meeting someone in the future.
 
 ---
