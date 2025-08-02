@@ -20,7 +20,7 @@ Bob:    Good idea.
         By the way, we need to allocate tasks among the team.
         I was thinking that you could lead the UX design
         and I'll coordinate with the developers.
-        Is that works for you?
+        Does that works for you?
 Linda:  That's a good plan.
         I'll also keep you updated on the design process
         and we can schedule regular meetings to stay on track.
