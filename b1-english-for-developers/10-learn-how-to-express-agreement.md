@@ -37,7 +37,7 @@ Linda:  No problem, Bob.
         I'm looking forward to working on this project.
 ```
 
-### Sketch and Wireframe
+### Sketch, Wireframe and User scenarios
 
 - A **sketch** is a rough drawing used to plan or visualize an idea.
 
@@ -47,6 +47,8 @@ For example: `She made a quick sketch of the website layout before designing it 
 
 For example: `The team created wireframes to plan the website's navigation before adding colors and images`. –> This means they first designed a basic structure before working on the visual details.
 
+- **User scenarios** refers to different situations that describe how users interact with a product to achieve a goal. It helps teams test and improve the user experience.
 
+For example: `We created user scenarios to see how customers navigate the checkout process`. –> This means the team simulated different ways users complete a purchase to identify any issues.
 
 ---
