@@ -256,6 +256,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> E
 
+- **eager to**: is a phrase used to express a strong desire or excitement to do something. For example: `I'm eager to start the new project`. -> This means you are excited or looking forward to starting the new project.
+  
 - **eating here**: means stay and eat at the office.
 
 - **e-commerce platform** refers to a software application that allows businesses to manage their online sales operations. It typically includes features for displaying products, processing orders, and handling customer transactions. This term is essential in the world of online business, as it enables companies to sell goods and services over the internet.
