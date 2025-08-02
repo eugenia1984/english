@@ -782,6 +782,8 @@ For example:
 
 - **stand up** refers to the action of rising from a sitting position.
 
+- **stay on track**: means to continue focusing on a goal or plan and not let distractions or obstacles interfere. For example: `We need to stay on track to finish the design by the end of the week`. –> This means the team needs to keep their focus and follow the plan to complete the design on time.
+  
 - **stress tests**: are evaluations designed to see how a system performs under high pressure or extreme conditions. For example: `The developers ran stress tests on the website to check its performance during peak traffic`. -> This means the developers tested the website to ensure it could handle a large number of visitors at the same time.
 
 - **strict** means someone enforces rules strongly. For example, ``My teacher is strict about homework deadlines``. It means the teacher insists that everyone hands in their 
