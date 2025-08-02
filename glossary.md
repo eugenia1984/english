@@ -428,6 +428,9 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
+- **initial prototyp**:e refers to the first version of a product or project created for testing or presenting ideas. For example: `The initial prototype helped the team understand what changes were needed`. -> This means the first version was used to identify improvements.
+
+
 - **immediate action**: refers to steps that must be taken right away to address a pressing issue or problem. For example: `When the server crashed, the team took immediate action to restore functionality.` -> This means the team acted as fast as they could to restore the server's functionality.
 
 - **immediately**: means without delay or right away. It's used to emphasize the urgency or the need to do something at once. For example: ``This issue has to be fixed immediately`` -> do it right away without delay.
