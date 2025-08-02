@@ -126,3 +126,58 @@ Mark:   Will do.
 
 
 ---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Client Feedback
+
+
+```
+Jim:    Maria, I've reviewed the latest version of the mobile app
+        and I'd like to share some feedback.
+        Would now be a good time?
+Maria:  Sure, Jim.
+        I'm eager to hear what you think.
+        How's it looking?
+Jim:    Overall, I think it's quite user-friendly.
+        The design is clean and the navigation is straightforward.
+        However,
+        I've noticed that the app tends to lag a bit
+        when switching between different sections.
+        Could we work on that?
+Maria:  I understand your point.
+        We are aware of the lag
+        and we're already addressing it in our next update.
+        Thanks for bringing it to our attention.
+Jim:    Also,
+        I think the color scheme could use a bit more energy.
+        It's currently a bit bland,
+        especially for a tech-focused app.
+        What do you think?
+Maria:  I see where you're coming from.
+        We've chosen a subtle color palette,
+        but maybe adding some brighter tones would help.
+        I'll discuss it with the design team
+        and see what we can do to make it more vibrant.
+Jim:    Great.
+        That would be helpful.
+        Another thing, the login process seems a bit lengthy.
+        It could be quicker,
+        especially for returning users.
+        Any thoughts on that?
+Maria:  That's a valid point.
+        We're planning to implement a Remember Me feature,
+        which should help speed up the login process.
+        I'll make sure it's prioritized for the next release.
+Jim:    Excellent.
+        I'm glad to hear that.
+        I look forward to seeing the changes in the next version.
+        Thanks for listening to my feedback.
+Maria:  Absolutely, Jim.
+        We appreciate your insights.
+        It helps us improve.
+        If you have any more suggestions,
+        feel free to reach out.
+```
+
+
+---
