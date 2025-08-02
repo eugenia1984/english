@@ -91,3 +91,38 @@ Bob
 ```
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 2: Code Review
+
+```
+Sarah:  Mark,
+        I reviewed your code for the new feature and it's looking good.
+        It's well organized and works as expected.
+Mark:   Thanks, Sarah.
+        I made sure to keep the code clean and easy to read.
+Sarah:  That's great.
+        Clean code is helpful.
+        The comments you added in the code
+        really helped the team understand what each part does.
+Mark:   I'm glad you think so.
+        I find it helps when we need to make changes later on.
+Sarah:  Absolutely.
+        I also like how you tested the code
+        to make sure it doesn't have any errors.
+        It makes our work more reliable.
+Mark:   Thanks.
+        Testing is important to catch problems early.
+        Is there anything else you'd like me to improve on?
+Sarah:  Yes.
+        Let's work on speeding up the database queries.
+        It'll make the app run faster.
+Mark:   Got it.
+        I'll start working on that and let you know when it's ready.
+Sarah:  Sounds great.
+        Keep up the good work, Mark.
+Mark:   Will do.
+        Thanks, Sarah.
+```
+
+
+---
