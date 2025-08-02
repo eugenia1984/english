@@ -238,6 +238,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **discuss**: It means to talk about something with someone.
 
+- **doable**: means something is possible or achievable. It is often used in informal conversations to express that a task or goal can be completed. For example: `Finishing this project by Friday is doable.` –> This means completing the project by Friday is possible.
+
 - **DoS attacks**: refer to **Denial of Service attacks**, which are attempts to make a computer or network service unavailable by overwhelming it with traffic. For example: `The website was temporarily offline due to a large-scale DoS attack`. -> This means the website was made unavailable because it was overloaded with harmful traffic.
 
 - **double check**: means to verify something a second time to ensure it is correct or accurate. It is often used when dealing with important tasks to avoid errors. For example: `We need to double check the calculations before submitting the report.` -> Meaning you'd like to verify if the calculations are right once more before sending the report to those who will analyze it.
