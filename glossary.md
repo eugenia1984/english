@@ -314,6 +314,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **features**: refer to the various functions, parts, or aspects of the software. Each feature, like a login process or a payment system, is a specific capability or function that the software offers. For example: `One feature of VS Code is the ability to integrate with Git.` -> This refers to a specific capability that VS Code offers to its users.
 
+- **feel free**: is a common phrase used to encourage someone to do something without hesitation or concern. It means that the person has permission or is invited to take an action. For example: `Feel free to ask questions if you're unsure about the process`. -> This means someone is encouraged to ask questions whenever they need.
+
 - **feel groggy**: is an informal term that means to feel weak, tired, or not fully awake, often as a result of poor sleep or waking up suddenly. For example: ``I feel groggy if I don't get enough sleep``, meaning: describes feeling tired due to lack of sleep.
 
 - **fine-tuning**: means making small, precise adjustments to improve something or optimize it to achieve the desired result. It is often used in technical or creative contexts. For example: `She spent hours fine-tuning the presentation to ensure it was perfect for the audience`. -> This means she adjusted even the smallest details of the presentation to make it perfect.
