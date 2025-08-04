@@ -489,6 +489,9 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **leading a team**: means being in charge of a group of people and guiding them to achieve their goals. It's like being the captain of a ship.
 
+- **lengthy**: means something that takes more time than usual or expected. It describes duration rather than physical size. For example: `The lengthy installation process took more than an hour to complete`. –> This means the installation took longer than expected.
+
+
 - **let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
 
 - **let's see**: is often used when making tentative plans or expressing a willingness to explore options.
