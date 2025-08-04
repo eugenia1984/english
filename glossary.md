@@ -272,6 +272,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
+- **energy**: in design refers to the mood or atmosphere created by certain choices. For example: `The new app design uses bright colors to add energy and excitement`. -> In this example, energy refers to the vibrant and lively feeling created by the choice of bright colors, making the app more engaging and dynamic.
+  
 - **engaging** means interesting or able to attract attention. For example: ``She writes engaging stories means her stories are very interesting.``
 
 - **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
