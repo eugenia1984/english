@@ -179,6 +179,8 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 `It concerns me that the software isn't updating correctly.` -> You are worried about the software not updating as it should.
 
+- **color scheme**: refers to the selection of colors used in a design, whether it's for a website, app, or any other visual project. For example: `The color scheme of the website uses blue and white to create a calm and professional look`. -> This means the colors chosen (blue and white) are arranged to create a certain visual feel.
+  
 - **consistency**: refers to the quality of always behaving or performing in a similar way, or of always happening in a similar way. It's often used to describe regular habits or behaviors. For example: ``Her consistency in studying every day led to great results``.
 
 - **constantly**: is an adverb that describes something that happens continuously or very frequently. It is related to the adjective constant, which refers to something that does not change or stops. For example:
