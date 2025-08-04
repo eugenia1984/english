@@ -842,6 +842,8 @@ For example:
 
 - **team-building**: activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
 
+- **tech-focused**:  refers to something that is specifically aimed at technology or users in the tech field. For example: `A tech-focused app usually has advanced features and an interface that appeals to tech-savvy users`. -> This means that the app is built with technology enthusiasts in mind, offering features and design that would attract them.
+  
 - **tech recruiter**: refers to a professional role focused on recruiting candidates for technology-related positions. This role involves understanding the tech industry, identifying qualified candidates, and matching them with suitable tech job openings.
 
 - **tempting**: is an adjective that describes something appealing or attractive, often making someone want to do or have it. For example: ``The idea of sleeping in is tempting``,  suggests the idea is appealing.
