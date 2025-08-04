@@ -36,8 +36,6 @@ In the sentence, `Are all updated elements performing well across devices?`, acr
 
 - **adjustments**: means small changes made to improve or adapt something. For example: `We made adjustments to the app's layout for better user experience.` -> Adjustments refers to the changes made to improve how users interact with the app.
 
-
-  
 - **after that**: is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
 - **agenda**: is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
@@ -49,7 +47,6 @@ In the sentence, `Are all updated elements performing well across devices?`, acr
 - **any**: is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
   
 - **app**: is short for application, a type of software designed to perform a specific task. **mobile apps** are applications specifically created to run on mobile devices. These apps can do many things, like help you shop, learn a new language, or play games.
-
 
 - **approach**: is a way of dealing with something. For example: `Her approach to solving the problem was very effective.` -> Here, approach refers to the method she used to solve the problem.
 
@@ -97,6 +94,7 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **BIOS**: stands for Basic Input/Output System. It is a crucial system component that helps initialize the hardware during startup and loads the operating system. For example: `If the BIOS is outdated, your system may have performance issues`. -> An old BIOS can cause your computer to run poorly.
 
+- **bland**: means something that is dull or lacks excitement. For example: `The app's interface is too bland; it could use some more color and interaction`. -> This means that the design is uninteresting and needs more attention to make it more engaging.
 - **bookstores**: are shops that sell book.
 
 - **brainstorming session**: is a meeting where people come together to think of new ideas or solve problems. In a programming team, it might be a time when everyone suggests different ways to tackle a coding challenge.
