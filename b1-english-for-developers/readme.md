@@ -26,4 +26,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 10- [Learn how to express agreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/10-learn-how-to-express-agreement.md)
 
+11- [Learn how to espress disagreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/11-learn-how-to-express-disagreement.md)
+
 ---
