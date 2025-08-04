@@ -709,6 +709,8 @@ For example:
 
 - **readers** are people who read, especially those who read a particular publication.
 
+- **reach out**: means to contact someone or make an effort to communicate. For example: `You can reach out to support if you encounter any issues`. -> Here, reach out refers to contacting someone, such as for help or information.
+
 - **reasonable** means something is fair, makes sense, or is acceptable in a certain situation. For example, The price of the ticket is reasonable means the price is not too high and feels fair.
 
 - **recognize** means to know someone or something because you have seen, heard, met, or experienced them before. For example, ``when you see a friend at a party, you recognize him because you know what he looks like``.
