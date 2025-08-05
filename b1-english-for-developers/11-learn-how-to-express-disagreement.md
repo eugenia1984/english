@@ -36,3 +36,41 @@ Anna: No problem, Bob.
 ```
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: In Person x Remote
+
+```
+David: Anna, I heard your company is embracing 100% remote work.
+       I'm not sure that's the best approach.
+       Doesn't it create a disconnect among team members?
+Anna:  I see where you're coming from, David.
+       But we found that asynchronous remote work offers flexibility.
+       It allows people to work in a way that suits
+       their productivity and personal life.
+David: I understand.
+       But isn't it challenging to manage communication
+       and collaboration with everyone working at different times?
+       It seems like it could lead to a lot of delays and miscommunication.
+Anna:  That's a valid point.
+       However,
+       we've been using collaboration tools to keep everyone connected.
+       It takes some adjustment,
+       but once people get used to it,
+       it works quite well.
+David: I see your perspective,
+       but I still think there's value in having everyone in the office.
+       It builds team spirit and makes problem solving easier.
+Anna:  True,
+       but the office isn't the only place to build team spirit.
+       We've found that virtual team building activities
+       can be just as effective.
+       How about trying some of those in your company?
+David: That's a good suggestion,
+       but I'm not sure I'd find much support for implementing it.
+       Thanks for the idea, though.
+Anna:  Don't mention it.
+       We have to do our best with what we have.
+```
+
+
+---
