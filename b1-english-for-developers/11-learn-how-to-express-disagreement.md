@@ -72,5 +72,35 @@ Anna:  Don't mention it.
        We have to do our best with what we have.
 ```
 
+- After talking with Anna, David decided to try virtual team-building activities. Here's his email to the team:
+
+```
+Subject: Strengthening Our Remote Team with Virtual Activities
+
+Hi Team,
+
+After thinking about ways to improve our remote work experience,
+I've decided to introduce virtual team-building activities.
+Remote work offers great flexibility,
+ allowing us to work in ways that suit our productivity and personal lives.
+However, it also comes with challenges like communication gaps and a lack of team connection.
+
+To help with this,
+we'll be trying out some virtual activities to strengthen collaboration and maintain team spirit.
+These activities will give us a chance to connect outside of work tasks and build a stronger sense of teamwork.
+
+While remote work can sometimes feel isolating,
+the right tools and efforts can make a big difference.
+Let's give this a shot
+and see how it improves our work experience!
+More details to come soon.
+
+Looking forward to your thoughts!
+
+Best,
+
+David
+``
+
 
 ---
