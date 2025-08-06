@@ -610,6 +610,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **overtime** (**To work overtime**): means to work extra hours beyond the standard schedule, often to meet deadlines or complete urgent tasks. For example: `The team had to work overtime to finish the project before the deadline.` -> Meaning you had to work extra hours to complete the project in order to meet the deadline. In this sentence, Linda is recalling a specific week when everyone had to put in extra hours to meet the demands of their work.
 
+- **overwhelmed**: means feeling extremely stressed, overloaded, or unable to cope with a situation. For example: `She felt overwhelmed by the number of tasks she had to complete`. -> This means she had too much to do and felt stressed.
+
 
 ---
 
