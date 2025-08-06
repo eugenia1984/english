@@ -544,6 +544,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **module**: refers to a unit or section of a course or training program. For example: `The new module on cybersecurity will be added next week.` -> Here, module refers to a specific part of the training focused on cybersecurity.
 
+- **hands on deck**: means that more people are needed to help with a task or situation. It comes from sailing, where all crew members were needed on the ship's deck to handle an urgent situation. For example: `We have a tight deadline, so we need all hands on deck`. -> This means everyone must help to complete the work on time.
+
 - **more than ever before**: means that something is happening now at a higher level or frequency than at any previous time. It emphasizes that there has been an increase or improvement over what happened in the past. For example: `She practices coding more than ever before.` -> This means that she is practicing coding now more frequently or intensely than she did in the past.
 
 - **most**: is often used to show the highest degree or the greatest amount of something. For instance, ``Out of all my hobbies, I enjoy reading the most`` means that you might have many hobbies, but reading is your favorite.
