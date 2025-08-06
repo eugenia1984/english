@@ -1070,7 +1070,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **walkthrough**: is made up of two parts:
 
--**Walk** -> refers to moving step by step, usually on foot. / **Through** -> means moving from one side to another or from start to finish.
+- **walk** -> refers to moving step by step, usually on foot. / **Through** -> means moving from one side to another or from start to finish.
 
 When these words are combined into **walkthrough**, it means a step-by-step explanation or guide to help someone understand how to do something. For example:
 
@@ -1094,6 +1094,10 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 
 - **workday**: refers to the day or hours during which you work. For example, ``My workday starts at 9 AM and ends at 5 PM``.
 
+- **workload**: refers to the total amount of work assigned to someone. For example: `His workload increased after two colleagues left the company`. -> This means he has more tasks to complete because fewer people are available.
+
+
+
 - **workmate**: refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
 
 - **work smoothly**:  it means that something happens without difficulties or interruptions. Smoothly comes from smooth, which describes something without roughness or obstacles, but they are used in different contexts. For example:
@@ -1101,7 +1105,6 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 `The table has a smooth surface`. -> This describes the table as having no rough areas.
 
 `The software update helped the system run more smoothly`. -> This means the system now operates with fewer issues.
-
 
 - **would like**: is used to express a desire or wish in a polite way. For example, `I would like to show you something` indicates a polite intention. In spoken English, it's often abbreviated to `I'd`. For example, `I'd like to show you something`. This abbreviation is very common in everyday conversation.
 
