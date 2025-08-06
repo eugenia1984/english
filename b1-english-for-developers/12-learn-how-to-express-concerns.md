@@ -104,10 +104,47 @@ Maria:  No problem, James.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Team Tension Discussion
 
 ```
-
+Bob:   Hi, Maria.
+       I heard there was some tension in the last team meeting.
+       Can we talk about it?
+Maria: Sure, Bob.
+       It's about the new deadline.
+       The team is really worried it's too tight.
+       They're feeling quite overwhelmed with the extra workload.
+Bob:   I see.
+       Did they mention why they think it's too tight?
+Maria: Yes,
+       they said they're already putting in extra hours.
+       If we add more tasks,
+       it could lead to burnout.
+Bob:   So did they say how we could fix it?
+Maria: They mentioned a couple of things.
+       First, they really need more support.
+       We're quite short on a few roles,
+       which makes it really hard to meet the new deadline.
+Bob:   Okay.
+       Is there anything else we should consider?
+Maria: They also said the communication isn't great
+       because they often don't hear about changes until it's too late.
+       It'd be helpful if we had more regular check-ins.
+Bob:   That makes sense.
+       Could you set up a weekly meeting
+       to discuss progress and keep everyone in the loop?
+       It might help reduce stress and avoid misunderstandings.
+Maria: Sure, I can do that.
+       But to really ease the pressure,
+       we might need to adjust the deadline
+       even if it's just a few days.
+       This would give the team some breathing room.
+Bob:   I'll look into it.
+       Could you also find out how much extra time they really need?
+Maria: Sure.
+       I'll talk to the team
+       and let you know what they say.
+       Let's also plan a meeting to discuss resources with HR.
 ```
 
 ---
