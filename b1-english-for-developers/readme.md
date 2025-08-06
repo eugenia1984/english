@@ -28,6 +28,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 11- [Learn how to express disagreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/11-learn-how-to-express-disagreement.md): learn to express disagreement in different professional settings.
 
-12- [Learn how to express concerns](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/12-learn-how-to-express-concerns.md):  learn to inform other people that you are worried about things that might happen to your projects and tasks.
+12- [Learn how to express concerns](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/12-learn-how-to-express-concerns.md):  learn to inform other people that you are worried about things that might happen to your projects and tasks. Adjective followed by an infinitive - negative form
 
 ---
