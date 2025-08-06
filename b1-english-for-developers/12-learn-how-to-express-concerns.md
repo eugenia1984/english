@@ -56,10 +56,50 @@ Negative: `He was careful not to forget the deadline`. -> This means he made sur
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Team Meeting Follow-Up
 
 ```
-
+Maria:  Hey James,
+        can we talk about my latest meeting with Bob?
+        I need to understand
+        how the team feels about the new project deadline.
+James:  Sure, Maria.
+        What did he say about it?
+Maria:  Bob mentioned that the client wants us
+        to finish the project a week earlier.
+        How do you think they will feel about that?
+James:  Honestly, they're pretty stressed.
+        We've already been putting in extra hours
+        and this new deadline isn't helping.
+        It's like there's always more to do.
+Maria:  I hear you.
+        This extra workload could lead to burnout.
+        Wouldn't it be better
+        if we prioritized the tasks differently to reduce stress?
+James:  That might help,
+        but we also need more hands on deck.
+        We're short on a few key roles
+        and it's making things difficult for everyone.
+Maria:  I understand.
+        I've talked to Bob about this,
+        but I don't think it's an option.
+        I'll bring it up again and see if I can convince him.
+        Besides that,
+        are there other issues I should know about?
+James:  Yes.
+        Communication has been a challenge.
+        Sometimes we get updates too late
+        and it affects our work.
+        It'd be great if we had more regular check-ins.
+Maria:  That's a good point.
+        I'll suggest having more regular check-ins
+        with the team to improve communication.
+        Would that help?
+JameS:  Yes, that would be great.
+        Thanks for listening, Maria.
+Maria:  No problem, James.
+        I'll take this feedback to Bob.
+        Let's work together to find a way to manage the stress.
 ```
 
 ---
