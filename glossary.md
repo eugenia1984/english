@@ -962,6 +962,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to prioritize**: means to decide which tasks are most important to do first.
 
+- **to put in (with time expressions)**: means to spend or dedicate time and effort to a task. For example: `She put in five hours of work to finish the report`. -> This means she spent five hours working on it.
+
 - **to review**: means to look over something, like a list or a plan.
 
 - **to revoke**: means to officially cancel or take back a decision, right, or permission. For example, ``The administrator may revoke access if rules are broken``.
