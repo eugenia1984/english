@@ -107,6 +107,8 @@ Unexpected refers to something that happens without prior knowledge or warning. 
   
 - **breathing exercises**: are practices where you consciously control your breathing pattern. They are often used for relaxation, stress management. ``Deep breathing helps to calm your nerves``. (uses controlled breathing for relaxation)
 
+- **breathing room**: means having extra time, space, or flexibility to work without feeling rushed or pressured. It is often used when talking about schedules, workloads, or difficult situations. For example: `The new budget plan gives the company some breathing room to handle unexpected expenses`. –> This means having financial flexibility to deal with challenges.
+  
 - **bugs** refer to errors or problems in the software that need to be identified and fixed. Understanding this term is crucial for comprehending the role of a QA tester.
   
 - **built-in**: refers to features or tools that are included as part of a software program or device from the start, without needing to be added or installed separately. When something is built-in, it's already there and ready to use. For example:
