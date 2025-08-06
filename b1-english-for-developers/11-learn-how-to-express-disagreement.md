@@ -100,7 +100,42 @@ Looking forward to your thoughts!
 Best,
 
 David
-``
+```
 
+---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 3: Split the Stipend
+
+
+```
+Bob:  Anna, do you remember our last discussion about the remote work stipend?
+      I've talked again with the team and we still have the same issue.
+      Some people think it should be used for technology
+      while others suggest office furniture.
+      Do you have any ideas on how to solve this?
+Anna: How about we split the stipend into two parts?
+      That way people can use part of it for technology upgrades
+      and part for office furniture or other home office needs.
+Bob:  That's a good idea,
+      but wouldn't it complicate the budget?
+      It might be easier to stick with one category.
+Anna: I see your point, but flexibility might be better.
+      Think about it.
+      Wouldn't it be simpler to let people decide
+      how to use their stipend based on their individual needs?
+Bob:  Maybe,
+      but we also need to ensure
+      that everyone has the basic equipment to work remotely.
+      What if we set a minimum requirement
+      and anything beyond that can be used for personal preferences?
+Anna: That could work.
+      If we create a list of essential items
+      like a laptop, webcam, and headset,
+      then anything extra could be allocated as they wish.
+Bob:  That's a reasonable suggestion.
+      If we do that,
+      people will have the essentials
+      while still having some freedom to choose.
+```
 
 ---
