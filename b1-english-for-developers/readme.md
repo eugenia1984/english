@@ -20,12 +20,14 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 7- [Learn how to use conditionals](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/7-learn-how-to-use-conditionals.md): Present Continuous, Present Simple, Zero Conditional, First Conditional, Second Conditional
 
-8- [Learn how to share feedback](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/8-learn-how-to-share-feedback.md)
+8- [Learn how to share feedback](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/8-learn-how-to-share-feedback.md): see ways of telling other people how you feel about their work, highlighting both their strengths and points for improvement.
 
-9- [Learn how to share your opinion](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/9-learn-how-to-share-your-opinion.md)
+9- [Learn how to share your opinion](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/9-learn-how-to-share-your-opinion.md): show you how to express your ideas and feeling towards topics in a discussion.
 
-10- [Learn how to express agreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/10-learn-how-to-express-agreement.md)
+10- [Learn how to express agreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/10-learn-how-to-express-agreement.md): earn to express agreement in different professional settings.
 
-11- [Learn how to express disagreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/11-learn-how-to-express-disagreement.md)
+11- [Learn how to express disagreement](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/11-learn-how-to-express-disagreement.md): learn to express disagreement in different professional settings.
+
+12- [Learn how to express concerns](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/12-learn-how-to-express-concerns.md):  learn to inform other people that you are worried about things that might happen to your projects and tasks.
 
 ---
