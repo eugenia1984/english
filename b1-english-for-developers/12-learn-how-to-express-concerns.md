@@ -44,6 +44,15 @@ Bob:    Great.
         Thanks. I appreciate it, Maria.
         If you need anything from me, just let me know.
 ```
+### Adjective followed by an infinitive - negative form
+
+When using an adjective followed by an infinitive, the negative form is made by adding not to before the verb. For example:
+
+Affirmative: `She was happy to help with the project`. -> This means helping with the project made her happy.
+
+Negative: `He was careful not to forget the deadline`. -> This means he made sure he remembered it.
+
+
 
 ---
 
