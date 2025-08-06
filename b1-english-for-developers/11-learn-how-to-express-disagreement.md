@@ -138,4 +138,37 @@ Bob:  That's a reasonable suggestion.
       while still having some freedom to choose.
 ```
 
+- Since the remote work stipend was updated, Anna decided to email the team with updates:
+
+
+```
+Subject: Update on Remote Work Stipend – What's Covered
+
+Hi team,
+
+We've reviewed feedback on how to best use the remote work stipend,
+and we've decided to offer more flexibility
+while ensuring everyone has the essentials for remote work.
+
+The stipend will now cover two categories:
+
+1. Essential Equipment – This includes a laptop, webcam, and headset
+to ensure everyone has the necessary tools to work efficiently.
+
+2. Personal Workspace – Any remaining funds can be used
+for office furniture or additional tech upgrades based on individual needs.
+
+This way, everyone has the basics covered
+while still having the freedom to improve their home office setup
+in the way that works best for them.
+
+If you have any questions, feel free to reach out!
+
+Best,
+
+Anna
+```
+
+
+
 ---
