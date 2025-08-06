@@ -916,6 +916,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to bring**: means to take something or someone with you to the place where you are going. For example, ``I bring my phone to work every day``. It's often used when talking about taking items from one place to another.
 
+- **to burn out**: means to become extremely tired or exhausted from too much work. For example: `If we don't take breaks, we might burn out before the project is finished`. -> This means working without resting could cause exhaustion.
+
 - **to check something out**: means to examine, review, or look at something to gather information. For example: `I'll check out the new software update and see if it solves the issue`. -> This means the person will review the update to understand its effects.
   
 - **to collaborate**: means to work together with others to achieve a common goal, often involving shared responsibilities and teamwork. **Collaborating** emphasizes working together as a team.
