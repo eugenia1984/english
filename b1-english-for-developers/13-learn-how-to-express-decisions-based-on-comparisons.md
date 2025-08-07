@@ -42,6 +42,19 @@ Jake:   No problem, Sophie.
         If you have any other questions, just let me know.
 ```
 
+### Comparatices
+
+**Better** is the comparative form of **good** used when comparing two things.
+
+In comparative form:
+
+- **adjectives or adverbs with one syllable usually add -er (like stronger and faster) in the end**.
+
+- **longer adjectives or adverbs use more** (like more interesting and more efficiently). More is a comparative term used to indicate a greater amount, quantity, degree, or number of something in relation to another.
+
+- **Some words have irregular comparative form**, like good changes to better. For example: `Cloud storage is better than local storage for remote access`. –> This means cloud storage supports remote access, while local storage lacks or is not good in this capability.
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
