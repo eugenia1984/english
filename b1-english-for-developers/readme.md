@@ -30,6 +30,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 12- [Learn how to express concerns](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/12-learn-how-to-express-concerns.md):  learn to inform other people that you are worried about things that might happen to your projects and tasks. Adjective followed by an infinitive - negative form
 
-13- [Learn how to express decisions based on comparisons](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/13-learn-how-to-express-decisions-based-on-comparisons.md): earn how to compare things like tools or companies using words like better, faster, and the best. You will also practice having friendly conversations to give opinions and make decisions
+13- [Learn how to express decisions based on comparisons](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/13-learn-how-to-express-decisions-based-on-comparisons.md): earn how to compare things like tools or companies using words like better, faster, and the best. You will also practice having friendly conversations to give opinions and make decisions. Comparatives
 
 ---
