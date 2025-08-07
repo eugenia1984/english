@@ -270,6 +270,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **Electrical systems** refer to a network of electrical components connected to carry out some operation. These can include anything from simple circuits like a flashlight to complex systems found in computers and other high-tech devices.
 
+- **encryption**: refers to converting data into a secure format to prevent unauthorized access. For example: `End-to-end encryption keeps messages private by encoding them so only the sender and receiver can read them`. -> Here, encryption means the process of securing information by converting it into a coded form.
+
 - **energetic**: means having a lot of energy, enthusiasm, and a readiness to act.
 
 - **energy**: in design refers to the mood or atmosphere created by certain choices. For example: `The new app design uses bright colors to add energy and excitement`. -> In this example, energy refers to the vibrant and lively feeling created by the choice of bright colors, making the app more engaging and dynamic.
