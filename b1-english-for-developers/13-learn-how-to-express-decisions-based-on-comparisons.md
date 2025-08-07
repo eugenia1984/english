@@ -122,4 +122,26 @@ Alice: That would be great.
        I appreciate it, Tom.
 ```
 
+### Superlative
+
+A superlative compares three or more things to show the highest or lowest degree.
+
+- Add -est to short adjectives. For example:
+
+| adjective | superlative |
+| --------- | ----------- |
+| fast | fastest |
+
+- use most with longer adjectives. For example:
+
+| adjective | superlative |
+| --------- | ----------- |
+| efficient | most efficient |
+
+- some adjectives have irregular forms. For example:
+
+| adjective | superlative |
+| --------- | ----------- |
+| good | best |
+
 ---
