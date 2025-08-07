@@ -48,11 +48,25 @@ Jake:   No problem, Sophie.
 
 In comparative form:
 
-- **adjectives or adverbs with one syllable usually add -er (like stronger and faster) in the end**.
+- **adjectives or adverbs with one syllable usually add -er (like stronger and faster) in the end**. For example:
 
-- **longer adjectives or adverbs use more** (like more interesting and more efficiently). More is a comparative term used to indicate a greater amount, quantity, degree, or number of something in relation to another.
+  | adjectives or adverbs  | comparative |
+  | ---------------------- | ----------- |
+  | nice | nicer |
+  | strong | stronger |
 
-- **Some words have irregular comparative form**, like good changes to better. For example: `Cloud storage is better than local storage for remote access`. –> This means cloud storage supports remote access, while local storage lacks or is not good in this capability.
+- **longer adjectives or adverbs use more**, **more** is a comparative term used to indicate a greater amount, quantity, degree, or number of something in relation to another. For example
+
+ | adjectives or adverbs  | comparative |
+ | ---------------------- | ----------- |
+ | interesting  | more interesting |
+ | efficiently | more efficiently |
+  
+- **some words have irregular comparative form**. For example:
+
+| adjectives or adverbs  | comparative |
+| ---------------------- | ----------- |
+| good | better|
 
 
 ---
