@@ -44,29 +44,32 @@ Jake:   No problem, Sophie.
 
 ### Comparatices
 
-**Better** is the comparative form of **good** used when comparing two things.
-
 In comparative form:
 
-- **adjectives or adverbs with one syllable usually add -er (like stronger and faster) in the end**. For example:
+- **adjectives or adverbs with one syllable usually add -er (like stronger and faster) in the end**. Remember when ends whit "-Y", change for "-i", like easy -> easier. For example:
 
-  | adjectives or adverbs  | comparative |
-  | ---------------------- | ----------- |
-  | nice | nicer |
-  | strong | stronger |
+| adjectives or adverbs  | comparative |
+| ---------------------- | ----------- |
+| nice | nicer |
+| strong | stronger |
+| easy | easier |
+| fast | faster |
 
 - **longer adjectives or adverbs use more**, **more** is a comparative term used to indicate a greater amount, quantity, degree, or number of something in relation to another. For example
 
- | adjectives or adverbs  | comparative |
- | ---------------------- | ----------- |
- | interesting  | more interesting |
- | efficiently | more efficiently |
+| adjectives or adverbs  | comparative |
+| ---------------------- | ----------- |
+| interesting  | more interesting |
+| efficiently | more efficiently |
+| user-friendly | more user-friendly |
+| robust | more robust |
+| secure | more secure |
   
 - **some words have irregular comparative form**. For example:
 
 | adjectives or adverbs  | comparative |
 | ---------------------- | ----------- |
-| good | better|
+| good | better |
 
 
 ---
