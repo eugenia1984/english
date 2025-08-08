@@ -151,3 +151,68 @@ A superlative compares three or more things to show the highest or lowest degree
 | good | best |
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Deciding on the Best Solution
+
+```
+Brian:  Hey Sarah,
+        we need to decide on the best solution
+        for our new software development project.
+        We've been discussing a few options
+        and I'd like to get your opinion.
+Sarah:  Sure, Brian.
+        What are the choices?
+Brian:  The first option is to build the software in-house.
+        The second option is to outsource
+        part of the project to an external team.
+        What do you think would work best?
+Sarah:  Well, building in-house
+        is probably the best way
+        to maintain control over the project.
+        We would have more flexibility
+        and we could ensure the quality is up to our standards.
+Brian:  That's true,
+        but outsourcing might be more cost-effective.
+        It could save us time and resources.
+        What about timelines?
+        Which option is faster?
+Sarah:  Outsourcing is usually faster
+        because the external team can focus solely on our project.
+        Building in-house might take longer
+        because we have other tasks to handle.
+        However,
+        outsourcing can lead to communication issues
+        which might delay the project.
+Brian:  I see.
+        So on the one hand, outsourcing is faster,
+        but it could also cause communication problems.
+        On the other hand,
+        building in-house gives us more control,
+        but it might take longer.
+        Which one do you think is more reliable?
+Sarah:  Building in-house is more reliable
+        because we can oversee the entire process.
+        However, outsourcing has its advantages,
+        especially when it comes to speed.
+        It depends on what you value more,
+        control or speed.
+Brian:  That makes sense.
+        So if we build in-house,
+        we have more control,
+        but it could take longer.
+        If we outsource, it's faster,
+        but there might be communication issues.
+        It's a tough call.
+Sarah:  Yes, it is.
+        We might need to balance both approaches
+        to get the best of both worlds.
+        How about we build the core components in-house
+        and outsource the less critical parts?
+        That way,
+        we maintain control while speeding up the project.
+Brian:  That's a great idea.
+        It could work.
+        Thanks for the suggestion, Sarah.
+```
+
+---
