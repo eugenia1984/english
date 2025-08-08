@@ -42,7 +42,7 @@ Jake:   No problem, Sophie.
         If you have any other questions, just let me know.
 ```
 
-### Comparatices
+### Comparatives
 
 In comparative form:
 
