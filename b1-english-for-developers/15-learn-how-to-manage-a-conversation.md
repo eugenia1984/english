@@ -49,6 +49,9 @@ James:  No problem.
 
 - **To leave off** refers to the point where something stopped. For example: `Where did we leave off in the book?` -> This asks about the last part read before stopping.
 
+### Does that work for you?
+
+**Does that work for you?** is used to ask if something is acceptable or convenient for someone. For example: `We can meet at 2 PM. Does that work for you?` -> This asks if 2 PM is a good time for the other person.
 
 ---
 
