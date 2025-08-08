@@ -133,7 +133,7 @@ A superlative compares three or more things to show the highest or lowest degree
 | fast | fastest |
 | high | highest |
 
-- use **most** / ^the most** with longer adjectives. For example:
+- use **most** / **the most** with longer adjectives. For example:
 
 | adjective | superlative |
 | --------- | ----------- |
