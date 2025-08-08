@@ -58,6 +58,13 @@ Need to is used when something is necessary. For example:
 
 Jessica mentions security protocols for the new project, meaning she wants to discuss measures to keep the project safe.
 
+### Must, Have to, Should
+
+- **Must** expresses strong necessity or obligation. For example: `You must wear a seatbelt..
+
+- **Have to** also expresses obligation but is sometimes less strict than must. For example: `You have to submit the report by Friday..
+
+- **Should** is used for recommendations or advice. For example: `You should review your notes before the test..
 
 ---
 
