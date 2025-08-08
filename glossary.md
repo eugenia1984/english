@@ -909,6 +909,8 @@ For example:
 Though is often used at the end of a sentence to add emphasis or to show a contrast with what was previously said or implied. For example:
 `The presentation went well, though it was stressful at first.` -> Here, though highlights the contrast between the overall success and the initial stress.
 
+- **tough call**: is an expression that means a difficult decision where both options have pros and cons. For example: `Choosing between speed and security is a tough call for developers`. –> This means deciding between speed and security is a difficult choice.
+  
 - **thoughts**: means what someone thinks or their ideas. When we ask for someone's thoughts, we want to know what they think or feel about something. For example: ``What are their thoughts on this book?`` is asking for the group's opinion about the book.
 
 - **timetable**: is a schedule that outlines the times and dates of planned events or activities. In this context, Jake refers to a timetable for the system update, and Maria mentions reviewing it, showing she is prepared. For example: `The timetable for the train is posted at the station.` -> This means the schedule for train arrivals and departures is available for reference.
