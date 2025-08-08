@@ -81,6 +81,8 @@ Modules:
 
 -> Must, Have to, Should. Might, May, Can, Could
 
+-15 - [Learn how to manage a conversation](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/15-learn-how-to-manage-a-conversation.md):  how to manage conversations at work — like how to continue a talk after a break, change topics politely, or interrupt when needed. You'll also practice using useful expressions to keep the conversation clear, friendly, and organized
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
