@@ -181,5 +181,10 @@ For example:
 
 `She can't access the system`. -> She is not able to.
 
+ ### Must have been
+
+**Must have been** is used **to express a strong logical conclusion about the past**. 
+
+For example: `She is tired. She must have been working all day`. -> You're confident she worked all day because she looks exhausted.
 
 ---
