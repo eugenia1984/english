@@ -342,6 +342,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **getting to know the area**: It's a way to become more familiar with the nearby places and how to find them.
 
+- **get your opinion**: means to ask someone for their thoughts or feedback on a topic. For example: `Before making a final decision, I want to get your opinion on the design`. –> This means asking someone for their thoughts about the design.
+  
 - **going out** refers to leaving a particular place, such as an office, to do an activity in another place, like eating.
 
 - **good-old**: is an informal expression suggesting something is reliable, familiar, or has been around for a while. It's like saying it's traditional or well-known.
