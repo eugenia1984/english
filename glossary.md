@@ -493,6 +493,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> L
 
+- **laid-back**: means relaxed and informal. For example: `The company has a laid-back atmosphere where employees can take breaks whenever they need`. -> This means the work environment is not stressful or strict.
+  
 - **large**: means big, usually with many employees or a lot of money. For instance, He got a job at a large corporation.
 
 - **layouts**: are the arrangement or structure of elements on a page or interface. For example: `The layout of the homepage was changed to make it more user-friendly.` -> This means that the arrangement of elements on the homepage was adjusted to make it easier for users to navigate.
@@ -500,7 +502,6 @@ There are different types of data, like **quantitative data**, which is about nu
 - **leading a team**: means being in charge of a group of people and guiding them to achieve their goals. It's like being the captain of a ship.
 
 - **lengthy**: means something that takes more time than usual or expected. It describes duration rather than physical size. For example: `The lengthy installation process took more than an hour to complete`. –> This means the installation took longer than expected.
-
 
 - **let's get started** is a phrase used to initiate an activity, meeting, or session. It signals that it's time to begin the planned activities. For example, at the start of a meeting, someone might say, Let's get started with the first topic.
 
