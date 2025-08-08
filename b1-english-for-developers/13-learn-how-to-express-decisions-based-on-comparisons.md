@@ -126,20 +126,25 @@ Alice: That would be great.
 
 A superlative compares three or more things to show the highest or lowest degree.
 
-- Add -est to short adjectives. For example:
+- Add **-est** to short adjectives. For example:
 
 | adjective | superlative |
 | --------- | ----------- |
 | fast | fastest |
 | high | highest |
 
-- use most with longer adjectives. For example:
+- use **most** / ^the most** with longer adjectives. For example:
 
 | adjective | superlative |
 | --------- | ----------- |
 | efficient | most efficient |
+| flexible | most flexible |
+| generous | most generous |
+| opportunities | most opportunities |
+| structured | most structured |
+| relaxed | most relaxed |
 
-- some adjectives have irregular forms. For example:
+- some adjectives have **irregular forms**. For example:
 
 | adjective | superlative |
 | --------- | ----------- |
