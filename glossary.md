@@ -619,10 +619,12 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **outdoor**: means activities done outside. Example: `Outdoor activities involve hiking and gardening.`
 
+- **out of sync**: describes when two or more elements are not coordinated in time or movement. For example: `The video and audio were out of sync during the meeting.` -> This means that the audio didn't match the video, causing confusion.
+  
 - **outside**: refers to the area or space that is not inside a particular building or room. In the context of the dialogue, Sophie mentions that she saw Tom taking pictures in the area that is not inside the building.
 
-- **out of sync**: describes when two or more elements are not coordinated in time or movement. For example: `The video and audio were out of sync during the meeting.` -> This means that the audio didn't match the video, causing confusion.
-
+- **outsource**: means to hire another company or team to complete part of a project instead of doing it within the company. For example: `We decided to outsource customer support to a company that specializes in it`. –> This means hiring another company to handle customer support instead of doing it internally.
+  
 - **overlap**: is used when one thing covers or extends over part of another. In this context, it means that elements on the screen are incorrectly positioned, covering parts of each other. **On** is used to indicate the device where the overlapping occurs. It shows the relationship between the elements and the devices. For example: Example: `The images overlap on the webpage, making it difficult to see all the content clearly`. -> Here, overlap describes the positioning issue and on specifies where it occurs.
 
 - **overtime** (**To work overtime**): means to work extra hours beyond the standard schedule, often to meet deadlines or complete urgent tasks. For example: `The team had to work overtime to finish the project before the deadline.` -> Meaning you had to work extra hours to complete the project in order to meet the deadline. In this sentence, Linda is recalling a specific week when everyone had to put in extra hours to meet the demands of their work.
