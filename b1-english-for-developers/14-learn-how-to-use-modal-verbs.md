@@ -159,7 +159,7 @@ Jake:  Good idea.
        I'll start working on it.
        We should also notify the security team
        and follow our incident response plan.
-Lisa;  Absolutely.
+Lisa:  Absolutely.
        I'll work on isolating the systems
        and keep you updated.
        Let me know if you find anything unusual.
