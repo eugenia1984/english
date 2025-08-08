@@ -38,6 +38,11 @@ James:  No problem.
         Talk to you later.
 ```
 
+
+### To be sorry for something
+
+**To be sorry for something** is used when apologizing for an action that may have caused inconvenience or harm. For example: `I'm sorry for being late to the meeting`. -> This means the speaker regrets arriving late and is apologizing. Notice that being is in the -ing form as it is right after for (a preposition).
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
