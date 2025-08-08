@@ -434,16 +434,18 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **inactive**: is used to describe a state of not being active or engaged in physical movement. It can refer to a lack of physical activity or any kind of action.
 
+- **in charge of**: means being responsible for something or someone, leading or managing it/them. It's used when talking about the person who has control or authority over a particular area, project, or group. For example, ``Tom is in charge of this project``. This means Tom has the responsibility and authority to plan and manage everything related to the project.
+  
 - **indoor**: refers to activities done inside a building. Example: `Indoor activities include reading and cooking`
 
 - **industry**: refers to a specific sector of the economy or a type of business activity. Different industries have their own sets of rules, regulations, and practices.Example: ``The technology industry is known for rapid innovation``.
 
 - **infographic**: is a visual image like a chart or diagram used to represent information
 
-- **in charge of**: means being responsible for something or someone, leading or managing it/them. It's used when talking about the person who has control or authority over a particular area, project, or group. For example, ``Tom is in charge of this project``. This means Tom has the responsibility and authority to plan and manage everything related to the project.
-
 - **in her position**: to connect someone's qualities to their job/ role. When Tom talks about `great traits for someone in her position`, he means that Maria's qualities are perfect for the responsibilities and tasks she has as a team lead.
 
+- **in-house**:  means that the work is done within the company rather than hiring an external team or outsourcing the project. For example: `Our team decided to do front-end development in-house instead of hiring an external agency`. –> This means the company's own employees will handle the front-end development instead of outsourcing it.
+  
 - **initial prototyp**:e refers to the first version of a product or project created for testing or presenting ideas. For example: `The initial prototype helped the team understand what changes were needed`. -> This means the first version was used to identify improvements.
 
 
