@@ -48,6 +48,17 @@ Jessica: No problem, Mark.
          if you need any help or have more questions.
 ```
 
+### Need to
+
+Need to is used when something is necessary. For example:
+
+`You need to save your work before closing the program`. -> It is important to save the file so you don't lose your work.
+
+`The team needs to finish the project by Friday`. -> The team must complete the project before the deadline.
+
+Jessica mentions security protocols for the new project, meaning she wants to discuss measures to keep the project safe.
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
