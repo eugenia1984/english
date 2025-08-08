@@ -43,6 +43,13 @@ James:  No problem.
 
 **To be sorry for something** is used when apologizing for an action that may have caused inconvenience or harm. For example: `I'm sorry for being late to the meeting`. -> This means the speaker regrets arriving late and is apologizing. Notice that being is in the -ing form as it is right after for (a preposition).
 
+### Pick up & Leave off
+
+- **To pick up** means to continue something that was previously paused. For example: `Let's pick up this discussion after lunch`. -> This means continuing the discussion later.
+
+- **To leave off** refers to the point where something stopped. For example: `Where did we leave off in the book?` -> This asks about the last part read before stopping.
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
