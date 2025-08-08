@@ -108,9 +108,22 @@ Sophie: Thanks for the insight.
         It sounds like we need to prepare for different scenarios.
 ```
 
+### Might, May, Can, Could
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+
+- **May** expresses possibility or permission. For example: `May I use your phone?
+
+- **Might** indicates a smaller possibility than may, often used for less certain situations. For example: `She might come to the meeting.
+
+- **Can** expresses ability or permission. For example: `Can I leave early?
+
+- **Could** is used for past ability, polite requests, or a less certain possibility than can. For example: `Could you help me?
+
+
 
 ```
 
