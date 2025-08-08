@@ -169,4 +169,17 @@ Lisa:  No problem, Jake.
        We have to get to the bottom of this. 
 ```
 
+### Can not (Can't)
+
+The contraction **can't** is short for **cannot**, which means **not able to do something**.
+
+**Can't (cannot) + base verb** -> is used when something is impossible or difficult to understand. 
+
+For example:
+
+`I can't believe this happened!` -> It is hard for you to believe.
+
+`She can't access the system`. -> She is not able to.
+
+
 ---
