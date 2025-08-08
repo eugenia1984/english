@@ -605,6 +605,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **ongoing** describes something that is currently in progress, continuing, or not yet finished.
 
+- **on the one hand**: is used to introduce one side of an argument before presenting the other side. It helps compare two different perspectives. For example: `On the one hand, working remotely is convenient`. –> This sentence presents the benefit of remote work.
+  
 - **odd**: is used to describe something that is unusual, strange, or unexpected. It often refers to something that does not fit the norm or is out of the ordinary. For example:
 
 `The system showed an odd behavior during the test.` -> Meaning the system acted different from the normal.
