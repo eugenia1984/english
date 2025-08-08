@@ -30,9 +30,12 @@ Alice:  Yes, I'll take care of it.
         could you send me the updated project plan?
 James:  Sure thing.
         I'll send it over.
-        Anything else we should discuss before our next meeting?
-Alice:
-James:
+        Anything else we should discuss
+        before our next meeting?
+Alice:  I think that's it for now.
+        Thanks for your help.
+James:  No problem.
+        Talk to you later.
 ```
 
 ---
