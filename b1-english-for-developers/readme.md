@@ -32,4 +32,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 13- [Learn how to express decisions based on comparisons](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/13-learn-how-to-express-decisions-based-on-comparisons.md): earn how to compare things like tools or companies using words like better, faster, and the best. You will also practice having friendly conversations to give opinions and make decisions. Comparatives, Superlatives
 
+14- [Learn how to use modal verbs](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/14-learn-how-to-use-modal-verbs.md): learn how to talk about rules, describe things that are necessary, and what could happen if they aren't. You'll also practice asking and answering questions clearly, and adding helpful details to your ideas.
+
 ---
