@@ -234,6 +234,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **date**: can be used in different contexts. While it often refers to a romantic meeting between two people, it can also simply mean an appointment or a planned event between friends or colleagues. For example, saying ``Let's set a date for our next meeting`` uses date in a non-romantic way, referring to choosing a day for a meeting.
 
+- **decide on**: means to choose something after thinking about different possibilities. For example: `We need to decide on a programming language for the project`. –> This means choosing one language after considering options.
+
 - **desk**: is often the central part of one's workspace, especially in an office setting. People typically use it to set up their computers, write, read, and do other work-related tasks.
 
 - **develop**: means to make or create something, especially something new. For example, someone might develop a new game or a website.
