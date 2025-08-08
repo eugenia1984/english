@@ -110,11 +110,6 @@ Sophie: Thanks for the insight.
 
 ### Might, May, Can, Could
 
-
----
-
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
-
 - **May** expresses possibility or permission. For example: `May I use your phone?
 
 - **Might** indicates a smaller possibility than may, often used for less certain situations. For example: `She might come to the meeting.
@@ -122,11 +117,56 @@ Sophie: Thanks for the insight.
 - **Can** expresses ability or permission. For example: `Can I leave early?
 
 - **Could** is used for past ability, polite requests, or a less certain possibility than can. For example: `Could you help me?
+  
+---
 
-
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 3: Security Breach Investigation
 
 ```
-
+Jake:  Lisa, we've had a security breach
+       in our internal network.
+       We need to find out how this happened.
+       Can you help me investigate it?
+Lisa:  Sure, Jake.
+       Do we know when the breach occurred?
+Jake:  It must have happened last night
+       because that's when we started
+       noticing unusual activity on the servers.
+       What I can't figure out
+       is how they got past our firewall.
+Lisa;  That's strange.
+       Our firewall settings are usually solid.
+       It must have been something else.
+       Could someone have left a port open?
+Jake:  It's possible.
+       I was checking the logs
+       and there was a lot of traffic
+       from one particular IP address.
+       It might have been a targeted attack.
+Lisa;  If it was a targeted attack,
+       we need to find out what they accessed.
+       Have you checked which files were compromised?
+Jake:  Not yet,
+       but we should focus on the critical systems first.
+       It can't be just a random breach.
+       There must be a specific reason they targeted us.
+Lisa;  Agreed.
+       We should probably isolate the affected systems
+       and run a full scan.
+       This will help us understand
+       the extent of the breach and what they might have taken.
+Jake:  Good idea.
+       I'll start working on it.
+       We should also notify the security team
+       and follow our incident response plan.
+Lisa;  Absolutely.
+       I'll work on isolating the systems
+       and keep you updated.
+       Let me know if you find anything unusual.
+Jake:  Will do.
+       Thanks for your help, Lisa.
+Lisa:  No problem, Jake.
+       We have to get to the bottom of this. 
 ```
 
 ---
