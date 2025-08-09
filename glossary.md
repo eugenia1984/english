@@ -1005,6 +1005,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to rush**: means to do something or move quickly or in a hurry, often due to time pressure. It's used to describe actions done with urgency. For example: ``I had to rush to catch the train``. (means moving quickly to not miss the train) ``Don't rush your decision``. (suggests taking time to decide)
   
+- **to seem**: means to appear or give the impression of something, often when you're not fully certain. For example: `It seems like the server is down`. –> This means it appears that the server isn't working, though it's not confirmed.
+  
 - **to see new faces joining the team**: is often used in a professional or group setting. It means that someone is happy or pleased to welcome new members to a group or team. New faces is a friendly way to refer to new people or members.
 
 - **to set deadlines**: means deciding on the time by which tasks need to be completed. For example: ``Setting deadlines for each task ensures that the project stays on schedule``.
