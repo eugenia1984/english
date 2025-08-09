@@ -929,6 +929,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 `We aim to finish the project by Friday.` -> The goal is to complete the project by Friday.
 
+- **to bring something up**: means to start talking about a topic, especially one that may be important or serious. For example: `She brought up the idea of changing the team's schedule`. –> This means she started a conversation about changing the schedule.
+  
 - **to assign tasks**: means to give specific work or duties to someone. For example, a teacher assigns homework to students.
 
 - **to attend**: means to go to an event, meeting, or class. For example, a programmer attends a team meeting to discuss the week's tasks.
