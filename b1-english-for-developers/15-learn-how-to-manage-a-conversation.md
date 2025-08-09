@@ -55,9 +55,45 @@ James:  No problem.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Polite Interruption in a Meeting
 
 ```
+Jessica:  Excuse me, Tom.
+          I'm sorry to interrupt,
+          but I need to bring up an urgent issue
+          with the latest software update.
+          Would it be okay to discuss it briefly?
+Tom:      Sure, Jessica.
+          What seems to be the problem?
+Jessica:  Well, we've discovered a critical bug
+          that might affect the user interface.
+          It could cause some display issues,
+          and I thought you'd want to know about it
+          before we proceed further.
+Tom:      Thanks for letting me know.
+          Could you tell me more about the bug?
+          How severe is it?
+Jessica:  It seems to be causing
+          certain elements to disappear under specific conditions.
+          It's a serious issue,
+          and we need to address it quickly.
+Tom:      I understand.
+          Do we need to inform the rest of the team,
+          or can we handle it here?
+Jessica:  If you don't mind,
+          I'd like to take a few minutes
+          to explain it to the rest of the team.
+          It might impact their work as well.
+Tom:      That's fine.
+          Go ahead.
+          I'm sure everyone will appreciate knowing about it.
+Jessica:  Thank you.
+          I appreciate your understanding.
+          I'll try to be quick
+          so we can get back to the main agenda.
+Tom:      No problem.
+          Thanks for bringing this up.
+          It's important to deal with these issues early.
 ```
 
 ---
