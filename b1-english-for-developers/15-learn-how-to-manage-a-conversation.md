@@ -97,3 +97,53 @@ Tom:      No problem.
 ```
 
 ---
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Project Check-In
+
+```
+Brian: Hey, Sarah.
+       I wanted to discuss an ongoing project with you.
+       It's been a while since we last checked in.
+       How's everything going on your end?
+Sarah: Hi, Brian.
+       Everything is progressing,
+       but we have a few challenges.
+       Some parts of the project
+       are taking longer than expected.
+       By the way,
+       have you heard anything
+       about the additional resources we requested?
+Brian: Yes, I spoke with management.
+       We might get some support,
+       but they're still deciding.
+       Is there anything else slowing you down?
+Sarah: Well, we've had some issues
+       with the new software integration.
+       It's not as seamless as we hoped.
+       We're working on it, though.
+       Speaking of which,
+       do you know if there's a timeline for the next phase?
+Brian: Not yet, but I can find out.
+       We should probably plan a meeting with the team
+       to discuss the integration issues.
+       Would that help?
+Sarah: Absolutely.
+       Also, I've been meaning to ask
+       about the new training sessions.
+       When do they start?
+       I think the team could really use
+       some refreshers on the new tools.
+Brian: Good point.
+       The training sessions are scheduled for next week.
+       I'll send you the details.
+       Anything else you'd like to discuss?
+Sarah: Not for now.
+       Thanks, Brian.
+       I appreciate the update.
+       If anything comes up, I'll let you know.
+Brian: Sounds good.
+       Feel free to reach out to me
+       if you need anything else.
+```
+
+---
