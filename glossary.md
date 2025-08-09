@@ -967,6 +967,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to handle something**: in English means to manage or deal with a situation. When it comes to pressure, handling pressure means dealing with stress or difficult situations in a calm and effective way.
 
+- **to interrupt**: means to stop someone while they are speaking or doing something. For example: `Sorry to interrupt, but can I ask a quick question?` –> This means the speaker is politely stopping someone to ask something.
+  
 - **to issue**: in this context means to provide or distribute something officially, like badges or permits. For example, ``The office issues ID cards to all new employees``.
 
 - **to join**: means to attend or participate in an activity, event, or meeting. For example: `Thanks for joining the meeting this morning`. -> This means you are grateful for the fact that the person is attending the morning meeting.
