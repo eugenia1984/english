@@ -929,6 +929,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 `We aim to finish the project by Friday.` -> The goal is to complete the project by Friday.
 
+- **to be okay**: means to be acceptable or permitted. For example: `Is it okay if I borrow your book?` –> This means asking if it is acceptable to borrow the book.
+
 - **to bring something up**: means to start talking about a topic, especially one that may be important or serious. For example: `She brought up the idea of changing the team's schedule`. –> This means she started a conversation about changing the schedule.
   
 - **to assign tasks**: means to give specific work or duties to someone. For example, a teacher assigns homework to students.
