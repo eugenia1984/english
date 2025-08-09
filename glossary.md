@@ -898,10 +898,6 @@ For example:
 
 - **then**: is often used to indicate the next step or action after something else has been done. For example: `First, I check my emails, then I start coding`.
 
-`I turned on the computer, and then I opened my email.` -> You only opened the email after turning on the computer.
-
-'We fixed the bug, then we tested the application again.` -> They only tested the application again after fixing the bug.
-
 - **thinking of**: is used when you are considering an idea, action, or plan. For example: `I'm thinking of buying a new laptop`. -> This means you are considering the option of buying a new laptop, but have not made a decision yet.
 
 - **though**: is an expression you use to show contrast between two sentences, similar to but. It can also be used in the middle or in the end of a sentence, not only in the beginning. For example: ``I know we wanted to travel. We don't have the money for the tickets, though.``
@@ -923,6 +919,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 `She typically arrives at work by 9 AM.` -> This means that she usually arrives at work by 9 AM.
 
+- **to address**: means to take action to deal with a problem or situation. For example: `We need to address the login error before users report it.` –> This means action needs to be taken to fix the issue.
+  
 - **to aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward. For example:
 
 `She aims to become a developer.` -> Her goal is to become a developer.
