@@ -40,4 +40,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 15 - [Learn how to manage a conversation](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/15-learn-how-to-manage-a-conversation.md):  how to manage conversations at work — like how to continue a talk after a break, change topics politely, or interrupt when needed. You'll also practice using useful expressions to keep the conversation clear, friendly, and organized
 
+16 - [Learn how to clarify misunderstanding](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/16-learn-how-to-clarify-misunderstandings.md): earn how to ask for and give explanations when something is not clear, using polite questions and helpful responses. You'll also practice guessing the meaning of new words, describing problems, and clearing up misunderstandings in a friendly and professional way.
+
 ---
