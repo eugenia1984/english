@@ -46,6 +46,7 @@ Sophie: Yes, that's correct.
         keeping the details hidden.
 Mark:   At least I got one right.
         I think I'm starting to understand these terms better.
+        Thanks for the explanation, Sophie.
 ```
 
 
