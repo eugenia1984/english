@@ -69,6 +69,39 @@ Mark:  Well, when I click on the menu,
 Lisa:  I think so.
        It could be a rendering problem.
        Does it happen every time you click or just sometimes?
+Mark:  It's more random.
+       Sometimes it works fine,
+       but other times it acts weird.
+       I tried restarting,
+       but it didn't help.
+       Do you know what might be causing it?
+Linda: It could be a JavaScript issue.
+       Maybe there's a problem with the event handling.
+       Does it affect other parts of the software
+       or just the menu?
+Mark:  Mostly the menu.
+       Oh, and there's another thing
+       – sometimes the screen flickers
+       when I switch between tabs.
+       It's not consistent,
+       but it happens enough to be annoying.
+       Any ideas?
+Linda: Flickering could be a graphics driver issue
+       or a problem with the UI framework.
+       Have you updated the drivers recently?
+Mark:  Not that I know of.
+       Should I try updating them to see if that helps?
+Linda: Yes, that's a good start.
+       If it doesn't work,
+       we might need to dig into the code
+       or run some diagnostics.
+       Does that sound okay?
+Mark:  Yeah, that sounds good.
+       Thanks for your help, Lisa.
+       I appreciate it.
+Lisa:  No problem, Mark.
+       If you run into any other issues,
+       let me know.
 ```
 
 ---
