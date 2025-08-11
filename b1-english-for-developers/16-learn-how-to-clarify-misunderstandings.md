@@ -52,7 +52,24 @@ Mark:   At least I got one right.
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Flickering Glitches
+
+```
+Mark:  Hey, Lisa.
+       I need your help with something.
+       There's a strange issue with the software,
+       but I'm not sure how to describe it.
+       Can you take a look?
+Lisa:  Sure, Mark.
+       What's going on?
+Mark:  Well, when I click on the menu,
+       it sometimes disappears or shows the wrong options.
+       It's like it's glitching or something.
+       Does that make sense?
+Lisa:  I think so.
+       It could be a rendering problem.
+       Does it happen every time you click or just sometimes?
+```
 
 ---
 
