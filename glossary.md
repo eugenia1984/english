@@ -474,6 +474,8 @@ There are different types of data, like **quantitative data**, which is about nu
 - **insights**: are valuable thoughts or understanding gained from experience or learning. For example, gaining insights into a project means learning important things about it.
 
 - **interface**: is the part of a computer system or program that users interact with. These terms are key in understanding what makes a good design from the user's perspective.
+
+- **ironing out**: means fixing problems or making small adjustments. For example: `We're still ironing out the final details`. —> This means the team is solving small issues to finalize everything.
   
 - **I see**: is used to show that you understand what someone is saying, but it does not necessarily mean you agree. For example: `I see why you prefer that framework, but I still think we should compare other options`. –> This means you acknowledge the other person's opinion while keeping an open discussion.
 
