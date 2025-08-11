@@ -1120,6 +1120,8 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 - **well**: is often used to mean in good health or in a good condition. For example, Are you feeling well today? is asking if someone is in good health.
 
 - **what a responsibility**: are used to show recognition of the importance of someone's duties.
+
+- **What's going on?**: is a common way to ask someone what is happening, what the situation is, or what problem or event is taking place. For example: `What's going on at the meeting?` –> Someone is asking what is happening during the meeting.
   
 - **within walking distance**: means that the place is close enough to walk to comfortably.
 
