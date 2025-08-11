@@ -814,6 +814,8 @@ For example:
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
 
+- **sit in on**: means to attend something (like a class or meeting) without actively participating. For example: `She asked if she could sit in on our design session`. –> She wanted to observe the session but not lead or speak much.
+
 - **sleep cycle** refers to the natural pattern of sleep, including different stages the body goes through while sleeping. For example: ``A good sleep cycle is vital for restful sleep``, meaning: refers to a healthy pattern of sleep.
 
 - **sluggish**: is an adjective that describes a feeling of low energy, slow movement, or a lack of alertness. It's often used when someone feels tired, lethargic, or not able to think or move quickly. This term can apply to both physical and mental states. Here are some examples: ``The computer was running sluggishly, taking a long time to respond``, meaning: describes slow performance, used metaphorically for an inanimate object.
