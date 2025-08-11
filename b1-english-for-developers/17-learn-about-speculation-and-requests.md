@@ -66,7 +66,65 @@ We should have fixed the bug, but we didn't notice it.` -> They wish they had fi
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Speculating on a Security Breach
+
+```
+Jessica: Hey Jake,
+         we had a security breach reported last night.
+         I wanted to discuss what might have caused it.
+         Do you have any ideas?
+Jake:    Sure, Jessica.
+         It could be an unpatched vulnerability.
+         Have you checked whether all security updates were applied?
+Jessica: I did and it looks like everything is up to date.
+         Could it have been a phishing attack?
+         We had a report of a suspicious email.
+Jake:    It's possible.
+         Phishing can lead to unauthorized access
+         if someone clicks on a malicious link.
+         Have you checked the audit logs
+         to see if there's any unusual activity
+         or failed login attempts?
+Jessica: Not yet.
+         I noticed some odd patterns in the logs,
+         but I'm not sure if they're connected to the breach.
+         Could it be something else?
+Jake:    It might be.
+         Sometimes unauthorized access happens
+         due to weak passwords or shared credentials.
+         Did you check whether there was any unusual access
+         from external IPs or locations?
+Jessica: No I didn't.
+         I'll do that.
+         Should we also look at the firewall configurations?
+         There might be something there we missed.
+Jake:    Definitely.
+         Firewall rules can sometimes be misconfigured.
+         We should also check to see
+         if there's any evidence of brute force attacks
+         or SQL injection attempts.
+         Do you know if the team has noticed anything out of the ordinary?
+Jessica: No one mentioned anything,
+         but I'll ask around.
+         Do you think we need to escalate this
+         to the incident response team
+         or should we keep investigating on our own?
+Jake:    We might have to escalate it
+         if we find more signs of unauthorized access.
+         For now,
+         let's gather more information and stay vigilant.
+         If you find anything unusual,
+         let me know immediately.
+Jessica: Will do.
+         Thanks Jake.
+         I'll run through the logs
+         and check the security cameras
+         for any physical access breaches.
+         If I find anything, I'll update you.
+Jake:    Sounds good.
+         Keep me posted.
+```
+
 
 ---
 
