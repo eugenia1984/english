@@ -882,6 +882,8 @@ For example:
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> T
 
+- **take a look**: is used when asking someone to look at something, often quickly or casually. For example: `Please take a look at the new features in the app`. –> This means asking someone to check out or examine the new features in the app.
+
 - **TGIF**: stands for Thank God It's Friday, a common expression used to express happiness that the work week is ending and the weekend is near.
 
 - **team-building**: activities are games or events that are designed to help a group of people work better together. They build trust and good relationships between team members.
