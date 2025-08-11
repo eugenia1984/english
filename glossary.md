@@ -272,7 +272,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **either** at the end of a negative sentence, it means the same situation applies to them too. For example: ``I don't like carrots. My sister doesn't like them, either.``
 
-- **Electrical systems** refer to a network of electrical components connected to carry out some operation. These can include anything from simple circuits like a flashlight to complex systems found in computers and other high-tech devices.
+- **electrical systems** refer to a network of electrical components connected to carry out some operation. These can include anything from simple circuits like a flashlight to complex systems found in computers and other high-tech devices.
 
 - **encryption**: refers to converting data into a secure format to prevent unauthorized access. For example: `End-to-end encryption keeps messages private by encoding them so only the sender and receiver can read them`. -> Here, encryption means the process of securing information by converting it into a coded form.
 
@@ -328,6 +328,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **fine-tuning**: means making small, precise adjustments to improve something or optimize it to achieve the desired result. It is often used in technical or creative contexts. For example: `She spent hours fine-tuning the presentation to ensure it was perfect for the audience`. -> This means she adjusted even the smallest details of the presentation to make it perfect.
 
+- **flickers**: describes an effect where the image or light on the screen changes quickly and repeatedly, often in a way that can be distracting. For example: `The light flickers when the power is unstable`. –> This means the light goes on and off quickly.
+  
 - **follow the rules**: means to do what the rules say. ``If there is a rule that says use camelCase for variable names, to follow the rules means you name your variables like myVariable instead of my_variable``.
 
 - **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
