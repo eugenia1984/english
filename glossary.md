@@ -694,6 +694,8 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **piling up**: means accumulating or gathering in a large quantity, often more than expected or manageable. For example: `The homework assignments are piling up as the deadline approaches`. -> This example highlights how the number of homework assignments is growing significantly, creating a sense of urgency or pressure.
 
+- **phishing attack**: is when hackers send fake emails or messages to trick people into giving away passwords or personal information. For example: `A phishing attack can happen through email`. -> Someone might send a fake email to steal information.
+  
 - **pique one's interest**: this phrase means to stimulate or arouse someone's curiosity or interest in something. It's often used when something catches your attention and makes you want to learn more about it. Alongside this phrase, you will fill in the blanks with familiar words that you've already learned.
 
 - **places around here** refers to locations in the nearby vicinity or area.
