@@ -1084,6 +1084,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> U
 
+- **UI framework**: refers to the structure or set of tools used to create the visual elements of an application. For example: `The UI framework helps developers create user-friendly interfaces`. –> This means it provides the building blocks for creating menus, buttons, and other parts of a program users interact with.
+  
 - **unconventional**: is used to describe something that's not based on or conforming to what is generally done or believed. It often implies a method or approach that is different from the norm.
 
 - **unlock**: means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
