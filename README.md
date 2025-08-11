@@ -8,7 +8,6 @@ Here you'll find some English Grammar, practices and tips, very useful if you ar
 
 Modules:
 
-
 [Module 1](https://github.com/eugenia1984/english/blob/main/english-for-developers-it-professionals/module01.md): Grammar 101: the alphabet, acronysm & symbols / Pronuns in English / Personal introductions / work routine
 
 [Module 2](https://github.com/eugenia1984/english/blob/main/english-for-developers-it-professionals/module02.md): Roles & Task in an IT Company: Organization of an IT company /Daily tasks in an IT company
@@ -84,6 +83,8 @@ Modules:
 -15 - [Learn how to manage a conversation](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/15-learn-how-to-manage-a-conversation.md):  how to manage conversations at work — like how to continue a talk after a break, change topics politely, or interrupt when needed. You'll also practice using useful expressions to keep the conversation clear, friendly, and organized
 
 -16 - [Learn how to clarify misunderstanding](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/16-learn-how-to-clarify-misunderstandings.md): earn how to ask for and give explanations when something is not clear, using polite questions and helpful responses. You'll also practice guessing the meaning of new words, describing problems, and clearing up misunderstandings in a friendly and professional way.
+
+-17 - [Learn about speculation and requests](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/17-learn-about-speculation-and-requests.md): learn how to talk about things that should or could have happened in the past, and how to give suggestions or make polite requests. You'll also practice using expressions to guess what might have caused a problem and how to work together to solve it in a clear and respectful way.
   
 ---
 
