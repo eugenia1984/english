@@ -342,6 +342,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **get in**: means to enter a place.
 
+- **go over**: means to review or explain something in detail. For example: `Let's go over the plan one more time before the meeting`. —> This means reviewing the plan together to be sure everything is clear.
+
 - **get out**: means to leave a place.
 
 - **getting to know the area**: It's a way to become more familiar with the nearby places and how to find them.
