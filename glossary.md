@@ -1142,6 +1142,8 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 - **what a responsibility**: are used to show recognition of the importance of someone's duties.
 
 - **What's going on?**: is a common way to ask someone what is happening, what the situation is, or what problem or event is taking place. For example: `What's going on at the meeting?` –> Someone is asking what is happening during the meeting.
+
+- **What's the story?**: is an informal way to ask for an explanation or what's going on. For example: `You were late again — what's the story?` —> This asks for a reason or clarification.
   
 - **within walking distance**: means that the place is close enough to walk to comfortably.
 
