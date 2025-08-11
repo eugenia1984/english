@@ -593,6 +593,14 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **not right away**: is used to indicate that something didn't happen immediately or at the earliest opportunity. It suggests that there was a delay or a period before the action or change took place. This phrase helps to set the timeline of events or actions.
 
+- **Not that I know of**: is used to say that, as far as you are aware, something is not true or hasn't happened. It's often used to politely say no while leaving room for the possibility that the speaker could be wrong. For example:
+
+```
+Person 1: Has the update been installed?
+
+Person 2：Not that I know of. - This means you don't believe the update has been installed, but you're not completely sure.
+```
+
 - **not that much**: is used to indicate a small amount or degree, often in response to a question about quantity or frequency. For example, ``Do you travel for work? – Not that much``.
 
 - **not too far away**: it means the coffee shops are at a good distance — they're easy to get to, but not right next door.
