@@ -42,4 +42,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 16 - [Learn how to clarify misunderstanding](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/16-learn-how-to-clarify-misunderstandings.md): earn how to ask for and give explanations when something is not clear, using polite questions and helpful responses. You'll also practice guessing the meaning of new words, describing problems, and clearing up misunderstandings in a friendly and professional way.
 
+17 - [Learn about speculation and requests](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/17-learn-about-speculation-and-requests.md): learn how to talk about things that should or could have happened in the past, and how to give suggestions or make polite requests. You'll also practice using expressions to guess what might have caused a problem and how to work together to solve it in a clear and respectful way.
+
 ---
