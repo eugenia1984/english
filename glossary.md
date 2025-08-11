@@ -246,6 +246,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **DoS attacks**: refer to **Denial of Service attacks**, which are attempts to make a computer or network service unavailable by overwhelming it with traffic. For example: `The website was temporarily offline due to a large-scale DoS attack`. -> This means the website was made unavailable because it was overloaded with harmful traffic.
 
+- **Does that help?**: is a common way to ask if your explanation made things clearer or answered someone's question For example: `The deadline is Friday, not Thursday. Does that help?` —> You're checking if someone now understands better.
+  
 - **Does that make sense?**: is a way to check if the other person understood what you just said. For example: `I'll send the report by noon. Does that make sense?` –> You're asking if the plan is clear and acceptable.
 
 - **double check**: means to verify something a second time to ensure it is correct or accurate. It is often used when dealing with important tasks to avoid errors. For example: `We need to double check the calculations before submitting the report.` -> Meaning you'd like to verify if the calculations are right once more before sending the report to those who will analyze it.
