@@ -155,7 +155,7 @@ It emphasizes the importance of avoiding certain actions. For example, ``You can
 
 - **codebase**: refers to the entire collection of source code used to build a software project. It includes all the files, scripts, and resources involved in development. For example: `The codebase of the new project is large, and it will take time to review all the files`. -> This means that the collection of all the project's code is extensive and will require a lot of time to go through.
 
-
+- **code review**: is a process where developers check each other's code for errors and improvements. For example: `We found a small bug during the code review`. –> The team checked the code and noticed a problem.
 
 - **coffee**: A drink many people have when they are tired. Example: ``I drink coffee on my break``.
 
