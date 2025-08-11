@@ -366,6 +366,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **go-to person**: is used to describe a person who is an expert or the best person to approach in a specific field or for a particular issue. For example, `He's the go-to guy for computer problems` means he is the person best suited to help with computer issues.
 
+- **graphics driver**: is software that controls how your computer displays images and videos. For example: `The graphics driver manages how images appear on your screen`. –> This means the driver helps control the display of visual content.
+  
 - **great traits**: means very good qualities or characteristics.
 
 - **guidelines**: are rules or principles that provide direction. For example: `The team followed the design guidelines to maintain consistency across pages.` -> This means that the team followed specific rules to ensure a consistent appearance and structure across different pages.
