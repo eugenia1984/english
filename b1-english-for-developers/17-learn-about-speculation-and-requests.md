@@ -54,6 +54,16 @@ Sophie: Will do.
         than to rush and miss something.
 ```
 
+### Should have....but...
+
+- **Should have** -> is used to express regret or a missed responsibility about something in the past. Mark means that running the tests was the right thing to do, but he didn't do it.
+
+- **But** -> introduces the reason why he didn't act: I was in a hurry. 
+
+Example:
+
+We should have fixed the bug, but we didn't notice it.` -> They wish they had fixed the bug, but they missed it.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
