@@ -655,6 +655,8 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
   
 - **overlap**: is used when one thing covers or extends over part of another. In this context, it means that elements on the screen are incorrectly positioned, covering parts of each other. **On** is used to indicate the device where the overlapping occurs. It shows the relationship between the elements and the devices. For example: Example: `The images overlap on the webpage, making it difficult to see all the content clearly`. -> Here, overlap describes the positioning issue and on specifies where it occurs.
 
+- **overlooked**: means to miss or ignore something important. For example: `We might have overlooked a small bug in the code`. -> Maybe the team didn't see a small mistake in the code.
+  
 - **overtime** (**To work overtime**): means to work extra hours beyond the standard schedule, often to meet deadlines or complete urgent tasks. For example: `The team had to work overtime to finish the project before the deadline.` -> Meaning you had to work extra hours to complete the project in order to meet the deadline. In this sentence, Linda is recalling a specific week when everyone had to put in extra hours to meet the demands of their work.
 
 - **overwhelmed**: means feeling extremely stressed, overloaded, or unable to cope with a situation. For example: `She felt overwhelmed by the number of tasks she had to complete`. -> This means she had too much to do and felt stressed.
