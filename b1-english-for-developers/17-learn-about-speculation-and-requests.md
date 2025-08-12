@@ -170,7 +170,7 @@ Brian: Totally agree.
        with more hands-on activities.
        Let me know if you have any other suggestions.
 Alice: Will do. Thanks, Brian.
-       I think this new approach could be a game changer
+       I think this new approach could be a game-changer
        for our training sessions.
 ```
 
