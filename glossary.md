@@ -342,6 +342,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **gadgets**: are small tools or devices with a particular function.
 
+- **game-changer**: is something that transforms a situation in a significant way. For example: `Switching to remote work has been a game-changer for productivity`. -> It has greatly improved how much work gets done.
+  
 - **get in**: means to enter a place.
 
 - **go over**: means to review or explain something in detail. For example: `Let's go over the plan one more time before the meeting`. —> This means reviewing the plan together to be sure everything is clear.
