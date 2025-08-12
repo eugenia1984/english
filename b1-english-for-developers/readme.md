@@ -44,4 +44,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 17 - [Learn about speculation and requests](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/17-learn-about-speculation-and-requests.md): learn how to talk about things that should or could have happened in the past, and how to give suggestions or make polite requests. You'll also practice using expressions to guess what might have caused a problem and how to work together to solve it in a clear and respectful way.
 
+18 - [Learn about adverbial phases](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/18-learn-about-adverbial-phrases.md): you will learn how to use phrases that give more information about when, where, how often, or how much something happens. You'll also practice using these phrases to describe tasks, talk about plans, and explain results more clearly in your daily work.
+
 ---
