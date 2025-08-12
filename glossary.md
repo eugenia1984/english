@@ -904,6 +904,9 @@ For example:
 
 - **swipe at the door**:, he means you have to move or swipe the access card close to a special reader at the door to open it.
 
+- **switch something up** means to change something in order to improve it. It is an informal way to suggest trying a different method or approach. For example: `They switched the schedule up to save more time`. -> They changed the plan or timetable.
+
+
 - **system update**: is an essential process that makes improvements, adds new features, or corrects issues in the software on a device or network. For example: `The system update included security improvements to protect user data.` -> The update made changes to help keep user information safe from potential threats.
 
 ---
