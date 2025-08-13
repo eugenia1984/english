@@ -44,6 +44,17 @@ Bob:   Excellent, Sarah.
        are as productive as possible.
 ```
 
+### Adverbial phrase
+
+An adverbial phrase is a word or group of words that works together to modify a verb, adjective, or other adverb, providing additional information about time, frequency, manner, place, or degree. 
+
+Sarah uses two adverbial phrases that describe the frequency of the meeting:
+
+**Currently** -> is an adverb that refers to the present time. It indicates that the action is happening now, in the present moment. For example: `Currently, we are testing the new software`. -> It means the testing is happening at the present time.
+
+**Every morning** -> is an adverbial phrase that describes frequency, indicating how often the meetings occur. For example: `She exercises every morning before work`. -> It means she exercises daily, specifically in the morning.
+
+These phrases help provide more context and give the listener or reader a better understanding of when and how frequently the actions take place.
 
 ---
 
