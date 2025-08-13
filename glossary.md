@@ -422,6 +422,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **HR department**: stands for Human Resources department. It's a part of a company that takes care of everything related to the people who work there. This includes hiring new employees, training them, making sure they are paid, and helping with any problems they might have at work. For instance, if you have a question about your holiday time, you would go to the HR department to ask.
 
+- **huddle**: means a quick and focused group meeting, often used to align on tasks or goals. For example: `Let's have a quick huddle before the client call`. –> The team is planning to meet briefly to coordinate before talking to a client.
+  
 - **huge**: means very big or large in size, amount, or degree. For example, ``The building is huge``. means the building is very large or big in size.
   
 ---
