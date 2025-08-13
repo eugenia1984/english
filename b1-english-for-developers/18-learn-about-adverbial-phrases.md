@@ -58,6 +58,27 @@ These phrases help provide more context and give the listener or reader a better
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 2: Testing the New Chat Feature
+
+```
+James:  As we start on the new chat feature,
+        we need to make sure it works well everywhere.
+        It should run smoothly no matter where the user is.
+Sophie: Right now, we're using our central servers.
+        We should definitely test it in different places
+        to make sure it works well globally.
+James:  True.
+        Do you think we might face any big problems
+        with how fast it responds on different servers?
+Sophie: It's possible.
+        Our servers are good for our current load,
+        but this new feature might make them slower.
+        We could see some delays at the beginning.
+James:
+Sophie:
+```
 
 ---
+
+
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
