@@ -114,7 +114,30 @@ Maria: That's impressive.
 Riker: We went over budget by just 5%,
        which isn't too much.
        The ads cost more than we thought they would.
-Mari:
+Maria: I see.
+       Where could we do better?
+       Which areas didn't meet our expectations completely?
+Riker: Our campaign did well in Europe,
+       but not as much in Asia.
+       The impact there was quite low.
+       We need better content that fits each local market.
+Maria: Right.
+       We should improve our strategies
+       in areas where they weren't very effective.
+       And for our next campaign,
+       how can we manage our budget better?
+Riker: I think we should plan our budget
+       based on different regions' costs.
+       We need to spread our funds more wisely
+       to avoid going over budget.
+Maria: Excellent.
+       Can you write a new strategy
+       based on our talk today
+       and share it at our next team meeting?
+       It's important that we use what we've learned to improve.
+Riker: Okay Maria,
+       I'll get a detailed plan ready
+       and go over it with the team to get their thoughts.
 ```
 
 
