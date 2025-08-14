@@ -74,8 +74,16 @@ Sophie: It's possible.
         Our servers are good for our current load,
         but this new feature might make them slower.
         We could see some delays at the beginning.
-James:
-Sophie:
+James:  I see.
+        Maybe we should start small
+        and see how it goes.
+        We can introduce it to a few users first
+        and watch what happens.
+Sophie: That sounds good.
+        We can begin with a small group
+        and increase the number as we fix any issues.
+        This way,
+        we can understand the limits better before we launch it fully.
 ```
 
 ---
