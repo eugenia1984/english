@@ -93,4 +93,29 @@ James:  Great.
 ---
 
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: Evaluating Marketing Impact
+
+```
+Riker: Good morning, Maria.
+       I've prepared the final report
+       on our recent social media campaign.
+       It really helped increase our engagement levels,
+       especially in Europe.
+Maria: That's great.
+       How much did our engagement improve?
+       Did we reach our targets?
+Riker: Yes, our engagement went up by about 40%.
+       That's a big increase.
+       The UK and Germany saw the most improvement,
+       even more than we expected.
+Maria: That's impressive.
+       What about our budget?
+       Did we stay within it?
+Riker: We went over budget by just 5%,
+       which isn't too much.
+       The ads cost more than we thought they would.
+Mari:
+```
+
+
+---
