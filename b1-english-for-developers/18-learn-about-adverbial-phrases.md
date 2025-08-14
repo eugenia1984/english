@@ -84,6 +84,10 @@ Sophie: That sounds good.
         and increase the number as we fix any issues.
         This way,
         we can understand the limits better before we launch it fully.
+James:  Great.
+        I'll write up a plan with these steps.
+        We can look at it together
+        and decide if we need to change anything.
 ```
 
 ---
