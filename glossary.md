@@ -732,13 +732,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **QA (Quality Assurance) Tester** is someone who checks software to make sure it works well and has no problems. Quality means how good or bad something is, and assurance means making sure about something. A QA Tester's job is to test software to ensure its quality is good and it works as it should.
 
-- **quarterly**: means happening every three months, or four times a year.
-
-For example:
-
-`The company releases its financial reports quarterly.` -> The reports are released every three months.
-
-`We hold quarterly meetings.` -> Meetings are organized four times a year.
+- **quarterly**: means happening every three months, or four times a year. For example: `The company releases its financial reports quarterly.` -> The reports are released every three months.
 
 - **quick** describes something done in a short time.
 
@@ -804,17 +798,17 @@ For example:
 
 - **security** refers to the practice of keeping people and places safe. In a sentence, you might say, ``He works in security, protecting buildings``.
 
-- **security protocol**: refers to specific procedures designed to protect systems, networks, or data from unauthorized access or threats. For example:
-
-`Our security protocols require two-factor authentication for all logins.` -> This means that the use of two-factor authentication for logging in is a part of the procedures related to protecting the system.
+- **security protocol**: refers to specific procedures designed to protect systems, networks, or data from unauthorized access or threats. For example: `Our security protocols require two-factor authentication for all logins.` -> This means that the use of two-factor authentication for logging in is a part of the procedures related to protecting the system.
 
 - **self-taught** means learning things by yourself, not from a school or teacher. It's when you learn something on your own. The word **taught** is from teach, which means to give someone knowledge or to show how to do something. So, if you are ``self-taught``, you have learned something by yourself.
+
+- **send it over to**: means to deliver a file, document, or message to another person, often by email or online. For example: `I'll send it over to the design team after making the changes`. –> This means transferring the document to them.
 
 - **seriousl**y is used when you want to show that something is important or true. It helps to make what you are saying stronger. For example, if you say, ``I seriously love programming``, it means you really love programming a lot. Or, if you say, ``Take this project seriously``, it means you think the project is very important and should be treated with care.
 
 - **serious**: means showing deep thought, not joking, or focusing intensely on something important. For example, ``He is serious about learning English``. This shows he is very focused and committed to learning English, not doing it just for fun.
 
-- **ssetback**: is something that delays or prevents progress. Slow or inefficient computers might make tasks take longer, reducing efficiency. For example: `The project faced a setback due to a critical bug`. -> The project was delayed or had problems because of a serious software issue.
+- **setback**: is something that delays or prevents progress. Slow or inefficient computers might make tasks take longer, reducing efficiency. For example: `The project faced a setback due to a critical bug`. -> The project was delayed or had problems because of a serious software issue.
 
 - **set for**: **set**means that something is arranged, planned, or scheduled for a specific time or purpose. The preposition **for** is used to indicate the time or purpose of the planned event. For example: `The meeting is set for 3 PM tomorrow.` -> This means the meeting is scheduled to take place at that time.
 
