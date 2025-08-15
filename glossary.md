@@ -14,17 +14,9 @@ This phrase is commonly used in informal contexts to soften statements or descri
 
 - **access control**: refers to the practice of restricting and managing entry to a place or resource. For instance, ``Access control systems are used to secure the building``.
 
-- **across**: is used to describe something that happens over a wide area or in many different places. It can indicate movement from one side to another or something spread out over a range. For example:
+- **across**: is used to describe something that happens over a wide area or in many different places. It can indicate movement from one side to another or something spread out over a range. For example: `The company has offices across the country.` -> The offices are spread out in different locations in the country.
 
-`The company has offices across the country.` -> The offices are spread out in different locations in the country.
-
-`She walked across the street`. -> She moved from one side of the street to the other.
-
-**across** ->  is a preposition that means from one side to another or throughout a particular area or group. For example:
-
-`The news spread quickly across the country.` -> The news spread throughout the entire country.
-
-`She looked across the room.` -> She looked from one side of the room to the other.
+**across** ->  is a preposition that means from one side to another or throughout a particular area or group. For example: `The news spread quickly across the country.` -> The news spread throughout the entire country.
 
 In the sentence, `Are all updated elements performing well across devices?`, across means on all or throughout different devices.
 
@@ -73,6 +65,8 @@ If your friend tells you they saw a dog riding a skateboard down the street, you
 
 - **attentive**: means paying careful attention or listening carefully.
 
+- **at the top**: refers to the highest position in a list or layout. It's a common way to refer to the first item. For example: `Her name is at the top of the list`. –> This means her name is in the first position.
+  
 - **automation**: is the use of technology to perform tasks automatically without human intervention. For example: `The company uses automation to schedule social media posts every day. - It means using software tools to schedule posts without manual input each time.
 
 - **available**: means free to do something or not busy. For example: `Are you available to help me tomorrow?` -> This question is asking if the person is free to help tomorrow.
