@@ -48,7 +48,7 @@ Sarah: Perfect, Josh.
        Let's touch base once I review the quote.
 ```
 
-### Many... / A few... / Quite a few... / Double that... / Something better... / Even better... / Sufficient / Highest quality...
+### Many... / A few... / Quite a few... / Double that... / Something better... / Even better... / Sufficient / Highest quality... / Significantly
 
 - **many of these**: means a large number of specific items being talked about. For example: `We need many of these parts to finish the job`. –> This means a high quantity is required.
 
@@ -74,6 +74,8 @@ Sarah: Perfect, Josh.
 
 - **as long as**: is used for direct comparison in length. For example: `The new cable is as long as the room`. –> This shows the cable's length matches the size of the room.
 
+- **significantly**: means in a major or important way. For example: `The new software significantly reduced loading times` –> This means it made a big improvement.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
