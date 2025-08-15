@@ -39,7 +39,7 @@ Sarah: We'd prefer the highest quality for those connectors
        since they impact the product's performance significantly.
        Also, could you ensure we receive all the materials
        by the end of the month?
-Josh:  Absolutly. I'll prioritized-
+Josh:  Absolutly. I'll prioritized these orders.
        I'll draft a new quote with these specifics
        and send it over to you by tomorrow.
        Does that work for you?
