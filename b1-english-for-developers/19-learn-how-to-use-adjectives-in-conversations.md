@@ -61,7 +61,16 @@ Sarah: Perfect, Josh.
 - **something better**: means an improved or higher-quality option compared to a previous one. For example: We found something better than the old processor`. –> This means the team found a newer or more powerful processor.
 
 - **even better**: means something is an improvement compared to another good option. For example: `We thought the laptop was good, but we found something even better with more power`. –> This shows finding a stronger or more advanced option.
-  
+
+
+### Twice / Longer / As long as
+
+- **longer**: means having more distance from end to end. For example: `We need longer cables to reach the new server racks`. –> This means cables with more length.
+
+- **twice**: means two times the amount. For example: `We ordered twice the number of processors this time`. –> This means double the quantity.
+
+- **as long as**: is used for direct comparison in length. For example: `The new cable is as long as the room`. –> This shows the cable's length matches the size of the room.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
