@@ -78,7 +78,60 @@ Sarah: Perfect, Josh.
   
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Rehearsing Pitch
+
+```
+Jake:  All right, Alice,
+       here's how I plan to start the pitch.
+       In today's fast evolving digital landscape,
+       startups require a robust,
+       cost-effective cybersecurity solution.
+       Guardian Tech offers just that,
+       an innovative and flexible suite
+       that grows with your business.
+ALice: That sounds really good, Jake.
+       You used 'robust' and 'cost-effective',
+       which highlights the most important qualities right away.
+       Maybe consider emphasizing how essential these features are?
+Jake:  Hmm... Okay. How about this?
+       Guardian Tech isn't just helpful.
+       It's essential for protecting against
+       the wide array of digital threats facing startups today.
+       Our solution is not only adaptable
+       but also incredibly easy to integrate
+       into any existing infrastructure.
+Alice: Yes, that's clearer.
+       You're showing the urgency
+       and ease of integration well.
+       When you talk about integration,
+       maybe specify what makes it easy?
+Jake:  Good point. I'll add:
+       With its plug-and-play design,
+       GuardianTech is a user-friendly option
+       that requires minimal setup time.
+       This seamless integration
+       makes it an ideal choice
+       for startups with limited IT resources.
+Alice: Perfect!
+       That part about 'minimal setup time' really clarifies it.
+       How will you conclude the pitch?
+Jake:  I was thinking of finishing with a focus on the future.
+       Like:
+       As your startup grows,
+       GuardianTech scales effortlessly
+       to meet increasing demands ensuring a secure,
+       sustainable digital environment.
+Alice: That's a strong ending.
+       It reassures that the product is a long-term solution.
+       Just make sure to slow down a bit when you get to
+       'secure, sustainable digital environment'
+       to let those adjectives sink in.
+Jake:  Definitely.
+       I'll make a note of that.
+       Thanks for the feedback, Alice.
+       I feel much more confident
+       about delivering this pitch now.
+```
 
 ---
 
