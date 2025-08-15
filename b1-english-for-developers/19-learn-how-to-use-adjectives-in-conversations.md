@@ -48,12 +48,14 @@ Sarah: Perfect, Josh.
        Let's touch base once I review the quote.
 ```
 
-### Many / A few
+### Many... / A few... / Quite a few...
 
 - **many of these**: means a large number of specific items being talked about. For example: `We need many of these parts to finish the job`. –> This means a high quantity is required.
 
 - **a few**: means a small number, but more than one. For example: `I have a few questions`. –> This means you have a small number of questions.
 
+- **quite a few**: means a larger number than just a few. For example: `There were quite a few people at the meeting`. –> This means many people attended.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
