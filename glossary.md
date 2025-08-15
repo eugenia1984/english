@@ -676,21 +676,13 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **passionate about something**: when you not only like something, but also express strong emotions or feelings in relation to it. For example: ``I am passionate about learning languages. I have studied Spanish, French, Italian, Japanese, and Chinese. I can't wait to start another``.
 
-- **patch**: is an update or fix applied to software or systems to correct issues, improve functionality, or enhance security. For example:
-
-`The developers released a patch to fix the bug.` -> meaning they fixed the bug through an update to the system.
-
-`Make sure to apply the latest security patch to protect your system.` -> meaning the last security update will be able to protect your system better.
+- **patch**: is an update or fix applied to software or systems to correct issues, improve functionality, or enhance security. For example: `The developers released a patch to fix the bug.` -> meaning they fixed the bug through an update to the system.
 
 - **patterns**: are regular and repeated ways in which something happens or is done. In data, patterns can show trends or behaviors. For example, a pattern in customer data might be that more people buy ice cream on hot days. This is a trend pattern. There are also **cycle patterns**, like a coffee shop selling more coffee in the morning. Recognizing patterns helps businesses understand their customers better. Patterns can be found in numbers, like sales increasing every month, or in behaviors, like customers preferring to shop online.
 
 - **performance review**: is an evaluation of an employee's work over a specific period. It typically involves feedback on strengths, areas for improvement, and future goals. For example: `During the performance review, the manager highlighted her achievements over the past year`. -> This means the manager took the opportunity during the review to mention her successes in the previous year.
 
-- **perhaps**: is used to express uncertainty or possibility. It is similar in meaning to maybe. For example:
-
-`Perhaps we will launch the new feature next week.` -> There is a possibility of launching the new feature, but it is not certain.
-
-`They are perhaps the best developer for this project.` -> They might be the best developer, but it is not definite.
+- **perhaps**: is used to express uncertainty or possibility. It is similar in meaning to maybe. For example: `Perhaps we will launch the new feature next week.` -> There is a possibility of launching the new feature, but it is not certain.
 
 - **phishing** is a type of online scam where attackers try to trick people into giving personal information, like passwords or credit card numbers, by pretending to be a trustworthy source. For example: `Phishing attempts are common in emails that look like they come from your bank.` -> Scammers often try to trick people using fake emails.
 
@@ -712,9 +704,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **pop up**: is used when something suddenly appears on your screen. In coding, suggestions from auto-completion often pop up as you type.
 
-- **postmortem**: comes from Latin, meaning after death, but in a business context, it refers to a meeting or review conducted after the completion of a project to analyze its successes and problems. This meeting helps organizations learn from their experiences and improve future projects. For example:
-
-`The team conducted a postmortem to discuss the challenges faced during the product launch.` -> This means the team met after product launch to discuss the challenges they encountered in the process.
+- **postmortem**: comes from Latin, meaning after death, but in a business context, it refers to a meeting or review conducted after the completion of a project to analyze its successes and problems. This meeting helps organizations learn from their experiences and improve future projects. For example: `The team conducted a postmortem to discuss the challenges faced during the product launch.` -> This means the team met after product launch to discuss the challenges they encountered in the process.
 
 - **practicing** you are doing an activity regularly to improve your skills at it.
 
@@ -724,6 +714,8 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **proactive**: means taking action by causing change and not only reacting to change when it happens.
 
+- **product batch**: refers to a group of items produced at the same time. For example: `The factory shipped the first product batch last week`. –> This refers to a group of products made and sent together.
+  
 - **project manager** is a key role in many companies. This person is responsible for planning, organizing, and directing the completion of specific projects while ensuring these projects are on time, on budget, and within scope.
 
 - **project's needs** are the requirements or things that a project must have or achieve. In programming, this could include specific features, functions, or performance targets.
