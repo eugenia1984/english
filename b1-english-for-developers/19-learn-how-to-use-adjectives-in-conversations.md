@@ -48,7 +48,7 @@ Sarah: Perfect, Josh.
        Let's touch base once I review the quote.
 ```
 
-### Many... / A few... / Quite a few... / Double that
+### Many... / A few... / Quite a few... / Double that... / Something better...
 
 - **many of these**: means a large number of specific items being talked about. For example: `We need many of these parts to finish the job`. –> This means a high quantity is required.
 
@@ -57,7 +57,9 @@ Sarah: Perfect, Josh.
 - **quite a few**: means a larger number than just a few. For example: `There were quite a few people at the meeting`. –> This means many people attended.
 
 - **double that**: means twice the previous quantity. For example: `Last time we ordered 10 routers; this time we need double that, so 20 routers`. –> This shows the quantity has increased two times.
-  
+ 
+- **something better**: means an improved or higher-quality option compared to a previous one. For example: We found something better than the old processor`. –> This means the team found a newer or more powerful processor.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
