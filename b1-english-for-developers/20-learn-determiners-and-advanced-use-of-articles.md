@@ -53,6 +53,12 @@ Jake:  Will do, Maria.
        that balances performance, cost, security, and compliance.
 ```
 
+### Our
+
+- **our** -> is a possessive determiner. It shows that something belongs to a group that includes the speaker.
+
+For example: `Our team finished the project on time`. -> The team that you are part of did it.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
