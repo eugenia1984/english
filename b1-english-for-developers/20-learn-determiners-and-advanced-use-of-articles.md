@@ -73,6 +73,16 @@ Europe is a proper noun (continent name), and in general English, you don't use 
 
 - **The** -> is a definite article used before nouns that are already known or specific.  For example: `The location to refer to a specific location they are choosing`. or `The rules to refer to known legal rules in Europe.
 
+### What
+
+**What** -> is an interrogative determiner used to ask about things or options. It comes before a noun in questions. 
+
+For example:
+
+`What language are you coding in?` -> This asks which programming language someone is using.
+
+`What changes did you make in the code?` -> This asks someone to explain what they edited or updated.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
