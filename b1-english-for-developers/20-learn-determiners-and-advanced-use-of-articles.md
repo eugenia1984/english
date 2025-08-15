@@ -59,11 +59,15 @@ Jake:  Will do, Maria.
 
 For example: `Our team finished the project on time`. -> The team that you are part of did it.
 
-### Zero article / The
+### Zero article / The - for places
 
 - **Zero article** -> is used with most **continent** and **country names**: Europe, Asia, North America, Germany, etc.
 
 - **The** is used with **groups** or **plural names**, like: the Netherlands, the United States, or the Philippines.
+
+### The
+
+- **The** -> is a definite article used before nouns that are already known or specific.  For example: `The location to refer to a specific location they are choosing`. or `The rules to refer to known legal rules in Europe.
 
 ---
 
