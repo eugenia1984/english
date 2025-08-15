@@ -48,4 +48,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 -> Adverbial phrase
 
+19 - [Learn how to use adjectives in conversations](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/19-learn-how-to-use-adjectives-in-conversations.md): you will learn how to use adjectives to describe things clearly, compare options, and highlight important details in professional conversations. You'll also practice how to make your ideas stronger and more persuasive.
+
 ---
