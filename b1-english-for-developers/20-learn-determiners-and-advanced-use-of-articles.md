@@ -65,6 +65,10 @@ For example: `Our team finished the project on time`. -> The team that you are p
 
 - **The** is used with **groups** or **plural names**, like: the Netherlands, the United States, or the Philippines.
 
+### Proper noun
+
+Europe is a proper noun (continent name), and in general English, you don't use articles before continent names.
+
 ### The
 
 - **The** -> is a definite article used before nouns that are already known or specific.  For example: `The location to refer to a specific location they are choosing`. or `The rules to refer to known legal rules in Europe.
