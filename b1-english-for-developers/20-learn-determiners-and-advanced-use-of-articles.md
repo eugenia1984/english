@@ -45,7 +45,7 @@ Jake:  Agreed.
        to see how helpful they are with tech issues.
 Maria: Thanks, Jake.
        Keep me updated on the test's progress
-       and prepare a detailed comparison.
+       and prepare a detailed comparison report.
        We should go over it together to make a final choice.
 Jake:  Will do, Maria.
        I'll make sure everything is carefully tested
