@@ -48,7 +48,7 @@ Sarah: Perfect, Josh.
        Let's touch base once I review the quote.
 ```
 
-### Many... / A few... / Quite a few... / Double that... / Something better... / Even better...
+### Many... / A few... / Quite a few... / Double that... / Something better... / Even better... / Sufficient / Highest quality...
 
 - **many of these**: means a large number of specific items being talked about. For example: `We need many of these parts to finish the job`. –> This means a high quantity is required.
 
@@ -62,6 +62,9 @@ Sarah: Perfect, Josh.
 
 - **even better**: means something is an improvement compared to another good option. For example: `We thought the laptop was good, but we found something even better with more power`. –> This shows finding a stronger or more advanced option.
 
+- **sufficient**: means enough to satisfy a requirement or need. For example: `The memory storage is sufficient for running the software`. –> This means the storage is enough without needing more.
+
+- **highest quality**: means the best available level of performance or reliability. For example: `We chose the highest quality cables for the server setup`. –> This shows selecting the best option for important work.
 
 ### Twice / Longer / As long as
 
