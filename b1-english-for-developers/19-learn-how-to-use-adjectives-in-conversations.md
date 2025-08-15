@@ -48,13 +48,15 @@ Sarah: Perfect, Josh.
        Let's touch base once I review the quote.
 ```
 
-### Many... / A few... / Quite a few...
+### Many... / A few... / Quite a few... / Double that
 
 - **many of these**: means a large number of specific items being talked about. For example: `We need many of these parts to finish the job`. –> This means a high quantity is required.
 
 - **a few**: means a small number, but more than one. For example: `I have a few questions`. –> This means you have a small number of questions.
 
 - **quite a few**: means a larger number than just a few. For example: `There were quite a few people at the meeting`. –> This means many people attended.
+
+- **double that**: means twice the previous quantity. For example: `Last time we ordered 10 routers; this time we need double that, so 20 routers`. –> This shows the quantity has increased two times.
   
 ---
 
