@@ -200,6 +200,14 @@ James:   I'm glad to help.
          Let me know if you need any more information for the report.
 ```
 
+### Stable / Work without / Crasing
+
+- **Stable**: means something is steady and dependable, without unexpected changes. For example: `A stable app doesn't freeze or close by itself`. –> It keeps running properly.
+
+- **Work without**: is a common phrase that means something functions while avoiding a problem or need. For example: `The tool works without an internet connection`. –> It still functions even when offline.
+
+- **Crashing**: is when software or a system suddenly stops working. For example: `The browser keeps crashing when I open too many tabs`. –> It shuts down unexpectedly.
+
 ---
 
 
