@@ -28,6 +28,8 @@ In the sentence, `Are all updated elements performing well across devices?`, acr
 
 - **adjustments**: means small changes made to improve or adapt something. For example: `We made adjustments to the app's layout for better user experience.` -> Adjustments refers to the changes made to improve how users interact with the app.
 
+- **a few**: is a quantifier used with countable plural nouns to show a small number. For example: `I saw a few new messages`. -> This means there were some, but not many.
+
 - **after that**: is used to indicate the next action following a previous one. It helps in understanding the order in which things are done. `I check my emails, and after that, I attend a meeting`, means that attending the meeting is the next activity you do following the checking of emails.
 
 - **agenda**: is a list of topics to be discussed or things to be done at a meeting. Having an agenda helps to organize the meeting and make sure important points are covered.
