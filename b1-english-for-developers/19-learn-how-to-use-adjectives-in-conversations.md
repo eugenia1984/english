@@ -133,6 +133,12 @@ Jake:  Definitely.
        about delivering this pitch now.
 ```
 
+### Pitch
+
+Pitch often means a short presentation to promote or explain something. 
+
+For example: `She gave a pitch to investors`. -> This means she made a business presentation.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
