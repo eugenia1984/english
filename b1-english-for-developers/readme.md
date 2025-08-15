@@ -50,4 +50,6 @@ This entire B1-level curriculum includes 73 different dialogues. Each is designe
 
 19 - [Learn how to use adjectives in conversations](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/19-learn-how-to-use-adjectives-in-conversations.md): you will learn how to use adjectives to describe things clearly, compare options, and highlight important details in professional conversations. You'll also practice how to make your ideas stronger and more persuasive.
 
+20 - [Learn determiners and advanced use of articles](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/20-learn-determiners-and-advanced-use-of-articles.md): you will learn how to use determiners to give clear information about quantity, choice, and distribution. You will also practice using articles in more advanced ways, especially in professional conversations about planning, tasks, and resources.
+
 ---
