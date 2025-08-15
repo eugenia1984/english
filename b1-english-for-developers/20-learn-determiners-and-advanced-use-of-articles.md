@@ -59,6 +59,12 @@ Jake:  Will do, Maria.
 
 For example: `Our team finished the project on time`. -> The team that you are part of did it.
 
+### Zero article / The
+
+- **Zero article** -> is used with most **continent** and **country names**: Europe, Asia, North America, Germany, etc.
+
+- **The** is used with **groups** or **plural names**, like: the Netherlands, the United States, or the Philippines.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
