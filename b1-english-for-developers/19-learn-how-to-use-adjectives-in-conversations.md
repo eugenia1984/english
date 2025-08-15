@@ -141,10 +141,65 @@ For example: `She gave a pitch to investors`. -> This means she made a business 
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 3: Comparing Two Versions of Software
+
+
+```
+Jessica: Good morning, James.
+         Today we need to compare two versions of our software.
+         Let's start with how they look.
+         The new one seems easier to use
+         and cleaner than the old one.
+James:   Yes, Jessica. I agree.
+         The new version not only looks better,
+         but also works better.
+         It's faster
+         and responds quicker when we do things on it.
+Jessica: That's good to hear.
+         What about how stable they are?
+         Does the new version work without stopping or crashing?
+James:   The new version is much more stable.
+         We've seen fewer problems
+         and it doesn't stop working as much.
+         It can handle more data now,
+         which is much better.
+Jessica: Great.
+         How about adjusting to different screen sizes?
+         The old version was quite good at this,
+         but the new one is even better, right?
+James:   Yes, it changes size really well.
+         It works great on different devices.
+         Everything adjusts by itself and looks good,
+         which makes it nicer to use.
+Jessica: That's good.
+         And installing it,
+         is it faster now?
+James:   Yes, it now installs much quicker.
+         It's easier for users to start using it
+         immediately after they download it.
+         The setup is simple, which helps a lot.
+Jessica: That's a good improvement.
+         Have people reported fewer problems
+         with this new version?
+James:   Yes, there are fewer big problems now.
+         Most issues are small and not so serious.
+         It looks like we fixed many of the big problems from before.
+Jessica: That sounds good.
+         Lastly,
+         can the new version handle more users than the old one?
+James:   Definitely.
+         The new version can support more users
+         and handle more actions at once.
+         We've made sure it can grow
+         as more users join without slowing down.
+Jessica: Fantastic, James.
+         I'll put all this information into a report
+         and talk about it with the team tomorrow.
+         This feedback should help us know what to do next.
+James:   I'm glad to help.
+         Let me know if you need any more information for the report.
+```
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
 
----
