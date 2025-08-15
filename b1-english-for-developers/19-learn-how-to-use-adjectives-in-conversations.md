@@ -48,7 +48,7 @@ Sarah: Perfect, Josh.
        Let's touch base once I review the quote.
 ```
 
-### Many... / A few... / Quite a few... / Double that... / Something better...
+### Many... / A few... / Quite a few... / Double that... / Something better... / Even better...
 
 - **many of these**: means a large number of specific items being talked about. For example: `We need many of these parts to finish the job`. –> This means a high quantity is required.
 
@@ -60,6 +60,8 @@ Sarah: Perfect, Josh.
  
 - **something better**: means an improved or higher-quality option compared to a previous one. For example: We found something better than the old processor`. –> This means the team found a newer or more powerful processor.
 
+- **even better**: means something is an improvement compared to another good option. For example: `We thought the laptop was good, but we found something even better with more power`. –> This shows finding a stronger or more advanced option.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
