@@ -954,19 +954,11 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **tip**: often refers to advice or a suggestion that is helpful in a particular situation. For example, ``Sophie gave Tom some tips on time management`` means Sophie offered helpful advice about managing time more effectively.
   
-- **typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example:
-
-`Typically, we have meetings on Mondays.` -> This means that meetings usually happen on Mondays.
-
-`She typically arrives at work by 9 AM.` -> This means that she usually arrives at work by 9 AM.
+- **typically**: is used to describe something that happens in a usual or expected way. It is similar to usually and is often used to talk about what normally happens. For example: `Typically, we have meetings on Mondays.` -> This means that meetings usually happen on Mondays.
 
 - **to address**: means to take action to deal with a problem or situation. For example: `We need to address the login error before users report it.` –> This means action needs to be taken to fix the issue.
   
-- **to aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward. For example:
-
-`She aims to become a developer.` -> Her goal is to become a developer.
-
-`We aim to finish the project by Friday.` -> The goal is to complete the project by Friday.
+- **to aim**: means to have a goal or an objective that you are trying to achieve. It shows what someone is focusing on or working toward. For example: `She aims to become a developer.` -> Her goal is to become a developer.
 
 - **to be okay**: means to be acceptable or permitted. For example: `Is it okay if I borrow your book?` –> This means asking if it is acceptable to borrow the book.
 
@@ -1075,11 +1067,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to tackle tasks**: refers to trying to finish tasks as best as possible. For example, programmers usually have to tackle coding tasks.
 
-- **touch base**: means to make contact or to check in with someone, usually to discuss progress or updates. For example:
-
-`Let's touch base next week to see how the project is going.` -> We'll talk again next week to discuss the project's progress.
-
-`I'll touch base with you later about the meeting.` -> you'll contact this person later to talk about the meeting.
+- **touch base**: means to make contact or to check in with someone, usually to discuss progress or updates. For example: `Let's touch base next week to see how the project is going.` -> We'll talk again next week to discuss the project's progress.
 
 - **to wear**: too many hats is an idiom that means to have many different roles or responsibilities.
 
@@ -1172,18 +1160,14 @@ When these words are combined into **walkthrough**, it means a step-by-step expl
 
 - **workload**: refers to the total amount of work assigned to someone. For example: `His workload increased after two colleagues left the company`. -> This means he has more tasks to complete because fewer people are available.
 
-
-
 - **workmate**: refers to someone you work with. It's another word for colleague or co-worker. This person is someone you probably see regularly at your job or workplace.
 
-- **work smoothly**:  it means that something happens without difficulties or interruptions. Smoothly comes from smooth, which describes something without roughness or obstacles, but they are used in different contexts. For example:
-
-`The table has a smooth surface`. -> This describes the table as having no rough areas.
-
-`The software update helped the system run more smoothly`. -> This means the system now operates with fewer issues.
+- **work smoothly**:  it means that something happens without difficulties or interruptions. Smoothly comes from smooth, which describes something without roughness or obstacles, but they are used in different contexts. For example: `The table has a smooth surface`. -> This describes the table as having no rough areas.
 
 - **would like**: is used to express a desire or wish in a polite way. For example, `I would like to show you something` indicates a polite intention. In spoken English, it's often abbreviated to `I'd`. For example, `I'd like to show you something`. This abbreviation is very common in everyday conversation.
 
+- **wrap up**: means to finish or complete something. For example: `Let's wrap up this task before lunch`. –> This means to finish the task before lunchtime.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Y
