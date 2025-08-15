@@ -774,11 +774,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **rock climbing**: is the sport of climbing up natural rock formations or artificial rock walls.
 
-- **roll out**: means to introduce or launch something new, like a product, service, or update, to the public or users. For example:
-
-`The company plans to roll out a new feature next week`. -> They will release or launch the new feature next week.
-
-`We will roll out the new marketing campaign soon`. -> They will start or introduce the new campaign.
+- **roll out**: means to introduce or launch something new, like a product, service, or update, to the public or users. For example: `The company plans to roll out a new feature next week`. -> They will release or launch the new feature next week.
 
 - **routine** refers to the regular way of doing things in a particular order. For example, ``My morning routine includes jogging and reading the news.``
 
@@ -812,11 +808,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **set for**: **set**means that something is arranged, planned, or scheduled for a specific time or purpose. The preposition **for** is used to indicate the time or purpose of the planned event. For example: `The meeting is set for 3 PM tomorrow.` -> This means the meeting is scheduled to take place at that time.
 
-- **set up right**: means to configure something correctly so that it works as expected. If something isn't set up right, it might not function properly. For example:
-
-`The printer isn't working because it's not set up right.` -> The printer isn't configured correctly.
-
-`Make sure the software is set up right before you start using it.` -> You need to configure the software correctly to ensure it works.
+- **set up right**: means to configure something correctly so that it works as expected. If something isn't set up right, it might not function properly. For example: `The printer isn't working because it's not set up right.` -> The printer isn't configured correctly.
   
 - **several** is a word used to indicate an unspecified quantity that is more than two but not many.
 
@@ -852,11 +844,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 `The team is struggling with the project deadline.` -> The team is having trouble meeting the deadline.
 
-- **stuck on**: is used when someone is unable to move forward with a task or solve a problem. It suggests being trapped or unable to progress. For example:
-
-`We were stuck on this code error for hours.` -> We could not proceed until that error in the code was found.
-
-`She got stuck on the final question of the exam.` -> She spent a long time on the final question.
+- **stuck on**: is used when someone is unable to move forward with a task or solve a problem. It suggests being trapped or unable to progress. For example: `We were stuck on this code error for hours.` -> We could not proceed until that error in the code was found.
 
 - **summit**: is a formal gathering or meeting where people come together to discuss specific topics, often for planning or decision-making. For example: `The company is hosting a summit to plan next year's cybersecurity strategies`. -> It shows that the company is organizing an important meeting where leaders or teams will discuss and decide on strategies for improving cybersecurity.
 
@@ -966,11 +954,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 - **to coordinate** means to arrange for things to work together effectively. For example, She coordinates the team's meetings means she arranges the meetings so everyone can attend.
 
-- **to cover**: means to include or deal with a particular topic or subject. For example: 
-
-`The training covers cybersecurity best practices.` -> The training includes lessons on how to protect systems and data from threats.
-
-`Will the presentation cover software updates?` -> You are asking if the presentation will include information about recent software updates.
+- **to cover**: means to include or deal with a particular topic or subject. For example: `The training covers cybersecurity best practices.` -> The training includes lessons on how to protect systems and data from threats.
 
 - **to deal with**: means to handle or manage something, especially challenges. For example, ``She deals with client requests at her job``.
 
