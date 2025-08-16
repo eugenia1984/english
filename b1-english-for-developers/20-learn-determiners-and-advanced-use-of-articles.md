@@ -85,7 +85,54 @@ For example:
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Who Will Do What
+
+```
+Bob:   As we start the new mobile app project,
+       we need to decide who will do what.
+       Each developer will have their own tasks.
+Alice: That's a great idea.
+       We have many features to work on,
+       and our developers have different skills.
+       How are we going to assign these tasks?
+Bob:   We'll match tasks to each developer's skills.
+       Sarah will take care of user authentication
+       because she has the most experience there.
+       Tom will work on payment integration.
+Alice: What about those new developers
+       we started onboarding a few weeks ago?
+Bob:   Each new developer will work
+       with someone more experienced.
+       This way, every new person
+       gets help and no one feels too stressed.
+Alice: That makes sense.
+       Do we have any plans
+       for how often we'll check their progress?
+Bob:   Yes. We'll meet every two weeks
+       to talk about how everyone is doing
+       and to solve any problems.
+       It's important
+       that no part of the project gets delayed.
+Alice: I'm not sure we have enough QA people
+       to test all the new features, though.
+Bob:   Agreed.
+       We're a little short on testers right now.
+       I'm considering bringing in
+       a couple more people for this project.
+       I'll talk to HR
+       and see if we can get some more help.
+Alice: That would be great.
+       Proper testing is crucial,
+       especially for the more complex parts of the app.
+Bob:   Definitely.
+       I'll make sure we have all the resources we need.
+       Let's make sure everyone knows their responsibilities
+       by the end of this week.
+Alice: I'll get started on a list of technical requirements
+       for each part of the project
+       to help us assign tasks correctly.
+```
+
 
 ---
 
