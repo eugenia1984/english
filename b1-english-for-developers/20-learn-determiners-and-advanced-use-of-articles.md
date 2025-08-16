@@ -137,6 +137,12 @@ Alice: I'll get started on a list of technical requirements
 
 When you talk about a specific thing that both the speaker and the listener know, you use **the**.
 
+### Each / Their
+
+- **Each** ->  is used to talk about every single member of a group separately. For example: `Each team member has a different role`. -> Every person in the team does something different.
+
+- **Their** ->  is a possessive determiner that matches plural meaning without showing gender (his/her). For example: `They updated their software yesterday`. -> The software that belongs to them was updated.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
