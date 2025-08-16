@@ -208,5 +208,12 @@ James: Perfect, Maria.
        We'll meet again this Friday to finish everything.
 ```
 
+### Neither ... nor
+
+**Neither ... nor** is a paired conjunction structure used to show that two things are both not true. For example:
+
+`Neither the app nor the website is working right now`. -> Both the app and the website are not working.
+
+`He has neither the experience nor the skills for this task`. -> He doesn't have experience or skills.
 
 ---
