@@ -152,6 +152,14 @@ When you talk about a specific thing that both the speaker and the listener know
 
 `Our developers`-> uses **our** to show **ownership** - the developers are part of Alice's group.
 
+### These
+
+These is a demonstrative determiner used for plural nouns that are close to the speaker in time or situation. For example:
+
+`These files need to be reviewed today`. -> The files that are here (near the speaker) must be checked today.
+
+`I like these new features in the app`. -> You enjoy the new features that were just added.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
