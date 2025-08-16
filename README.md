@@ -94,6 +94,8 @@ Modules:
 
 -20 - [Learn determiners and advanced use of articles](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/20-learn-determiners-and-advanced-use-of-articles.md): you will learn how to use determiners to give clear information about quantity, choice, and distribution. You will also practice using articles in more advanced ways, especially in professional conversations about planning, tasks, and resources.
 
+-21 - [Learn how to use reported speech](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/21-learn-how-to-use-reported-speech.md): you will learn how to report what someone else said in a clear and natural way. You will also practice using the correct verb tenses and sentence structures to share feedback, explain situations, and talk about past events in professional conversations.
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
