@@ -133,6 +133,9 @@ Alice: I'll get started on a list of technical requirements
        to help us assign tasks correctly.
 ```
 
+### The
+
+When you talk about a specific thing that both the speaker and the listener know, you use **the**.
 
 ---
 
