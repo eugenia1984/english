@@ -143,6 +143,15 @@ When you talk about a specific thing that both the speaker and the listener know
 
 - **Their** ->  is a possessive determiner that matches plural meaning without showing gender (his/her). For example: `They updated their software yesterday`. -> The software that belongs to them was updated.
 
+
+### A / Many / our
+
+`A great idea`->  uses **a** because it introduces **a new, singular thing**.
+
+`Many features` ->  uses **many** because it refers to **a large number of countable things**.
+
+`Our developers`-> uses **our** to show **ownership** - the developers are part of Alice's group.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
