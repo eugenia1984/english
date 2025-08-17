@@ -65,6 +65,45 @@ This is common in spoken and written English to share information from someone e
 
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Website Redesign Feedback
+
+```
+Linda: Hey, Tom.
+       I've compiled the user feedback
+       on our latest website redesign.
+       It was quite insightful.
+Tom:   Awesome.
+       What were some of the major points?
+Linda: Well,
+       the new navigation menu was really appreciated.
+       It was mentioned that it's much easier to use.
+       Several users noted how the simplified layout
+       helped them find information faster.
+Tom:   That's good to hear.
+       Was there anything that didn't go over well?
+Linda: Yes, the color scheme was brought up a few times.
+       It seems it was found to be a bit overwhelming
+       by some users.
+       They suggested it could be toned down a bit.
+Tom:   Interesting.
+       We could look at softer colors then.
+       Were the changes in the contact page noticed?
+Lida:  They were.
+       The new form was described as very user friendly,
+       and the additional contact options were highlighted
+       as a great improvement.
+       The faster response times were also acknowledged.
+Tom:   That's excellent.
+       How about the images and graphics we updated?
+Linda: The new images were well received,
+       but the size of some images was mentioned as being too large,
+       which apparently slowed down the page loading for some users.
+Tom:   Okay, we need to optimize those images then.
+       Let's prepare a list of modifications
+       based on this feedback.
+       We should prioritize the color scheme
+       and image sizes for the next update.
+```
+
 
 ---
