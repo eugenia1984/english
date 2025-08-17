@@ -46,6 +46,23 @@ Brian:   Right.
          in our upcoming workshops.
 ```
 
+### REported Speech
+
+reported speech, which is **when someone repeats what another person said, but not using their exact words**. You usually shift the verb to the past. 
+
+For example:
+
+```
+Jake (to Sophie): The team responded quickly once the breach was detected.
+Sophie (to Brian, mentioning what Jake said): He said that the team responded quickly once the breach was detected.
+```
+
+In the cases when you want to report exactly what the other person said, it is common to only add the speaker's name (or a pronoun) in the beginning, the verb say in the Simple Past (as you are reporting something that was talked about previously), and the word that, followed by the information. 
+
+This is common in spoken and written English to share information from someone else.
+
+
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
