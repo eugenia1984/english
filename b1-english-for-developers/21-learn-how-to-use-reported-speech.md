@@ -46,7 +46,7 @@ Brian:   Right.
          in our upcoming workshops.
 ```
 
-### REported Speech
+### Reported Speech
 
 reported speech, which is **when someone repeats what another person said, but not using their exact words**. You usually shift the verb to the past. 
 
