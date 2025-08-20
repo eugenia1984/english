@@ -96,6 +96,8 @@ Modules:
 
 -21 - [Learn how to use reported speech](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/21-learn-how-to-use-reported-speech.md): you will learn how to report what someone else said in a clear and natural way. You will also practice using the correct verb tenses and sentence structures to share feedback, explain situations, and talk about past events in professional conversations.
 
+-22 - []Learn how to use prepositions according to context(https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/22-learn-how-to-use-prepositions-according-to-context.md): ou will learn how to use prepositions to describe time, place, and direction clearly in everyday work situations. You will also practice talking about schedules, giving directions, and explaining where people or things are located using natural and accurate language.
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
