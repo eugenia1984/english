@@ -93,3 +93,27 @@ Tom:   Okay, we need to optimize those images then.
 
 
 ---
+
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  Dialogue 3: A System Failure
+
+```
+Lisa: Hey Mark, I've been reviewing the logs from last week's database crash.
+      It seems like if we had monitored the system load more closely,
+      we could have prevented the overload.
+Mark: That's true. The logs showed that the database was receiving 
+      an unusually high number of queries before it crashed.
+      Had we spread those queries more evenly,
+      perhaps the system wouldn't have failed.
+Lisa: Exactly. Also, I noticed we hadn't updated
+      our database management software in a while.
+      If the latest patches had been applied,
+      they might have addressed some of the vulnerabilities that were exploited.
+Mark: I was thinking the same thing.
+      If only we had prioritized the update, we might not have faced this issue.
+      It's frustrating that we realized its importance too late.
+Lisa:
+Mark:
+```
+
+
+---
