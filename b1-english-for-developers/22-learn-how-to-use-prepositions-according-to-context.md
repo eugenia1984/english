@@ -79,6 +79,10 @@ Near means close in distance. For example: `The meeting room is near the kitchen
 
 Close to means near something or someone in space. For example: `Her office is close to the break room`. –> This means it is located nearby.
 
+### On the left side
+
+On the left side means the area is located to the left when facing a direction. For example: `The cafeteria is on the left side of the hallway`. –> This means it is positioned on the left-hand side.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
