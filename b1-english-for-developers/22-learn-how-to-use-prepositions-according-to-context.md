@@ -57,6 +57,10 @@ The preposition on can have many meanings, but in this task, it should be used t
 
 `Working on the new software update`-> means the team is focusing their effort and attention on that specific project or topic.
 
+### Look at
+
+Looked at means to see or examine something with attention. For example: `I looked at the new software design yesterday`. –> This means you examined the design carefully.
+
 
 ---
 
