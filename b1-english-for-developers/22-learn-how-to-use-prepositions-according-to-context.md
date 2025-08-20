@@ -61,6 +61,9 @@ The preposition on can have many meanings, but in this task, it should be used t
 
 Looked at means to see or examine something with attention. For example: `I looked at the new software design yesterday`. –> This means you examined the design carefully.
 
+### Next to
+
+Next to means beside or very near to something. For example: `The printer is next to the desk`. –> This shows that the printer is located right beside the desk.
 
 ---
 
