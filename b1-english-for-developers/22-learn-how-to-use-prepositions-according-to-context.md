@@ -51,6 +51,13 @@ Anna: Thanks, Bob. I'll look out for that,
 
 **Department**: means a part of a company that focuses on one kind of work. For example: `The marketing department is planning a new campaign`. –> This refers to the group responsible for marketing.
 
+### Preposition on
+
+The preposition on can have many meanings, but in this task, it should be used to show the subject or topic being discussed or worked on.
+
+`Working on the new software update`-> means the team is focusing their effort and attention on that specific project or topic.
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
