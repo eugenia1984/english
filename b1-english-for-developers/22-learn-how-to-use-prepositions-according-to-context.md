@@ -65,6 +65,14 @@ Looked at means to see or examine something with attention. For example: `I look
 
 Next to means beside or very near to something. For example: `The printer is next to the desk`. –> This shows that the printer is located right beside the desk.
 
+### In the back
+
+- **in**: means inside or within a certain place. For example: `The documents are in the folder`. –> This shows that the documents are inside the folder.
+
+- **back**: refers to the rear or furthest part of something. For example: `The office is located at the back of the building`. –> This means the office is in the rear part of the building.
+
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
