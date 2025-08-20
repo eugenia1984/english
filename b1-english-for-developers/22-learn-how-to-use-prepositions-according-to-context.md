@@ -43,6 +43,14 @@ Anna: Thanks, Bob. I'll look out for that,
 
 - **on**: is a preposition used to show the subject or topic being discussed. For example: `We had a meeting on the new schedule`. –> This shows the topic of the meeting.
 
+### Place
+
+**Place**: means to put something somewhere. For example: `Please place the files on my desk`. –> This means to put the files in a specific spot.
+
+### Department
+
+**Department**: means a part of a company that focuses on one kind of work. For example: `The marketing department is planning a new campaign`. –> This refers to the group responsible for marketing.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
