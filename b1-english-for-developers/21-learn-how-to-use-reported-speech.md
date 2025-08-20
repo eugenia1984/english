@@ -111,8 +111,9 @@ Lisa: Exactly. Also, I noticed we hadn't updated
 Mark: I was thinking the same thing.
       If only we had prioritized the update, we might not have faced this issue.
       It's frustrating that we realized its importance too late.
-Lisa:
-Mark:
+Lisa: It's a tough lesson, but a valuable one.
+      Going forward, how can we ensure this doesn't happen again?
+      We need a more proactive maintenance strategy.
 ```
 
 
