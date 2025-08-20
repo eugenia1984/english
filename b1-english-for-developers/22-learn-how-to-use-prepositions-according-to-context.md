@@ -37,6 +37,12 @@ Anna: Thanks, Bob. I'll look out for that,
       and we can discuss it further if there are any tweaks needed.
 ```
 
+### Input on
+
+- **input**: means advice, ideas, or opinions given to help make a decision. For example: `Can you give me your input on the project?` –> This asks for someone's ideas or advice.
+
+- **on**: is a preposition used to show the subject or topic being discussed. For example: `We had a meeting on the new schedule`. –> This shows the topic of the meeting.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
