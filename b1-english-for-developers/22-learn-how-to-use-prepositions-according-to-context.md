@@ -75,6 +75,10 @@ Next to means beside or very near to something. For example: `The printer is nex
 
 Near means close in distance. For example: `The meeting room is near the kitchen`. –> This means the two places are close to each other.
 
+### Close to
+
+Close to means near something or someone in space. For example: `Her office is close to the break room`. –> This means it is located nearby.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
