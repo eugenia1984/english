@@ -88,8 +88,7 @@ Linda: The new images were well received,
        which apparently slowed down the page loading for some users.
 Tom:   Okay, we need to optimize those images then.
        Let's prepare a list of modifications based on this feedback.
-       We should prioritize the color scheme
-       and image sizes for the next update.
+       We should prioritize the color scheme and image sizes for the next update.
 ```
 
 
