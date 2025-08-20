@@ -16,6 +16,25 @@ Anna: HR should be near the entrance.
 Bob:  Sounds good. That's very accessible.
       And the marketing team?
       They need a quiet area, but also want to be close to the sales department.
+Anna: There's an area on the left side of the building, right next to the sales office.
+      It's a bit isolated from the main walkways, so it should be quieter.
+Bob:  Perfect. Let's put them there.
+      What about the customer support team?
+Anna: Let's place them near the middle of the floor.
+      They need to be easily reachable.
+      Maybe right behind the conference rooms?
+Bob:  That works. They'll be central,
+      but the conference rooms will buffer some of the noise.
+      Last, where should we set up the break room?
+Anna: It should be centrally located so it's equally accessible to everyone.
+      How about between the IT department and HR?
+      That way, it's just a short walk for most teams. 
+Bob:  I agree. That's a convenient spot for everyone.
+      Thanks, Anna.
+      I'll update the layout draft with these changes
+      and send it over to you for your final review.
+Anna: Thanks, Bob. I'll look out for that,
+      and we can discuss it further if there are any tweaks needed.
 ```
 
 ---
