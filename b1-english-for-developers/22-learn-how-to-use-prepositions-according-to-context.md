@@ -71,7 +71,9 @@ Next to means beside or very near to something. For example: `The printer is nex
 
 - **back**: refers to the rear or furthest part of something. For example: `The office is located at the back of the building`. –> This means the office is in the rear part of the building.
 
+### Near
 
+Near means close in distance. For example: `The meeting room is near the kitchen`. –> This means the two places are close to each other.
 
 ---
 
