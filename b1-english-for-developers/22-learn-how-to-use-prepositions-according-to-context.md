@@ -149,6 +149,11 @@ David: Perfect, Maria. Let's make sure everything is in place
 Maria: Definitely.
        I'll keep everything on track and update you weekly on our progress. 
 ```
+### By (showing deadline)
+
+In **by next month**, by shows a **deadline**, which means something must happen before or no later than that time.
+
+For example: `We need to finish the report by Friday` -> uses by the same way, setting a clear time limit.
 
 ---
 
