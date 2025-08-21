@@ -334,6 +334,8 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **fuel**: typically refers to a substance that is used to produce energy, like gasoline for cars or coal for trains. However, in everyday language, people often use fuel to describe something that gives them energy or motivation. For example, ``someone might call food or drink their fuel if it helps them to start the day with energy``.
 
+- **further**: means continuing or going deeper into a topic. For example: `Let's discuss this further in the meeting`. –> This means to talk about it in more detail.
+  
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> G
