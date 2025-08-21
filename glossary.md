@@ -632,6 +632,8 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 - **on the one hand**: is used to introduce one side of an argument before presenting the other side. It helps compare two different perspectives. For example: `On the one hand, working remotely is convenient`. –> This sentence presents the benefit of remote work.
 
 - **on the same page**: is an idiom that means to have a shared understanding or agreement about something. For example: `Before we start, let's make sure we're all on the same page about the project goals`. —> This means everyone should understand the plan or situation in the same way.
+
+- **on time**: means not late, and at the correct or expected time. For example: `The train arrived on time despite the heavy rain`. –> This means it arrived as scheduled.
   
 - **on your end**: is used to refer to someone's situation or what is happening with them, often in a conversation or work context. For example: `Let me know if you need any help on your end`. –> This means the speaker wants to know if the other person needs help on their work or situation.
   
