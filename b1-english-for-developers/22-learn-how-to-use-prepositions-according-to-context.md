@@ -91,6 +91,12 @@ Middle of means the center of a place. For example: `The desk is in the middle o
 
 Behind shows position at the back of something. For example: `The storage area is behind the meeting room`. –> This means it is located at the back.
 
+### Central
+
+Central means in the middle or main area of a space. For example: `Their desks are in a central spot for easy access`. –> This means they are in the middle of the office.
+
+
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
