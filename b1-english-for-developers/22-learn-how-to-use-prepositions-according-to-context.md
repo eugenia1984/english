@@ -155,6 +155,10 @@ In **by next month**, by shows a **deadline**, which means something must happen
 
 For example: `We need to finish the report by Friday` -> uses by the same way, setting a clear time limit.
 
+### From ... to ...
+
+From ... to ... is used to describe a movement or change between two points. It can show a shift in quantity, state, or location. For example: `She moved from engineering to product management`. –> This means her role changed from one area to another.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
