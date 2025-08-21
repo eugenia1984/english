@@ -159,6 +159,12 @@ For example: `We need to finish the report by Friday` -> uses by the same way, s
 
 From ... to ... is used to describe a movement or change between two points. It can show a shift in quantity, state, or location. For example: `She moved from engineering to product management`. –> This means her role changed from one area to another.
 
+### On vacation / In July
+
+- **on vacation**: means not working for a period of time, usually for rest or travel. For example: `She's on vacation until next Monday`. –> This means she's not working right now.
+
+- **in July**: refers to something happening during the seventh month of the year. The preposition in is used before months to show when something takes place. For example: `We have a big release scheduled in July. – This means the release will happen sometime during that month.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
