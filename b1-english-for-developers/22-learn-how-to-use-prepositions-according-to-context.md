@@ -109,6 +109,9 @@ Accessible means easy to reach or use. For example: `The website is accessible o
 
 To shows direction or who something is for. For example: `The instructions are helpful to new users`. –> This shows the audience.
 
+### Between
+
+Between means in the space separating two things. Between ... and ... is used to show that something is in the middle of two specific things. For example: `The break room is between the IT department and HR`. –> This means the break room is in the space that separates those two teams.
 
 ---
 
