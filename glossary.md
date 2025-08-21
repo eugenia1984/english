@@ -535,9 +535,9 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **looking at**: means examining or considering something carefully. For example: `She is looking at different job opportunities`. -> This means she is considering or reviewing different job options.
 
-- **looking back**: means to reflect on past events or to think about what has happened before. For example:
+- **looking back**: means to reflect on past events or to think about what has happened before. For example: `Looking back, I learned a lot from that project.` -> It means they are remembering and considering past experiences. In this sentence, James uses looking back to talk about the time he and Linda worked together on updates.
 
-`Looking back, I learned a lot from that project.` -> It means they are remembering and considering past experiences. In this sentence, James uses looking back to talk about the time he and Linda worked together on updates.
+- **look out**: for means to watch for something. For example: `I'll look out for your email later today`. –> This means you'll be expecting or checking for it.
 
 - **look who's here**: is often used when you notice someone arriving or entering a place, especially when it's unexpected or a pleasant surprise.
 
