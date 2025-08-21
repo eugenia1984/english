@@ -874,7 +874,6 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **switch something up** means to change something in order to improve it. It is an informal way to suggest trying a different method or approach. For example: `They switched the schedule up to save more time`. -> They changed the plan or timetable.
 
-
 - **system update**: is an essential process that makes improvements, adds new features, or corrects issues in the software on a device or network. For example: `The system update included security improvements to protect user data.` -> The update made changes to help keep user information safe from potential threats.
 
 ---
@@ -1053,6 +1052,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 `Solving this problem is tricky.` -> Solving the problem is difficult.
 
+- **tweaks**: are small changes or improvements. For example: `We just need a few tweaks to finish the design`. –> This means minor adjustments are needed
+  
 - **typical** means what is normal or usual. For example, ``A typical day at work involves meetings and writing reports``.
 
 ---
