@@ -91,10 +91,23 @@ Middle of means the center of a place. For example: `The desk is in the middle o
 
 Behind shows position at the back of something. For example: `The storage area is behind the meeting room`. –> This means it is located at the back.
 
-### Central
+### Central / CEntrally
 
 Central means in the middle or main area of a space. For example: `Their desks are in a central spot for easy access`. –> This means they are in the middle of the office.
 
+Centrally means in or near the middle. For example: `The desk is centrally placed in the room`. –> It means it's in the center.
+
+### Located
+
+Located means where something is positioned. For example: `The server is located in the back room`. –> This shows the exact place.
+
+### Accessible
+
+Accessible means easy to reach or use. For example: `The website is accessible on mobile devices`. –> This means it's easy to use on phones.
+
+### To
+
+To shows direction or who something is for. For example: `The instructions are helpful to new users`. –> This shows the audience.
 
 
 ---
