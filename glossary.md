@@ -531,6 +531,9 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **let's see**: is often used when making tentative plans or expressing a willingness to explore options.
 
+- **lined up**: means arranged or prepared in the right order or position. For example: `We have all the speakers lined up for the conference`. –> This means they are all scheduled and confirmed.
+
+
 - **lock**: refers to securing something, usually a door or a container, so that it cannot be opened without the correct key or combination. For example, you might lock your house when you leave to keep it safe.
 
 - **login**: refers to the action of entering your username and password to access an account or system. For example: `The login page asks for your username, password, and a security code`. -> In this case, the login is the process of entering credentials to verify your identity and access an account.
@@ -567,11 +570,7 @@ There are different types of data, like **quantitative data**, which is about nu
 
 `Maybe I will go to the party.` -> It is possible you will go to the party, but you are not sure.
 
-- **might**: is used to express possibility. When Sarah says, might not be running, she's suggesting that it's possible the live server extension isn't currently active or working. For example:
-
-`The server might be down.` -> It's possible the server isn't working.
-
-`She might not be available today.` -> It's possible she's not free today.
+- **might**: is used to express possibility. When Sarah says, might not be running, she's suggesting that it's possible the live server extension isn't currently active or working. For example: `The server might be down.` -> It's possible the server isn't working.
 
 - **misaligned**: means not lined up or positioned correctly. For example: `The images were misaligned in the presentation, making it look messy.` -> This indicates that the images were not positioned properly, affecting the presentation's clarity.
 
