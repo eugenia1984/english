@@ -115,7 +115,40 @@ Between means in the space separating two things. Between ... and ... is used to
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 2: Planning Ahead
+
+```
+Maria: Good morning, David. Thank you for meeting with me today.
+       I'd like to go over the resource needs for the next phase of our app development
+       to make sure everything lined up on time.
+David: Excellent. That sounds good.
+       How many developers do we currently have working on this?
+Maria: We have 10 developers on the team at the moment.
+       By next month, we'll need at least five more to handle the back-end integration.
+David: All right. Do we have enough designers
+       for the new user interface changes scheduled for the end of the quarter?
+Maria: We currently have three designers. For the tasks planned,
+       I think adding two more by the start of the quarter will be sufficient.
+David: What about testing?
+       The last update brought up some unexpected challenges.
+Maria: Right. We're planning on bringing in additional testers.
+       I suggest we double our testing team from four to eight
+       around mid-quarter to ensure thorough coverage.
+David: That makes sense. How about project management?
+Maria: Our project manager, Bob, is on vacation in July,
+       so we'll need short-term support during that period.
+       I'm arranging for Sarah to step in during the second week of July
+       until Bob returns at the end of the month.
+David: Sounds like a plan.
+       Can we review the budget for these additional resources?
+Maria: Absolutely. I'll send you a detailed breakdown by tomorrow.
+       It will include the costs for the extra personnel
+       and any additional tools we might need.
+David: Perfect, Maria. Let's make sure everything is in place
+       so we can meet our project milestones without any delays.
+Maria: Definitely.
+       I'll keep everything on track and update you weekly on our progress. 
+```
 
 ---
 
