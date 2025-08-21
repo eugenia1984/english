@@ -167,6 +167,32 @@ From ... to ... is used to describe a movement or change between two points. It 
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> 
+## <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 3: A New Workstation
+
+```
+Sarah: Good morning, James.
+       I heard you're setting up your new workstation today.
+       Need help finding anything?
+James: Hi, Sarah. Yes, that would be great.
+       I'm trying to find an extra monitor.
+       Do you know where they've moved them?
+Sarah: Sure. They've placed them outside of the IT room now.
+       If you head straight down this corridor and turn left at the break area,
+       you'll see them stored right across from the coffee machine.
+James: Got it. And what about the new keyboards?
+       I heard we received a shipment last week.
+Sarah: Yes, they're in a small storage room.
+       Go back towards the main entrance,
+       but before you get there, take a right.
+       It's the second door on your left opposite the mailroom.
+James: Perfect. Thanks. Lastly, I need some Ethernet cables.
+       Any idea where those ended up?
+Maria: Actually, yes. They're a bit out of the way.
+       Go to the server room, but instead of going inside,
+       turn right just before the door.
+       There's a closet there where we're keeping all cables and related accessories.
+James: That's a bit of a trek. Thanks for helping me, Sarah.
+```
+
 
 ---
