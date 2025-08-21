@@ -601,11 +601,10 @@ There are different types of data, like **quantitative data**, which is about nu
 
 - **not right away**: is used to indicate that something didn't happen immediately or at the earliest opportunity. It suggests that there was a delay or a period before the action or change took place. This phrase helps to set the timeline of events or actions.
 
-- **Not that I know of**: is used to say that, as far as you are aware, something is not true or hasn't happened. It's often used to politely say no while leaving room for the possibility that the speaker could be wrong. For example:
+- **not that I know of**: is used to say that, as far as you are aware, something is not true or hasn't happened. It's often used to politely say no while leaving room for the possibility that the speaker could be wrong. For example:
 
 ```
 Person 1: Has the update been installed?
-
 Person 2：Not that I know of. - This means you don't believe the update has been installed, but you're not completely sure.
 ```
 
@@ -635,11 +634,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
   
 - **on your end**: is used to refer to someone's situation or what is happening with them, often in a conversation or work context. For example: `Let me know if you need any help on your end`. –> This means the speaker wants to know if the other person needs help on their work or situation.
   
-- **odd**: is used to describe something that is unusual, strange, or unexpected. It often refers to something that does not fit the norm or is out of the ordinary. For example:
-
-`The system showed an odd behavior during the test.` -> Meaning the system acted different from the normal.
-
-`I saw an odd pattern in the data.` -> Meaning the pattern in the data was different.
+- **odd**: is used to describe something that is unusual, strange, or unexpected. It often refers to something that does not fit the norm or is out of the ordinary. For example: `The system showed an odd behavior during the test.` -> Meaning the system acted different from the normal.
 
 - **organizational psychology**: is a field of psychology that studies how people interact within groups, particularly in workplace settings. It focuses on understanding workplace dynamics, employee behavior, and organizational structure to improve the work environment and increase productivity.
 
@@ -662,7 +657,6 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 - **overtime** (**To work overtime**): means to work extra hours beyond the standard schedule, often to meet deadlines or complete urgent tasks. For example: `The team had to work overtime to finish the project before the deadline.` -> Meaning you had to work extra hours to complete the project in order to meet the deadline. In this sentence, Linda is recalling a specific week when everyone had to put in extra hours to meet the demands of their work.
 
 - **overwhelmed**: means feeling extremely stressed, overloaded, or unable to cope with a situation. For example: `She felt overwhelmed by the number of tasks she had to complete`. -> This means she had too much to do and felt stressed.
-
 
 ---
 
@@ -720,15 +714,9 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **promote ethics** means to encourage and support moral principles and standards. For example: ``The manager promotes ethics by enforcing transparent reporting``.
 
-- **properly**: is the adverb form of the adjective proper. Both words can express doing something in the correct or suitable manner, but their usage differs depending on the sentence structure. For example:
+- **properly**: is the adverb form of the adjective proper. Both words can express doing something in the correct or suitable manner, but their usage differs depending on the sentence structure. For example: `The application didn't function properly after the update.` -> This means the updates brought errors to the code. The adverb properly modifies the verb function.
 
-`The application didn't function properly after the update.` -> This means the updates brought errors to the code. The adverb properly modifies the verb function.
-
-`This wasn't a proper configuration of the database.` -> The adjective proper describes the noun configuration.
-
-- **proposed**: means something that has been suggested or put forward for consideration. For example:
-
-`The proposed plan includes a new timeline.` -> It means that the plan, which includes a new timeline, has been suggested but not yet finalized or accepted.
+- **proposed**: means something that has been suggested or put forward for consideration. For example: `The proposed plan includes a new timeline.` -> It means that the plan, which includes a new timeline, has been suggested but not yet finalized or accepted.
 
 ---
 
@@ -742,7 +730,7 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **quite** is used to describe adjectives or adverbs to a certain degree, often meaning "very" or to a significant extent but not completely. For example, ``The test was quite difficult``. This means the test was very difficult, but not to the extreme.
 
-**Quite** is used to emphasize the significant degree or extent of the learning curve. It adds intensity, suggesting that the learning experience was challenging or noteworthy. For example: `The project was quite a success, exceeding all expectations.` -> Here, quite highlights the extent of the project's success.
+**quite** is used to emphasize the significant degree or extent of the learning curve. It adds intensity, suggesting that the learning experience was challenging or noteworthy. For example: `The project was quite a success, exceeding all expectations.` -> Here, quite highlights the extent of the project's success.
   
 ---
 
@@ -818,6 +806,8 @@ Person 2：Not that I know of. - This means you don't believe the update has bee
 
 - **shopping malls** are large buildings with lots of different stores, and they're common in cities.
 
+- **short walk**: means a quick or easy walking distance. For example: `The café is just a short walk from here`. –> It means it doesn't take long to get there.
+  
 - **sign up**: means to register or create an account for something. For example: `I want to sign up for the new course.` -> You want to register to a new course.
 
 - **sitting** means being in a position where one's weight is supported by one's buttocks rather than one's feet.
