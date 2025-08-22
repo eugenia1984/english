@@ -36,6 +36,8 @@ In the sentence, `Are all updated elements performing well across devices?`, acr
 
 - **alert**: describes being fully aware and paying attention.
 
+- **allocate**: means to decide how to use resources like time, money, or people for a task. For example: `We need to allocate more time for testing`. —> The team must plan to spend more time on testing.
+
 - **all of you**: is a phrase used to include every person in a group. For example, `I want to thank all of you for coming` means thanking every person who came.
 
 - **any**: is used to indicate no matter which one, no matter when, or no matter what. For example, `You can ask me any question means you can ask all kinds of questions`.
