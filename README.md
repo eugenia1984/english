@@ -98,6 +98,8 @@ Modules:
 
 -22 - [Learn how to use prepositions according to context](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/22-learn-how-to-use-prepositions-according-to-context.md): ou will learn how to use prepositions to describe time, place, and direction clearly in everyday work situations. You will also practice talking about schedules, giving directions, and explaining where people or things are located using natural and accurate language.
 
+-23 - [Learn how to talk about numbers with coworkers](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/23-learn-how-to-talk-about-numbers-with-coworkers.md): you will learn how to use numbers to talk about tasks, schedules, budgets, and resources in the workplace. You will practice using cardinal and ordinal numbers, percentages, and fractions to organize work, explain progress, and share inventory or financial updates clearly with your team.
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
