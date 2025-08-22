@@ -35,6 +35,11 @@ A cardinal number **tells you "how many" of something there are**. Words like on
 
 For example: `We completed two phases of the project`. —> Two tells you the number of phases.
 
+###
+
+- **initial phase**: means the beginning stage of something. For example: `During the initial phase of testing, we found several bugs`. —> This means bugs were found at the start of testing.
+
+- **to finalize**: means to complete or finish something officially. For example: `We need to finalize the design before the meeting`. —> They need to complete the design.
 
 ---
 
