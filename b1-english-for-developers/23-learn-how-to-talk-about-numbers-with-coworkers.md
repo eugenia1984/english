@@ -29,6 +29,12 @@ Jessica: Excellent. I'll update our project timeline with these numbers
          Thanks for the breakdown, James.
 ```
 
+### Carnidal number
+
+A cardinal number **tells you "how many" of something there are**. Words like one, two, three, four are all cardinal numbers. 
+
+For example: `We completed two phases of the project`. —> Two tells you the number of phases.
+
 
 ---
 
