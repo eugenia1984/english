@@ -29,7 +29,7 @@ Jessica: Excellent. I'll update our project timeline with these numbers
          Thanks for the breakdown, James.
 ```
 
-### Carnidal number
+### Cardinal number
 
 A cardinal number **tells you "how many" of something there are**. Words like one, two, three, four are all cardinal numbers. 
 
@@ -40,6 +40,14 @@ For example: `We completed two phases of the project`. —> Two tells you the nu
 - **initial phase**: means the beginning stage of something. For example: `During the initial phase of testing, we found several bugs`. —> This means bugs were found at the start of testing.
 
 - **to finalize**: means to complete or finish something officially. For example: `We need to finalize the design before the meeting`. —> They need to complete the design.
+
+### Ordinal number
+
+Ordinal numbers **tell the position of something in a sequence**, such as steps, tasks, or stages. 
+
+Examples include: first, second, third, fourth, and so on.
+
+To form most ordinal numbers, you take the cardinal number (1, 2, 3, 4...) and add the correct ending. Most ordinal numbers follow the pattern of adding -th, like 4 becomes fourth, and 6 becomes sixth. But 1, 2, and 3 are irregular: 1 becomes first, 2 becomes second, and 3 becomes third.
 
 ---
 
