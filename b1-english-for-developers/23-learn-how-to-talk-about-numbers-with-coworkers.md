@@ -115,6 +115,20 @@ In Alice's case, `one-fourth of the development budget is spent on back-end deve
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> 
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> Dialogue 3: Inventory Check
+
+```
+Sophie: Hey Tom, we need to go through our software tools inventory today.
+        Let's start with the licenses. How many do we currently have in total?
+Tom:    We have about 50 licenses right now.
+        Most of them, around 30, are allocated to the design team.
+Sophie: Okay, and where are these licenses stored?
+        I need to update our records.
+Tom:    They're mainly on the central server under the Licensed Software folder.
+         A few are also in the cloud storage, specifically in the Backup Licenses section.
+Sophie:
+Tom:
+```
+
 
 ---
