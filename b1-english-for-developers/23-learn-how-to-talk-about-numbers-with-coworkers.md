@@ -125,9 +125,28 @@ Tom:    We have about 50 licenses right now.
 Sophie: Okay, and where are these licenses stored?
         I need to update our records.
 Tom:    They're mainly on the central server under the Licensed Software folder.
-         A few are also in the cloud storage, specifically in the Backup Licenses section.
-Sophie:
-Tom:
+        A few are also in the cloud storage,
+        specifically in the Backup Licenses section.
+Sophie: Got it. Next, let's count the graphic tablets.
+        I saw some in the storage room. How many are there?
+Tom:    There are 10 tablets in the storage room,
+        right between the spare monitors and the old project files.
+        We should have another 5 in the workshop area.
+Sophie: Perfect. That makes 15 in total.
+        Now, about the design software updates, do we have any pending?
+Tom:    Yes, there are updates pending for 5 of our main design tools.
+        These updates are critical and should be installed by next week.
+Sophie: Alright, I'll schedule those updates.
+        Can we review the usage stats for our main design platform?
+        I'm interested in the average usage over the past month.
+Tom:    Of course.
+        The platform was used an average of about 60 hours per week by the team.
+        The peak usage was around 80 hours two weeks ago.
+Sophie: Thanks, Tom. This information helps a lot.
+        I'll compile everything and send a summary to the team
+        so we can discuss any further needs.
+Tom:    Sounds good, Sophie.
+        Let me know if you need any more details for the summary.
 ```
 
 
