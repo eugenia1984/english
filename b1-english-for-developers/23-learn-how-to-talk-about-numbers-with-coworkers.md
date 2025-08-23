@@ -99,6 +99,20 @@ Alice: Will do, David. I'll make sure to update you regularly
 
 - Use percentage or percentages in general, not after a number: `Eighty-three percentages is incorrect.` or `We saw an increase in percentages across departments`. is correct (used without a specific number).
 
+### Fractions
+
+Fractions are used to describe parts of a whole.
+
+**One-fourth** (¼) is one part out of four equal parts. Other examples:
+
+`½ = one-half`
+
+`⅓ = one-third`
+
+`¾ = three-fourths`
+
+In Alice's case, `one-fourth of the development budget is spent on back-end development`, which shows how money is divided within a category.
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> 
