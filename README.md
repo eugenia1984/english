@@ -100,6 +100,8 @@ Modules:
 
 -23 - [Learn how to talk about numbers with coworkers](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/23-learn-how-to-talk-about-numbers-with-coworkers.md): you will learn how to use numbers to talk about tasks, schedules, budgets, and resources in the workplace. You will practice using cardinal and ordinal numbers, percentages, and fractions to organize work, explain progress, and share inventory or financial updates clearly with your team.
 
+-24 - [Learn common phrasal verbs and idioms](https://github.com/eugenia1984/english/blob/main/b1-english-for-developers/24-learn-common-phrasal-verbs-and-idioms.md): you will learn how to use common phrasal verbs and idioms to sound more natural and confident at work. You will practice using expressions to give opinions, make suggestions, organize meetings, and talk about tasks in everyday professional conversations.
+
 ---
 
 - [Glossary](https://github.com/eugenia1984/english/tree/main/glossary.md)
