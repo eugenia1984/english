@@ -60,6 +60,8 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To branch out in something**: means to try new activities or develop new skills that are different from what you normally do. For example: `She's branching out in her role by learning about project management`. –> This means she is expanding her abilities beyond her usual job tasks.
 
+- **To put something together**: means to create or organize something by combining different parts. For example: `We need to put together a presentation for the client`. –> This means preparing a full presentation by organizing slides, ideas, and information.
+
 ### Prefix -un
 
 The prefix un- is added to adjectives **to create the opposite meaning**. 
