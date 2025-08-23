@@ -1053,11 +1053,7 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 
 ``Tech trends`` refer to popular developments in technology.
 
-- **tricky**: is used to describe something that is difficult, complicated, or challenging to deal with.For example:
-
-`The instructions were tricky to follow.` -> The instructions were hard to understand or complicated.
-
-`Solving this problem is tricky.` -> Solving the problem is difficult.
+- **tricky**: is used to describe something that is difficult, complicated, or challenging to deal with.For example: `The instructions were tricky to follow.` -> The instructions were hard to understand or complicated.
 
 - **tweaks**: are small changes or improvements. For example: `We just need a few tweaks to finish the design`. –> This means minor adjustments are needed
   
@@ -1076,6 +1072,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
 - **unlock**: means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
 - **update**: is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
+
+- **usage stat**: means statistics that show how a tool or system is being used. For example: `The usage stats show an increase in active users`. —> The statistics about how people use the system show more active users.
 
 - **user authentication**: is the process of verifying that a user is who they claim to be. It typically involves entering a username and password, scanning a fingerprint, or using another method to confirm identity. For example: `Our company uses two-factor user authentication. Users must enter their password and a code sent to their phone to log in`. -> This means that the company adds an extra layer of security by requiring users to provide two separate pieces of information — a password and a code — to verify their identity and gain access to the system.
 
