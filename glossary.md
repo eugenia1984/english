@@ -286,6 +286,8 @@ There are different types of data, like **quantitative data**, which is about nu
   
 - **engaging** means interesting or able to attract attention. For example: ``She writes engaging stories means her stories are very interesting.``
 
+- **enhancements**: are changes made to improve a product or process. For example: `The latest update includes performance enhancements`. —> The new version makes the app work better and faster.
+
 - **enjoy**: When you like doing something very much, you can say you enjoy it. It's a simple way to express that something makes you happy. For example, you can say, `I enjoy playing video games` if playing video games is fun for you
 
 - **enjoy the most**: is used to express a preference or favorite aspect of something.
