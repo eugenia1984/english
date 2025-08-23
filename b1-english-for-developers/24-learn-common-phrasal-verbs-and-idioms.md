@@ -128,6 +128,37 @@ Linda: Thanks, Jake. I appreciate your input.
   
 ---
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 3: Webinar Coordination
+
+```
+Spphie: Hey Bob,
+        I saw your email about the upcoming webinar on new technology trends.
+        When are we planning to host it?
+Bob:    Hi Sophie,
+        I was thinking we could schedule it for the last week of this month.
+        Does Thursday the 28th work for you?
+Sophie: That should work. What time are we considering?
+        I'd suggest late afternoon, maybe around 4 p.m.
+        so it doesn't clash with other meetings.
+Bob:    Good idea. 4 p.m. is perfect.
+        It gives us enough time to prepare and wrap up other tasks beforehand.
+        How about we start sending out the invites early next week?
+Sophie: Sounds good.
+        Should we include a registration link in the invite?
+Bob:    Yes, let's do that.
+        It'll help us manage the attendee list better.
+        Can you draft the invitation?
+        Just include a brief agenda and mention
+        that we'll be discussing the latest trends in AI and LLMs.
+Sophie: Sure, I'll get that drafted.
+        Do we want to open this up to external participants as well?
+        Or is this just for our internal teams? 
+Bob:    Let's open it up.
+        It could be a good opportunity to engage with a broader audience.
+        We can use the webinar platform to handle
+        any of the questions that we have.
+Sophie: Great. I'll make sure to set that up.
+        I'll send you the draft for approval before we send it out.
+```
 
 ---
