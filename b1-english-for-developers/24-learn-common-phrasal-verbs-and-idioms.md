@@ -50,6 +50,8 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To fit**: means to match or be suitable for a situation, system, or structure. For example: `That idea isn't fitting our new approach to team management`. –> This means the idea doesn't work well with the way the team now operates.
 
+- **To be on the same page**: means that people share the same understanding or agreement about something. For example: `Let's meet before the presentation to make sure we're on the same page`. –> This means making sure everyone understands the topic the same way before presenting.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
