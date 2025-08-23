@@ -161,4 +161,7 @@ Sophie: Great. I'll make sure to set that up.
         I'll send you the draft for approval before we send it out.
 ```
 
+- **To host**: means to arrange and lead an event, meeting, or activity. For example: `Our team will host the next client presentation on Monday`. –> This means the team will organize and present the session.
+
+ 
 ---
