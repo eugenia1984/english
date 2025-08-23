@@ -46,6 +46,8 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **Back and forth**: is an idiomatic expression meaning a repeated movement or exchange between two points or ideas. In the dialogue, it means ongoing discussion with different opinions or ideas shared repeatedly. Another example: `There was a lot of back and forth between the team members before deciding on the design`. –> This means the team members discussed many times before reaching a decision.
 
+- **To iron out**: means to solve or settle small problems or differences, especially through discussion or careful planning. For example: `We need to iron out the final issues before launching the website`. –> This means the team needs to fix the last few problems before the website goes live.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
