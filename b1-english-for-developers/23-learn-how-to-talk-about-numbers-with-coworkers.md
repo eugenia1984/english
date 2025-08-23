@@ -51,7 +51,43 @@ To form most ordinal numbers, you take the cardinal number (1, 2, 3, 4...) and a
 
 ---
 
-## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> 
+## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/>  Dialogue 2: Budget Breakdown
+
+```
+Alice: Good morning, David. Since Maria is at the conference this week,
+       I'll be walking you through the budget breakdown for our project phases.
+David: Morning, Alice. That sounds good.
+       Can you start with how our budget is currently allocated
+       across the different phases?
+Alice: Absolutely. As of now,
+       45% of our total budget has been allocated to the development phase.
+       Specifically, one-fourth of this portion is directed towards back-end development,
+       which is crucial given our scalability goals.
+David: And what about the front-end and design aspects?
+Alice: The front-end development and user interface
+       design together consume about 27% of the overall budget.
+       Half of that is dedicated to user experience enhancements,
+       ensuring the interface is intuitive and user-friendly.
+David: I see. How are we doing with the testing phase?
+Alice: Testing has been allocated 13% of the budget.
+       This covers everything from initial unit tests
+       to final quality assurance checks before launch.
+       We believe investing here is essential to ensure a stable release.
+David: What fraction of our resources is still available
+       for the front-end development and user interface design?
+Alice: We have set aside 15% of the budget as a contingency.
+       This should cover any unexpected costs
+       during the later stages of the project.
+David: That's reassuring.
+       Can you tell me how much we've spent to date?
+Alice: Up to this point, we've used about 40% of the total budget.
+       Most of that was in the initial setup and early development stages.
+David: Great. Thanks for the detailed update, Alice.
+       It's helpful to see how our resources are being managed.
+       Let's keep a close eye on our spending as we move forward.
+Alice: Will do, David. I'll make sure to update you regularly
+       and adjust our allocations as needed based on our progress.
+```
 
 ---
 
