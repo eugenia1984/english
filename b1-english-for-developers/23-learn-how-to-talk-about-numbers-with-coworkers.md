@@ -89,6 +89,16 @@ Alice: Will do, David. I'll make sure to update you regularly
        and adjust our allocations as needed based on our progress.
 ```
 
+### Percent and percentage
+
+**Eighty-three percent** is the correct way to read **83%**.
+
+-> You always use **percent** (not percentages) after an exact number. What's the difference?
+
+- Use percent after a number: `83% is eighty-three percent.` or `20% is twenty percent.
+
+- Use percentage or percentages in general, not after a number: `Eighty-three percentages is incorrect.` or `We saw an increase in percentages across departments`. is correct (used without a specific number).
+
 ---
 
 ## <img width="28" height="28" src="https://img.icons8.com/color/28/great-britain.png" alt="great britain"/> 
