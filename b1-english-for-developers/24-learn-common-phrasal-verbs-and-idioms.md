@@ -1,6 +1,44 @@
 # <img width="48" height="48" src="https://img.icons8.com/emoji/48/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>  24 - Learn common phrasal verbs and idioms
 
-##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
+##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/> Dialogue 1: Reviewing HR Policies
+
+
+```
+Anna:  Brian, we really need to hash out the updates to our remote work policy.
+       There's been a lot of back and forth on what should be included.
+Brian: Absolutely, Anna. It's crucial that we iron out these details soon.
+       Let's start by phasing out the old clause about mandatory in-office days.
+       It's not fitting our current model.
+Anna:  I agree.
+       We should also lay down some guidelines for communication during remote work.
+       Making sure that everyone is on the same page will help streamline our operations.
+Brian: Definitely.
+       On another note,
+       we need to touch base on the employee feedback regarding annual leave.
+       Some people feel like the process to apply is a bit inefficient.
+Anna:  That's a good point.
+       Perhaps we can simplify it by cutting down unnecessary steps.
+       Making it easy to apply should encourage more people
+       to take the time off they need without feeling bogged down.
+Brian: Right. And while we're at it,
+       let's wrap up the section on professional development.
+       We should encourage staff to branch out in their skills
+       without making it sound too daunting.
+Anna:  Great idea, Brian.
+       Encouraging growth is key.
+       How about we put together a draft of these changes
+       and run it by the team leads before we roll it out company-wide?
+Brian: Sounds like a plan.
+       I'll draft up the changes
+       and set up a meeting with the team leads next week.
+       We can iron out any kinks, then get everyone's buy-in.
+Anna:  Perfect, Brian.
+       Thanks for helping to make these policies clearer.
+       It's important that they reflect our company's values
+       and current work environment.
+Brian: My pleasure, Anna.
+       Let's make sure these policies do just that. 
+```
 
 ---
 
