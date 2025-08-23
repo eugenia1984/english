@@ -120,6 +120,8 @@ Linda: Thanks, Jake. I appreciate your input.
 
 - **To lead to something**:  means to cause something or make it likely to happen. For example: `Poor planning can lead to project delays`. –> This means bad planning might cause delays.
 
+- **To overlook**: means to fail to notice or pay attention to something. For example: `He overlooked a small error in the report`. –> This means he didn't see or realize the mistake was there.
+  
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
