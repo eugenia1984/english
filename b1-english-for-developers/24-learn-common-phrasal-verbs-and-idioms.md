@@ -56,6 +56,8 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To touch base on something**: means to make contact or have a brief discussion about a topic. For example: `We should touch base on the client's feedback before the meeting`. –> This means having a short talk about what the client said.
 
+- **To take time off**: means to stop working for a period of time, usually for rest, vacation, or personal reasons. For example: `I'm taking time off next week to visit my family.` –> This means the person will not work next week and will spend time with their family instead.
+
 ### Prefix -un
 
 The prefix un- is added to adjectives **to create the opposite meaning**. 
