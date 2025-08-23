@@ -58,6 +58,8 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To take time off**: means to stop working for a period of time, usually for rest, vacation, or personal reasons. For example: `I'm taking time off next week to visit my family.` –> This means the person will not work next week and will spend time with their family instead.
 
+- **To branch out in something**: means to try new activities or develop new skills that are different from what you normally do. For example: `She's branching out in her role by learning about project management`. –> This means she is expanding her abilities beyond her usual job tasks.
+
 ### Prefix -un
 
 The prefix un- is added to adjectives **to create the opposite meaning**. 
