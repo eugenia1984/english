@@ -48,6 +48,8 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To iron out**: means to solve or settle small problems or differences, especially through discussion or careful planning. For example: `We need to iron out the final issues before launching the website`. –> This means the team needs to fix the last few problems before the website goes live.
 
+- **To fit**: means to match or be suitable for a situation, system, or structure. For example: `That idea isn't fitting our new approach to team management`. –> This means the idea doesn't work well with the way the team now operates.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
