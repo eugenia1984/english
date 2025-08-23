@@ -62,6 +62,10 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To put something together**: means to create or organize something by combining different parts. For example: `We need to put together a presentation for the client`. –> This means preparing a full presentation by organizing slides, ideas, and information.
 
+- **To draft something up**: means to create an initial version of a document, plan, or proposal. For example: `She drafted up a new schedule for the support team`. –> This means she created a first version of the schedule that can be discussed or edited.
+
+
+
 ### Prefix -un
 
 The prefix un- is added to adjectives **to create the opposite meaning**. 
