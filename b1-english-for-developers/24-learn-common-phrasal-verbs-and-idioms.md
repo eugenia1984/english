@@ -52,6 +52,10 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To be on the same page**: means that people share the same understanding or agreement about something. For example: `Let's meet before the presentation to make sure we're on the same page`. –> This means making sure everyone understands the topic the same way before presenting.
 
+- **On another note**: is used to introduce a new topic in a conversation. For example: `On another note, have you seen the new project updates?` –> This means the speaker is changing the subject.
+
+- **To touch base on something**: means to make contact or have a brief discussion about a topic. For example: `We should touch base on the client's feedback before the meeting`. –> This means having a short talk about what the client said.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
