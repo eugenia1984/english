@@ -1071,6 +1071,8 @@ Though is often used at the end of a sentence to add emphasis or to show a contr
   
 - **unconventional**: is used to describe something that's not based on or conforming to what is generally done or believed. It often implies a method or approach that is different from the norm.
 
+- **unforeseen expenses**: are unexpected costs that come up during a project. These can include emergency repairs, last-minute changes, or additional tools. For example: `unforeseen expenses caused the budget to go over`. —> Unexpected costs made the team spend more money than planned.
+  
 - **unlock**: means to open a lock, allowing access. In some places, when a door is unlocked, it might make a click sound as an indicator.
 
 - **update**: is new information or the latest news about something. When you update someone, you are giving them the most recent information. The phrase` updates on project progress` means giving new information about the present projects.
