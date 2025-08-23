@@ -163,5 +163,6 @@ Sophie: Great. I'll make sure to set that up.
 
 - **To host**: means to arrange and lead an event, meeting, or activity. For example: `Our team will host the next client presentation on Monday`. –> This means the team will organize and present the session.
 
+- **To clash**: means to happen at the same time as something else, making it difficult to do both. For example: `My dentist appointment clashed with our team meeting`. –> This means the person had two events at the same time and couldn't attend both.
  
 ---
