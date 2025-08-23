@@ -56,6 +56,14 @@ Idiomatic expressions are phrases whose meanings are different from the literal 
 
 - **To touch base on something**: means to make contact or have a brief discussion about a topic. For example: `We should touch base on the client's feedback before the meeting`. –> This means having a short talk about what the client said.
 
+### Prefix -un
+
+The prefix un- is added to adjectives **to create the opposite meaning**. 
+
+In `unnecessary`, the base word is `necessary (meaning needed), and un- makes it mean "not needed". 
+
+Another example: `It was an unfair decision`. – `Unfair` is the opposite of `fair, meaning not just or not equal.
+
 ---
 
 ##  <img width="28" height="28" src="https://img.icons8.com/emoji/28/united-kingdom-emoji.png" alt="united-kingdom-emoji"/>
